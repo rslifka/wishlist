@@ -48,12 +48,12 @@
       barrels: [Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Smallbore]
       magazines: [Ricochet Rounds, Flared Magwell, Light Mag]
       perks1: [Feeding Frenzy]
-      perks2: [Swashbuckler]
+      perks2: [Swashbuckler, Multikill Clip]
       masterworks: []
     -
       name: PvE - "Baseline"
       barrels: []
       magazines: []
       perks1: [Feeding Frenzy]
-      perks2: [Swashbuckler]
+      perks2: [Swashbuckler, Multikill Clip]
       masterworks: []
