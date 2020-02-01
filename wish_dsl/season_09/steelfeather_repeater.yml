@@ -49,7 +49,7 @@
       magazines: [Ricochet Rounds, Flared Magwell, Light Mag]
       perks1: [Feeding Frenzy]
       perks2: [Swashbuckler, Multikill Clip]
-      masterworks: []
+      masterworks: [Stability MW]
     -
       name: PvE - "Baseline"
       barrels: []
