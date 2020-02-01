@@ -1,4 +1,4 @@
-This file was auto-generated at ` 1 Feb 2020 07:11:59`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
+This file was auto-generated at ` 1 Feb 2020 18:32:59`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
 
 These rolls are applied in order for each weapon, so the ordering is important. This means the better rolls will match first, in much the same you would decide on a roll yourself. E.g. Steelfeather PvE rolls at the top of the list are `Feeding Frenzy + Swashbuckler + lots of other cool stuff` and the last on the list requires only `Feeding Frenzy + Swashbuckler` because if all else fails, those are the two perks you'll need; otherwise it's just cool-looking random kinetic Auto Rifle :)
 
@@ -64,8 +64,8 @@ We're looking for ways to keep increased DPS for longer, with Osmosis thrown in 
 
 | Roll | Description |
 | :--- | :---        |
-| **PvE - "Picky"** | (Chambered Compensator `or` Corkscrew Rifling `or` Fluted Barrel `or` Polygonal Rifling `or` Smallbore) `and` (Ricochet Rounds `or` Flared Magwell `or` Light Mag) `and` (Feeding Frenzy) `and` (Swashbuckler) `and` (Any Masterwork) |
-| **PvE - "Baseline"** | (Any barrel) `and` (Any magazine) `and` (Feeding Frenzy) `and` (Swashbuckler) `and` (Any Masterwork) |
+| **PvE - "Picky"** | (Chambered Compensator `or` Corkscrew Rifling `or` Fluted Barrel `or` Polygonal Rifling `or` Smallbore) `and` (Ricochet Rounds `or` Flared Magwell `or` Light Mag) `and` (Feeding Frenzy) `and` (Swashbuckler `or` Multikill Clip) `and` (Stability MW) |
+| **PvE - "Baseline"** | (Any barrel) `and` (Any magazine) `and` (Feeding Frenzy) `and` (Swashbuckler `or` Multikill Clip) `and` (Any Masterwork) |
 ## Gallant Charge (PvP)
 Fallout has an interesting, [pro-Stability take](https://www.youtube.com/watch?v=pVVLwg1pVs4) on the Gallant. "This might be THE fusion rifle for controller players". It's bolt grouping isn't as tight, but you can get Recoil to 100 (with a Counterbalance mod). Go for Stability! With respect to the magazine, I prefer the unaltered charge time.
 
