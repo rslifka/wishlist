@@ -87,7 +87,7 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 
 ---
 # Chroma Rush
-*For all possible perks, check out **Chroma Rush** over on [light.gg](https://www.light.gg/db/items/1119734784/chroma-rush/)*
+*For all possible perks, check out **Chroma Rush** over on [d2gunsmith.com](https://d2gunsmith.com/w/1119734784)*
 
 Chroma Rush is one of the many beautiful new weapons available in S14. It's a 720 RPM Rapid-Fire Frame Auto Rifle; the only available in the game apart from Arctic Haze. See how they compare [over on light.gg](https://www.light.gg/db/items/compare/?h=BCvcwA;BP3N0;). Artic Haze suffered from a punishing base recoil and a lack of stability and damage-dealing perks whereas Chroma has both of those in spades.
 ### Chroma Rush / PvP / Overview
@@ -114,6 +114,7 @@ With `Heating Up` and `Kill Clip` going, Chroma Rush feels like a longer-range [
 | 🔥🔥🔥 CE (+barrels) | 0.18% | 549 |
 | 🔥🔥🔥 CE (+magazines) | 0.13% | 756 |
 | 🔥🔥🔥 CE (-masterworks) | 0.18% | 567 |
+| 🔥🔥 (+barrels, +magazines) | 0.55% | 183 |
 | 🔥🔥 (+barrels, -masterworks) | 0.73% | 137 |
 | 🔥🔥 (+magazines, -masterworks) | 0.53% | 189 |
 | 🔥🔥 (+barrels, +magazines, -masterworks) | 2.18% | 45 |
@@ -135,6 +136,7 @@ This is similar to the above roll, swapping out `Heating Up` in exchange for `Tu
 | 🎨🎨🎨 CE (+barrels) | 0.18% | 549 |
 | 🎨🎨🎨 CE (+magazines) | 0.13% | 756 |
 | 🎨🎨🎨 CE (-masterworks) | 0.18% | 567 |
+| 🎨🎨 (+barrels, +magazines) | 0.55% | 183 |
 | 🎨🎨 (+barrels, -masterworks) | 0.73% | 137 |
 | 🎨🎨 (+magazines, -masterworks) | 0.53% | 189 |
 | 🎨🎨 (+barrels, +magazines, -masterworks) | 2.18% | 45 |
@@ -160,6 +162,7 @@ Both `Subsistence` and `Rampage` form the core of this roll.
 | 🍊🍊🍊 CE (+barrels) | 0.17% | 604 |
 | 🍊🍊🍊 CE (+magazines) | 0.13% | 756 |
 | 🍊🍊🍊 CE (-masterworks) | 0.18% | 567 |
+| 🍊🍊 (+barrels, +magazines) | 0.50% | 201 |
 | 🍊🍊 (+barrels, -masterworks) | 0.66% | 151 |
 | 🍊🍊 (+magazines, -masterworks) | 0.53% | 189 |
 | 🍊🍊 (+barrels, +magazines, -masterworks) | 1.98% | 50 |
@@ -181,13 +184,14 @@ Same as the roll above, centered around `Feeding Frenzy` and `Kill Clip`.
 | 🖼🖼🖼 CE (+barrels) | 0.17% | 604 |
 | 🖼🖼🖼 CE (+magazines) | 0.13% | 756 |
 | 🖼🖼🖼 CE (-masterworks) | 0.18% | 567 |
+| 🖼🖼 (+barrels, +magazines) | 0.50% | 201 |
 | 🖼🖼 (+barrels, -masterworks) | 0.66% | 151 |
 | 🖼🖼 (+magazines, -masterworks) | 0.53% | 189 |
 | 🖼🖼 (+barrels, +magazines, -masterworks) | 1.98% | 50 |
 | 🖼 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
 
 # Black Scorpion-4sr
-*For all possible perks, check out **Black Scorpion-4sr** over on [light.gg](https://www.light.gg/db/items/525750263/black-scorpion-4sr/)*
+*For all possible perks, check out **Black Scorpion-4sr** over on [d2gunsmith.com](https://d2gunsmith.com/w/525750263)*
 
 No general overview as only PvP rolls featured for this one!
 ### Black Scorpion-4sr / PvP / Overview
@@ -724,7 +728,7 @@ We're going for sustained DPS and maximum range. Stability is already high enoug
   MWorks  [100%]: *
   ```
 # Cold Front
-*For all possible perks, check out **Cold Front** over on [light.gg](https://www.light.gg/db/items/1506719573/cold-front/)*
+*For all possible perks, check out **Cold Front** over on [d2gunsmith.com](https://d2gunsmith.com/w/1506719573)*
 
 Cold Front is a 750 RPM Aggressive Frame ("High damage, high recoil") Kinetic Submachine Gun, first introduced long ago during the Season 9 Dawning event. It's back once again with a whole new set of perks from Year 4. If you want to see the old perks, here's a still from [Aztec's review](https://youtu.be/ZK1JPaCASnQ?t=166) in 2019.
 
@@ -921,7 +925,7 @@ We'll take any combination of a handful of perks in the final columns for a supe
 | ☃️☃️📦 (-barrels, -magazines, -masterworks) | 20.00% | 5 |
 
 # Dire Promise
-*For all possible perks, check out **Dire Promise** over on [light.gg](https://www.light.gg/db/items/2742838701/dire-promise/)*
+*For all possible perks, check out **Dire Promise** over on [d2gunsmith.com](https://d2gunsmith.com/w/2742838701)*
 
 The Dire Promise is a 140 RPM Hand Cannon that was re-issued all the way back in Season 10 and much has changed. Sunsetting was introduced and then rolled back, 150 RPM HCs were collapsed into the 140 RPM frames and 110 RPMs were upgraded to 120 RPM, turning them into absolute PvP monsters. 140s are middle- of-the-pack but still pack a decent punch.
 ### Dire Promise / PvP / Overview
@@ -975,7 +979,7 @@ Relying on old reliable perk pairings, this will do work for you in low to mid t
 | 🤝 (-barrels, -magazines, -masterworks) | 8.00% | 12 |
 
 # Glacioclasm
-*For all possible perks, check out **Glacioclasm** over on [light.gg](https://www.light.gg/db/items/1030895163/glacioclasm/)*
+*For all possible perks, check out **Glacioclasm** over on [d2gunsmith.com](https://d2gunsmith.com/w/1030895163)*
 
 The Glacioclasm is a High-Impact Frame Fusion Rifle released for the first time in The Dawning, 2020 (Y4 S12). Implicit in the High-Impact frames are that you gain accuracy while crouched: "more accurate when stationary and aiming down sights".
 
@@ -1548,7 +1552,7 @@ If that's off the table, then classic combos will carry the day here - reload pe
   MWorks  [100%]: *
   ```
 # Hawkmoon
-*For all possible perks, check out **Hawkmoon** over on [light.gg](https://www.light.gg/db/items/3856705927/hawkmoon/)*
+*For all possible perks, check out **Hawkmoon** over on [d2gunsmith.com](https://d2gunsmith.com/w/3856705927)*
 
 Hawkmoon is a 140 RPM Exotic Hand Cannon, re-issued from Destiny 1 featuring random rolls! The base stats are terrific and it's hard to argue that any single roll is "bad" per se, but there are certainly some rolls that are more desireable than others from a min/max'ers perspective.
 
@@ -1644,7 +1648,7 @@ Pretty straightforward set of suggestions here. Avoid Moving Target because you 
 | 💣💣💣 CE (+barrels) | 5.93% | 16 |
 
 ## Honor's Edge - PvE
-*For all possible perks, check out **Honor's Edge** over on [light.gg](https://www.light.gg/db/items/2857348871/honors-edge/)*
+*For all possible perks, check out **Honor's Edge** over on [light.gg]()*
 
 
 Honor's Edge (HE) is available in the World Drops loot pool in Season 11, originally being re-issued back in Season 10. The main difference between HE and SS14 is that HE can roll with `Surrounded` and `Flash Counter`, two both amazing perks.
@@ -2298,7 +2302,7 @@ It's one of the small number of Power weapons in the World Drop loot pool. You'r
   MWorks  [100%]: *
   ```
 # Shadow Price
-*For all possible perks, check out **Shadow Price** over on [light.gg](https://www.light.gg/db/items/2633186522/shadow-price/)*
+*For all possible perks, check out **Shadow Price** over on [d2gunsmith.com](https://d2gunsmith.com/w/2633186522)*
 
 Shadow Price is a 450 RPM Precision Frame, Arc Energy Auto Rifle, offered as a Nightfall-exclusive reward beginning in Season 13. It's the only 450 RPM Auto Rifle dropping apart from the Kinetic Seventh Seraph Carbine; [compare them](https://www.light.gg/db/items/compare/?h=Cc8zza;BdCxNP) over on light.gg. Shadow Price has by far the better perk pool (One for All, Surplus, Feeding Frenzy...) whereas the Carbine can create Warmind Cells, which alone is a reason to use it.
 ### Shadow Price / PvP / Overview
@@ -2435,7 +2439,7 @@ Same as the above, except we'll take any perks in the third column.
 | 🌃🌃 (-magazines, -masterworks) | 3.70% | 27 |
 
 # Stars in Shadow
-*For all possible perks, check out **Stars in Shadow** over on [light.gg](https://www.light.gg/db/items/2050789284/stars-in-shadow/)*
+*For all possible perks, check out **Stars in Shadow** over on [d2gunsmith.com](https://d2gunsmith.com/w/2050789284)*
 
 Stars in Shadow is a 340 RPM "High-Impact Frame" Energy Pulse Rifle introduced in Destiny 2 Year 4 (Beyond Light). See [how it compares](https://www.light.gg/db/items/compare/?h=B6PI-k;BIfK-Z;BFN60K;) to the existing High-Impacts that lit up in Season 11. It's a Crucible drop and if you're an avid PvP player, you'll be swimming in these rolls in no time. It's a solid Pulse Rifle with good base stats, a clean sight and a great feel. I'm sure you'll see more coverage in the coming weeks as people settle in to Beyond Light and Season 12.
 
@@ -2650,7 +2654,7 @@ Note that swords only have one possible Masterwork (Impact) hence the appearance
   MWorks  [100%]: *
   ```
 # The Number
-*For all possible perks, check out **The Number** over on [light.gg](https://www.light.gg/db/items/2492081469/the-number/)*
+*For all possible perks, check out **The Number** over on [d2gunsmith.com](https://d2gunsmith.com/w/2492081469)*
 
 The Number is a 450 RPM Precision Frame, Arc Energy Auto Rifle, offered as a random roll beginning in Season 14. It initially appeared years ago in the "Faction Rallies" events as part of the Future War Cult weapon pool. It [compares closely](https://www.light.gg/db/items/compare/?h=CUiiU9;Cc8zza;) to the Shadow Price, a Nightfall-only reward offerd in Season 13.
 ### The Number / PvP / Overview
@@ -2693,6 +2697,7 @@ Classic combo here. `Surplus` and `Wellspring` were introduced in the same seaso
 | ♻️♻️♻️ CE (+barrels) | 0.17% | 592 |
 | ♻️♻️♻️ CE (+magazines) | 0.14% | 725 |
 | ♻️♻️♻️ CE (-masterworks) | 0.15% | 648 |
+| ♻️♻️ (+barrels, +magazines) | 0.60% | 165 |
 | ♻️♻️ (+barrels, -masterworks) | 0.68% | 148 |
 | ♻️♻️ (+magazines, -masterworks) | 0.55% | 181 |
 | ♻️♻️ (+barrels, +magazines, -masterworks) | 2.41% | 41 |
@@ -2715,6 +2720,7 @@ PvE tends to be quite ability-heavy so `Surplus` might not be up that often but 
 | 🙋🙋🙋 CE (+barrels) | 0.35% | 288 |
 | 🙋🙋🙋 CE (+magazines) | 0.28% | 362 |
 | 🙋🙋🙋 CE (-masterworks) | 0.31% | 324 |
+| 🙋🙋 (+barrels, +magazines) | 1.24% | 80 |
 | 🙋🙋 (+barrels, -masterworks) | 1.39% | 72 |
 | 🙋🙋 (+magazines, -masterworks) | 1.10% | 90 |
 | 🙋🙋 (+barrels, +magazines, -masterworks) | 4.96% | 20 |
@@ -3799,7 +3805,7 @@ The main difference is that the perks on Orewing's are in different columns, so 
   MWorks  [100%]: *
   ```
 # The Steady Hand
-*For all possible perks, check out **The Steady Hand** over on [light.gg](https://www.light.gg/db/items/2220884262/the-steady-hand/)*
+*For all possible perks, check out **The Steady Hand** over on [d2gunsmith.com](https://d2gunsmith.com/w/2220884262)*
 
 The Steady Hand (TSH) is a 120 RPM "Aggressive Frame" Kinetic Hand Cannon, re-issued in Year 4 with random rolls. Prior to Season 12 in November 2020, Aggressive Frames were bumped from 110 RPM to 120 RPM as part of a [large scale Hand Cannon rework](https://www.bungie.net/en/News/Article/49676). The general consensus thus far is that TSH is terrific.
 
@@ -4233,7 +4239,7 @@ As mentioned in the PvP summary, Talons is still rocking that Season 4 perk pool
   MWorks  [100%]: *
   ```
 # The Forward Path
-*For all possible perks, check out **The Forward Path** over on [light.gg](https://www.light.gg/db/items/1690783811/the-forward-path/)*
+*For all possible perks, check out **The Forward Path** over on [d2gunsmith.com](https://d2gunsmith.com/w/1690783811)*
 
 The Forward Path is a 600 RPM (Adaptive Frame) Kinetic Auto Rifle, brought back to us in Season 11 Iron Banner. It was in the first batch of IB weapons that featured the new Iron Gaze and Iron Grip perks. 
 ### The Forward Path / PvP / Overview
@@ -4369,7 +4375,7 @@ While Feeding Frenzy was slightly nerfed, it's still a terrific perk, activating
 | 😡 (-barrels, -magazines, -masterworks) | 5.56% | 18 |
 
 # Heritage
-*For all possible perks, check out **Heritage** over on [light.gg](https://www.light.gg/db/items/4248569242/heritage/)*
+*For all possible perks, check out **Heritage** over on [d2gunsmith.com](https://d2gunsmith.com/w/4248569242)*
 
 Heritage is a kinetic "precision frame" (slug) shotgun that can drop from the 2nd and 3rd encounters of the Deep Stone Crypt raid.  After the initial drop, you have a chance of getting additional rolls from the raid's secret chests.
 As of Season 12, it is the only legendary kinetic slug shotgun that is viable in leveled content.
@@ -4422,7 +4428,7 @@ All Range and all damage.
 | 🎢️ (-barrels, -magazines, -masterworks) | 2.78% | 36 |
 
 # Code Duello
-*For all possible perks, check out **Code Duello** over on [light.gg](https://www.light.gg/db/items/2496242052/code-duello/)*
+*For all possible perks, check out **Code Duello** over on [d2gunsmith.com](https://d2gunsmith.com/w/2496242052)*
 
 Code Duello is the Season 13 Rocket Launcher. You can pick it up from chests in the Battlegrounds playlists and Umbral Engrams. It features a handful of the new S13 perks including `Impulse Amplifier`, `Frenzy` and `Lasting Impression`. Ehroar put together a [solid video review](https://www.youtube.com/watch?v=mcgBIemy83E) comparing them and offering some suggestions for interesting rolls. You're going to be drowning in these by the end of Season 13 and with the new damage perks, these are worth picking up!
 
@@ -4524,7 +4530,7 @@ This is your standard "stand behind cover / in a well and chuck rockets at the b
 | 🚩🚩 CE (-perks1, -masterworks) | 10.67% | 9 |
 
 # Extraordinary Rendition
-*For all possible perks, check out **Extraordinary Rendition** over on [light.gg](https://www.light.gg/db/items/1097616550/extraordinary-rendition/)*
+*For all possible perks, check out **Extraordinary Rendition** over on [d2gunsmith.com](https://d2gunsmith.com/w/1097616550)*
 
 Extraordinary Rendition is a 750 RPM Kinetic Submachine Gun; part of the S13 weapon set. Both perks and stats are [virtually identical](https://www.light.gg/db/items/compare/?h=BBbEym;BZzrdV) to the Cold Front, available only during the 2020 Dawning, so we'll be able to rely on the work we did there for these rolls 🎉🎉🎉 Ehroar covers the [Extraordinary Rendition](https://www.youtube.com/watch?v=SplO6sE1Nxg) in depth.
 ### Extraordinary Rendition / PvP/PvE / Overview
@@ -4642,7 +4648,7 @@ Similar to the above but we'll take some extended perks that make this a fun go-
 | 🆗🆗 (-barrels, -magazines, -masterworks) | 16.67% | 6 |
 
 # Imperial Needle
-*For all possible perks, check out **Imperial Needle** over on [light.gg](https://www.light.gg/db/items/3460122497/imperial-needle/)*
+*For all possible perks, check out **Imperial Needle** over on [d2gunsmith.com](https://d2gunsmith.com/w/3460122497)*
 
 The Needle is a Lightweight Frame, Void Bow, part of the S13 family of seasonal weapons. It can roll with many of the new perks including `Frenzy` and `Impulse Amplifier`. It's otherwise [quite similar](https://www.light.gg/db/items/compare/?h=DOPUeB;Moe3e) to the Whispering Slab in terms of base stats.
 
@@ -6375,7 +6381,7 @@ Fortunately the perk set is very small and chances are you'll get the roll you'r
   MWorks  [100%]: *
   ```
 # Whispering Slab
-*For all possible perks, check out **Whispering Slab** over on [light.gg](https://www.light.gg/db/items/211938782/whispering-slab/)*
+*For all possible perks, check out **Whispering Slab** over on [d2gunsmith.com](https://d2gunsmith.com/w/211938782)*
 
 **🌟💥🎉 BOW HYPE TIME 🌟💥🎉 BOW HYPE TIME 🌟💥🎉 BOW HYPE TIME 🌟💥🎉**
 
@@ -7180,7 +7186,7 @@ Otherwise we're shooing for higher Stability
   MWorks  [100%]: *
   ```
 # Seventh Seraph SI-2
-*For all possible perks, check out **Seventh Seraph SI-2** over on [light.gg](https://www.light.gg/db/items/3937866388/seventh-seraph-si-2/)*
+*For all possible perks, check out **Seventh Seraph SI-2** over on [d2gunsmith.com](https://d2gunsmith.com/w/3937866388)*
 
 The SI-2 is the 2020 version of the Anonymous Autumn (Kyt: *"which is the best-in-class for lightweight sidearms"*) and is the only other randomly rolled 360 RPM Energy sidearm. Mercules is on the same page: *"It (SI-2) doesn't have great Stability or great Range. I would pick a well-rolled Anonymous Autumn over this every time."* Why do they say that? It's got basically the same stats as an Anonymous Autumn but has 33% less Range and 20% less Stability. On the plus side the SI-2 has 7% better Handling (64 > 69) 🙃
 ### Seventh Seraph SI-2 / PvP / Overview
