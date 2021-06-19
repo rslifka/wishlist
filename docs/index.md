@@ -13,7 +13,7 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 * [Chroma Rush](#chroma-rush) ([PvP](#chroma-rush--pvp--Overview), [PvE](#chroma-rush--pve--Overview))
 
 **World Drops**
-* Black Scorpion-4sr ([PvP](#black-scorpion-4sr---pvp))
+* [Black Scorpion-4sr](#black-scorpion-4sr) ([PvP](#black-scorpion-4sr--pvp--Overview))
 * BrayTech Werewolf ([PvP](#braytech-werewolf---pvp), [PvE](#braytech-werewolf---pve))
 * Bygones ([PvP](#bygones---pvp), [PvE](#bygones---pve))
 * [Cold Front](#cold-front) ([PvP/PvE Double Duty](#cold-front--pvppve-double-duty--Overview), [PvP](#cold-front--pvp--Overview), [PvE](#cold-front--pve--Overview))
@@ -186,10 +186,11 @@ Same as the roll above, centered around `Feeding Frenzy` and `Kill Clip`.
 | 🖼🖼 (+barrels, +magazines, -masterworks) | 1.98% | 50 |
 | 🖼 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
 
-## Black Scorpion-4sr - PvP
+# Black Scorpion-4sr
 *For all possible perks, check out **Black Scorpion-4sr** over on [light.gg](https://www.light.gg/db/items/525750263/black-scorpion-4sr/)*
 
-
+No general overview as only PvP rolls featured for this one!
+### Black Scorpion-4sr / PvP / Overview
 [CoolGuy's review (8/2019)](https://www.youtube.com/watch?v=lFQt0MDS9JY) is great source of info for the Black Scorpion, as well as the Massive  Breakdown Podcast [Ep. 148](https://soundcloud.com/destinymassivebreakdowns/episode-148-bygones-last-perdition-and-black-scorpion-4sr-breakdowns). There are seven perks in the final two columns (versus the usual four to six) and during Season 9, this weapon does not benefit from the Rank 92 extra-final-column-perk bonus. That means these rolls are going to be super challenging to get, so we're going to relax a few constraints along the way.
 * Recoil is `60`, so using a Counterbalance mod to make it vertical is a slam dunk. Check out CoolGuy's video for a [before/after](https://www.youtube.com/watch?v=lFQt0MDS9JY&t=400).
 * All these rolls will recommend Rampage in the final column because "Rampage x 1 will kill with four crits in 0.7s."
@@ -198,168 +199,48 @@ Same as the roll above, centered around `Feeding Frenzy` and `Kill Clip`.
 * No Outlaw? NOPE. The reload is already plenty fast and there's no DPS perk to play off of in column three. It's not bad, it's just not make-or-break.
 
 Check out [ZkMushroom](https://www.youtube.com/watch?v=tdnJWuiUF2k) and [nKuch](https://www.youtube.com/watch?v=Vc87SDsCrIQ) to see the Black Scorpion in action. I was surprised to hear how much Mercules904 digs the Black Scorpion (it's the weapon he used to get Randy's).
-* **(PvP) Mercules Collector's Edition 💪⭐️ - 0.1% chance**: Let's call this the "Mercules" roll, since listening to the podcast linked above informed its creation. All Stability, all day, with better Aim Assistance and mobility from `Moving Target`. Because of the quantity of perks in the final two columns, your chance of this roll is... slim.
-
-  ```
+### Black Scorpion-4sr / PvP / Roll / **"Mercules Collector's Edition"**
+Let's call this the "Mercules" roll, since listening to the podcast linked above informed its creation. All Stability, all day, with better Aim Assistance and mobility from `Moving Target`. Because of the quantity of perks in the final two columns, your chance of this roll is... slim.
+```
   Barrels [ 22%]: Chambered Compensator
   Mags    [ 25%]: Steady Rounds
   Perks 1 [ 28%]: Moving Target, Zen Moment
   Perks 2 [ 14%]: Rampage
   MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) Mercules CE 💪⭐️(Minus Masterwork) - 0.2% chance**: We get Stability from our Barrel, Magazine and optionally Zen Moment; can afford to lose out on Stability MW.
+```
 
-  ```
-  Barrels [ 22%]: Chambered Compensator
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 28%]: Moving Target, Zen Moment
-  Perks 2 [ 14%]: Rampage
-  MWorks  [100%]: *
-  ```
-* **(PvP) Mercules CE 💪⭐️(Minus Rampage) - 0.1% chance**: The surrounding perks are so good that we'd take a roll without Rampage!
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 💪💪💪🌟 Collector's Edition | 0.06% | 1764 |
+| 💪💪💪 CE (+barrels) | 0.21% | 470 |
+| 💪💪💪 CE (+magazines) | 0.15% | 686 |
+| 💪💪💪 CE (-masterworks) | 0.23% | 441 |
+| 💪💪 (+barrels, -masterworks) | 0.85% | 117 |
+| 💪💪 (+magazines, -masterworks) | 0.58% | 171 |
+| 💪💪 (+barrels, +magazines, -masterworks) | 2.19% | 45 |
+| 💪 (-barrels, -magazines, -masterworks) | 4.08% | 24 |
 
-  ```
+### Black Scorpion-4sr / PvP / Roll / **"Mercules Collector's Edition (Minus Rampage)"**
+Same as the above, swappin in some non-Rampage options.
+```
   Barrels [ 22%]: Chambered Compensator
   Mags    [ 25%]: Steady Rounds
   Perks 1 [ 28%]: Moving Target, Zen Moment
   Perks 2 [ 28%]: Opening Shot, Snapshot
   MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) Mercules CE 💪⭐️(Minus Rampage and Masterwork) - 0.5% chance**: The surrounding perks are so good that we'd take a roll without Rampage!
+```
 
-  ```
-  Barrels [ 22%]: Chambered Compensator
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 28%]: Moving Target, Zen Moment
-  Perks 2 [ 28%]: Opening Shot, Snapshot
-  MWorks  [100%]: *
-  ```
-* **(PvP) Mercules CE 💪⭐️(Stability Baseline) - 0.4% chance**: In spite of not having any fourth column perk or a Stability Masterwork, this thing is still super, super stable.
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 💪💪💪🌟 Collector's Edition | 0.11% | 882 |
+| 💪💪💪 CE (+barrels) | 0.43% | 235 |
+| 💪💪💪 CE (+magazines) | 0.29% | 343 |
+| 💪💪💪 CE (-masterworks) | 0.45% | 220 |
+| 💪💪 (+barrels, -masterworks) | 1.70% | 58 |
+| 💪💪 (+magazines, -masterworks) | 1.17% | 85 |
+| 💪💪 (+barrels, +magazines, -masterworks) | 4.37% | 22 |
+| 💪 (-barrels, -magazines, -masterworks) | 8.16% | 12 |
 
-  ```
-  Barrels [ 22%]: Chambered Compensator
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 28%]: Moving Target, Zen Moment
-  Perks 2 [100%]: *
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) Mercules CE 💪⭐️(Baseline) - 1.6% chance**: In spite of not having any fourth column perk or a Stability Masterwork, this thing is still super, super stable.
-
-  ```
-  Barrels [ 22%]: Chambered Compensator
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 28%]: Moving Target, Zen Moment
-  Perks 2 [100%]: *
-  MWorks  [100%]: *
-  ```
-* **(PvP) Stability-First w/Barrels - 0.2% chance**: Any barrel that bumps Stability would still be an absolutely phenomenal roll here.
-
-  ```
-  Barrels [ 83%]: Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 28%]: Moving Target, Zen Moment
-  Perks 2 [ 14%]: Rampage
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) Stability-First w/Barrels (Minus Masterwork) - 0.9% chance**: Same as the above, minus the Masterwork.
-
-  ```
-  Barrels [ 83%]: Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 28%]: Moving Target, Zen Moment
-  Perks 2 [ 14%]: Rampage
-  MWorks  [100%]: *
-  ```
-* **(PvP) Stability-First w/Barrels (Minus Rampage) - 0.4% chance**: The surrounding perks are so good that we'd take a roll without Rampage!
-
-  ```
-  Barrels [ 83%]: Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 28%]: Moving Target, Zen Moment
-  Perks 2 [ 28%]: Opening Shot, Snapshot
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) Stability-First w/Barrels (Minus Rampage and Masterwork) - 1.7% chance**: The surrounding perks are so good that we'd take a roll without Rampage!
-
-  ```
-  Barrels [ 83%]: Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 28%]: Moving Target, Zen Moment
-  Perks 2 [ 28%]: Opening Shot, Snapshot
-  MWorks  [100%]: *
-  ```
-* **(PvP) Stability-First w/Mags - 0.1% chance**: Any magazine that bumps Stability would still be an absolutely phenomenal roll here.
-
-  ```
-  Barrels [ 22%]: Chambered Compensator
-  Mags    [ 64%]: Tactical Mag, Steady Rounds, Flared Magwell
-  Perks 1 [ 28%]: Moving Target, Zen Moment
-  Perks 2 [ 14%]: Rampage
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) Stability-First w/Mags (Minus Masterwork) - 0.6% chance**: Same as the above, minus the Masterwork.
-
-  ```
-  Barrels [ 22%]: Chambered Compensator
-  Mags    [ 64%]: Tactical Mag, Steady Rounds, Flared Magwell
-  Perks 1 [ 28%]: Moving Target, Zen Moment
-  Perks 2 [ 14%]: Rampage
-  MWorks  [100%]: *
-  ```
-* **(PvP) Stability-First w/Mags (Minus Rampage) - 0.3% chance**: The surrounding perks are so good that we'd take a roll without Rampage!
-
-  ```
-  Barrels [ 22%]: Chambered Compensator
-  Mags    [ 64%]: Tactical Mag, Steady Rounds, Flared Magwell
-  Perks 1 [ 28%]: Moving Target, Zen Moment
-  Perks 2 [ 28%]: Opening Shot, Snapshot
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) Stability-First w/Mags (Minus Rampage and Masterwork) - 1.2% chance**: The surrounding perks are so good that we'd take a roll without Rampage!
-
-  ```
-  Barrels [ 22%]: Chambered Compensator
-  Mags    [ 64%]: Tactical Mag, Steady Rounds, Flared Magwell
-  Perks 1 [ 28%]: Moving Target, Zen Moment
-  Perks 2 [ 28%]: Opening Shot, Snapshot
-  MWorks  [100%]: *
-  ```
-* **(PvP) Stability-First w/Barrels+Mags - 0.5% chance**: Any Barrel or Magazine that bumps Stability.
-
-  ```
-  Barrels [ 83%]: Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore
-  Mags    [ 64%]: Tactical Mag, Steady Rounds, Flared Magwell
-  Perks 1 [ 28%]: Moving Target, Zen Moment
-  Perks 2 [ 14%]: Rampage
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) Stability-First w/Barrels+Mags (Minus Masterwork) - 2.2% chance**: Same as the above, minus the Masterwork.
-
-  ```
-  Barrels [ 83%]: Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore
-  Mags    [ 64%]: Tactical Mag, Steady Rounds, Flared Magwell
-  Perks 1 [ 28%]: Moving Target, Zen Moment
-  Perks 2 [ 14%]: Rampage
-  MWorks  [100%]: *
-  ```
-* **(PvP) Stability-First w/Mags (Minus Rampage) - 1.1% chance**: The surrounding perks are so good that we'd take a roll without Rampage!
-
-  ```
-  Barrels [ 83%]: Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore
-  Mags    [ 64%]: Tactical Mag, Steady Rounds, Flared Magwell
-  Perks 1 [ 28%]: Moving Target, Zen Moment
-  Perks 2 [ 28%]: Opening Shot, Snapshot
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) Stability-First w/Mags (Minus Rampage and Masterwork) - 4.4% chance**: The surrounding perks are so good that we'd take a roll without Rampage!
-
-  ```
-  Barrels [ 83%]: Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore
-  Mags    [ 64%]: Tactical Mag, Steady Rounds, Flared Magwell
-  Perks 1 [ 28%]: Moving Target, Zen Moment
-  Perks 2 [ 28%]: Opening Shot, Snapshot
-  MWorks  [100%]: *
-  ```
 ## BrayTech Werewolf - PvP
 *For all possible perks, check out **BrayTech Werewolf** over on [light.gg](https://www.light.gg/db/items/528834068/braytech-werewolf/)*
 
