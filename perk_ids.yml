@@ -5,6 +5,7 @@ Chambered Compensator: 3661387068
 Confined Launch: 1844523823
 Control SAS: 445755706
 Corkscrew Rifling: 4090651448
+Extended Barrel: 1467527085
 Countermass: 3809316345
 Crossfire HCS: 1926090090
 Enduring Blade: 1261178282
@@ -24,8 +25,10 @@ Linear Compensator: 1441682018
 Polygonal Rifling: 1392496348
 Quick Launch: 3525010810
 Quickdot SAS: 445755707
+Rifled Barrel: 1332244541
 Shortspec SAS: 445755705
 Smallbore: 1482024992
+Smoothbore: 466087222
 Smart Drift Control: 3798852852
 SLO-10 Post: 965619223
 SLO-12 Post: 965619221
@@ -110,22 +113,33 @@ Natural Fletching: 1500996326
 Adrenaline Junkie: 11612903
 Ambitious Assassin: 2010801679
 Archer's Tempo: 201365942
+Archer's Gambit: 3414324643
+Assasin's Blade: 354401740
 Auto-Loading Holster: 3300816228
 Backup Plan: 1600092898
+Bottomless Grief: 4252909580
+Box Breathing: 2551157718
+Celerity: 1264398905
 Chain Reaction: 2396489472
 Clown Cartridge: 2284787283
 Cluster Bomb: 1275731761
+Cornered: 1799762209
 Danger Zone: 960810156
 Demolitionist: 3523296417
+Desperado: 3047969693
 Disruption Break: 1683379515
 Dragonfly: 2848615171
 Dynamic Sway Reduction: 1359896290
 Dual Loader: 25606670
 Elemental Capacitor: 3511092054
-Explosive Rounds: 3038247973
+Energy Transfer: 2030760728
+En Garde: 1685431615
+Explosive Head: 3365897133
+Explosive Payload: 3038247973
 Eye of the Storm: 699525795
 Feeding Frenzy: 2779035018
 Field Prep: 2869569095
+Firefly: 3824105627
 Firing Line: 1771339417
 Firmly Planted: 280464955
 Flash Counter: 2244851822
@@ -136,22 +150,26 @@ Full Auto Trigger System: 4267945040
 Full Court: 2888557110
 Genesis: 3096702027
 Grave Robber: 1631667848
-Heating Up: 1570042021
 Headseeker: 460017080
+Heating Up: 1570042021
 High-Impact Reserves: 2213355989
 Hip-Fire Grip: 1866048759
 Impulse Amplifier: 951095735
 Iron Gaze: 4152709778
 Iron Grip: 11551321
+Iron Reach: 591790007
+Kickstart: 1754714824
 Kill Clip: 1015611457
 Killing Wind: 2450788523
 Lasting Impression: 3927722942
 Lead from Gold: 1556840489
+Liquid Cooling: 1385518514
 Moving Target: 588594999
 Mulligan: 3513791699
 Multikill Clip: 2458213969
 No Distractions: 2866798147
 One for All: 4049631843
+One-Two Punch: 2679249093
 Opening Shot: 47981717
 Osmosis: 1774574192
 Outlaw: 1168162263
@@ -161,14 +179,21 @@ Quickdraw: 706527188
 Rangefinder: 2846385770
 Rampage: 3425386926
 Rapid Hit: 247725512
+Rangefinder: 2846385770
 Recombination: 469285294
 Reconstruction: 1523832109
 Redirection: 3201496230
 Relentless Strikes: 1749209109
+Reservoir Burst: 1427256713
+Rewind Rounds: 3418782618
 Seraph Rounds: 1140096971
+Shattering Blade: 818211479
+Shield Disorient: 3275789089
 Slideshot: 3161816588
 Slideways: 2039302152
 Snapshot: 957782887
+Snapshot Sights: 957782887
+Sneak Bow: 908147344
 Spike Grenades: 3301904089
 Subsistence: 1820235745
 Surplus: 3436462433
@@ -176,12 +201,16 @@ Surrounded: 3708227201
 Swashbuckler: 4082225868
 Sympathetic Arsenal: 3350417888
 Tap the Trigger: 1890422124
+Temporal Unlimiter: 806917387
 Threat Detector: 4071163871
 Thresh: 2726471870
 Timed Payload: 1954620775
+Tireless Blade: 2590710093
+Tracking Module: 3977735242
 Trench Barrel: 2360754333
 Triple Tap: 3400784728
 Tunnel Vision: 2946784966
+Underdog: 205890336
 Under Pressure: 1645158859
 Unrelenting: 3108830275
 Vorpal: 1546637391
