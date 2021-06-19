@@ -1,0 +1,125 @@
+syntax_version: 2
+name: Ignition Code
+item_id: 304659313
+traits:
+  barrels:     {t: 7, c: 2}
+  magazines:   {t: 6, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 5, c: 1}
+overview: >
+  > *The most important weapon to get this season that will be relevant in
+  the PvE meta for some time"* - [Ehroar](https://www.youtube.com/watch?v=pk53lvImHRU)
+
+
+  > *This thing is horrifying. It's going to remind you of The Mountaintop
+  It's like a full-auto GL!* - [Frostbolt](https://youtu.be/jJFV_4Y6p7s)
+
+
+  Well, I'm not sure the world of players will get as much utility out of this
+  in PvP as Frostbolt does, but you will definitely make magic with it inside of
+  PvE. If there's one Splicer weapon you farm for this season, make it the
+  Ignition Code.
+activities:
+  - 
+    name: PvP
+    overview: >
+      There seems to be a new PvP meta emerging / has emerged using GLs to
+      "prime" (i.e. do a material amount of damage to you) and then finish you
+      off with a high-impact/low-RoF primary. It's been the case for a couple
+      of seasons by now, but I'm seeing it more now that Ignition Code is so
+      easy to get.
+    roll_sets:
+      -
+        name: Avalanche
+        overview: >
+          You'll notice that we're looking to lower `Blast Radius` to ensure
+          that we concentrate as much of the damage as possible on to the
+          direct hit (v. splash). `Slideshot` is absolutely brilliant once you
+          get the timing right. Check out some
+          [Frostbolt](https://youtu.be/jJFV_4Y6p7s?t=20)
+          highlights.
+        perks: 
+          base: 
+            barrels: [Hard Launch]
+            magazines: [Spike Grenades]
+            perks1: [Slideshot]
+            perks2: [Thresh]
+            masterworks: [Velocity MW]
+          extensions:
+            barrels: [Hard Launch, Quick Launch, Countermass, Smart Drift Control]
+            masterworks: [Velocity MW, Handling MW, Stability MW, Reload MW]
+        variants:
+          - 🏔🏔🏔🌟 Collector's Edition
+          - 🏔🏔🏔 CE (+barrels)
+          - 🏔🏔🏔 CE (-perks2)
+          - 🏔🏔🏔 CE (+barrels, -perks2)
+          - 🏔🏔🏔 CE (+masterworks)
+          - 🏔🏔🏔 CE (+masterworks, -perks2)
+          - 🏔🏔 (+barrels, +masterworks)
+          - 🏔🏔 (+barrels, +masterworks, -perks2)
+  -
+    name: PvE
+    overview: >
+      Ignition Code is the only obtaininable Kinetic GL in the game that can
+      roll with `Blinding Grenades` which, if you're planning on doing anything
+      remotely resembling challenging PvE content, is a must-have.
+      Ehroar put together a
+      [solid review](https://www.youtube.com/watch?v=pk53lvImHRU)
+      of Ignotion Code in PvE.
+    roll_sets:
+      -
+        name: Add Clear - Ehroar's Pick
+        overview:
+          Combining the new `Danger Zone` perk with `Blinding Grenades` means
+          you're practically blinding an entire room each time you fire it.
+          Absolutely top-tier for challenging PvE content. Without `Slideshot`
+          you're stil looking at a phenomenal Grenade Launcher, so a handful
+          of variants are offered without it.
+        perks:
+          base:
+            barrels: [Volatile Launch]
+            magazines: [Blinding Grenades]
+            perks1: [Slideshot]
+            perks2: [Danger Zone]
+            masterworks: [Blast Radius MW]
+          extensions:
+            barrels: [Volatile Launch, Confined Launch, Linear Compensator]
+        variants:
+          - 🦁🦁🦁🌟 Collector's Edition
+          - 🦁🦁🦁 CE (-masterworks)
+          - 🦁🦁🦁 CE (+barrels)
+          - 🦁🦁🦁 CE (+barrels, -masterworks)
+          - 🦁🦁🦁 (-barrels)
+          - 🦁🦁🦁 (-barrels, -masterworks)
+          - 🦁🦁 (-perks1)
+          - 🦁🦁 (-perks1, -masterworks)
+          - 🦁🦁 (-perks1, +barrels, -masterworks)
+      -
+        name: Single-Target Damage - Ehroar's Pick
+        overview:
+          This roll is centered around the damage bosts from `Spike Grenades`
+          and `Vorpal Weapon`. Again we're looking to minimize Blast Radius and
+          keep the damage focused on the point of contact. Without `Slideshot`
+          you're stil looking at a phenomenal Grenade Launcher, so a handful
+          of variants are offered without it.
+        perks:
+          base:
+            barrels: [Hard Launch]
+            magazines: [Spike Grenades]
+            perks1: [Slideshot]
+            perks2: [Vorpal]
+            masterworks: [Velocity MW]
+          extensions:
+            barrels: [Hard Launch, Quick Launch, Countermass, Smart Drift Control]
+            masterworks: [Velocity MW, Handling MW, Stability MW, Reload MW]
+        variants:
+          - 😈😈😈🌟 Collector's Edition
+          - 😈😈😈 CE (-masterworks)
+          - 😈😈😈 CE (+barrels)
+          - 😈😈😈 CE (+barrels, -masterworks)
+          - 😈😈😈 (-barrels)
+          - 😈😈😈 (-barrels, -masterworks)
+          - 😈😈 (-perks1)
+          - 😈😈 (-perks1, -masterworks)
+          - 😈😈 (-perks1, +barrels, -masterworks)
