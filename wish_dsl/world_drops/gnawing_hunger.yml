@@ -5,7 +5,7 @@ traits:
   barrels:     {t: 9, c: 2}
   magazines:   {t: 8, c: 2}
   perks1:      {t: 5, c: 1}
-  perks2:      {t: 5, c: 2}
+  perks2:      {t: 5, c: 1}
   masterworks: {t: 4, c: 1}
 overview: >
   Gnawing Hunger is a 600 RPM "Adaptive Frame" Energy Auto Rifle first
@@ -133,8 +133,11 @@ activities:
           - 💦💦💦🌟 Collector's Edition
           - 💦💦💦 CE (+barrels)
           - 💦💦💦 CE (-magazines)
+          - 💦💦💦 CE (-masterworks)
+          - 💦💦 (+barrels, -magazines)
+          - 💦💦 (+barrels, -masterworks)
           - 💦💦 (-magazines, -masterworks)
-          - 💦💦 (-barrels, -magazines, -masterworks)
+          - 💦 (-barrels, -magazines, -masterworks)
       -
         name: Ranged Assassin
         overview: >
@@ -150,9 +153,12 @@ activities:
             masterworks: [Range MW]
           extensions:
             barrels: [Hammer-Forged Rifling, Smallbore, Extended Barrel, Corkscrew Rifling]
-            magazines: [Accurized Rounds, Steady Rounds, Flared Magwell, Tactical Mag]
         variants:
           - 👻👻👻🌟 Collector's Edition
           - 👻👻👻 CE (+barrels)
+          - 👻👻👻 CE (-magazines)
           - 👻👻👻 CE (-masterworks)
-          - 👻👻 (-barrels, -masterworks)
+          - 👻👻 (+barrels, -magazines)
+          - 👻👻 (+barrels, -masterworks)
+          - 👻👻 (-magazines, -masterworks)
+          - 👻 (-barrels, -magazines, -masterworks)
