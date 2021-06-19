@@ -1,16 +1,19 @@
+syntax_version: 2
 name: Black Scorpion-4sr
 item_id: 525750263
 lightgg: https://www.light.gg/db/items/525750263/black-scorpion-4sr/
-slots:
+traits:
   barrels:     {t: 9, c: 2}
   magazines:   {t: 8, c: 2}
   perks1:      {t: 7, c: 1}
   perks2:      {t: 7, c: 1}
   masterworks: {t: 4, c: 1}
-groups:
+overview: >
+  No general overview as only PvP rolls featured for this one!
+activities:
   - 
     name: PvP
-    summary: >
+    overview: >
       [CoolGuy's review (8/2019)](https://www.youtube.com/watch?v=lFQt0MDS9JY)
       is great source of info for the Black Scorpion, as well as the Massive 
       Breakdown Podcast [Ep. 148](https://soundcloud.com/destinymassivebreakdowns/episode-148-bygones-last-perdition-and-black-scorpion-4sr-breakdowns).
@@ -47,138 +50,54 @@ groups:
       [nKuch](https://www.youtube.com/watch?v=Vc87SDsCrIQ) to see the Black
       Scorpion in action. I was surprised to hear how much Mercules904 digs the
       Black Scorpion (it's the weapon he used to get Randy's).
-    rolls:
-      - &bsabsurd
-        name: (PvP) Mercules Collector's Edition 💪⭐️
-        desc: >
+    roll_sets:
+      -
+        name: Mercules Collector's Edition
+        overview: >
           Let's call this the "Mercules" roll, since listening
           to the podcast linked above informed its creation. All Stability, all
           day, with better Aim Assistance and mobility from `Moving Target`.
           Because of the quantity of perks in the final two columns, your chance
           of this roll is... slim.
-        barrels: [Chambered Compensator]
-        magazines: [Steady Rounds]
-        perks1: [Moving Target, Zen Moment]
-        perks2: [Rampage]
-        masterworks: [Stability MW]
+        perks: 
+          base: 
+            barrels: [Chambered Compensator]
+            magazines: [Steady Rounds]
+            perks1: [Moving Target, Zen Moment]
+            perks2: [Rampage]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore]
+            magazines: [Tactical Mag, Steady Rounds, Flared Magwell]
+        variants:
+          - 💪💪💪🌟 Collector's Edition
+          - 💪💪💪 CE (+barrels)
+          - 💪💪💪 CE (+magazines)
+          - 💪💪💪 CE (-masterworks)
+          - 💪💪 (+barrels, -masterworks)
+          - 💪💪 (+magazines, -masterworks)
+          - 💪💪 (+barrels, +magazines, -masterworks)
+          - 💪 (-barrels, -magazines, -masterworks)              
       -
-        <<: *bsabsurd
-        name: (PvP) Mercules CE 💪⭐️(Minus Masterwork)
-        desc: >
-          We get Stability from our Barrel, Magazine and optionally Zen Moment;
-          can afford to lose out on Stability MW.
-        masterworks: []
-      -
-        <<: *bsabsurd
-        name: (PvP) Mercules CE 💪⭐️(Minus Rampage)
-        desc: >
-          The surrounding perks are so good that we'd take a roll without
-          Rampage!
-        perks2: [Opening Shot, Snapshot]
-      -
-        <<: *bsabsurd
-        name: (PvP) Mercules CE 💪⭐️(Minus Rampage and Masterwork)
-        desc: >
-          The surrounding perks are so good that we'd take a roll without
-          Rampage!
-        perks2: [Opening Shot, Snapshot]
-        masterworks: []
-      -
-        <<: *bsabsurd
-        name: (PvP) Mercules CE 💪⭐️(Stability Baseline)
-        desc: >
-          In spite of not having any fourth column perk or a Stability
-          Masterwork, this thing is still super, super stable.
-        perks2: []
-      -
-        <<: *bsabsurd
-        name: (PvP) Mercules CE 💪⭐️(Baseline)
-        desc: >
-          In spite of not having any fourth column perk or a Stability
-          Masterwork, this thing is still super, super stable.
-        perks2: []
-        masterworks: []        
-      - &bsstab
-        <<: *bsabsurd
-        name: (PvP) Stability-First w/Barrels
-        desc: >
-          Any barrel that bumps Stability would still be an absolutely
-          phenomenal roll here.
-        barrels: [Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore]
-      - 
-        <<: *bsstab
-        name: (PvP) Stability-First w/Barrels (Minus Masterwork)
-        desc: >
-          Same as the above, minus the Masterwork.
-        masterworks: []
-      -
-        <<: *bsstab
-        name: (PvP) Stability-First w/Barrels (Minus Rampage)
-        desc: >
-          The surrounding perks are so good that we'd take a roll without
-          Rampage!
-        perks2: [Opening Shot, Snapshot]
-      -
-        <<: *bsstab
-        name: (PvP) Stability-First w/Barrels (Minus Rampage and Masterwork)
-        desc: >
-          The surrounding perks are so good that we'd take a roll without
-          Rampage!
-        perks2: [Opening Shot, Snapshot]
-        masterworks: []
-      - &bsmags
-        <<: *bsabsurd
-        name: (PvP) Stability-First w/Mags
-        desc: >
-          Any magazine that bumps Stability would still be an absolutely
-          phenomenal roll here.
-        magazines: [Tactical Mag, Steady Rounds, Flared Magwell]
-      - 
-        <<: *bsmags
-        name: (PvP) Stability-First w/Mags (Minus Masterwork)
-        desc: >
-          Same as the above, minus the Masterwork.
-        masterworks: []
-      -
-        <<: *bsmags
-        name: (PvP) Stability-First w/Mags (Minus Rampage)
-        desc: >
-          The surrounding perks are so good that we'd take a roll without
-          Rampage!
-        perks2: [Opening Shot, Snapshot]
-      -
-        <<: *bsmags
-        name: (PvP) Stability-First w/Mags (Minus Rampage and Masterwork)
-        desc: >
-          The surrounding perks are so good that we'd take a roll without
-          Rampage!
-        perks2: [Opening Shot, Snapshot]
-        masterworks: []
-      - &bsrelaxed
-        <<: *bsabsurd
-        name: (PvP) Stability-First w/Barrels+Mags
-        desc: >
-          Any Barrel or Magazine that bumps Stability.
-        barrels: [Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore]
-        magazines: [Tactical Mag, Steady Rounds, Flared Magwell]
-      - 
-        <<: *bsrelaxed
-        name: (PvP) Stability-First w/Barrels+Mags (Minus Masterwork)
-        desc: >
-          Same as the above, minus the Masterwork.
-        masterworks: []
-      -
-        <<: *bsrelaxed
-        name: (PvP) Stability-First w/Mags (Minus Rampage)
-        desc: >
-          The surrounding perks are so good that we'd take a roll without
-          Rampage!
-        perks2: [Opening Shot, Snapshot]
-      -
-        <<: *bsrelaxed
-        name: (PvP) Stability-First w/Mags (Minus Rampage and Masterwork)
-        desc: >
-          The surrounding perks are so good that we'd take a roll without
-          Rampage!
-        perks2: [Opening Shot, Snapshot]
-        masterworks: []
+        name: Mercules Collector's Edition (Minus Rampage)
+        overview: >
+          Same as the above, swappin in some non-Rampage options.
+        perks: 
+          base: 
+            barrels: [Chambered Compensator]
+            magazines: [Steady Rounds]
+            perks1: [Moving Target, Zen Moment]
+            perks2: [Opening Shot, Snapshot]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore]
+            magazines: [Tactical Mag, Steady Rounds, Flared Magwell]
+        variants:
+          - 💪💪💪🌟 Collector's Edition
+          - 💪💪💪 CE (+barrels)
+          - 💪💪💪 CE (+magazines)
+          - 💪💪💪 CE (-masterworks)
+          - 💪💪 (+barrels, -masterworks)
+          - 💪💪 (+magazines, -masterworks)
+          - 💪💪 (+barrels, +magazines, -masterworks)
+          - 💪 (-barrels, -magazines, -masterworks)              
