@@ -11,6 +11,7 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 
 **Season 14 - Season of the Splicer (May 11 - Aug 24, 2021)**
 * [Chroma Rush](#chroma-rush) ([PvP](#chroma-rush--pvp--Overview), [PvE](#chroma-rush--pve--Overview))
+* [Ignition Code](#ignition-code) ([PvP](#ignition-code--pvp--Overview), [PvE](#ignition-code--pve--Overview))
 
 **World Drops**
 * [Black Scorpion-4sr](#black-scorpion-4sr) ([PvP](#black-scorpion-4sr--pvp--Overview))
@@ -189,6 +190,83 @@ Same as the roll above, centered around `Feeding Frenzy` and `Kill Clip`.
 | 🖼🖼 (+magazines, -masterworks) | 0.53% | 189 |
 | 🖼🖼 (+barrels, +magazines, -masterworks) | 1.98% | 50 |
 | 🖼 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+
+# Ignition Code
+*For all possible perks, check out **Ignition Code** over on [d2gunsmith.com](https://d2gunsmith.com/w/304659313)*
+
+> *The most important weapon to get this season that will be relevant in the PvE meta for some time"* - [Ehroar](https://www.youtube.com/watch?v=pk53lvImHRU)
+
+> *This thing is horrifying. It's going to remind you of The Mountaintop It's like a full-auto GL!* - [Frostbolt](https://youtu.be/jJFV_4Y6p7s)
+
+Well, I'm not sure the world of players will get as much utility out of this in PvP as Frostbolt does, but you will definitely make magic with it inside of PvE. If there's one Splicer weapon you farm for this season, make it the Ignition Code.
+### Ignition Code / PvP / Overview
+There seems to be a new PvP meta emerging / has emerged using GLs to "prime" (i.e. do a material amount of damage to you) and then finish you off with a high-impact/low-RoF primary. It's been the case for a couple of seasons by now, but I'm seeing it more now that Ignition Code is so easy to get.
+### Ignition Code / PvP / Roll / **"Avalanche"**
+You'll notice that we're looking to lower `Blast Radius` to ensure that we concentrate as much of the damage as possible on to the direct hit (v. splash). `Slideshot` is absolutely brilliant once you get the timing right. Check out some [Frostbolt](https://youtu.be/jJFV_4Y6p7s?t=20) highlights.
+```
+  Barrels [ 28%]: Hard Launch
+  Mags    [ 33%]: Spike Grenades
+  Perks 1 [ 16%]: Slideshot
+  Perks 2 [ 16%]: Thresh
+  MWorks  [ 20%]: Velocity MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🏔🏔🏔🌟 Collector's Edition | 0.05% | 1889 |
+| 🏔🏔🏔 CE (+barrels) | 0.16% | 630 |
+| 🏔🏔🏔 CE (-perks2) | 0.32% | 315 |
+| 🏔🏔🏔 CE (+barrels, -perks2) | 0.95% | 105 |
+| 🏔🏔🏔 CE (+masterworks) | 0.21% | 472 |
+| 🏔🏔🏔 CE (+masterworks, -perks2) | 1.27% | 78 |
+| 🏔🏔 (+barrels, +masterworks) | 0.63% | 157 |
+| 🏔🏔 (+barrels, +masterworks, -perks2) | 3.81% | 26 |
+
+### Ignition Code / PvE / Overview
+Ignition Code is the only obtaininable Kinetic GL in the game that can roll with `Blinding Grenades` which, if you're planning on doing anything remotely resembling challenging PvE content, is a must-have. Ehroar put together a [solid review](https://www.youtube.com/watch?v=pk53lvImHRU) of Ignotion Code in PvE.
+### Ignition Code / PvE / Roll / **"Add Clear - Ehroar's Pick"**
+Combining the new `Danger Zone` perk with `Blinding Grenades` means you're practically blinding an entire room each time you fire it. Absolutely top-tier for challenging PvE content. Without `Slideshot` you're stil looking at a phenomenal Grenade Launcher, so a handful of variants are offered without it.
+```
+  Barrels [ 28%]: Volatile Launch
+  Mags    [ 33%]: Blinding Grenades
+  Perks 1 [ 16%]: Slideshot
+  Perks 2 [ 16%]: Danger Zone
+  MWorks  [ 20%]: Blast Radius MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🦁🦁🦁🌟 Collector's Edition | 0.05% | 1889 |
+| 🦁🦁🦁 CE (-masterworks) | 0.26% | 378 |
+| 🦁🦁🦁 CE (+barrels) | 0.13% | 756 |
+| 🦁🦁🦁 CE (+barrels, -masterworks) | 0.66% | 151 |
+| 🦁🦁🦁 (-barrels) | 0.19% | 540 |
+| 🦁🦁🦁 (-barrels, -masterworks) | 0.93% | 108 |
+| 🦁🦁 (-perks1) | 0.32% | 315 |
+| 🦁🦁 (-perks1, -masterworks) | 1.59% | 63 |
+| 🦁🦁 (-perks1, +barrels, -masterworks) | 3.97% | 25 |
+
+### Ignition Code / PvE / Roll / **"Single-Target Damage - Ehroar's Pick"**
+This roll is centered around the damage bosts from `Spike Grenades` and `Vorpal Weapon`. Again we're looking to minimize Blast Radius and keep the damage focused on the point of contact. Without `Slideshot` you're stil looking at a phenomenal Grenade Launcher, so a handful of variants are offered without it.
+```
+  Barrels [ 28%]: Hard Launch
+  Mags    [ 33%]: Spike Grenades
+  Perks 1 [ 16%]: Slideshot
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [ 20%]: Velocity MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 😈😈😈🌟 Collector's Edition | 0.05% | 1889 |
+| 😈😈😈 CE (-masterworks) | 0.26% | 378 |
+| 😈😈😈 CE (+barrels) | 0.16% | 630 |
+| 😈😈😈 CE (+barrels, -masterworks) | 0.79% | 126 |
+| 😈😈😈 (-barrels) | 0.19% | 540 |
+| 😈😈😈 (-barrels, -masterworks) | 0.93% | 108 |
+| 😈😈 (-perks1) | 0.32% | 315 |
+| 😈😈 (-perks1, -masterworks) | 1.59% | 63 |
+| 😈😈 (-perks1, +barrels, -masterworks) | 4.76% | 21 |
 
 # Black Scorpion-4sr
 *For all possible perks, check out **Black Scorpion-4sr** over on [d2gunsmith.com](https://d2gunsmith.com/w/525750263)*
