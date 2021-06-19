@@ -11,6 +11,7 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 
 **Season 14 - Season of the Splicer (May 11 - Aug 24, 2021)**
 * [Chroma Rush](#chroma-rush) ([PvP](#chroma-rush--pvp--Overview), [PvE](#chroma-rush--pve--Overview))
+* [Gridskipper](#gridskipper) ([PvP](#gridskipper--pvp--Overview))
 * [Ignition Code](#ignition-code) ([PvP](#ignition-code--pvp--Overview), [PvE](#ignition-code--pve--Overview))
 
 **World Drops**
@@ -31,6 +32,7 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 * [Shadow Price](#shadow-price) ([PvP](#shadow-price--pvp--Overview), [PvE](#shadow-price--pve--Overview))
 * [Stars in Shadow](#stars-in-shadow) ([PvP](#stars-in-shadow--pvp--Overview), [PvE](#stars-in-shadow--pve--Overview))
 * Steel Sybil Z-14 ([PvE](#steel-sybil-z-14---pve))
+* [Stochastic Variable](#stochastic-variable) ([PvE](#stochastic-variable--pve--Overview))
 * [The Number](#the-number) ([PvP](#the-number--pvp--Overview), [PvE](#the-number--pve--Overview))
 * Timelines' Vertex ([PvP](#timelines-vertex---pvp))
 * Truthteller ([PvP](#truthteller---pvp), [PvE](#truthteller---pve))
@@ -190,6 +192,84 @@ Same as the roll above, centered around `Feeding Frenzy` and `Kill Clip`.
 | 🖼🖼 (+magazines, -masterworks) | 0.53% | 189 |
 | 🖼🖼 (+barrels, +magazines, -masterworks) | 1.98% | 50 |
 | 🖼 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+
+# Gridskipper
+*For all possible perks, check out **Gridskipper** over on [d2gunsmith.com](https://d2gunsmith.com/w/1621558458)*
+
+Gridskipper is a 540RPM Rapid-Fire Pulse Rifle introduced in Season 14. It's the only 540 RPM Energy Pulse Rifle available at the moment and drops with all of the new seasonal perks. Definitely pick this up if you frequent the Crucible.
+### Gridskipper / PvP / Overview
+Gridskipper is a phenomenal PvP weapon and arguably the best weapon introduced in S14. Many folks have reviewed it; here are a handful of selections:
+> *The feel of this gun is so very Destiny... and so terribly well-balanced and is yet another reminder that Bungie is the best at fun gameplay, bar none.* - [Ascendant Nomad](https://www.youtube.com/watch?v=Ya5a-uIbq7w)
+
+> *This is the best pulse rifle in the game. Better than Messenger, 100%. Time to do the new activity to get the god roll!* - [ZkMushroom](https://www.youtube.com/watch?v=7M8xjUzDRfU)
+
+> *This thing is an absolute laser beam. Terrific Aim Assist and a vertical recoil pattern. It ticks all the boxes for me.* -  [DFP](https://www.youtube.com/watch?v=2Y5XZrTjSxs)
+
+**Why no Frenzy?** Frenzy has steep activation requirements and has an immaterial impact on your TTKs.
+
+**Why so much Multikill Clip?** At x1, MKC drops your TTK from `7c2b/0.80s` to `7c0b/0.67s` and your body shot TTK from `1.40s` to a much more palatable `1.13s`.
+### Gridskipper / PvP / Roll / **"Heat Dome"**
+The two new third-column perks `Heating Up` and `Tunnel Vision` are brilliant on the Gridskipper. I'm partial to `Heating Up` but people love them both. The roll wouldn't otherwise be different so I'm combining them here
+```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 33%]: Heating Up, Tunnel Vision
+  Perks 2 [ 16%]: Multikill Clip
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🥵🥵🥵🌟 Collector's Edition | 0.08% | 1296 |
+| 🥵🥵🥵 CE (+barrels) | 0.32% | 314 |
+| 🥵🥵🥵 CE (+magazines) | 0.24% | 412 |
+| 🥵🥵🥵 CE (-masterworks) | 0.31% | 324 |
+| 🥵🥵🥵 (+barrels, +magazines) | 1.00% | 99 |
+| 🥵🥵🥵 (+barrels, -masterworks) | 1.27% | 78 |
+| 🥵🥵🥵 (+magazines, -masterworks) | 0.97% | 103 |
+| 🥵🥵🥵 (+barrels, +magazines, -masterworks) | 4.00% | 24 |
+
+### Gridskipper / PvP / Roll / **"The All-Around'er"**
+Capturing all of the best perks in the final two columns. Any combination here will be a terrific PvP weapon.
+```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 66%]: Tunnel Vision, Heating Up, Moving Target, Killing Wind
+  Perks 2 [ 50%]: Multikill Clip, Snapshot, Thresh
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🌎🌎🌎🌟 Collector's Edition | 0.46% | 216 |
+| 🌎🌎🌎 CE (+barrels) | 1.91% | 52 |
+| 🌎🌎🌎 CE (+magazines) | 1.46% | 68 |
+| 🌎🌎🌎 CE (-masterworks) | 1.85% | 54 |
+| 🌎🌎🌎 (+barrels, +magazines) | 6.00% | 16 |
+| 🌎🌎🌎 (+barrels, -masterworks) | 7.64% | 13 |
+| 🌎🌎🌎 (+magazines, -masterworks) | 5.82% | 17 |
+| 🌎🌎🌎 (+barrels, +magazines, -masterworks) | 24.01% | 4 |
+
+### Gridskipper / PvP / Roll / **"Gardening"**
+On Pulse Rifles, `Firmly Planted` is an acquired taste. I loved it on my Jian 7 paired with `Rangefinder`; amazing laser beam on long(er) sight lines.
+```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Firmly Planted
+  Perks 2 [ 16%]: Multikill Clip
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🪴🪴🪴🌟 Collector's Edition | 0.04% | 2592 |
+| 🪴🪴🪴 CE (+barrels) | 0.16% | 628 |
+| 🪴🪴🪴 CE (+magazines) | 0.12% | 824 |
+| 🪴🪴🪴 CE (-masterworks) | 0.15% | 648 |
+| 🪴🪴🪴 (+barrels, +magazines) | 0.50% | 199 |
+| 🪴🪴🪴 (+barrels, -masterworks) | 0.64% | 157 |
+| 🪴🪴🪴 (+magazines, -masterworks) | 0.49% | 206 |
+| 🪴🪴🪴 (+barrels, +magazines, -masterworks) | 2.00% | 49 |
 
 # Ignition Code
 *For all possible perks, check out **Ignition Code** over on [d2gunsmith.com](https://d2gunsmith.com/w/304659313)*
@@ -2406,6 +2486,56 @@ Note that swords only have one possible Masterwork (Impact) hence the appearance
   Perks 2 [ 33%]: Whirlwind Blade
   MWorks  [100%]: *
   ```
+# Stochastic Variable
+*For all possible perks, check out **Stochastic Variable** over on [d2gunsmith.com](https://d2gunsmith.com/w/2272470786)*
+
+The Stochastic Variable is a 900 RPM SMG initially introduced as part of the Faction Rallies event and was part of the Future War Cult loot pool. It was reintroduced with random rolls in S14 and has access to some of the new perks introduced with Beyond Light, but none of the S14-specific new perks (e.g. `Danger Zone`).
+
+It seems to be universally panned in PvP and highly regarded in PvE, so only PvE rolls will be featured. With the introduction of the [Shayura's Wrath](https://d2gunsmith.com/w/3682803680) Trials of Osiris reward, it gets some stiff competition in the PvP SMG space.
+### Stochastic Variable / PvE / Overview
+Stochastic Variable is a sleeper at the moment, but with a Warmind Cell nerf of sorts likely incoming, it's a great alternative to pick up once your Ikelos SMG becomes perhaps a bit less useful.
+### Stochastic Variable / PvE / Roll / **"Recluse 2.0 - Ehroar's Pick"**
+With `Feeding Frenzy` and `Multikill Clip` you're turning an already terrific weapon into a Recluse-like machine.
+```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 33%]: High-Caliber Rounds
+  Perks 1 [ 16%]: Feeding Frenzy
+  Perks 2 [ 16%]: Multikill Clip
+  MWorks  [ 25%]: Range MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🕷🕷🕷🌟 Collector's Edition | 0.05% | 1944 |
+| 🕷🕷🕷 CE (+barrels) | 0.23% | 432 |
+| 🕷🕷🕷 CE (+magazines) | 0.15% | 648 |
+| 🕷🕷🕷 CE (-masterworks) | 0.21% | 486 |
+| 🕷🕷🕷 (+barrels, +magazines) | 0.69% | 144 |
+| 🕷🕷🕷 (+barrels, -masterworks) | 0.93% | 108 |
+| 🕷🕷🕷 (+magazines, -masterworks) | 0.62% | 162 |
+| 🕷🕷🕷 (+barrels, +magazines, -masterworks) | 2.78% | 36 |
+
+### Stochastic Variable / PvE / Roll / **"Recluse 1.5 - Ehroar's Pick, Slightly Less Great"**
+But still great! While `Feeding Frenzy` is the winner in Column 3, `Ambitious Assassin` and `Surplus` will also put in work. This is the same roll as the above with those just two swapped in, in lieu of `Feeding Frenzy`.
+```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 33%]: High-Caliber Rounds
+  Perks 1 [ 33%]: Surplus, Ambitious Assassin
+  Perks 2 [ 16%]: Multikill Clip
+  MWorks  [ 25%]: Range MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🕷🕷🕷🌟 Collector's Edition | 0.10% | 972 |
+| 🕷🕷🕷 CE (+barrels) | 0.46% | 216 |
+| 🕷🕷🕷 CE (+magazines) | 0.31% | 324 |
+| 🕷🕷🕷 CE (-masterworks) | 0.41% | 243 |
+| 🕷🕷🕷 (+barrels, +magazines) | 1.39% | 72 |
+| 🕷🕷🕷 (+barrels, -masterworks) | 1.85% | 54 |
+| 🕷🕷🕷 (+magazines, -masterworks) | 1.23% | 81 |
+| 🕷🕷🕷 (+barrels, +magazines, -masterworks) | 5.56% | 18 |
+
 # The Number
 *For all possible perks, check out **The Number** over on [d2gunsmith.com](https://d2gunsmith.com/w/2492081469)*
 
