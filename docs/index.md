@@ -9,10 +9,8 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 
 ---
 
-**Season 13 - Season of the Chosen (December 2020 - May 2021)**
-* [Code Duello](#code-duello) ([PvP](#code-duello--pvp--Overview), [PvE](#code-duello--pve--Overview))
-* [Extraordinary Rendition](#extraordinary-rendition) ([PvP/PvE](#extraordinary-rendition--pvppve--Overview), [PvP](#extraordinary-rendition--pvp--Overview), [PvE](#extraordinary-rendition--pve--Overview))
-* [Imperial Needle](#imperial-needle) ([PvP](#imperial-needle--pvp--Overview))
+**Season 14 - Season of the Splicer (May 11 - Aug 24, 2021)**
+* [Chroma Rush](#chroma-rush) ([PvP](#chroma-rush--pvp--Overview), [PvE](#chroma-rush--pve--Overview))
 
 **World Drops**
 * Black Scorpion-4sr ([PvP](#black-scorpion-4sr---pvp))
@@ -48,6 +46,11 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 **Raids**
 * [Heritage](#heritage) ([PvE](#heritage--pve--Overview), [PvP](#heritage--pvp--Overview))
 
+**Season 13 - Season of the Chosen (Concluded)**
+* [Code Duello](#code-duello) ([PvP](#code-duello--pvp--Overview), [PvE](#code-duello--pve--Overview))
+* [Extraordinary Rendition](#extraordinary-rendition) ([PvP/PvE](#extraordinary-rendition--pvppve--Overview), [PvP](#extraordinary-rendition--pvp--Overview), [PvE](#extraordinary-rendition--pve--Overview))
+* [Imperial Needle](#imperial-needle) ([PvP](#imperial-needle--pvp--Overview))
+
 **Season 11 - Season of Arrivals (Concluded)**
 * Berenger's Memory ([PvE](#berengers-memory---pve))
 * Cold Denial ([PvP](#cold-denial---pvp), [PvE](#cold-denial---pve))
@@ -82,282 +85,105 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 * Trophy Hunter ([PvP](#trophy-hunter---pvp), [PvE](#trophy-hunter---pve))
 
 ---
-# Code Duello
-*For all possible perks, check out **Code Duello** over on [light.gg](https://www.light.gg/db/items/2496242052/code-duello/)*
+# Chroma Rush
+*For all possible perks, check out **Chroma Rush** over on [light.gg](https://www.light.gg/db/items/1119734784/chroma-rush/)*
 
-Code Duello is the Season 13 Rocket Launcher. You can pick it up from chests in the Battlegrounds playlists and Umbral Engrams. It features a handful of the new S13 perks including `Impulse Amplifier`, `Frenzy` and `Lasting Impression`. Ehroar put together a [solid video review](https://www.youtube.com/watch?v=mcgBIemy83E) comparing them and offering some suggestions for interesting rolls. You're going to be drowning in these by the end of Season 13 and with the new damage perks, these are worth picking up!
+Chroma Rush is one of the many beautiful new weapons available in S14. It's a 720 RPM Rapid-Fire Frame Auto Rifle; the only available in the game apart from Arctic Haze. See how they compare [over on light.gg](https://www.light.gg/db/items/compare/?h=BCvcwA;BP3N0;). Artic Haze suffered from a punishing base recoil and a lack of stability and damage-dealing perks whereas Chroma has both of those in spades.
+### Chroma Rush / PvP / Overview
+AR's were most recently meta a few seasons back when the 600 RPM variant dominated the Crucible. They've since been tuned a bit and haven't seen much play since the dawn of 120 RPM Hand Cannons. 720s are a bit more interesting since presumably a faster rate of fire means more flinch, and flinch is how ARs win gunfights against their slower, more stable-shooting brethren.
 
-Yes, you can finally get rid of the curated `Bad Omens` with `Impact Casing` you've been holding on to for ages 😉 A decent roll below is going to now outclass that because of the new final-column damage perks! 💥
+* As a 720 RPM Auto, Chroma's base Aim Assist and Stability are very good. I'd like to avoid spending the core slots on perks that provide incremental benefits to those very good stats, like `Dynamic Sway Reduction` or `Tap the Trigger`. These perks buff already strong core attributes. **Don't get me wrong; they're phenomenal perks, but you already knew that.**
+* I'm also avoiding an emphasis on `Range`. If you spend every column on maximizing `Range`, you're adding a whopping 3m of falloff at the cost of otherwise S-tier perks.
+* Its base Recoil is 45 and I've made great use of several rolls that have no `Recoil`-adjusting Barrels.
 
-Finally, definitely check out [Rustopholis]. He does super deep dives on Rocket Launchers, including a few that were super helpful in understanding how some of the new perks worked.
-
-* [Best Legendary Rocket Launchers, Code Duello Build, Perks, Guides](https://www.youtube.com/watch?v=ckCLJ0yVhZM)
-* [Best Legendary Rocket Launcher Perks PART 2 KNOW THE DATA](https://www.youtube.com/watch?v=RXnNIV7y05M)
-### Code Duello / PvP / Overview
-Fallout has  [a guide](https://www.youtube.com/watch?v=4iQSmF67Exk) hitting on `Blast Radius` and `Cluster Bombs` configuration for PvP and PvE. Of course, this was before the change was made that moved more of the damage away from the clusters. That being said, the overall thrust of the video still holds for PvP. For PvE with the release of the new damage perks, `Cluster Bombs` is no longer your pick (see below). 
-### Code Duello / PvP / Roll / **"Rain Fire"**
-First we start with a super high default `Blast Radius` of `95`. Then we sprinkle on some `Cluster Bomb` action and you've already got a great chance of splashing down on packs of Guardians. Add in high `Velocity` and improved `Handling` and you've got a snappy air raid in your grasp.
+All of that being said, nearly **every perk** in the final two columns is terrific. E.g. `Thresh` is great, but I'm not calling it out here because you don't need a wishlist to tell you it's a good perk (i.e. it needs to harmonize with another perk or combo of perks on the weapon to warrant being part of a roll.)
+### Chroma Rush / PvP / Roll / **"Catching Fire"**
+With `Heating Up` and `Kill Clip` going, Chroma Rush feels like a longer-range [Recluse](https://www.light.gg/db/items/3354242550/the-recluse/). `Kill Clip` takes you from an optimal TTK of `9h1b/0.77s` to `6h2b/0.60s` and your body shot TTK from `1.17s` to `0.83s`. `Heating Up` seems practically designed for Auto Rifles, buffing your Accuracy, Stability and Recoil 🤯 "But Slif, `Heating Up` will go to waste while I'm reloading to proc Kill Clip". The reload is snappy; you'll have time. Throw on some some Auto Rifle reload mods if you're concerned.
 ```
-  Barrels [ 60%]: Quick Launch, Smart Drift Control
-  Mags    [ 40%]: High-Velocity Rounds
-  Perks 1 [ 20%]: Impulse Amplifier
-  Perks 2 [ 16%]: Cluster Bomb
-  MWorks  [ 20%]: Handling MW
-```
-
-| Variant | Chance | 1 in ? |
-|:-|-:|-:|
-| ☂️☂️☂️🌟 Collector's Edition | 0.16% | 625 |
-| ☂️☂️☂️ (-barrels) | 0.27% | 374 |
-| ☂️☂️☂️ (-magazines) | 0.40% | 250 |
-| ☂️☂️☂️ (-masterworks) | 0.80% | 125 |
-| ☂️☂️ (-barrels, -magazines) | 0.67% | 149 |
-| ☂️☂️ (-barrels, -masterworks) | 1.33% | 74 |
-| ☂️☂️ (-magazines, -masterworks) | 2.00% | 50 |
-| ☂️ (-barrels, -magazines, -masterworks) | 3.33% | 30 |
-
-### Code Duello / PvE / Overview
-Code Duello has some terrific new perks for dishing out major damage in a flexible way, one of which is incredibly interesting for folks soloing tough content. 
-### Code Duello / PvE / Roll / **"One-Guardian Show"**
-With `Lasting Impression` it's possible to stick a rocket, switch to another weapon and debuff the stickee (e.g. Divinity). With Auto- Loading Holster, by the time you switch back to Code Duello, it should be reloaded. Rinse and repeat! Be forewarned however, this is a super niche roll and not at all a run-and-gun RL. It's more for grins on what type of "chess" you can play with an RL in Destiny.
-```
-  Barrels [ 80%]: Quick Launch, Smart Drift Control, Countermass
-  Mags    [ 40%]: Impact Casing
-  Perks 1 [ 20%]: Auto-Loading Holster
-  Perks 2 [ 16%]: Lasting Impression
-  MWorks  [ 40%]: Reload MW, Handling MW
-```
-
-| Variant | Chance | 1 in ? |
-|:-|-:|-:|
-| 📺📺📺🌟 Collector's Edition | 0.43% | 234 |
-| 📺📺📺 CE (-barrels) | 0.53% | 187 |
-| 📺📺📺 CE (-masterworks) | 1.07% | 93 |
-| 📺📺📺 CE (-barrels, -masterworks) | 1.33% | 74 |
-| 📺📺 CE (-magazines) | 1.07% | 93 |
-| 📺📺 CE (-magazines, -barrels) | 1.33% | 74 |
-| 📺📺 CE (-magazines, -masterworks) | 2.67% | 37 |
-| 📺 CE (-barrels, -magazines, -masterworks) | 3.33% | 30 |
-
-### Code Duello / PvE / Roll / **"Eternal Sunshine"**
-This goes great with Warmind-cell builds for constantly clearing adds. Via Rustopholis above, note that Field Prep only checks to see if you're crouched at the *start* of the reload animation, not throughout.
-```
-  Barrels [ 80%]: Quick Launch, Smart Drift Control, Countermass
-  Mags    [ 40%]: Alloy Casing
-  Perks 1 [ 40%]: Field Prep, Impulse Amplifier
-  Perks 2 [ 16%]: Frenzy
-  MWorks  [ 20%]: Handling MW
-```
-
-| Variant | Chance | 1 in ? |
-|:-|-:|-:|
-| ☀️☀️☀️🌟 Collector's Edition | 0.43% | 234 |
-| ☀️☀️☀️ CE (-barrels) | 0.53% | 187 |
-| ☀️☀️☀ CE (-magazines) | 1.07% | 93 |
-| ☀️☀️☀️ CE (-masterworks) | 2.13% | 46 |
-| ☀️☀️ (-barrels, -magazines) | 1.33% | 74 |
-| ☀️☀️ (-barrels, -masterworks) | 2.67% | 37 |
-| ☀️☀️ (-magazines, -masterworks) | 5.33% | 18 |
-| ☀️ (-barrels, -magazines, -masterworks) | 6.67% | 15 |
-
-### Code Duello / PvE / Roll / **"Last Stand"**
-This is your standard "stand behind cover / in a well and chuck rockets at the boss" roll. Whether or not you value `Frenzy` over `Lasting Impression` will depend on the encounter. The barrels and masterworks are mostly focused on adding Handling and are gravy (but solid if you get them!).
-```
-  Barrels [ 80%]: Quick Launch, Smart Drift Control, Countermass
-  Mags    [ 40%]: Impact Casing
-  Perks 1 [ 20%]: Field Prep
-  Perks 2 [ 33%]: Lasting Impression, Frenzy
-  MWorks  [ 20%]: Handling MW
-```
-
-| Variant | Chance | 1 in ? |
-|:-|-:|-:|
-| 🚩🚩🚩🌟 Collector's Edition | 0.43% | 234 |
-| 🚩🚩🚩 CE (-barrels) | 0.53% | 187 |
-| 🚩🚩🚩 CE (-magazines) | 1.07% | 93 |
-| 🚩🚩🚩 CE (-masterworks) | 2.13% | 46 |
-| 🚩🚩🚩 CE (-barrels, -masterworks) | 2.67% | 37 |
-| 🚩🚩 CE (-magazines) | 1.07% | 93 |
-| 🚩🚩 CE (-magazines, -barrels) | 1.33% | 74 |
-| 🚩🚩 CE (-magazines, -masterworks) | 5.33% | 18 |
-| 🚩🚩 CE (-perks1) | 2.13% | 46 |
-| 🚩🚩 CE (-perks1, -barrels) | 2.67% | 37 |
-| 🚩🚩 CE (-perks1, -masterworks) | 10.67% | 9 |
-
-# Extraordinary Rendition
-*For all possible perks, check out **Extraordinary Rendition** over on [light.gg](https://www.light.gg/db/items/1097616550/extraordinary-rendition/)*
-
-Extraordinary Rendition is a 750 RPM Kinetic Submachine Gun; part of the S13 weapon set. Both perks and stats are [virtually identical](https://www.light.gg/db/items/compare/?h=BBbEym;BZzrdV) to the Cold Front, available only during the 2020 Dawning, so we'll be able to rely on the work we did there for these rolls 🎉🎉🎉 Ehroar covers the [Extraordinary Rendition](https://www.youtube.com/watch?v=SplO6sE1Nxg) in depth.
-### Extraordinary Rendition / PvP/PvE / Overview
-The cornerstone of both PvE and PvP are `Surplus`. If you end up with a "PvE roll" that also happens to have super high Stability, then you've got the Holy Grail. Congrats! For an explanation of these rolls, please read further down towards the specific PvE and PvP sections.
-### Extraordinary Rendition / PvP/PvE / Roll / **"An Absolutely Extraordinary Rendition"**
-The best of everything.
-```
-  Barrels [ 22%]: Chambered Compensator
+  Barrels [ 22%]: Smallbore
   Mags    [ 28%]: Steady Rounds
-  Perks 1 [ 16%]: Surplus
-  Perks 2 [ 33%]: One for All, Frenzy
+  Perks 1 [ 16%]: Heating Up
+  Perks 2 [ 16%]: Kill Clip
   MWorks  [ 25%]: Stability MW
 ```
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🏆🏆🏆🌟 Collector's Edition | 0.09% | 1134 |
-| 🏆🏆🏆 CE (+barrels) | 0.33% | 302 |
-| 🏆🏆🏆 CE (+magazines) | 0.22% | 453 |
-| 🏆🏆🏆 CE (-masterworks) | 0.35% | 283 |
-| 🏆🏆 (-barrels) | 0.40% | 252 |
-| 🏆🏆 (-magazines) | 0.31% | 324 |
-| 🏆🏆 (+barrels, -masterworks) | 1.32% | 75 |
+| 🔥🔥🔥🌟 Collector's Edition | 0.04% | 2268 |
+| 🔥🔥🔥 CE (+barrels) | 0.18% | 549 |
+| 🔥🔥🔥 CE (+magazines) | 0.13% | 756 |
+| 🔥🔥🔥 CE (-masterworks) | 0.18% | 567 |
+| 🔥🔥 (+barrels, -masterworks) | 0.73% | 137 |
+| 🔥🔥 (+magazines, -masterworks) | 0.53% | 189 |
+| 🔥🔥 (+barrels, +magazines, -masterworks) | 2.18% | 45 |
+| 🔥 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
 
-### Extraordinary Rendition / PvP / Overview
-EA needs a lot of help in the Stability department, which is the entire focus of these two rolls. At best, you'll be able to get Stability up from `17` to `52` plus the benefits coming from Surplus and Tap the Trigger. This puts you way above the base Stability on the vaunted Antiope-D and other Precision Frame SMGs. The Recoil is `97` so YMMV on whether or not a Counterbalance mod is required (I suggest an Icarus Mod otherwise).
-### Extraordinary Rendition / PvP / Roll / **"A Perfect Rendition"**
-
+### Chroma Rush / PvP / Roll / **"Color Wheel"**
+This is similar to the above roll, swapping out `Heating Up` in exchange for `Tunnel Vision`, which perhaps more synergistically procs on reload along with `Kill Clip`.
 ```
-  Barrels [ 22%]: Chambered Compensator
+  Barrels [ 22%]: Smallbore
   Mags    [ 28%]: Steady Rounds
-  Perks 1 [ 16%]: Surplus
-  Perks 2 [ 16%]: Tap the Trigger
+  Perks 1 [ 16%]: Tunnel Vision
+  Perks 2 [ 16%]: Kill Clip
   MWorks  [ 25%]: Stability MW
 ```
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🌄🌄🌄🌟 Collector's Edition | 0.04% | 2268 |
-| 🌄🌄🌄 CE (+barrels) | 0.17% | 604 |
-| 🌄🌄🌄 CE (+magazines) | 0.11% | 907 |
-| 🌄🌄🌄 CE (-barrels) | 0.20% | 504 |
-| 🌄🌄🌄 CE (-masterworks) | 0.18% | 567 |
-| 🌄🌄🌄 CE (-magazines) | 0.15% | 648 |
-| 🌄🌄🌄 CE (+barrels, +magazines) | 0.41% | 241 |
-| 🌄🌄 (+barrels, -masterworks) | 0.66% | 151 |
-| 🌄 (+barrels, -magazines) | 0.58% | 172 |
-| 🌄 (+magazines, -masterworks) | 0.44% | 226 |
+| 🎨🎨🎨🌟 Collector's Edition | 0.04% | 2268 |
+| 🎨🎨🎨 CE (+barrels) | 0.18% | 549 |
+| 🎨🎨🎨 CE (+magazines) | 0.13% | 756 |
+| 🎨🎨🎨 CE (-masterworks) | 0.18% | 567 |
+| 🎨🎨 (+barrels, -masterworks) | 0.73% | 137 |
+| 🎨🎨 (+magazines, -masterworks) | 0.53% | 189 |
+| 🎨🎨 (+barrels, +magazines, -masterworks) | 2.18% | 45 |
+| 🎨 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
 
-### Extraordinary Rendition / PvP / Roll / **"A (Mostly) Perfect Rendition"**
-Same as the above, minus `Tap the Trigger`. Stability is so solid without it that we still have a very good PvP roll.
-```
-  Barrels [ 22%]: Chambered Compensator
-  Mags    [ 28%]: Steady Rounds
-  Perks 1 [ 16%]: Surplus
-  Perks 2 [100%]: *
-  MWorks  [ 25%]: Stability MW
-```
+### Chroma Rush / PvE / Overview
+I absolutely love 720 RPM Autos in PvE; perhaps my favourite weapon type across all of Destiny. I was sad to see my beloved [Steelfeather Repeater](https://www.light.gg/db/items/1251729046/steelfeather-repeater/) be sunset but c'est la vie. Of the new perks on Chroma Rush (`Heating Up`, `Tunnel Vision` and `Adrenaline Junkie`), only `Adrenaline Junkie` is compelling in PvE. It does work, but only in niche situations where you can keep your grenades up. Sure there are builds that can do that, but you don't need this wishlist to tell you that you're looking for a single perk.
 
-| Variant | Chance | 1 in ? |
-|:-|-:|-:|
-| 🌃🌃🌃🌟 Collector's Edition | 0.26% | 378 |
-| 🌃🌃🌃 CE (+barrels) | 0.99% | 100 |
-| 🌃🌃🌃 CE (+magazines) | 0.66% | 151 |
-| 🌃🌃🌃 CE (-barrels) | 1.19% | 84 |
-| 🌃🌃🌃 CE (-masterworks) | 1.06% | 94 |
-| 🌃🌃🌃 CE (-magazines) | 0.93% | 108 |
-| 🌃🌃🌃 CE (+barrels, +magazines) | 2.48% | 40 |
-| 🌃🌃 (+barrels, -masterworks) | 3.97% | 25 |
-| 🌃 (+barrels, -magazines) | 3.47% | 28 |
-| 🌃 (+magazines, -masterworks) | 2.65% | 37 |
-
-### Extraordinary Rendition / PvE / Overview
-With `Surplus`, `One for All` and `Frenzy` in the EA perk pool, we're looking at a strong contender for one of the best kinetic weapons of all time (second only to the Ikelos SMG). `Surplus` improves Stability and Reload and `One for All` and `Frenzy` provide a tremendous damage boost and leaves your mod slot free for Minor, Major or Boss Spec.
-### Extraordinary Rendition / PvE / Roll / **"A Beautiful Rendition"**
-This is going to be immensely helpful in **high tier content** where you aren't able to proc damage perks off of kills. While `Surplus` will be boosting Stability, the Stability is so low and difficult to manage on console that we'll continue to crave it as a backstop for when we're at lower tiers of `Surplus` benefits.
+Here we're going with old reliable combos. `Subsistence` was recently buffed to ease off the penalty to your reserves, and is an absolute S-tier perk now.
+### Chroma Rush / PvE / Roll / **"Still Life"**
+Both `Subsistence` and `Rampage` form the core of this roll.
 ```
-  Barrels [ 22%]: Chambered Compensator
-  Mags    [ 28%]: Extended Mag
-  Perks 1 [ 16%]: Surplus
-  Perks 2 [ 33%]: One for All, Frenzy
-  MWorks  [ 25%]: Stability MW
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 28%]: Accurized Rounds
+  Perks 1 [ 16%]: Subsistence
+  Perks 2 [ 16%]: Rampage
+  MWorks  [ 25%]: Range MW
 ```
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🖼🖼🖼🌟 Collector's Edition | 0.09% | 1134 |
-| 🖼🖼🖼 CE (+barrels) | 0.33% | 302 |
-| 🖼🖼🖼 CE (+magazines) | 0.16% | 618 |
-| 🖼🖼🖼 CE (+barrels, +magazines) | 0.61% | 164 |
-| 🖼🖼🖼 (-barrels) | 0.40% | 252 |
-| 🖼🖼🖼 (-magazines) | 0.31% | 324 |
-| 🖼🖼🖼 (-masterworks) | 0.35% | 283 |
-| 🖼🖼 (-barrels, -magazines, -masterworks) | 5.56% | 18 |
+| 🍊🍊🍊🌟 Collector's Edition | 0.04% | 2268 |
+| 🍊🍊🍊 CE (+barrels) | 0.17% | 604 |
+| 🍊🍊🍊 CE (+magazines) | 0.13% | 756 |
+| 🍊🍊🍊 CE (-masterworks) | 0.18% | 567 |
+| 🍊🍊 (+barrels, -masterworks) | 0.66% | 151 |
+| 🍊🍊 (+magazines, -masterworks) | 0.53% | 189 |
+| 🍊🍊 (+barrels, +magazines, -masterworks) | 1.98% | 50 |
+| 🍊 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
 
-### Extraordinary Rendition / PvE / Roll / **"A (Mostly) Beautiful Rendition"**
-Similar to the above but we'll take some extended perks that make this a fun go-to for low- to mid-tier content.
+### Chroma Rush / PvE / Roll / **"Captured Moment"**
+Same as the roll above, centered around `Feeding Frenzy` and `Kill Clip`.
 ```
-  Barrels [ 22%]: Chambered Compensator
-  Mags    [ 28%]: Extended Mag
-  Perks 1 [ 33%]: Surplus, Overflow
-  Perks 2 [ 50%]: Frenzy, Multikill Clip, Rampage
-  MWorks  [ 25%]: Stability MW
-```
-
-| Variant | Chance | 1 in ? |
-|:-|-:|-:|
-| 🆗🆗🆗🌟 Collector's Edition | 0.26% | 378 |
-| 🆗🆗🆗 CE (+barrels) | 0.99% | 100 |
-| 🆗🆗🆗 CE (+magazines) | 0.49% | 206 |
-| 🆗🆗🆗 CE (+barrels, +magazines) | 1.82% | 54 |
-| 🆗🆗🆗 (-barrels) | 1.19% | 84 |
-| 🆗🆗🆗 (-magazines) | 0.93% | 108 |
-| 🆗🆗🆗 (-masterworks) | 1.06% | 94 |
-| 🆗🆗 (-barrels, -magazines, -masterworks) | 16.67% | 6 |
-
-# Imperial Needle
-*For all possible perks, check out **Imperial Needle** over on [light.gg](https://www.light.gg/db/items/3460122497/imperial-needle/)*
-
-The Needle is a Lightweight Frame, Void Bow, part of the S13 family of seasonal weapons. It can roll with many of the new perks including `Frenzy` and `Impulse Amplifier`. It's otherwise [quite similar](https://www.light.gg/db/items/compare/?h=DOPUeB;Moe3e) to the Whispering Slab in terms of base stats.
-
-As per usual, I suggest checking out these amazing posts:
-
-* [A Bow Guide](https://www.reddit.com/r/CrucibleSherpa/comments/kx1ew8/a_bow_guide/) - [/u/kfairns](https://www.reddit.com/user/kfairns/)
-* [An In-Depth Guide to Using a Bow in Competitive PvP (Console or PC)](https://www.reddit.com/r/CruciblePlaybook/comments/hjvoka/an_indepth_guide_to_using_a_bow_in_competitive/) - [/u/TheGuiltySpark117](https://www.reddit.com/user/TheGuiltySpark117/)
-
-The new perks don't change the suggested PvP rolls from Whispering Slab, so these rolls will be straight reproductions from what we previously covered when S11 dropped; [Whispering Slab - S11](https://rslifka.github.io/wishlist/#whispering-slab).
-### Imperial Needle / PvP / Overview
-
-### Imperial Needle / PvP / Roll / **"GuiltySpark's Aggro Needle"**
-(copied from [Whispering Slab](https://rslifka.github.io/wishlist/#whispering-slab))   
-```
-  Barrels [ 28%]: Elastic String
-  Mags    [ 33%]: Fiberglass Arrow Shaft
-  Perks 1 [ 16%]: Killing Wind
-  Perks 2 [ 16%]: Opening Shot
-  MWorks  [ 20%]: Accuracy MW
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 28%]: Accurized Rounds
+  Perks 1 [ 16%]: Feeding Frenzy
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [ 25%]: Range MW
 ```
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 😡😡😡🌟 Collector's Edition | 0.05% | 1889 |
-| 😡😡😡 CE (+barrels) | 0.10% | 1030 |
-| 😡😡😡 CE (+magazines) | 0.10% | 1050 |
-| 😡😡😡 CE (+masterworks) | 0.11% | 944 |
-| 😡😡 (+barrels, +magazines, +masterworks) | 0.35% | 286 |
-| 😡 (-barrels, -magazines, +masterworks) | 1.11% | 89 |
-
-### Imperial Needle / PvP / Roll / **"GuiltySpark's Reserved Needle"**
-(copied from [Whispering Slab](https://rslifka.github.io/wishlist/#whispering-slab))   
-```
-  Barrels [ 28%]: High Tension String
-  Mags    [ 33%]: Fiberglass Arrow Shaft
-  Perks 1 [ 16%]: Archer's Tempo
-  Perks 2 [ 16%]: Opening Shot
-  MWorks  [ 20%]: Accuracy MW
-```
-
-| Variant | Chance | 1 in ? |
-|:-|-:|-:|
-| 🧐🧐🧐🌟 Collector's Edition | 0.05% | 1889 |
-| 🧐🧐🧐 CE (+barrels) | 0.10% | 1030 |
-| 🧐🧐🧐 CE (+magazines) | 0.10% | 1050 |
-| 🧐🧐🧐 CE (+masterworks) | 0.11% | 944 |
-| 🧐🧐 (+barrels, +magazines, +masterworks) | 0.35% | 286 |
-| 🧐🧐🧐 CE (-barrels) | 0.19% | 540 |
-| 🧐🧐🧐 CE (-magazines) | 0.16% | 630 |
-| 🧐🧐🧐 CE (-masterworks) | 0.26% | 378 |
-| 🧐🧐 (-barrels, -magazines) | 0.56% | 179 |
-| 🧐🧐 (-barrels, -masterworks) | 0.93% | 108 |
-| 🧐🧐 (-magazines, -masterworks) | 0.79% | 126 |
-| 🧐 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| 🖼🖼🖼🌟 Collector's Edition | 0.04% | 2268 |
+| 🖼🖼🖼 CE (+barrels) | 0.17% | 604 |
+| 🖼🖼🖼 CE (+magazines) | 0.13% | 756 |
+| 🖼🖼🖼 CE (-masterworks) | 0.18% | 567 |
+| 🖼🖼 (+barrels, -masterworks) | 0.66% | 151 |
+| 🖼🖼 (+magazines, -masterworks) | 0.53% | 189 |
+| 🖼🖼 (+barrels, +magazines, -masterworks) | 1.98% | 50 |
+| 🖼 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
 
 ## Black Scorpion-4sr - PvP
 *For all possible perks, check out **Black Scorpion-4sr** over on [light.gg](https://www.light.gg/db/items/525750263/black-scorpion-4sr/)*
@@ -4641,6 +4467,283 @@ All Range and all damage.
 | 🎢🎢️ (-barrels, -masterworks) | 0.79% | 126 |
 | 🎢🎢️ (-magazines, -masterworks) | 1.62% | 61 |
 | 🎢️ (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+
+# Code Duello
+*For all possible perks, check out **Code Duello** over on [light.gg](https://www.light.gg/db/items/2496242052/code-duello/)*
+
+Code Duello is the Season 13 Rocket Launcher. You can pick it up from chests in the Battlegrounds playlists and Umbral Engrams. It features a handful of the new S13 perks including `Impulse Amplifier`, `Frenzy` and `Lasting Impression`. Ehroar put together a [solid video review](https://www.youtube.com/watch?v=mcgBIemy83E) comparing them and offering some suggestions for interesting rolls. You're going to be drowning in these by the end of Season 13 and with the new damage perks, these are worth picking up!
+
+Yes, you can finally get rid of the curated `Bad Omens` with `Impact Casing` you've been holding on to for ages 😉 A decent roll below is going to now outclass that because of the new final-column damage perks! 💥
+
+Finally, definitely check out [Rustopholis]. He does super deep dives on Rocket Launchers, including a few that were super helpful in understanding how some of the new perks worked.
+
+* [Best Legendary Rocket Launchers, Code Duello Build, Perks, Guides](https://www.youtube.com/watch?v=ckCLJ0yVhZM)
+* [Best Legendary Rocket Launcher Perks PART 2 KNOW THE DATA](https://www.youtube.com/watch?v=RXnNIV7y05M)
+### Code Duello / PvP / Overview
+Fallout has  [a guide](https://www.youtube.com/watch?v=4iQSmF67Exk) hitting on `Blast Radius` and `Cluster Bombs` configuration for PvP and PvE. Of course, this was before the change was made that moved more of the damage away from the clusters. That being said, the overall thrust of the video still holds for PvP. For PvE with the release of the new damage perks, `Cluster Bombs` is no longer your pick (see below). 
+### Code Duello / PvP / Roll / **"Rain Fire"**
+First we start with a super high default `Blast Radius` of `95`. Then we sprinkle on some `Cluster Bomb` action and you've already got a great chance of splashing down on packs of Guardians. Add in high `Velocity` and improved `Handling` and you've got a snappy air raid in your grasp.
+```
+  Barrels [ 60%]: Quick Launch, Smart Drift Control
+  Mags    [ 40%]: High-Velocity Rounds
+  Perks 1 [ 20%]: Impulse Amplifier
+  Perks 2 [ 16%]: Cluster Bomb
+  MWorks  [ 20%]: Handling MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| ☂️☂️☂️🌟 Collector's Edition | 0.16% | 625 |
+| ☂️☂️☂️ (-barrels) | 0.27% | 374 |
+| ☂️☂️☂️ (-magazines) | 0.40% | 250 |
+| ☂️☂️☂️ (-masterworks) | 0.80% | 125 |
+| ☂️☂️ (-barrels, -magazines) | 0.67% | 149 |
+| ☂️☂️ (-barrels, -masterworks) | 1.33% | 74 |
+| ☂️☂️ (-magazines, -masterworks) | 2.00% | 50 |
+| ☂️ (-barrels, -magazines, -masterworks) | 3.33% | 30 |
+
+### Code Duello / PvE / Overview
+Code Duello has some terrific new perks for dishing out major damage in a flexible way, one of which is incredibly interesting for folks soloing tough content. 
+### Code Duello / PvE / Roll / **"One-Guardian Show"**
+With `Lasting Impression` it's possible to stick a rocket, switch to another weapon and debuff the stickee (e.g. Divinity). With Auto- Loading Holster, by the time you switch back to Code Duello, it should be reloaded. Rinse and repeat! Be forewarned however, this is a super niche roll and not at all a run-and-gun RL. It's more for grins on what type of "chess" you can play with an RL in Destiny.
+```
+  Barrels [ 80%]: Quick Launch, Smart Drift Control, Countermass
+  Mags    [ 40%]: Impact Casing
+  Perks 1 [ 20%]: Auto-Loading Holster
+  Perks 2 [ 16%]: Lasting Impression
+  MWorks  [ 40%]: Reload MW, Handling MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 📺📺📺🌟 Collector's Edition | 0.43% | 234 |
+| 📺📺📺 CE (-barrels) | 0.53% | 187 |
+| 📺📺📺 CE (-masterworks) | 1.07% | 93 |
+| 📺📺📺 CE (-barrels, -masterworks) | 1.33% | 74 |
+| 📺📺 CE (-magazines) | 1.07% | 93 |
+| 📺📺 CE (-magazines, -barrels) | 1.33% | 74 |
+| 📺📺 CE (-magazines, -masterworks) | 2.67% | 37 |
+| 📺 CE (-barrels, -magazines, -masterworks) | 3.33% | 30 |
+
+### Code Duello / PvE / Roll / **"Eternal Sunshine"**
+This goes great with Warmind-cell builds for constantly clearing adds. Via Rustopholis above, note that Field Prep only checks to see if you're crouched at the *start* of the reload animation, not throughout.
+```
+  Barrels [ 80%]: Quick Launch, Smart Drift Control, Countermass
+  Mags    [ 40%]: Alloy Casing
+  Perks 1 [ 40%]: Field Prep, Impulse Amplifier
+  Perks 2 [ 16%]: Frenzy
+  MWorks  [ 20%]: Handling MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| ☀️☀️☀️🌟 Collector's Edition | 0.43% | 234 |
+| ☀️☀️☀️ CE (-barrels) | 0.53% | 187 |
+| ☀️☀️☀ CE (-magazines) | 1.07% | 93 |
+| ☀️☀️☀️ CE (-masterworks) | 2.13% | 46 |
+| ☀️☀️ (-barrels, -magazines) | 1.33% | 74 |
+| ☀️☀️ (-barrels, -masterworks) | 2.67% | 37 |
+| ☀️☀️ (-magazines, -masterworks) | 5.33% | 18 |
+| ☀️ (-barrels, -magazines, -masterworks) | 6.67% | 15 |
+
+### Code Duello / PvE / Roll / **"Last Stand"**
+This is your standard "stand behind cover / in a well and chuck rockets at the boss" roll. Whether or not you value `Frenzy` over `Lasting Impression` will depend on the encounter. The barrels and masterworks are mostly focused on adding Handling and are gravy (but solid if you get them!).
+```
+  Barrels [ 80%]: Quick Launch, Smart Drift Control, Countermass
+  Mags    [ 40%]: Impact Casing
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [ 33%]: Lasting Impression, Frenzy
+  MWorks  [ 20%]: Handling MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🚩🚩🚩🌟 Collector's Edition | 0.43% | 234 |
+| 🚩🚩🚩 CE (-barrels) | 0.53% | 187 |
+| 🚩🚩🚩 CE (-magazines) | 1.07% | 93 |
+| 🚩🚩🚩 CE (-masterworks) | 2.13% | 46 |
+| 🚩🚩🚩 CE (-barrels, -masterworks) | 2.67% | 37 |
+| 🚩🚩 CE (-magazines) | 1.07% | 93 |
+| 🚩🚩 CE (-magazines, -barrels) | 1.33% | 74 |
+| 🚩🚩 CE (-magazines, -masterworks) | 5.33% | 18 |
+| 🚩🚩 CE (-perks1) | 2.13% | 46 |
+| 🚩🚩 CE (-perks1, -barrels) | 2.67% | 37 |
+| 🚩🚩 CE (-perks1, -masterworks) | 10.67% | 9 |
+
+# Extraordinary Rendition
+*For all possible perks, check out **Extraordinary Rendition** over on [light.gg](https://www.light.gg/db/items/1097616550/extraordinary-rendition/)*
+
+Extraordinary Rendition is a 750 RPM Kinetic Submachine Gun; part of the S13 weapon set. Both perks and stats are [virtually identical](https://www.light.gg/db/items/compare/?h=BBbEym;BZzrdV) to the Cold Front, available only during the 2020 Dawning, so we'll be able to rely on the work we did there for these rolls 🎉🎉🎉 Ehroar covers the [Extraordinary Rendition](https://www.youtube.com/watch?v=SplO6sE1Nxg) in depth.
+### Extraordinary Rendition / PvP/PvE / Overview
+The cornerstone of both PvE and PvP are `Surplus`. If you end up with a "PvE roll" that also happens to have super high Stability, then you've got the Holy Grail. Congrats! For an explanation of these rolls, please read further down towards the specific PvE and PvP sections.
+### Extraordinary Rendition / PvP/PvE / Roll / **"An Absolutely Extraordinary Rendition"**
+The best of everything.
+```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 28%]: Steady Rounds
+  Perks 1 [ 16%]: Surplus
+  Perks 2 [ 33%]: One for All, Frenzy
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🏆🏆🏆🌟 Collector's Edition | 0.09% | 1134 |
+| 🏆🏆🏆 CE (+barrels) | 0.33% | 302 |
+| 🏆🏆🏆 CE (+magazines) | 0.22% | 453 |
+| 🏆🏆🏆 CE (-masterworks) | 0.35% | 283 |
+| 🏆🏆 (-barrels) | 0.40% | 252 |
+| 🏆🏆 (-magazines) | 0.31% | 324 |
+| 🏆🏆 (+barrels, -masterworks) | 1.32% | 75 |
+
+### Extraordinary Rendition / PvP / Overview
+EA needs a lot of help in the Stability department, which is the entire focus of these two rolls. At best, you'll be able to get Stability up from `17` to `52` plus the benefits coming from Surplus and Tap the Trigger. This puts you way above the base Stability on the vaunted Antiope-D and other Precision Frame SMGs. The Recoil is `97` so YMMV on whether or not a Counterbalance mod is required (I suggest an Icarus Mod otherwise).
+### Extraordinary Rendition / PvP / Roll / **"A Perfect Rendition"**
+
+```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 28%]: Steady Rounds
+  Perks 1 [ 16%]: Surplus
+  Perks 2 [ 16%]: Tap the Trigger
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🌄🌄🌄🌟 Collector's Edition | 0.04% | 2268 |
+| 🌄🌄🌄 CE (+barrels) | 0.17% | 604 |
+| 🌄🌄🌄 CE (+magazines) | 0.11% | 907 |
+| 🌄🌄🌄 CE (-barrels) | 0.20% | 504 |
+| 🌄🌄🌄 CE (-masterworks) | 0.18% | 567 |
+| 🌄🌄🌄 CE (-magazines) | 0.15% | 648 |
+| 🌄🌄🌄 CE (+barrels, +magazines) | 0.41% | 241 |
+| 🌄🌄 (+barrels, -masterworks) | 0.66% | 151 |
+| 🌄 (+barrels, -magazines) | 0.58% | 172 |
+| 🌄 (+magazines, -masterworks) | 0.44% | 226 |
+
+### Extraordinary Rendition / PvP / Roll / **"A (Mostly) Perfect Rendition"**
+Same as the above, minus `Tap the Trigger`. Stability is so solid without it that we still have a very good PvP roll.
+```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 28%]: Steady Rounds
+  Perks 1 [ 16%]: Surplus
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🌃🌃🌃🌟 Collector's Edition | 0.26% | 378 |
+| 🌃🌃🌃 CE (+barrels) | 0.99% | 100 |
+| 🌃🌃🌃 CE (+magazines) | 0.66% | 151 |
+| 🌃🌃🌃 CE (-barrels) | 1.19% | 84 |
+| 🌃🌃🌃 CE (-masterworks) | 1.06% | 94 |
+| 🌃🌃🌃 CE (-magazines) | 0.93% | 108 |
+| 🌃🌃🌃 CE (+barrels, +magazines) | 2.48% | 40 |
+| 🌃🌃 (+barrels, -masterworks) | 3.97% | 25 |
+| 🌃 (+barrels, -magazines) | 3.47% | 28 |
+| 🌃 (+magazines, -masterworks) | 2.65% | 37 |
+
+### Extraordinary Rendition / PvE / Overview
+With `Surplus`, `One for All` and `Frenzy` in the EA perk pool, we're looking at a strong contender for one of the best kinetic weapons of all time (second only to the Ikelos SMG). `Surplus` improves Stability and Reload and `One for All` and `Frenzy` provide a tremendous damage boost and leaves your mod slot free for Minor, Major or Boss Spec.
+### Extraordinary Rendition / PvE / Roll / **"A Beautiful Rendition"**
+This is going to be immensely helpful in **high tier content** where you aren't able to proc damage perks off of kills. While `Surplus` will be boosting Stability, the Stability is so low and difficult to manage on console that we'll continue to crave it as a backstop for when we're at lower tiers of `Surplus` benefits.
+```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 28%]: Extended Mag
+  Perks 1 [ 16%]: Surplus
+  Perks 2 [ 33%]: One for All, Frenzy
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🖼🖼🖼🌟 Collector's Edition | 0.09% | 1134 |
+| 🖼🖼🖼 CE (+barrels) | 0.33% | 302 |
+| 🖼🖼🖼 CE (+magazines) | 0.16% | 618 |
+| 🖼🖼🖼 CE (+barrels, +magazines) | 0.61% | 164 |
+| 🖼🖼🖼 (-barrels) | 0.40% | 252 |
+| 🖼🖼🖼 (-magazines) | 0.31% | 324 |
+| 🖼🖼🖼 (-masterworks) | 0.35% | 283 |
+| 🖼🖼 (-barrels, -magazines, -masterworks) | 5.56% | 18 |
+
+### Extraordinary Rendition / PvE / Roll / **"A (Mostly) Beautiful Rendition"**
+Similar to the above but we'll take some extended perks that make this a fun go-to for low- to mid-tier content.
+```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 28%]: Extended Mag
+  Perks 1 [ 33%]: Surplus, Overflow
+  Perks 2 [ 50%]: Frenzy, Multikill Clip, Rampage
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🆗🆗🆗🌟 Collector's Edition | 0.26% | 378 |
+| 🆗🆗🆗 CE (+barrels) | 0.99% | 100 |
+| 🆗🆗🆗 CE (+magazines) | 0.49% | 206 |
+| 🆗🆗🆗 CE (+barrels, +magazines) | 1.82% | 54 |
+| 🆗🆗🆗 (-barrels) | 1.19% | 84 |
+| 🆗🆗🆗 (-magazines) | 0.93% | 108 |
+| 🆗🆗🆗 (-masterworks) | 1.06% | 94 |
+| 🆗🆗 (-barrels, -magazines, -masterworks) | 16.67% | 6 |
+
+# Imperial Needle
+*For all possible perks, check out **Imperial Needle** over on [light.gg](https://www.light.gg/db/items/3460122497/imperial-needle/)*
+
+The Needle is a Lightweight Frame, Void Bow, part of the S13 family of seasonal weapons. It can roll with many of the new perks including `Frenzy` and `Impulse Amplifier`. It's otherwise [quite similar](https://www.light.gg/db/items/compare/?h=DOPUeB;Moe3e) to the Whispering Slab in terms of base stats.
+
+As per usual, I suggest checking out these amazing posts:
+
+* [A Bow Guide](https://www.reddit.com/r/CrucibleSherpa/comments/kx1ew8/a_bow_guide/) - [/u/kfairns](https://www.reddit.com/user/kfairns/)
+* [An In-Depth Guide to Using a Bow in Competitive PvP (Console or PC)](https://www.reddit.com/r/CruciblePlaybook/comments/hjvoka/an_indepth_guide_to_using_a_bow_in_competitive/) - [/u/TheGuiltySpark117](https://www.reddit.com/user/TheGuiltySpark117/)
+
+The new perks don't change the suggested PvP rolls from Whispering Slab, so these rolls will be straight reproductions from what we previously covered when S11 dropped; [Whispering Slab - S11](https://rslifka.github.io/wishlist/#whispering-slab).
+### Imperial Needle / PvP / Overview
+
+### Imperial Needle / PvP / Roll / **"GuiltySpark's Aggro Needle"**
+(copied from [Whispering Slab](https://rslifka.github.io/wishlist/#whispering-slab))   
+```
+  Barrels [ 28%]: Elastic String
+  Mags    [ 33%]: Fiberglass Arrow Shaft
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [ 20%]: Accuracy MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 😡😡😡🌟 Collector's Edition | 0.05% | 1889 |
+| 😡😡😡 CE (+barrels) | 0.10% | 1030 |
+| 😡😡😡 CE (+magazines) | 0.10% | 1050 |
+| 😡😡😡 CE (+masterworks) | 0.11% | 944 |
+| 😡😡 (+barrels, +magazines, +masterworks) | 0.35% | 286 |
+| 😡 (-barrels, -magazines, +masterworks) | 1.11% | 89 |
+
+### Imperial Needle / PvP / Roll / **"GuiltySpark's Reserved Needle"**
+(copied from [Whispering Slab](https://rslifka.github.io/wishlist/#whispering-slab))   
+```
+  Barrels [ 28%]: High Tension String
+  Mags    [ 33%]: Fiberglass Arrow Shaft
+  Perks 1 [ 16%]: Archer's Tempo
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [ 20%]: Accuracy MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🧐🧐🧐🌟 Collector's Edition | 0.05% | 1889 |
+| 🧐🧐🧐 CE (+barrels) | 0.10% | 1030 |
+| 🧐🧐🧐 CE (+magazines) | 0.10% | 1050 |
+| 🧐🧐🧐 CE (+masterworks) | 0.11% | 944 |
+| 🧐🧐 (+barrels, +magazines, +masterworks) | 0.35% | 286 |
+| 🧐🧐🧐 CE (-barrels) | 0.19% | 540 |
+| 🧐🧐🧐 CE (-magazines) | 0.16% | 630 |
+| 🧐🧐🧐 CE (-masterworks) | 0.26% | 378 |
+| 🧐🧐 (-barrels, -magazines) | 0.56% | 179 |
+| 🧐🧐 (-barrels, -masterworks) | 0.93% | 108 |
+| 🧐🧐 (-magazines, -masterworks) | 0.79% | 126 |
+| 🧐 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
 
 ## Berenger's Memory - PvE
 *For all possible perks, check out **Berenger's Memory** over on [light.gg](https://www.light.gg/db/items/407621213/berengers-memory/)*
