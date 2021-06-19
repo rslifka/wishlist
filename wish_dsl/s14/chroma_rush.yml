@@ -1,7 +1,6 @@
 syntax_version: 2
 name: Chroma Rush
 item_id: 1119734784
-lightgg: https://www.light.gg/db/items/1119734784/chroma-rush/
 traits:
   barrels:     {t: 9, c: 2}
   magazines:   {t: 7, c: 2}

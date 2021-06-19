@@ -1,7 +1,6 @@
 syntax_version: 2
 name: Glacioclasm
 item_id: 1030895163
-lightgg: https://www.light.gg/db/items/1030895163/glacioclasm/
 traits:
   barrels:     {t: 9, c: 2}
   magazines:   {t: 6, c: 2}

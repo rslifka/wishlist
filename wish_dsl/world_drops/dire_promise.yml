@@ -1,7 +1,6 @@
 syntax_version: 2
 name: Dire Promise
 item_id: 2742838701
-lightgg: https://www.light.gg/db/items/2742838701/dire-promise/
 traits:
   barrels:     {t: 6, c: 1}
   magazines:   {t: 8, c: 1}

@@ -1,7 +1,6 @@
 syntax_version: 2
 name: Imperial Needle
 item_id: 3460122497
-lightgg: https://www.light.gg/db/items/3460122497/imperial-needle/
 traits:
   barrels:     {t: 7, c: 2}
   magazines:   {t: 6, c: 2}

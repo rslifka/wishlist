@@ -1,7 +1,6 @@
 syntax_version: 2
 name: The Number
 item_id: 2492081469
-lightgg: https://www.light.gg/db/items/2492081469/the-number/
 traits:
   barrels:     {t: 9, c: 2}
   magazines:   {t: 8, c: 2}

@@ -1,7 +1,6 @@
 syntax_version: 2
 name: Extraordinary Rendition
 item_id: 1097616550
-lightgg: https://www.light.gg/db/items/1097616550/extraordinary-rendition/
 traits:
   barrels:     {t: 9, c: 2}
   magazines:   {t: 7, c: 2}

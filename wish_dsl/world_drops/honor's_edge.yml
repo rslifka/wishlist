@@ -1,6 +1,5 @@
 name: Honor's Edge
 item_id: 2857348871
-lightgg: https://www.light.gg/db/items/2857348871/honors-edge/
 slots:
   barrels:     {t: 5, c: 2}
   magazines:   {t: 5, c: 2}

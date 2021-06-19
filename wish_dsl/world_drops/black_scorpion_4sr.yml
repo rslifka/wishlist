@@ -1,7 +1,6 @@
 syntax_version: 2
 name: Black Scorpion-4sr
 item_id: 525750263
-lightgg: https://www.light.gg/db/items/525750263/black-scorpion-4sr/
 traits:
   barrels:     {t: 9, c: 2}
   magazines:   {t: 8, c: 2}

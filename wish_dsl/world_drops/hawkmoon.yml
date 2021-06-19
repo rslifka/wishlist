@@ -1,7 +1,6 @@
 syntax_version: 2
 name: Hawkmoon
 item_id: 3856705927
-lightgg: https://www.light.gg/db/items/3856705927/hawkmoon/
 traits:
   barrels:     {t: 9, c: 1}
   magazines:   {t: 1, c: 1}

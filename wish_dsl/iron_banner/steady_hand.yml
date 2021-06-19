@@ -1,7 +1,6 @@
 syntax_version: 2
 name: The Steady Hand
 item_id: 2220884262
-lightgg: https://www.light.gg/db/items/2220884262/the-steady-hand/
 traits:
   barrels:     {t: 6, c: 2}
   magazines:   {t: 8, c: 2}

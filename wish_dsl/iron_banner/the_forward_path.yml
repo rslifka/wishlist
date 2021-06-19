@@ -1,7 +1,6 @@
 syntax_version: 2
 name: The Forward Path
 item_id: 1690783811
-lightgg: https://www.light.gg/db/items/1690783811/the-forward-path/
 traits:
   barrels:     {t: 6, c: 2}
   magazines:   {t: 7, c: 2}

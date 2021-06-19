@@ -1,7 +1,6 @@
 syntax_version: 2
 name: Cold Front
 item_id: 1506719573
-lightgg: https://www.light.gg/db/items/1506719573/cold-front/
 traits:
   barrels:     {t: 9, c: 2}
   magazines:   {t: 8, c: 2}

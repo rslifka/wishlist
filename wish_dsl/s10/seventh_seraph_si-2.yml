@@ -1,7 +1,6 @@
 syntax_version: 2
 name: Seventh Seraph SI-2
 item_id: 3937866388
-lightgg: https://www.light.gg/db/items/3937866388/seventh-seraph-si-2/
 traits:
   barrels:     {t: 9, c: 2}
   magazines:   {t: 8, c: 2}

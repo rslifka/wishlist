@@ -1,7 +1,6 @@
 syntax_version: 2
 name: Stars in Shadow
 item_id: 2050789284
-lightgg: https://www.light.gg/db/items/2050789284/stars-in-shadow/
 traits:
   barrels:     {t: 9, c: 2}
   magazines:   {t: 7, c: 2}

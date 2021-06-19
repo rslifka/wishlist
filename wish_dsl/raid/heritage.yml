@@ -1,7 +1,6 @@
 syntax_version: 2
 name: Heritage
 item_id: 4248569242
-lightgg: https://www.light.gg/db/items/4248569242/heritage/
 traits:
   barrels:     {t: 9, c: 2}
   magazines:   {t: 7, c: 2}

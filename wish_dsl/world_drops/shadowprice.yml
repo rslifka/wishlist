@@ -1,7 +1,6 @@
 syntax_version: 2
 name: Shadow Price
 item_id: 2633186522
-lightgg: https://www.light.gg/db/items/2633186522/shadow-price/
 traits:
   barrels:     {t: 9, c: 2}
   magazines:   {t: 8, c: 2}

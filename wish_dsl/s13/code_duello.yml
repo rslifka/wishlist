@@ -1,7 +1,6 @@
 syntax_version: 2
 name: Code Duello
 item_id: 2496242052
-lightgg: https://www.light.gg/db/items/2496242052/code-duello/
 traits:
   barrels:     {t: 6, c: 2}
   magazines:   {t: 5, c: 2}

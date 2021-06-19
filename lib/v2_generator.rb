@@ -17,13 +17,13 @@ class V2Generator
 
   def generate_roll(roll_data)
     weapon_name = roll_data['name']
-    lightgg_link = roll_data['lightgg']
+    gunsmith_link = "https://d2gunsmith.com/w/#{roll_data['item_id']}"
     overview = roll_data['overview']
 
     StringIO.new.tap do |output|
 
       output.puts("# #{weapon_name}")
-      output.puts("*For all possible perks, check out **#{weapon_name}** over on [light.gg](#{lightgg_link})*")
+      output.puts("*For all possible perks, check out **#{weapon_name}** over on [d2gunsmith.com](#{gunsmith_link})*")
       output.puts
       output.puts(overview)
 
