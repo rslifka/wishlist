@@ -46,11 +46,11 @@ groups:
 
 
       Similar to my thoughts on 180 RPM Hand Cannons, I do think Explosive
-      Rounds is very strong here. The explosions have no damage falloff and
+      Payload is very strong here. The explosions have no damage falloff and
       with the high rate of fire, it means your target is constantly flinched
       (almost annoying so). Here's a 
       [video](https://www.youtube.com/watch?v=n0uI-KZnD70)
-      from Drewsky demonstrating how High Caliber Rounds and Explosive Rounds
+      from Drewsky demonstrating how High Caliber Rounds and Explosive Payload
       work.
 
       > "[Explosive Rounds] made the crosshairs jerk horizontally while rising
@@ -58,10 +58,10 @@ groups:
       flinch patterns [than High-Caliber Rounds]."
 
 
-      This was the same basis of my suggestion for Explosive Rounds on the
+      This was the same basis of my suggestion for Explosive Payload on the
       Patron of Lost Causes back in Season of the Dawn (S9). I think it's
       similarly strong here, especially in sixes where you're likely to get
-      additional assist points from Explosive Rounds when people are clumped
+      additional assist points from Explosive Payload when people are clumped
       together.
 
 
@@ -77,7 +77,7 @@ groups:
         barrels: [Polygonal Rifling]
         magazines: [Steady Rounds]
         perks1: [Rapid Hit]
-        perks2: [Explosive Rounds]
+        perks2: [Explosive Payload]
         masterworks: [Stability MW]
       - 
         <<: *nwstable
@@ -183,7 +183,7 @@ groups:
         barrels: [Arrowhead Brake]
         magazines: [Steady Rounds]
         perks1: [Rapid Hit]
-        perks2: [Multikill Clip, Explosive Rounds]
+        perks2: [Multikill Clip, Explosive Payload]
         masterworks: [Stability MW]
       - 
         <<: *nwrecoil

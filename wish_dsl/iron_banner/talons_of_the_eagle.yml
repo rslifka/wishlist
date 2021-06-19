@@ -20,7 +20,7 @@ groups:
 
       
       In order to beat out other long-range options in the Kinetic slot for PvP,
-      I think you really want `Explosive Rounds` here. 150s are the
+      I think you really want `Explosive Payload` here. 150s are the
       slowest-firing, heaviest-hitting scouts but when you're competing against
       snipers and Arbalests, I think you need more flinch than they can put out
       at base.
@@ -40,7 +40,7 @@ groups:
         barrels: [Polygonal Rifling]
         magazines: [Steady Rounds]
         perks1: [Firmly Planted]
-        perks2: [Explosive Rounds]
+        perks2: [Explosive Payload]
         masterworks: [Stability MW]
       - 
         <<: *tefirmly
