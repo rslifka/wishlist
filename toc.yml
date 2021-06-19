@@ -1,8 +1,9 @@
 ordering:
-  - s13
+  - s14
   - world_drops
   - iron_banner
   - raid
+  - s13
   - s11
   - s10
   - s9
@@ -10,8 +11,8 @@ naming:
   s9: Season 9 - Season of the Dawn (Concluded)
   s10: Season 10 - Season of the Worthy (Concluded)
   s11: Season 11 - Season of Arrivals (Concluded) 
-  s13: Season 13 - Season of the Chosen (December 2020 - May 2021)
-  world_drops: World Drops
+  s13: Season 13 - Season of the Chosen (Concluded)
+  s14: Season 14 - Season of the Splicer (May 11 - Aug 24, 2021)
   iron_banner: Iron Banner
   raid: Raids
-  iron_banner: Iron Banner
+  world_drops: World Drops

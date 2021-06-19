@@ -1,0 +1,170 @@
+syntax_version: 2
+name: Chroma Rush
+item_id: 1119734784
+lightgg: https://www.light.gg/db/items/1119734784/chroma-rush/
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 7, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  Chroma Rush is one of the many beautiful new weapons available in S14. It's
+  a 720 RPM Rapid-Fire Frame Auto Rifle; the only available in the game apart
+  from Arctic Haze. See how they compare
+  [over on light.gg](https://www.light.gg/db/items/compare/?h=BCvcwA;BP3N0;).
+  Artic Haze suffered from a punishing base recoil and a
+  lack of stability and damage-dealing perks whereas Chroma has both of those
+  in spades.
+activities:
+  - 
+    name: PvP
+    overview: >
+      AR's were most recently meta a few seasons back when the 600 RPM variant
+      dominated the Crucible. They've since been tuned a bit and haven't
+      seen much play since the dawn of 120 RPM Hand Cannons. 720s are a bit more
+      interesting since presumably a faster rate of fire means more flinch, and
+      flinch is how ARs win gunfights against their slower, more stable-shooting
+      brethren.
+
+      
+      * As a 720 RPM Auto, Chroma's base Aim Assist and Stability are very good.
+      I'd like to avoid spending the core slots on perks that provide incremental
+      benefits to those very good stats, like `Dynamic Sway Reduction` or
+      `Tap the Trigger`. These perks buff already strong core attributes. **Don't
+      get me wrong; they're phenomenal perks, but you already knew that.**
+      
+      * I'm also avoiding an emphasis on `Range`. If you spend every column on
+      maximizing `Range`, you're adding a whopping 3m of falloff at the cost of
+      otherwise S-tier perks.
+      
+      * Its base Recoil is 45 and I've made great use of several rolls that have
+      no `Recoil`-adjusting Barrels.
+
+
+      All of that being said, nearly **every perk** in the final two columns is
+      terrific. E.g. `Thresh` is great, but I'm not calling it out here because
+      you don't need a wishlist to tell you it's a good perk (i.e. it needs to
+      harmonize with another perk or combo of perks on the weapon to warrant
+      being part of a roll.)
+    roll_sets:
+      -
+        name: Catching Fire
+        overview: >
+          With `Heating Up` and `Kill Clip` going, Chroma Rush feels like a
+          longer-range
+          [Recluse](https://www.light.gg/db/items/3354242550/the-recluse/).
+          `Kill Clip` takes you from an optimal TTK of `9h1b/0.77s` to
+          `6h2b/0.60s` and your body shot TTK from `1.17s` to `0.83s`. `Heating
+          Up` seems practically designed for Auto Rifles, buffing your Accuracy,
+          Stability and Recoil 🤯 "But Slif, `Heating Up` will go to waste while
+          I'm reloading to proc Kill Clip". The reload is snappy; you'll have
+          time. Throw on some some Auto Rifle reload mods if you're concerned.
+        perks: 
+          base: 
+            barrels: [Smallbore]
+            magazines: [Steady Rounds]
+            perks1: [Heating Up]
+            perks2: [Kill Clip]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel, Chambered Compensator, Arrowhead Brake]
+            magazines: [Steady Rounds, Tactical Mag, Flared Magwell, Accurized Rounds]
+        variants:
+          - 🔥🔥🔥🌟 Collector's Edition
+          - 🔥🔥🔥 CE (+barrels)
+          - 🔥🔥🔥 CE (+magazines)
+          - 🔥🔥🔥 CE (-masterworks)
+          - 🔥🔥 (+barrels, -masterworks)
+          - 🔥🔥 (+magazines, -masterworks)
+          - 🔥🔥 (+barrels, +magazines, -masterworks)
+          - 🔥 (-barrels, -magazines, -masterworks)
+      -
+        name: Color Wheel
+        overview: >
+          This is similar to the above roll, swapping out `Heating Up` in
+          exchange for `Tunnel Vision`, which perhaps more synergistically procs
+          on reload along with `Kill Clip`.
+        perks: 
+          base: 
+            barrels: [Smallbore]
+            magazines: [Steady Rounds]
+            perks1: [Tunnel Vision]
+            perks2: [Kill Clip]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel, Chambered Compensator, Arrowhead Brake]
+            magazines: [Steady Rounds, Tactical Mag, Flared Magwell, Accurized Rounds]
+        variants:
+          - 🎨🎨🎨🌟 Collector's Edition
+          - 🎨🎨🎨 CE (+barrels)
+          - 🎨🎨🎨 CE (+magazines)
+          - 🎨🎨🎨 CE (-masterworks)
+          - 🎨🎨 (+barrels, -masterworks)
+          - 🎨🎨 (+magazines, -masterworks)
+          - 🎨🎨 (+barrels, +magazines, -masterworks)
+          - 🎨 (-barrels, -magazines, -masterworks)
+  -
+    name: PvE
+    overview: >
+      I absolutely love 720 RPM Autos in PvE; perhaps my favourite weapon type
+      across all of Destiny. I was sad to see my beloved
+      [Steelfeather Repeater](https://www.light.gg/db/items/1251729046/steelfeather-repeater/)
+      be sunset but c'est la vie. Of the new perks on Chroma Rush (`Heating Up`,
+      `Tunnel Vision` and `Adrenaline Junkie`), only `Adrenaline Junkie` is
+      compelling in PvE. It does work, but only in niche situations where you
+      can keep your grenades up. Sure there are builds that can do that, but you
+      don't need this wishlist to tell you that you're looking for a single perk.
+
+
+      Here we're going with old reliable combos. `Subsistence` was recently
+      buffed to ease off the penalty to your reserves, and is an absolute
+      S-tier perk now.
+    roll_sets:
+      -
+        name: Still Life
+        overview:
+          Both `Subsistence` and `Rampage` form the core of this roll.
+        perks:
+          base:
+            barrels: [Hammer-Forged Rifling]
+            magazines: [Accurized Rounds]
+            perks1: [Subsistence]
+            perks2: [Rampage]
+            masterworks: [Range MW]
+          extensions:
+            barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Full Bore, Extended Barrel]
+            magazines: [Accurized Rounds, Extended Mag, Appended Mag, Tactical Mag]
+        variants:
+          - 🍊🍊🍊🌟 Collector's Edition
+          - 🍊🍊🍊 CE (+barrels)
+          - 🍊🍊🍊 CE (+magazines)
+          - 🍊🍊🍊 CE (-masterworks)
+          - 🍊🍊 (+barrels, -masterworks)
+          - 🍊🍊 (+magazines, -masterworks)
+          - 🍊🍊 (+barrels, +magazines, -masterworks)
+          - 🍊 (-barrels, -magazines, -masterworks)          
+      -
+        name: Captured Moment
+        overview:
+          Same as the roll above, centered around `Feeding Frenzy` and `Kill
+          Clip`.
+        perks:
+          base:
+            barrels: [Hammer-Forged Rifling]
+            magazines: [Accurized Rounds]
+            perks1: [Feeding Frenzy]
+            perks2: [Kill Clip]
+            masterworks: [Range MW]
+          extensions:
+            barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Full Bore, Extended Barrel]
+            magazines: [Accurized Rounds, Extended Mag, Appended Mag, Tactical Mag]
+        variants:
+          - 🖼🖼🖼🌟 Collector's Edition
+          - 🖼🖼🖼 CE (+barrels)
+          - 🖼🖼🖼 CE (+magazines)
+          - 🖼🖼🖼 CE (-masterworks)
+          - 🖼🖼 (+barrels, -masterworks)
+          - 🖼🖼 (+magazines, -masterworks)
+          - 🖼🖼 (+barrels, +magazines, -masterworks)
+          - 🖼 (-barrels, -magazines, -masterworks)          
