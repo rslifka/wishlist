@@ -1144,20 +1144,20 @@ Going for as much `Recoil` and `Stability` improvement as we can get. `Kill Clip
   Barrels [ 22%]: Arrowhead Brake
   Mags    [ 25%]: Steady Rounds
   Perks 1 [ 40%]: Tap the Trigger, Zen Moment
-  Perks 2 [ 40%]: Kill Clip
+  Perks 2 [ 20%]: Kill Clip
   MWorks  [ 25%]: Stability MW
 ```
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🧟‍♂️🧟‍♂️🧟‍♂️🌟 Collector's Edition | 0.22% | 450 |
-| 🧟‍♂️🧟‍♂️🧟‍♂️ CE (-masterworks) | 0.89% | 112 |
+| 🧟‍♂️🧟‍♂️🧟‍♂️🌟 Collector's Edition | 0.11% | 900 |
+| 🧟‍♂️🧟‍♂️🧟‍♂️ CE (-masterworks) | 0.44% | 225 |
 | 🧟‍♂️🧟‍♂️🧟‍♂️ CE (-perks2) | 0.56% | 179 |
-| 🧟‍♂️🧟‍♂️🧟‍♂️ CE (+magazines) | 0.57% | 175 |
-| 🧟‍♂️🧟‍♂️ (+magazines, -masterworks) | 2.29% | 43 |
+| 🧟‍♂️🧟‍♂️🧟‍♂️ CE (+magazines) | 0.29% | 350 |
+| 🧟‍♂️🧟‍♂️ (+magazines, -masterworks) | 1.14% | 87 |
 | 🧟‍♂️🧟‍♂️ (+magazines, -perks2) | 1.43% | 70 |
-| 🧟‍♂️🧟‍♂️ (-magazines) | 0.89% | 112 |
-| 🧟‍♂️🧟‍♂️ (-magazines, -masterworks) | 3.56% | 28 |
+| 🧟‍♂️🧟‍♂️ (-magazines) | 0.44% | 225 |
+| 🧟‍♂️🧟‍♂️ (-magazines, -masterworks) | 1.78% | 56 |
 | 🧟‍♂️🧟‍♂️ (-magazines, -perks2) | 2.22% | 44 |
 | 🧟‍♂️🧟‍♂️ (+magazines, -perks2, -masterworks) | 5.71% | 17 |
 | 🧟‍♂️ (-magazines, -perks2, -masterworks) | 8.89% | 11 |
@@ -1168,19 +1168,19 @@ Similar to the above roll, relying on `Zen Moment` for `Recoil` improvement.
   Barrels [ 22%]: Arrowhead Brake
   Mags    [ 25%]: Steady Rounds
   Perks 1 [100%]: *
-  Perks 2 [ 40%]: Kill Clip
+  Perks 2 [ 20%]: Kill Clip
   MWorks  [ 25%]: Stability MW
 ```
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🛠🛠🛠🌟 Collector's Edition | 0.56% | 179 |
-| 🛠🛠🛠 CE (-masterworks) | 2.22% | 44 |
+| 🛠🛠🛠🌟 Collector's Edition | 0.28% | 359 |
+| 🛠🛠🛠 CE (-masterworks) | 1.11% | 89 |
 | 🛠🛠🛠 CE (-perks2) | 1.39% | 72 |
-| 🛠🛠🛠 CE (+magazines) | 1.43% | 70 |
-| 🛠🛠 (+magazines, -masterworks) | 5.71% | 17 |
+| 🛠🛠🛠 CE (+magazines) | 0.71% | 140 |
+| 🛠🛠 (+magazines, -masterworks) | 2.86% | 35 |
 | 🛠🛠 (+magazines, -perks2) | 3.57% | 28 |
-| 🛠🛠 (-magazines) | 2.22% | 44 |
+| 🛠🛠 (-magazines) | 1.11% | 89 |
 
 ### Gnawing Hunger / PvE / Overview
 
@@ -1190,17 +1190,20 @@ As much Range as we can get from everywhere we can get it. We're combining Subsi
   Barrels [ 22%]: Hammer-Forged Rifling
   Mags    [ 25%]: Accurized Rounds
   Perks 1 [ 20%]: Subsistence
-  Perks 2 [ 70%]: Swashbuckler, Rampage
+  Perks 2 [ 40%]: Swashbuckler, Rampage
   MWorks  [ 25%]: Range MW
 ```
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 💦💦💦🌟 Collector's Edition | 0.19% | 514 |
-| 💦💦💦 CE (+barrels) | 0.63% | 158 |
-| 💦💦💦 CE (-magazines) | 0.78% | 128 |
-| 💦💦 (-magazines, -masterworks) | 3.11% | 32 |
-| 💦💦 (-barrels, -magazines, -masterworks) | 14.00% | 7 |
+| 💦💦💦🌟 Collector's Edition | 0.11% | 900 |
+| 💦💦💦 CE (+barrels) | 0.36% | 276 |
+| 💦💦💦 CE (-magazines) | 0.44% | 225 |
+| 💦💦💦 CE (-masterworks) | 0.44% | 225 |
+| 💦💦 (+barrels, -magazines) | 1.44% | 69 |
+| 💦💦 (+barrels, -masterworks) | 1.44% | 69 |
+| 💦💦 (-magazines, -masterworks) | 1.78% | 56 |
+| 💦 (-barrels, -magazines, -masterworks) | 8.00% | 12 |
 
 ### Gnawing Hunger / PvE / Roll / **"Ranged Assassin"**
 As much Range as we can get from everywhere we can get it. We're relying on fast-reload magazines to synergize with either of the Kill Clip options.
@@ -1208,16 +1211,20 @@ As much Range as we can get from everywhere we can get it. We're relying on fast
   Barrels [ 22%]: Hammer-Forged Rifling
   Mags    [ 46%]: Drop Mag, Alloy Magazine
   Perks 1 [100%]: *
-  Perks 2 [ 70%]: Multikill Clip, Kill Clip
+  Perks 2 [ 40%]: Multikill Clip, Kill Clip
   MWorks  [ 25%]: Range MW
 ```
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👻👻👻🌟 Collector's Edition | 1.81% | 55 |
-| 👻👻👻 CE (+barrels) | 5.87% | 17 |
-| 👻👻👻 CE (-masterworks) | 7.22% | 13 |
-| 👻👻 (-barrels, -masterworks) | 32.50% | 3 |
+| 👻👻👻🌟 Collector's Edition | 1.03% | 96 |
+| 👻👻👻 CE (+barrels) | 3.35% | 29 |
+| 👻👻👻 CE (-magazines) | 2.22% | 44 |
+| 👻👻👻 CE (-masterworks) | 4.13% | 24 |
+| 👻👻 (+barrels, -magazines) | 7.22% | 13 |
+| 👻👻 (+barrels, -masterworks) | 13.41% | 7 |
+| 👻👻 (-magazines, -masterworks) | 8.89% | 11 |
+| 👻 (-barrels, -magazines, -masterworks) | 40.00% | 2 |
 
 # Hawkmoon
 *For all possible perks, check out **Hawkmoon** over on [d2gunsmith.com](https://d2gunsmith.com/w/3856705927)*
