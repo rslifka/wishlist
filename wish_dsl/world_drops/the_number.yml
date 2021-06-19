@@ -1,0 +1,123 @@
+syntax_version: 2
+name: The Number
+item_id: 2492081469
+lightgg: https://www.light.gg/db/items/2492081469/the-number/
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  The Number is a 450 RPM Precision Frame, Arc Energy Auto Rifle, offered as a
+  random roll beginning in Season 14. It initially appeared years ago in the
+  "Faction Rallies" events as part of the Future War Cult weapon pool. It
+  [compares closely](https://www.light.gg/db/items/compare/?h=CUiiU9;Cc8zza;)
+  to the Shadow Price, a Nightfall-only reward offerd in Season 13.
+activities:
+  - 
+    name: PvP
+    overview: >
+      450s haven't been great in PvP since the first year of Destiny 2. In S14
+      they received a minor buff to precision damage though it doesn't appear
+      to have made a dent in the overall PvP meta. It isn't that they're "bad"
+      per se, it's that so many other weapons are so good. Well, with one of
+      the worst body-shot TTKs in the game I think some folks might state that
+      they are actually "bad" 🤷
+      
+      
+      As 450s go, The
+      Number is perhaps a bit more interesting because its base `Recoil` is
+      `70` which means you have a number of options to 'fix' the Recoil to
+      vertical. Archetype and Recoil aside, The Number doesn't have a whole lot
+      of PvP perks to choose from so we won't have too many rolls here.
+    roll_sets:
+      -
+        name: Sheikh's Choice
+        overview: >
+          Mr. Fun Police himself nabbed an
+          [absolutely phenomenal roll](https://www.youtube.com/watch?v=3LozV7KaCHs)
+          which happens to be this one right here. Just getting a single kill and
+          activating `Multikill Clip x 1` takes you from a `6h2b/0.93s` to a
+          `6h0b/0.67s` TTK. This place nicely with an ability or two up with
+          `Surplus`, to get those crispy reloads.
+        perks: 
+          base: 
+            barrels: [Arrowhead Brake]
+            magazines: [Ricochet Rounds]
+            perks1: [Surplus]
+            perks2: [Multikill Clip]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling]
+            magazines: [Ricochet Rounds, Flared Magwell, High-Caliber Rounds, Light Mag, Armor-Piercing Rounds]
+        variants:
+          - 👮👮👮🌟 Collector's Edition
+          - 👮👮👮 CE (+barrels)
+          - 👮👮👮 CE (+magazines)
+          - 👮👮👮 CE (-masterworks)
+          - 👮👮 (+barrels, -masterworks)
+          - 👮👮 (+magazines, -masterworks)
+          - 👮👮 (+barrels, +magazines, -masterworks)
+      -
+        name: Feedback Loop
+        overview: >
+          Classic combo here. `Surplus` and `Wellspring` were introduced in the
+          same season and compliment each other nicely. `Wellspring` takes some
+          of the edge off the reluctance to use abilities when running with a
+          `Surplus`-based primary.
+        perks: 
+          base: 
+            barrels: [Arrowhead Brake]
+            magazines: [Ricochet Rounds]
+            perks1: [Surplus]
+            perks2: [Wellspring]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling]
+            magazines: [Ricochet Rounds, Flared Magwell, High-Caliber Rounds, Light Mag, Armor-Piercing Rounds]
+        variants:
+          - ♻️♻️♻️🌟 Collector's Edition
+          - ♻️♻️♻️ CE (+barrels)
+          - ♻️♻️♻️ CE (+magazines)
+          - ♻️♻️♻️ CE (-masterworks)
+          - ♻️♻️ (+barrels, -masterworks)
+          - ♻️♻️ (+magazines, -masterworks)
+          - ♻️♻️ (+barrels, +magazines, -masterworks)
+  -
+    name: PvE
+    overview: >
+      450s (and ARs in general) are in a tough spot for PvE.
+      [Ehroar demonstrates](https://www.youtube.com/watch?v=Yeyr60J8K6A)
+      this comprehensively: they have a confusing damage profile compared to
+      other alternatives in that slot. If The Number were a kinetic, perhaps
+      less so, but the Energy slot is so loaded with great weapons that it's
+      hard to imagine this being your top choice in its current state. That
+      being said, frame buffs are always a thing and 450s seem long overdue
+      for one!
+    roll_sets:
+      -
+        name: One-for-All is the Loneliest
+        overview: >
+          PvE tends to be quite ability-heavy so `Surplus` might not be up
+          that often but it's gravy when it is, helping you maximize the
+          uptime of `One-for-All` and refreshing `Multikill Clip`.
+        perks:
+          base:
+            barrels: [Hammer-Forged Rifling]
+            magazines: [High-Caliber Rounds]
+            perks1: [Surplus]
+            perks2: [One for All, Multikill Clip]
+            masterworks: [Range MW]
+          extensions:
+            barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Chambered Compensator, Arrowhead Brake, Full Bore]
+            magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag, Flared Magwell]
+        variants:
+          - 🙋🙋🙋🌟 Collector's Edition
+          - 🙋🙋🙋 CE (+barrels)
+          - 🙋🙋🙋 CE (+magazines)
+          - 🙋🙋🙋 CE (-masterworks)
+          - 🙋🙋 (+barrels, -masterworks)
+          - 🙋🙋 (+magazines, -masterworks)
+          - 🙋🙋 (+barrels, +magazines, -masterworks)
+          - 🙋 (-barrels, -magazines, -masterworks)  
