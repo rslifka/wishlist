@@ -1,0 +1,80 @@
+syntax_version: 2
+name: Stochastic Variable
+item_id: 2272470786
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 9, c: 3}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  The Stochastic Variable is a 900 RPM SMG initially introduced as part of
+  the Faction Rallies event and was part of the Future War Cult loot pool.
+  It was reintroduced with random rolls in S14 and has access to some of the
+  new perks introduced with Beyond Light, but none of the S14-specific new
+  perks (e.g. `Danger Zone`).
+
+  
+  It seems to be universally panned in PvP and highly regarded in PvE, so
+  only PvE rolls will be featured. With the introduction of the
+  [Shayura's Wrath](https://d2gunsmith.com/w/3682803680)
+  Trials of Osiris reward, it gets some stiff competition in the PvP SMG
+  space.
+activities:
+  - 
+    name: PvE
+    overview: >
+      Stochastic Variable is a sleeper at the moment, but with a Warmind Cell
+      nerf of sorts likely incoming, it's a great alternative to pick up once
+      your Ikelos SMG becomes perhaps a bit less useful.
+    roll_sets:
+      -
+        name: Recluse 2.0 - Ehroar's Pick
+        overview: >
+          With `Feeding Frenzy` and `Multikill Clip` you're turning an already
+          terrific weapon into a Recluse-like machine.
+        perks:
+          base:
+            barrels: [Hammer-Forged Rifling]
+            magazines: [High-Caliber Rounds]
+            perks1: [Feeding Frenzy]
+            perks2: [Multikill Clip]
+            masterworks: [Range MW]
+          extensions:
+            barrels: [Hammer-Forged Rifling, Polygonal Rifling, Smallbore, Chambered Compensator, Corkscrew Rifling, Arrowhead Brake, Fluted Barrel, Extended Barrel]
+            magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag, Appended Mag, Alloy Magazine]
+        variants:
+          - 🕷🕷🕷🌟 Collector's Edition
+          - 🕷🕷🕷 CE (+barrels)
+          - 🕷🕷🕷 CE (+magazines)
+          - 🕷🕷🕷 CE (-masterworks)
+          - 🕷🕷🕷 (+barrels, +magazines)
+          - 🕷🕷🕷 (+barrels, -masterworks)
+          - 🕷🕷🕷 (+magazines, -masterworks)
+          - 🕷🕷🕷 (+barrels, +magazines, -masterworks)
+      -
+        name: Recluse 1.5 - Ehroar's Pick, Slightly Less Great
+        overview: >
+          But still great! While `Feeding Frenzy` is the winner in Column 3,
+          `Ambitious Assassin` and `Surplus` will also put in work. This is
+          the same roll as the above with those just two swapped in, in lieu
+          of `Feeding Frenzy`.
+        perks:
+          base:
+            barrels: [Hammer-Forged Rifling]
+            magazines: [High-Caliber Rounds]
+            perks1: [Surplus, Ambitious Assassin]
+            perks2: [Multikill Clip]
+            masterworks: [Range MW]
+          extensions:
+            barrels: [Hammer-Forged Rifling, Polygonal Rifling, Smallbore, Chambered Compensator, Corkscrew Rifling, Arrowhead Brake, Fluted Barrel, Extended Barrel]
+            magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag, Appended Mag, Alloy Magazine]
+        variants:
+          - 🕷🕷🕷🌟 Collector's Edition
+          - 🕷🕷🕷 CE (+barrels)
+          - 🕷🕷🕷 CE (+magazines)
+          - 🕷🕷🕷 CE (-masterworks)
+          - 🕷🕷🕷 (+barrels, +magazines)
+          - 🕷🕷🕷 (+barrels, -masterworks)
+          - 🕷🕷🕷 (+magazines, -masterworks)
+          - 🕷🕷🕷 (+barrels, +magazines, -masterworks)
