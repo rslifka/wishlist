@@ -19,7 +19,7 @@ groups:
       - &prapid
         name: (PvP/PvE) "Rapid Hitstability" 
         desc: >
-          This is all about stability. Yes, Explosive Rounds and Vorpal don't
+          This is all about stability. Yes, Explosive Payload and Vorpal don't
           increase stability but they would make this already great roll even
           better.
         barrels: [Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator, Polygonal Rifling]
