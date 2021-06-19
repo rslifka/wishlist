@@ -1,23 +1,22 @@
+syntax_version: 2
 name: Gnawing Hunger
 item_id: 821154603
-lightgg: https://www.light.gg/db/items/821154603/gnawing-hunger/
-slots:
+traits:
   barrels:     {t: 9, c: 2}
   magazines:   {t: 8, c: 2}
   perks1:      {t: 5, c: 1}
   perks2:      {t: 5, c: 2}
   masterworks: {t: 4, c: 1}
-groups:
+overview: >
+  Gnawing Hunger is a 600 RPM "Adaptive Frame" Energy Auto Rifle first
+  introduced in Season 6. It has been reissued in Season 11, meaning it will be
+  capable of going up to the Season 14 power level cap. Adaptives were buffed
+  Season 10 and unless something changes, will remain very strong through Season
+  11.
+activities:
   - 
     name: PvP
-    summary: >
-      Gnawing Hunger is a 600 RPM "Adaptive Frame" Energy Auto Rifle first
-      introduced in Season 6. It has been reissued in Season 11, meaning it will
-      be capable of going up to the Season 14 power level cap. Adaptives were
-      buffed Season 10 and unless something changes, will remain very strong
-      through Season 11.
-
-
+    overview: >
       For grins,
       [check out ZkMushroom](https://www.youtube.com/watch?v=qmbJdlYpD-s)
       using the generally agreed-upon "God roll" roll with `Tap the Trigger`,
@@ -56,324 +55,104 @@ groups:
       What you **really** want is to slam all these perks together for maximum
       Stability and minimal Recoil, and that's what we're going to break down
       below.
-    rolls:
-      - &ghhungry
-        name: (PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️🧟‍♂️🌟 Collector's Edition
-        desc: >
-          With a Counterbalance mod, this roll will be `Recoil:99` and once you
-          apply the Masterwork, `Stability:71`. Layered on top of `Tap the
-          Trigger`, it's a thing of beauty.
-        barrels: [Arrowhead Brake]
-        magazines: [Steady Rounds]
-        perks1: [Tap the Trigger]
-        perks2: [Kill Clip]
-        masterworks: [Stability MW]
-      - 
-        <<: *ghhungry
-        name: (PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️🧟‍♂️ CE (- Masterworks)
-        desc: ...
-        masterworks: []
-      - 
-        <<: *ghhungry
-        name: (PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️🧟‍♂️ CE (- Perk)
-        desc: ...
-        perks2: []
-      - &ghhungrymags
-        <<: *ghhungry
-        name: (PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️🧟‍♂️ CE (+ Magazines)
-        desc: ...
-        magazines: [Steady Rounds, Flared Magwell, Tactical Mag]
-      - 
-        <<: *ghhungrymags
-        name: (PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️🧟‍♂️ CE (+ Magazines - Masterworks)
-        desc: ...
-        masterworks: []
-      - 
-        <<: *ghhungrymags
-        name: (PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️🧟‍♂️ CE (+ Magazines - Perk)
-        desc: ...
-        perks2: []
+    roll_sets:
       -
-        <<: *ghhungry
-        name: (PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️🧟‍♂️ CE (- Magazines)
-        desc: ...
-        magazines: []
+        name: Drifter Hungry
+        overview: >
+          Going for as much `Recoil` and `Stability` improvement as we can get.
+          `Kill Clip` is phenomenal on the Gnawing Hunger, bumping your optimal
+          TTK from `8c1b/0.80s` to `6c1b/0.60s`.
+        perks: 
+          base: 
+            barrels: [Arrowhead Brake]
+            magazines: [Steady Rounds]
+            perks1: [Tap the Trigger, Zen Moment]
+            perks2: [Kill Clip]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
+            magazines: [Steady Rounds, Flared Magwell, Tactical Mag]
+        variants:
+          - 🧟‍♂️🧟‍♂️🧟‍♂️🌟 Collector's Edition
+          - 🧟‍♂️🧟‍♂️🧟‍♂️ CE (-masterworks)
+          - 🧟‍♂️🧟‍♂️🧟‍♂️ CE (-perks2)
+          - 🧟‍♂️🧟‍♂️🧟‍♂️ CE (+magazines)
+          - 🧟‍♂️🧟‍♂️ (+magazines, -masterworks)
+          - 🧟‍♂️🧟‍♂️ (+magazines, -perks2)
+          - 🧟‍♂️🧟‍♂️ (-magazines)
+          - 🧟‍♂️🧟‍♂️ (-magazines, -masterworks)
+          - 🧟‍♂️🧟‍♂️ (-magazines, -perks2)
+          - 🧟‍♂️🧟‍♂️ (+magazines, -perks2, -masterworks)
+          - 🧟‍♂️ (-magazines, -perks2, -masterworks)
       -
-        <<: *ghhungry
-        name: (PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️ CE (- Magazines - Masterworks)
-        desc: ...
-        magazines: []
-        masterworks: []
-      -
-        <<: *ghhungry
-        name: (PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️ CE (- Magazines - Perk)
-        desc: ...
-        magazines: []
-        perks2: []
-      - 
-        <<: *ghhungrymags
-        name: (PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️ CE (+ Magazines - Perk - Masterworks)
-        desc: ...
-        perks2: []
-        masterworks: []
-      -
-        <<: *ghhungry
-        name: (PvP) "Drifter Hungry" 🧟‍♂️ CE (Baseline)
-        desc: >
-          With these two and a Counterbalance mod, you're still in business.
-        magazines: []
-        perks2: []
-        masterworks: []
-      - &ghallout
-        name: (PvP) All-out Gnawing 🦷🦷🦷🌟 Collector's Edition
-        desc: >
-          This will be a similar set of rolls to the above, but with pretty
-          much gauranteed barrels. This should dramatically increase the 
-          chance that you pick up one of them.
-        barrels: [Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
-        magazines: [Steady Rounds]
-        perks1: [Tap the Trigger]
-        perks2: [Kill Clip]
-        masterworks: [Stability MW]
-      - 
-        <<: *ghallout
-        name: (PvP) All-out Gnawing 🦷🦷🦷 CE (Relaxed Masterwork)
-        desc: >
-          Same as the CE, with no Masterwork requirement.
-        masterworks: []
-      - 
-        <<: *ghallout
-        name: (PvP) All-out Gnawing 🦷🦷🦷 CE (Relaxed Perk)
-        desc: >
-          Same as the CE, with no Perk requirement.
-        perks2: []
-      - &ghoutmags
-        <<: *ghallout
-        name: (PvP) All-out Gnawing 🦷🦷🦷 CE (Relaxed Magazine)
-        desc: >
-          Same as the CE, with relaxed Magazines.
-        magazines: [Steady Rounds, Flared Magwell, Tactical Mag]
-      - 
-        <<: *ghoutmags
-        name: (PvP) All-out Gnawing 🦷🦷🦷 CE (Relaxed Magazines and Masterwork)
-        desc: >
-          Same as the CE, with no Masterwork requirement.
-        masterworks: []
-      - 
-        <<: *ghoutmags
-        name: (PvP) All-out Gnawing 🦷🦷🦷 CE (Relaxed Magazines and Masterwork)
-        desc: >
-          Same as the CE, with no Masterwork requirement.
-        perks2: []
-      - &ghoutfully
-        <<: *ghallout
-        name: (PvP) All-out Gnawing 🦷🦷 CE (Fully Relaxed Magazines)
-        desc: >
-          Same as the CE, with no Magazine requirement.
-        magazines: []
-      -
-        <<: *ghoutfully
-        name: (PvP) All-out Gnawing 🦷 CE (Relaxed Masterworks)
-        desc: >
-          Same as the roll above, minus Masterworks.
-        masterworks: []
-      - &ghzen
-        name: (PvP) Drifter Zen 🧘‍♂️🧘‍♂️🧘‍♂️🌟 Collector's Edition
-        desc: >
-          With a Counterbalance mod, this roll will be `Recoil:99` and once you
-          apply the Masterwork, `Stability:71`. Layered on top of `Zen Moment`,
-          you've got a great roll.
-        barrels: [Arrowhead Brake]
-        magazines: [Steady Rounds]
-        perks1: [Zen Moment]
-        perks2: [Kill Clip]
-        masterworks: [Stability MW]
-      - 
-        <<: *ghzen
-        name: (PvP) Drifter Zen 🧘‍♂️🧘‍♂️🧘‍♂️ CE (Relaxed Masterwork)
-        desc: >
-          Same as the CE, with no Masterwork requirement.
-        masterworks: []
-      - 
-        <<: *ghzen
-        name: (PvP) Drifter Zen 🧘‍♂️🧘‍♂️🧘‍♂️ CE (Relaxed Perk)
-        desc: >
-          Same as the CE, with no Perk requirement.
-        perks2: []
-      - &ghzenmags
-        <<: *ghzen
-        name: (PvP) Drifter Zen 🧘‍♂️🧘‍♂️🧘‍♂️ CE (Relaxed Magazine)
-        desc: >
-          Same as the CE, with relaxed Magazines.
-        magazines: [Steady Rounds, Flared Magwell, Tactical Mag]
-      - 
-        <<: *ghzenmags
-        name: (PvP) Drifter Zen 🧘‍♂️🧘‍♂️🧘‍♂️ CE (Relaxed Magazines and Masterwork)
-        desc: >
-          Same as the CE, with no Masterwork requirement.
-        masterworks: []
-      - 
-        <<: *ghzenmags
-        name: (PvP) Drifter Zen 🧘‍♂️🧘‍♂️🧘‍♂️ CE (Relaxed Magazines and Masterwork)
-        desc: >
-          Same as the CE, with no Masterwork requirement.
-        perks2: []
-      - &ghzenfully
-        <<: *ghzenmags
-        name: (PvP) Drifter Zen 🧘‍♂️🧘‍♂️ CE (Fully Relaxed Magazines)
-        desc: >
-          Same as the CE, with no Magazine requirement.
-        magazines: []
-      -
-        <<: *ghzenfully
-        name: (PvP) Drifter Zen 🧘‍♂️🧘‍♂️ CE (Relaxed Masterworks)
-        desc: >
-          Same as the roll above, minus Masterworks.
-        masterworks: []
-      -
-        <<: *ghzenfully
-        name: (PvP) Drifter Zen 🧘‍♂️ CE (Baseline)
-        desc: >
-          With these two and a Counterbalance mod, you're still in business.
-        perks2: []
-        masterworks: []        
-      - &ghram
-        name: (PvP) Ramshackle Weapon 🛠🛠🛠🌟 Collector's Edition
-        desc: >
-          If you don't get `Tap the Trigger` or `Zen Moment`, you can still
-          make this work with `Arrowhead Brake` and a Counterbalance mod. That
-          will push your `Recoil` to `99` and then you're looking for at least
-          one other material source of `Stability`.
-        barrels: [Arrowhead Brake]
-        magazines: [Steady Rounds]
-        perks1: []
-        perks2: [Kill Clip]
-        masterworks: [Stability MW]
-      - 
-        <<: *ghram
-        name: (PvP) Ramshackle Weapon 🛠🛠🛠 CE (Relaxed Masterwork)
-        desc: >
-          Same as the CE, with no Masterwork requirement.
-        masterworks: []
-      - 
-        <<: *ghram
-        name: (PvP) Ramshackle Weapon 🛠🛠🛠 CE (Relaxed Perk)
-        desc: >
-          Same as the CE, with no Perk requirement.
-        perks2: []
-      - &ghzenmags
-        <<: *ghram
-        name: (PvP) Ramshackle Weapon 🛠🛠🛠 CE (Relaxed Magazine)
-        desc: >
-          Same as the CE, with relaxed Magazines.
-        magazines: [Steady Rounds, Flared Magwell, Tactical Mag]
-      - 
-        <<: *ghzenmags
-        name: (PvP) Ramshackle Weapon 🛠🛠🛠 CE (Relaxed Magazines and Masterwork)
-        desc: >
-          Same as the CE, with no Masterwork requirement.
-        masterworks: []
-      - 
-        <<: *ghzenmags
-        name: (PvP) Ramshackle Weapon 🛠🛠🛠 CE (Relaxed Magazines and Masterwork)
-        desc: >
-          Same as the CE, with no Masterwork requirement.
-        perks2: []
-      - &ghzenfully
-        <<: *ghzenmags
-        name: (PvP) Ramshackle Weapon 🛠🛠 CE (Fully Relaxed Magazines)
-        desc: >
-          Same as the CE, with no Magazine requirement.
-        magazines: []
+        name: Ramshackle Weapon
+        overview: >
+          Similar to the above roll, relying on `Zen Moment` for `Recoil`
+          improvement.
+        perks: 
+          base: 
+            barrels: [Arrowhead Brake]
+            magazines: [Steady Rounds]
+            perks1: []
+            perks2: [Kill Clip]
+            masterworks: [Stability MW]
+          extensions:
+            magazines: [Steady Rounds, Flared Magwell, Tactical Mag]
+        variants:
+          - 🛠🛠🛠🌟 Collector's Edition
+          - 🛠🛠🛠 CE (-masterworks)
+          - 🛠🛠🛠 CE (-perks2)
+          - 🛠🛠🛠 CE (+magazines)
+          - 🛠🛠 (+magazines, -masterworks)
+          - 🛠🛠 (+magazines, -perks2)
+          - 🛠🛠 (-magazines)
   - 
     name: PvE
     summary: >
-      The best PvE roll of Gnawing Hunger is the curated one, and the only way
-      to get it (as of Season 11) is via grinding T3 Reckoning.
-
-      If that's off the table, then classic combos will carry the day here -
-      reload perks combined with damage boosting perks, and as much Range as we
-      can get.
-    rolls:
-      - &ghcurated
-        name: (PvE) Curated ‼️🌟🌟🌟🌟‼️
-        desc: >
-          The curated roll! Overflow and Rampage let you kill enemies for hours¹
-          without reloading!  Arrowhead Brake gives you almost totally vertical
-          recoil direction.  This is the best legendary auto for PvE in the game.
-
-          (¹ not actually hours, but 2x as long as normal)
-        barrels: [Arrowhead Brake]
-        magazines: [Appended Mag]
-        perks1: [Overflow]
-        perks2: [Rampage]
-        masterworks: [Handling MW]
-      - &ghhose
-        name: (PvE) Bullet Hose 💦💦💦🌟 Collector's Edition
-        desc: >
+      With `Subsistence` getting a buff, it is the go-to perk in column three.
+      `Overflow` is there, but only as part of the curated roll which hasn't
+      been available since Reckoning was retired.
+    roll_sets:
+      -
+        name: Bullet Hose
+        overview: >
           As much Range as we can get from everywhere we can get it. We're
           combining Subsistence with Swashbuckler or Rampage because those two
           (versus the two kill clips) can be refreshed/extended without
           reloading.
-        barrels: [Hammer-Forged Rifling]
-        magazines: [Accurized Rounds]
-        perks1: [Subsistence]
-        perks2: [Swashbuckler, Rampage]
-        masterworks: [Range MW]
-      - &ghhosebarrels
-        <<: *ghhose
-        name: (PvE) Bullet Hose 💦💦💦 CE (Relaxed Barrels)
-        desc: >
-          Same as the CE, with a few more Barrels.
-        barrels: [Hammer-Forged Rifling, Smallbore, Extended Barrel, Corkscrew Rifling]
-      - 
-        <<: *ghhosebarrels
-        name: (PvE) Bullet Hose 💦💦 CE (Relaxed Magazines)
-        desc: >
-          Same as the above, minus the Magazine requirement.
-        magazines: []
-      - 
-        <<: *ghhosebarrels
-        name: (PvE) Bullet Hose 💦💦 CE (Relaxed Masterwork)
-        desc: >
-          Same as the above, minus Masterworks.
-        magazines: []
-        masterworks: []
-      - 
-        <<: *ghhosebarrels
-        name: (PvE) Bullet Hose 💦 (Baseline)
-        desc: >
-          Same as the above, minus Masterworks.
-        barrels: []
-        magazines: []
-        masterworks: []
-      - &ghassassin
-        name: (PvE) Ranged Assassin 👻👻👻🌟 Collector's Edition
-        desc: >
+        perks: 
+          base: 
+            barrels: [Hammer-Forged Rifling]
+            magazines: [Accurized Rounds]
+            perks1: [Subsistence]
+            perks2: [Swashbuckler, Rampage]
+            masterworks: [Range MW]
+          extensions:
+            barrels: [Hammer-Forged Rifling, Smallbore, Extended Barrel, Corkscrew Rifling]
+        variants:
+          - 💦💦💦🌟 Collector's Edition
+          - 💦💦💦 CE (+barrels)
+          - 💦💦💦 CE (-magazines)
+          - 💦💦 (-magazines, -masterworks)
+          - 💦💦 (-barrels, -magazines, -masterworks)
+      -
+        name: Ranged Assassin
+        overview: >
           As much Range as we can get from everywhere we can get it. We're
           relying on fast-reload magazines to synergize with either of the Kill
           Clip options.
-        barrels: [Hammer-Forged Rifling]
-        magazines: [Drop Mag, Alloy Magazine]
-        perks1: []
-        perks2: [Multikill Clip, Kill Clip]
-        masterworks: [Range MW]
-      - &ghassbarrels
-        <<: *ghassassin
-        name: (PvE) Ranged Assassin 👻👻👻 CE (Relaxed Barrels)
-        desc: >
-          Same as the CE, with a few more Barrels.
-        barrels: [Hammer-Forged Rifling, Smallbore, Extended Barrel, Corkscrew Rifling]
-      - 
-        <<: *ghassbarrels
-        name: (PvE) Ranged Assassin 👻👻 CE (Relaxed Masterwork)
-        desc: >
-          Same as the above, minus Masterworks.
-        masterworks: []
-      - 
-        <<: *ghassbarrels
-        name: (PvE) Ranged Assassin 👻 (Baseline)
-        desc: >
-          Same as the above, minus Masterworks.
-        barrels: []
-        masterworks: []
+        perks: 
+          base: 
+            barrels: [Hammer-Forged Rifling]
+            magazines: [Drop Mag, Alloy Magazine]
+            perks1: []
+            perks2: [Multikill Clip, Kill Clip]
+            masterworks: [Range MW]
+          extensions:
+            barrels: [Hammer-Forged Rifling, Smallbore, Extended Barrel, Corkscrew Rifling]
+            magazines: [Accurized Rounds, Steady Rounds, Flared Magwell, Tactical Mag]
+        variants:
+          - 👻👻👻🌟 Collector's Edition
+          - 👻👻👻 CE (+barrels)
+          - 👻👻👻 CE (-masterworks)
+          - 👻👻 (-barrels, -masterworks)
