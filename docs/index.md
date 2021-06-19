@@ -30,6 +30,7 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 * [Shadow Price](#shadow-price) ([PvP](#shadow-price--pvp--Overview), [PvE](#shadow-price--pve--Overview))
 * [Stars in Shadow](#stars-in-shadow) ([PvP](#stars-in-shadow--pvp--Overview), [PvE](#stars-in-shadow--pve--Overview))
 * Steel Sybil Z-14 ([PvE](#steel-sybil-z-14---pve))
+* [The Number](#the-number) ([PvP](#the-number--pvp--Overview), [PvE](#the-number--pve--Overview))
 * Timelines' Vertex ([PvP](#timelines-vertex---pvp))
 * Truthteller ([PvP](#truthteller---pvp), [PvE](#truthteller---pve))
 
@@ -2767,6 +2768,77 @@ Note that swords only have one possible Masterwork (Impact) hence the appearance
   Perks 2 [ 33%]: Whirlwind Blade
   MWorks  [100%]: *
   ```
+# The Number
+*For all possible perks, check out **The Number** over on [light.gg](https://www.light.gg/db/items/2492081469/the-number/)*
+
+The Number is a 450 RPM Precision Frame, Arc Energy Auto Rifle, offered as a random roll beginning in Season 14. It initially appeared years ago in the "Faction Rallies" events as part of the Future War Cult weapon pool. It [compares closely](https://www.light.gg/db/items/compare/?h=CUiiU9;Cc8zza;) to the Shadow Price, a Nightfall-only reward offerd in Season 13.
+### The Number / PvP / Overview
+450s haven't been great in PvP since the first year of Destiny 2. In S14 they received a minor buff to precision damage though it doesn't appear to have made a dent in the overall PvP meta. It isn't that they're "bad" per se, it's that so many other weapons are so good. Well, with one of the worst body-shot TTKs in the game I think some folks might state that they are actually "bad" 🤷
+
+As 450s go, The Number is perhaps a bit more interesting because its base `Recoil` is `70` which means you have a number of options to 'fix' the Recoil to vertical. Archetype and Recoil aside, The Number doesn't have a whole lot of PvP perks to choose from so we won't have too many rolls here.
+### The Number / PvP / Roll / **"Sheikh's Choice"**
+Mr. Fun Police himself nabbed an [absolutely phenomenal roll](https://www.youtube.com/watch?v=3LozV7KaCHs) which happens to be this one right here. Just getting a single kill and activating `Multikill Clip x 1` takes you from a `6h2b/0.93s` to a `6h0b/0.67s` TTK. This place nicely with an ability or two up with `Surplus`, to get those crispy reloads.
+```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Surplus
+  Perks 2 [ 16%]: Multikill Clip
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 👮👮👮🌟 Collector's Edition | 0.04% | 2592 |
+| 👮👮👮 CE (+barrels) | 0.17% | 592 |
+| 👮👮👮 CE (+magazines) | 0.14% | 725 |
+| 👮👮👮 CE (-masterworks) | 0.15% | 648 |
+| 👮👮 (+barrels, -masterworks) | 0.68% | 148 |
+| 👮👮 (+magazines, -masterworks) | 0.55% | 181 |
+| 👮👮 (+barrels, +magazines, -masterworks) | 2.41% | 41 |
+
+### The Number / PvP / Roll / **"Feedback Loop"**
+Classic combo here. `Surplus` and `Wellspring` were introduced in the same season and compliment each other nicely. `Wellspring` takes some of the edge off the reluctance to use abilities when running with a `Surplus`-based primary.
+```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Surplus
+  Perks 2 [ 16%]: Wellspring
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| ♻️♻️♻️🌟 Collector's Edition | 0.04% | 2592 |
+| ♻️♻️♻️ CE (+barrels) | 0.17% | 592 |
+| ♻️♻️♻️ CE (+magazines) | 0.14% | 725 |
+| ♻️♻️♻️ CE (-masterworks) | 0.15% | 648 |
+| ♻️♻️ (+barrels, -masterworks) | 0.68% | 148 |
+| ♻️♻️ (+magazines, -masterworks) | 0.55% | 181 |
+| ♻️♻️ (+barrels, +magazines, -masterworks) | 2.41% | 41 |
+
+### The Number / PvE / Overview
+450s (and ARs in general) are in a tough spot for PvE. [Ehroar demonstrates](https://www.youtube.com/watch?v=Yeyr60J8K6A) this comprehensively: they have a confusing damage profile compared to other alternatives in that slot. If The Number were a kinetic, perhaps less so, but the Energy slot is so loaded with great weapons that it's hard to imagine this being your top choice in its current state. That being said, frame buffs are always a thing and 450s seem long overdue for one!
+### The Number / PvE / Roll / **"One-for-All is the Loneliest"**
+PvE tends to be quite ability-heavy so `Surplus` might not be up that often but it's gravy when it is, helping you maximize the uptime of `One-for-All` and refreshing `Multikill Clip`.
+```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 25%]: High-Caliber Rounds
+  Perks 1 [ 16%]: Surplus
+  Perks 2 [ 33%]: One for All, Multikill Clip
+  MWorks  [ 25%]: Range MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🙋🙋🙋🌟 Collector's Edition | 0.08% | 1296 |
+| 🙋🙋🙋 CE (+barrels) | 0.35% | 288 |
+| 🙋🙋🙋 CE (+magazines) | 0.28% | 362 |
+| 🙋🙋🙋 CE (-masterworks) | 0.31% | 324 |
+| 🙋🙋 (+barrels, -masterworks) | 1.39% | 72 |
+| 🙋🙋 (+magazines, -masterworks) | 1.10% | 90 |
+| 🙋🙋 (+barrels, +magazines, -masterworks) | 4.96% | 20 |
+| 🙋 (-barrels, -magazines, -masterworks) | 5.56% | 18 |
+
 ## Timelines' Vertex - PvP
 *For all possible perks, check out **Timelines' Vertex** over on [light.gg](https://www.light.gg/db/items/3055192515/timelines-vertex/)*
 
