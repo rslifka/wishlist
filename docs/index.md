@@ -1782,10 +1782,10 @@ And now the section where I feel like I have to justify not just picking Outlaw 
 * I am not suggesting Rampage because at x1 it does not alter the TTK (it does at x2).
 * Conversely, I am suggesting Multikill Clip because it does alter the TTK (3H1B > 3H0B).
 
-Similar to my thoughts on 180 RPM Hand Cannons, I do think Explosive Rounds is very strong here. The explosions have no damage falloff and with the high rate of fire, it means your target is constantly flinched (almost annoying so). Here's a  [video](https://www.youtube.com/watch?v=n0uI-KZnD70) from Drewsky demonstrating how High Caliber Rounds and Explosive Rounds work.
+Similar to my thoughts on 180 RPM Hand Cannons, I do think Explosive Payload is very strong here. The explosions have no damage falloff and with the high rate of fire, it means your target is constantly flinched (almost annoying so). Here's a  [video](https://www.youtube.com/watch?v=n0uI-KZnD70) from Drewsky demonstrating how High Caliber Rounds and Explosive Payload work.
 > "[Explosive Rounds] made the crosshairs jerk horizontally while rising and reaching its peak resulting in more irregular and disorienting flinch patterns [than High-Caliber Rounds]."
 
-This was the same basis of my suggestion for Explosive Rounds on the Patron of Lost Causes back in Season of the Dawn (S9). I think it's similarly strong here, especially in sixes where you're likely to get additional assist points from Explosive Rounds when people are clumped together.
+This was the same basis of my suggestion for Explosive Payload on the Patron of Lost Causes back in Season of the Dawn (S9). I think it's similarly strong here, especially in sixes where you're likely to get additional assist points from Explosive Payload when people are clumped together.
 
 Because of the high RPM, I'm also going to suggest we shoot for as much `Stability` as we can get to increase the recovery of the Aim Assist cone between shots.
 * **(PvP) Explosive Stability 💥💥💥 Collector's Edition - 0.1% chance**: As much Stability as we can get from everywhere we can get it. This roll is basically impossible to get.
@@ -1794,7 +1794,7 @@ Because of the high RPM, I'm also going to suggest we shoot for as much `Stabili
   Barrels [ 22%]: Polygonal Rifling
   Mags    [ 25%]: Steady Rounds
   Perks 1 [ 20%]: Rapid Hit
-  Perks 2 [ 40%]: Explosive Rounds
+  Perks 2 [ 40%]: Explosive Payload
   MWorks  [ 25%]: Stability MW
   ```
 * **(PvP) Explosive Stability 💥💥💥 CE (Relaxed Barrels) - 0.4% chance**: Same as the CE, with a few more Barrels.
@@ -1803,7 +1803,7 @@ Because of the high RPM, I'm also going to suggest we shoot for as much `Stabili
   Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [ 25%]: Steady Rounds
   Perks 1 [ 20%]: Rapid Hit
-  Perks 2 [ 40%]: Explosive Rounds
+  Perks 2 [ 40%]: Explosive Payload
   MWorks  [ 25%]: Stability MW
   ```
 * **(PvP) Explosive Stability 💥💥💥 CE (Relaxed Magazines) - 0.3% chance**: Same as the CE, with a few more Magazines.
@@ -1812,7 +1812,7 @@ Because of the high RPM, I'm also going to suggest we shoot for as much `Stabili
   Barrels [ 22%]: Polygonal Rifling
   Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
   Perks 1 [ 20%]: Rapid Hit
-  Perks 2 [ 40%]: Explosive Rounds
+  Perks 2 [ 40%]: Explosive Payload
   MWorks  [ 25%]: Stability MW
   ```
 * **(PvP) Explosive Stability 💥💥💥 CE (Relaxed Masterwork) - 0.4% chance**: Same as the CE, with a few more Masterworks.
@@ -1821,7 +1821,7 @@ Because of the high RPM, I'm also going to suggest we shoot for as much `Stabili
   Barrels [ 22%]: Polygonal Rifling
   Mags    [ 25%]: Steady Rounds
   Perks 1 [ 20%]: Rapid Hit
-  Perks 2 [ 40%]: Explosive Rounds
+  Perks 2 [ 40%]: Explosive Payload
   MWorks  [100%]: *
   ```
 * **(PvP) Explosive Stability 💥💥 CE (Relaxed Barrels and Magazines) - 1.1% chance**: Same as the CE, with a few more Barrels and Magazines.
@@ -1830,7 +1830,7 @@ Because of the high RPM, I'm also going to suggest we shoot for as much `Stabili
   Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
   Perks 1 [ 20%]: Rapid Hit
-  Perks 2 [ 40%]: Explosive Rounds
+  Perks 2 [ 40%]: Explosive Payload
   MWorks  [ 25%]: Stability MW
   ```
 * **(PvP) Explosive Stability 💥💥 CE (Relaxed Everything) - 8.6% chance**: Same as the CE, with a few more Barrels, Magazines and Masterworks.
@@ -1839,7 +1839,7 @@ Because of the high RPM, I'm also going to suggest we shoot for as much `Stabili
   Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
   Perks 1 [ 40%]: Rapid Hit, Snapshot
-  Perks 2 [ 40%]: Explosive Rounds
+  Perks 2 [ 40%]: Explosive Payload
   MWorks  [100%]: *
   ```
 * **(PvP) Explosive Stability 💥 CE (Baseline) - 13.3% chance**: Our core perks with some easy to obtain Barrels.
@@ -1848,7 +1848,7 @@ Because of the high RPM, I'm also going to suggest we shoot for as much `Stabili
   Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [100%]: *
   Perks 1 [ 40%]: Rapid Hit, Snapshot
-  Perks 2 [ 40%]: Explosive Rounds
+  Perks 2 [ 40%]: Explosive Payload
   MWorks  [100%]: *
   ```
 * **(PvP) MIDA Multi-kills ☠️☠️☠️ Collector's Edition - 0.1% chance**: As much Stability as we can get from everywhere we can get it. This roll is basically impossible to get.
@@ -1920,7 +1920,7 @@ Because of the high RPM, I'm also going to suggest we shoot for as much `Stabili
   Barrels [ 22%]: Arrowhead Brake
   Mags    [ 25%]: Steady Rounds
   Perks 1 [ 20%]: Rapid Hit
-  Perks 2 [ 70%]: Multikill Clip, Explosive Rounds
+  Perks 2 [ 70%]: Multikill Clip, Explosive Payload
   MWorks  [ 25%]: Stability MW
   ```
 * **(PvP) Recoil/Stability/Precision 🎯🎯🎯 CE (Relaxed Magazines) - 0.5% chance**: Same as the CE, with a few more Magazines.
@@ -1929,7 +1929,7 @@ Because of the high RPM, I'm also going to suggest we shoot for as much `Stabili
   Barrels [ 22%]: Arrowhead Brake
   Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
   Perks 1 [ 20%]: Rapid Hit
-  Perks 2 [ 70%]: Multikill Clip, Explosive Rounds
+  Perks 2 [ 70%]: Multikill Clip, Explosive Payload
   MWorks  [ 25%]: Stability MW
   ```
 * **(PvP) Recoil/Stability/Precision 🎯🎯🎯 CE (Relaxed Masterwork) - 0.8% chance**: Same as the CE, with a few more Masterworks.
@@ -1938,7 +1938,7 @@ Because of the high RPM, I'm also going to suggest we shoot for as much `Stabili
   Barrels [ 22%]: Arrowhead Brake
   Mags    [ 25%]: Steady Rounds
   Perks 1 [ 20%]: Rapid Hit
-  Perks 2 [ 70%]: Multikill Clip, Explosive Rounds
+  Perks 2 [ 70%]: Multikill Clip, Explosive Payload
   MWorks  [100%]: *
   ```
 * **(PvP) Recoil/Stability/Precision 🎯🎯 CE (Relaxed Everything) - 4.0% chance**: Same as the CE, with a few more Barrels, Magazines and Masterworks.
@@ -1947,7 +1947,7 @@ Because of the high RPM, I'm also going to suggest we shoot for as much `Stabili
   Barrels [ 22%]: Arrowhead Brake
   Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
   Perks 1 [ 40%]: Rapid Hit, Snapshot
-  Perks 2 [ 70%]: Multikill Clip, Explosive Rounds
+  Perks 2 [ 70%]: Multikill Clip, Explosive Payload
   MWorks  [100%]: *
   ```
 * **(PvP) Recoil/Stability/Precision 🎯 CE (Baseline) - 6.2% chance**: Our core perks, with everything else relaxed.
@@ -1956,7 +1956,7 @@ Because of the high RPM, I'm also going to suggest we shoot for as much `Stabili
   Barrels [ 22%]: Arrowhead Brake
   Mags    [100%]: *
   Perks 1 [ 40%]: Rapid Hit, Snapshot
-  Perks 2 [ 70%]: Multikill Clip, Explosive Rounds
+  Perks 2 [ 70%]: Multikill Clip, Explosive Payload
   MWorks  [100%]: *
   ```
 ## Night Watch - PvE
@@ -3758,7 +3758,7 @@ For a moment in time, Swarm of the Raven was a legit DPS option. It's a Void Gre
 
 Talons of the Eagle is a 150 RPM "High-Impact Frame" Kinetic Scout Rifle. It originally appeared wayyy back in Season 4 (aka Forsaken). It's been recently re-issued in the first Season 11 Iron Banner. As part of this re-issue, the perk pool is unchanged, so we have years' worth of knowledge about how these work and years' worth of confusion as to why Scout Rifles can roll with `Threat Detector` and `Hip-Fire Grip`.
 
-In order to beat out other long-range options in the Kinetic slot for PvP, I think you really want `Explosive Rounds` here. 150s are the slowest-firing, heaviest-hitting scouts but when you're competing against snipers and Arbalests, I think you need more flinch than they can put out at base.
+In order to beat out other long-range options in the Kinetic slot for PvP, I think you really want `Explosive Payload` here. 150s are the slowest-firing, heaviest-hitting scouts but when you're competing against snipers and Arbalests, I think you need more flinch than they can put out at base.
 
 The general drawbacks of 150s is their low `Stability` and `Handling` so we're going to address those as a secondary focus in all in all of our rolls.
 * **(PvP) "Planting Bombs" 🌿🌿🌿💣🌟Collector's Edition - 0.0% chance**: `Firmly Planted` is terrific on long-range weapons like Pulse and Scout Rifles where you can post up in cover and peek shoot from a distance. There's also not much else terrific in that slot. Zen Moment is good, but Firmly Planted outclasses it.
@@ -3767,7 +3767,7 @@ The general drawbacks of 150s is their low `Stability` and `Handling` so we're g
   Barrels [ 22%]: Polygonal Rifling
   Mags    [ 25%]: Steady Rounds
   Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Explosive Rounds
+  Perks 2 [ 16%]: Explosive Payload
   MWorks  [ 25%]: Stability MW
   ```
 * **(PvP) "Planting Bombs" 🌿🌿🌿💣 CE (+ Barrels) - 0.2% chance**
@@ -3776,7 +3776,7 @@ The general drawbacks of 150s is their low `Stability` and `Handling` so we're g
   Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
   Mags    [ 25%]: Steady Rounds
   Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Explosive Rounds
+  Perks 2 [ 16%]: Explosive Payload
   MWorks  [ 25%]: Stability MW
   ```
 * **(PvP) "Planting Bombs" 🌿🌿🌿💣 CE (+ Magazines) - 0.1% chance**
@@ -3785,7 +3785,7 @@ The general drawbacks of 150s is their low `Stability` and `Handling` so we're g
   Barrels [ 22%]: Polygonal Rifling
   Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
   Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Explosive Rounds
+  Perks 2 [ 16%]: Explosive Payload
   MWorks  [ 25%]: Stability MW
   ```
 * **(PvP) "Planting Bombs" 🌿🌿🌿💣 CE (+ Barrels + Magazines) - 0.4% chance**
@@ -3794,7 +3794,7 @@ The general drawbacks of 150s is their low `Stability` and `Handling` so we're g
   Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
   Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
   Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Explosive Rounds
+  Perks 2 [ 16%]: Explosive Payload
   MWorks  [ 25%]: Stability MW
   ```
 * **(PvP) "Planting Bombs" 🌿🌿🌿💣 (+ Barrels - Magazines) - 0.7% chance**
@@ -3803,7 +3803,7 @@ The general drawbacks of 150s is their low `Stability` and `Handling` so we're g
   Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
   Mags    [100%]: *
   Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Explosive Rounds
+  Perks 2 [ 16%]: Explosive Payload
   MWorks  [ 25%]: Stability MW
   ```
 * **(PvP) "Planting Bombs" 🌿🌿💣 (+ Magazines + Barrels + Perks - Masterworks) - 1.8% chance**
@@ -3812,7 +3812,7 @@ The general drawbacks of 150s is their low `Stability` and `Handling` so we're g
   Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
   Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
   Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Explosive Rounds
+  Perks 2 [ 16%]: Explosive Payload
   MWorks  [100%]: *
   ```
 * **(PvP) "Planting Bombs" 🌿💣 (Baseline) - 3.3% chance**
@@ -3821,7 +3821,7 @@ The general drawbacks of 150s is their low `Stability` and `Handling` so we're g
   Barrels [100%]: *
   Mags    [100%]: *
   Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Explosive Rounds
+  Perks 2 [ 16%]: Explosive Payload
   MWorks  [100%]: *
   ```
 * **(PvP) "Raining Fire" 🌧🌧🌧🔥🌟Collector's Edition - 0.0% chance**: We're going to repeat the same set of rolls that we have above, minus `Firmly Planted` which is a pretty big playstyle preference that some folks are not super keen on. It's not a make-or-break here, so we're also going to feature rolls without it.
@@ -3830,7 +3830,7 @@ The general drawbacks of 150s is their low `Stability` and `Handling` so we're g
   Barrels [ 22%]: Polygonal Rifling
   Mags    [ 25%]: Steady Rounds
   Perks 1 [ 20%]: Zen Moment
-  Perks 2 [ 16%]: Explosive Rounds
+  Perks 2 [ 16%]: Explosive Payload
   MWorks  [ 25%]: Stability MW
   ```
 * **(PvP) "Raining Fire" 🌧🌧🌧🔥 CE (- Perks) - 0.2% chance**
@@ -3839,7 +3839,7 @@ The general drawbacks of 150s is their low `Stability` and `Handling` so we're g
   Barrels [ 22%]: Polygonal Rifling
   Mags    [ 25%]: Steady Rounds
   Perks 1 [100%]: *
-  Perks 2 [ 16%]: Explosive Rounds
+  Perks 2 [ 16%]: Explosive Payload
   MWorks  [ 25%]: Stability MW
   ```
 * **(PvP) "Raining Fire" 🌧🌧🌧🔥 CE (+ Barrels) - 0.2% chance**
@@ -3848,7 +3848,7 @@ The general drawbacks of 150s is their low `Stability` and `Handling` so we're g
   Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
   Mags    [ 25%]: Steady Rounds
   Perks 1 [ 20%]: Zen Moment
-  Perks 2 [ 16%]: Explosive Rounds
+  Perks 2 [ 16%]: Explosive Payload
   MWorks  [ 25%]: Stability MW
   ```
 * **(PvP) "Raining Fire" 🌧🌧🌧🔥 CE (+ Barrels - Perks) - 0.9% chance**
@@ -3857,7 +3857,7 @@ The general drawbacks of 150s is their low `Stability` and `Handling` so we're g
   Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
   Mags    [ 25%]: Steady Rounds
   Perks 1 [100%]: *
-  Perks 2 [ 16%]: Explosive Rounds
+  Perks 2 [ 16%]: Explosive Payload
   MWorks  [ 25%]: Stability MW
   ```
 * **(PvP) "Raining Fire" 🌧🌧🌧🔥 CE (+ Magazines) - 0.1% chance**
@@ -3866,7 +3866,7 @@ The general drawbacks of 150s is their low `Stability` and `Handling` so we're g
   Barrels [ 22%]: Polygonal Rifling
   Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
   Perks 1 [ 20%]: Zen Moment
-  Perks 2 [ 16%]: Explosive Rounds
+  Perks 2 [ 16%]: Explosive Payload
   MWorks  [ 25%]: Stability MW
   ```
 * **(PvP) "Raining Fire" 🌧🌧🌧🔥 CE (+ Magazines - Perks) - 0.6% chance**
@@ -3875,7 +3875,7 @@ The general drawbacks of 150s is their low `Stability` and `Handling` so we're g
   Barrels [ 22%]: Polygonal Rifling
   Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
   Perks 1 [100%]: *
-  Perks 2 [ 16%]: Explosive Rounds
+  Perks 2 [ 16%]: Explosive Payload
   MWorks  [ 25%]: Stability MW
   ```
 * **(PvP) "Raining Fire" 🌧🌧🌧🔥 CE (+ Barrels + Magazines) - 0.4% chance**
@@ -3884,7 +3884,7 @@ The general drawbacks of 150s is their low `Stability` and `Handling` so we're g
   Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
   Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
   Perks 1 [ 20%]: Zen Moment
-  Perks 2 [ 16%]: Explosive Rounds
+  Perks 2 [ 16%]: Explosive Payload
   MWorks  [ 25%]: Stability MW
   ```
 * **(PvP) "Raining Fire" 🌧🌧🌧🔥 CE (+ Barrels + Magazines - Perks) - 2.2% chance**
@@ -3893,7 +3893,7 @@ The general drawbacks of 150s is their low `Stability` and `Handling` so we're g
   Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
   Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
   Perks 1 [100%]: *
-  Perks 2 [ 16%]: Explosive Rounds
+  Perks 2 [ 16%]: Explosive Payload
   MWorks  [ 25%]: Stability MW
   ```
 * **(PvP) "Raining Fire" 🌧🌧🔥 (+ Barrles + Magazines - Perks) - 8.9% chance**
@@ -3902,7 +3902,7 @@ The general drawbacks of 150s is their low `Stability` and `Handling` so we're g
   Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
   Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
   Perks 1 [100%]: *
-  Perks 2 [ 16%]: Explosive Rounds
+  Perks 2 [ 16%]: Explosive Payload
   MWorks  [100%]: *
   ```
 ## Talons of the Eagle - PvE
@@ -7961,13 +7961,13 @@ This is one of my favourite weapons in all of Destiny! Pretty much any roll is f
 
 
 CoolGuy absolutely loves his Patron, and has a great [video review of it](https://www.youtube.com/watch?v=GTcp4JQD1fI). Since this is a controller wishlist, these rolls are all about maxing Stability. All of these PvP rolls would be perfectly fine rolls in PvE as well.
-* **(PvP/PvE) "Rapid Hitstability" - 1.6% chance**: This is all about stability. Yes, Explosive Rounds and Vorpal don't increase stability but they would make this already great roll even better.
+* **(PvP/PvE) "Rapid Hitstability" - 1.6% chance**: This is all about stability. Yes, Explosive Payload and Vorpal don't increase stability but they would make this already great roll even better.
 
   ```
   Barrels [ 83%]: Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator, Polygonal Rifling
   Mags    [ 78%]: Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell
   Perks 1 [ 16%]: Rapid Hit
-  Perks 2 [ 60%]: Explosive Rounds, Vorpal
+  Perks 2 [ 60%]: Explosive Payload, Vorpal
   MWorks  [ 25%]: Stability MW
   ```
 * **(PvP/PvE) "Rapid Hitstability" (Minus Barrels) - 2.0% chance**: Same as the best, minus the barrels
@@ -7976,7 +7976,7 @@ CoolGuy absolutely loves his Patron, and has a great [video review of it](https:
   Barrels [100%]: *
   Mags    [ 78%]: Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell
   Perks 1 [ 16%]: Rapid Hit
-  Perks 2 [ 60%]: Explosive Rounds, Vorpal
+  Perks 2 [ 60%]: Explosive Payload, Vorpal
   MWorks  [ 25%]: Stability MW
   ```
 * **(PvP/PvE) "Rapid Hitstability" (Minus Masterwork) - 6.5% chance**: Same as the best, minus Masterworks.
@@ -7985,7 +7985,7 @@ CoolGuy absolutely loves his Patron, and has a great [video review of it](https:
   Barrels [ 83%]: Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator, Polygonal Rifling
   Mags    [ 78%]: Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell
   Perks 1 [ 16%]: Rapid Hit
-  Perks 2 [ 60%]: Explosive Rounds, Vorpal
+  Perks 2 [ 60%]: Explosive Payload, Vorpal
   MWorks  [100%]: *
   ```
 * **(PvP/PvE) Rapid Rangestability - 1.4% chance**: Maybe even though you're on controller, you like your Stability with a side of Range? Listen, I'm not the boss of you. Range barrels are a great option with this roll as well, but I think, less desirable hence their place in the batting order.
@@ -7994,7 +7994,7 @@ CoolGuy absolutely loves his Patron, and has a great [video review of it](https:
   Barrels [ 72%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Extended Barrel
   Mags    [ 78%]: Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell
   Perks 1 [ 16%]: Rapid Hit
-  Perks 2 [ 60%]: Explosive Rounds, Vorpal
+  Perks 2 [ 60%]: Explosive Payload, Vorpal
   MWorks  [ 25%]: Stability MW
   ```
 * **(PvP/PvE) Rapid Rangestability (Minus Masterwork) - 5.7% chance**: Same as the best, minus Masterworks.
@@ -8003,7 +8003,7 @@ CoolGuy absolutely loves his Patron, and has a great [video review of it](https:
   Barrels [ 72%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Extended Barrel
   Mags    [ 78%]: Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell
   Perks 1 [ 16%]: Rapid Hit
-  Perks 2 [ 60%]: Explosive Rounds, Vorpal
+  Perks 2 [ 60%]: Explosive Payload, Vorpal
   MWorks  [100%]: *
   ```
 * **(PvP/PvE) "Index Finger Saver" 👌 - 1.6% chance**: Same as our other rolls, but with Full Auto instead of Rapid Hit
@@ -8012,7 +8012,7 @@ CoolGuy absolutely loves his Patron, and has a great [video review of it](https:
   Barrels [ 83%]: Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator, Polygonal Rifling
   Mags    [ 78%]: Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell
   Perks 1 [ 16%]: Full Auto
-  Perks 2 [ 60%]: Explosive Rounds, Vorpal
+  Perks 2 [ 60%]: Explosive Payload, Vorpal
   MWorks  [ 25%]: Stability MW
   ```
 * **(PvP/PvE) "Index Saver" 👌(Minus Barrels) - 2.0% chance**: Same as the best, minus the barrels
@@ -8021,7 +8021,7 @@ CoolGuy absolutely loves his Patron, and has a great [video review of it](https:
   Barrels [100%]: *
   Mags    [ 78%]: Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell
   Perks 1 [ 16%]: Full Auto
-  Perks 2 [ 60%]: Explosive Rounds, Vorpal
+  Perks 2 [ 60%]: Explosive Payload, Vorpal
   MWorks  [ 25%]: Stability MW
   ```
 * **(PvP/PvE) "Index Saver" 👌(Minus Masterwork) - 6.5% chance**: Same as the best, minus Masterworks.
@@ -8030,7 +8030,7 @@ CoolGuy absolutely loves his Patron, and has a great [video review of it](https:
   Barrels [ 83%]: Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator, Polygonal Rifling
   Mags    [ 78%]: Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell
   Perks 1 [ 16%]: Full Auto
-  Perks 2 [ 60%]: Explosive Rounds, Vorpal
+  Perks 2 [ 60%]: Explosive Payload, Vorpal
   MWorks  [100%]: *
   ```
 * **(PvP/PvE) "Index Finger Saver w/Range" 👌 - 1.4% chance**: Same as our other rolls, but with Full Auto instead of Rapid Hit
@@ -8039,7 +8039,7 @@ CoolGuy absolutely loves his Patron, and has a great [video review of it](https:
   Barrels [ 72%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Extended Barrel
   Mags    [ 78%]: Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell
   Perks 1 [ 16%]: Full Auto
-  Perks 2 [ 60%]: Explosive Rounds, Vorpal
+  Perks 2 [ 60%]: Explosive Payload, Vorpal
   MWorks  [ 25%]: Stability MW
   ```
 * **(PvP/PvE) "Index Saver w/Range" 👌(Minus Masterwork) - 5.7% chance**: Same as the best, minus Masterworks.
@@ -8048,7 +8048,7 @@ CoolGuy absolutely loves his Patron, and has a great [video review of it](https:
   Barrels [ 72%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Extended Barrel
   Mags    [ 78%]: Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell
   Perks 1 [ 16%]: Full Auto
-  Perks 2 [ 60%]: Explosive Rounds, Vorpal
+  Perks 2 [ 60%]: Explosive Payload, Vorpal
   MWorks  [100%]: *
   ```
 ## Patron of Lost Causes - PvE
