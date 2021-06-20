@@ -1,298 +1,183 @@
+syntax_version: 2
 name: BrayTech Werewolf
 item_id: 528834068
-lightgg: https://www.light.gg/db/items/528834068/braytech-werewolf/
-slots:
+traits:
   barrels:     {t: 9, c: 2}
   magazines:   {t: 8, c: 2}
   perks1:      {t: 6, c: 1}
   perks2:      {t: 6, c: 1}
   masterworks: {t: 4, c: 1}
-groups:
+overview: >
+  The BrayTech Werewolf is a 450 RPM "Precision Frame" Kinetic Auto Rifle
+  first introduced in Season 8. It's now available in the 2020
+  [Festival of the Lost](https://www.bungie.net/7/en/Seasons/Events/FestivalOfTheLost)
+  event, with random rolls. The only competitive AR archetype right now are
+  the 600s, so you're gambling on an eventual sandbox change for this to be
+  more effective in PvP.
+
+  Obtaining this Auto Rifle is a pretty grim affair, behind three levels of
+  RNG:
+
+  1. You need Cipher Decoders to drop, which they **have a chance of**
+  doing do at the end of most activities (Ordeal, Strike playlist,
+  Crucible, etc.).
+
+  1. You need the Werewolf to drop from a Haunted Forest chest. The chance
+  appears to be something between "never" and "20%" with most folks
+  reporting closer to 5-10%. There's a thread on
+  [/r/DestinyTheGame](https://www.reddit.com/r/DestinyTheGame/comments/jaeitx/horror_story_werewolf_drop_rate_is_2025_chasing/)
+  about it.
+
+  1. You need to get the roll you're chasing.
+  
+  
+  While you are more than welcome to run and grind for these, keep in mind
+  that once you obtain a single drop, you can pull a very good PvE static
+  roll from your collections. Given that 450 RPM ARs haven't been
+  competitive in PvP since Year 1 of Destiny 2, you're prrrobably not
+  missing on much.
+activities:
   - 
     name: PvP
-    summary: >
-      The BrayTech Werewolf is a 450 RPM "Precision Frame" Kinetic Auto Rifle
-      first introduced in Season 8. It's now available in the 2020
-      [Festival of the Lost](https://www.bungie.net/7/en/Seasons/Events/FestivalOfTheLost)
-      event, with random rolls. The only competitive AR archetype right now are
-      the 600s, so you're gambling on an eventual sandbox change for this to be
-      more effective in PvP.
-      
-      
-      Obtaining this Auto Rifle is a pretty grim affair, behind three levels of
-      RNG:
-
-      1. You need Cipher Decoders to drop, which they **have a chance of**
-      doing do at the end of most activities (Ordeal, Strike playlist,
-      Crucible, etc.).
-
-      1. You need the Werewolf to drop from a Haunted Forest chest. The chance
-      appears to be something between "never" and "20%" with most folks
-      reporting closer to 5-10%. There's a thread on
-      [/r/DestinyTheGame](https://www.reddit.com/r/DestinyTheGame/comments/jaeitx/horror_story_werewolf_drop_rate_is_2025_chasing/)
-      about it.
-
-      1. You need to get the roll you're chasing.
-      
-      
-      While you are more than welcome to run and grind for these, keep in mind
-      that once you obtain a single drop, you can pull a very good PvE static
-      roll from your collections. Given that 450 RPM ARs haven't been
-      competitive in PvP since Year 1 of Destiny 2, you're prrrobably not
-      missing on much.
-    rolls:
-      - &bwswear
-        name: (PvP) "Werewolves not Swearwolves" 🐺🐺🐺🌟 Collector's Edition
-        desc: >
+    overview: >
+      .
+    roll_sets:
+      -
+        name: Werewolves not Swearwolves
+        overview: >
           With completely vertical recoil and loads of Stability, this will be
           an absolutely shredder should 450s get a buff. Hell and even if they
           don't, you'll do pretty decent work with it. All rolls in this set
           will feature `Dynamic Sway Reduction` and `Tap the Trigger`.
-        barrels: [Arrowhead Brake]
-        magazines: [Ricochet Rounds]
-        perks1: [Dynamic Sway Reduction]
-        perks2: [Tap the Trigger]
-        masterworks: [Stability MW]
-      - 
-        <<: *bwswear
-        name: (PvP) "Swearwolves" 🐺🐺🐺 CE (+ Magazines)
-        desc: ...
-        magazines: [Ricochet Rounds, Flared Magwell]
-      - 
-        <<: *bwswear
-        name: (PvP) "Swearwolves" 🐺🐺🐺 CE (+ Barrels)
-        desc: ...
-        barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore]
-      - 
-        <<: *bwswear
-        name: (PvP) "Swearwolves" 🐺🐺🐺 CE (- Masterworks)
-        desc: ...
-        masterworks: []
-      - 
-        <<: *bwswear
-        name: (PvP) "Swearwolves" 🐺🐺🐺 CE (+ Barrels + Magazines)
-        desc: ...
-        barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore]
-        magazines: [Ricochet Rounds, Flared Magwell]
-      - 
-        <<: *bwswear
-        name: (PvP) "Swearwolves" 🐺🐺🐺 CE (+ Barrels + Magazines - Masterworks)
-        desc: ...
-        barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore]
-        magazines: [Ricochet Rounds, Flared Magwell]
-        masterworks: []
-      - 
-        <<: *bwswear
-        name: (PvP) "Swearwolves" 🐺🐺🐺 CE (+ Barrels - Magazines - Masterworks)
-        desc: ...
-        barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore]
-        magazines: []
-        masterworks: []
-      - 
-        <<: *bwswear
-        name: (PvP) "Swearwolves" 🐺🐺 Baseline
-        desc: ...
-        barrels: []
-        magazines: []
-        masterworks: []
-      - &bwstorm
-        name: (PvP) "Were-storm" ⛈⛈⛈🌟 Collector's Edition
-        desc: >
+        perks: 
+          base: 
+            barrels: [Arrowhead Brake]
+            magazines: [Ricochet Rounds]
+            perks1: [Dynamic Sway Reduction]
+            perks2: [Tap the Trigger]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore]
+            magazines: [Ricochet Rounds, Flared Magwell]
+        variants:
+          - 🐺🐺🐺🌟 Collector's Edition
+          - 🐺🐺🐺 CE (+magazines)
+          - 🐺🐺🐺 CE (+barrels)
+          - 🐺🐺🐺 CE (-masterworks)
+          - 🐺🐺🐺 (+barrels, +magazines)
+          - 🐺🐺🐺 (+barrels, +magazines, -masterworks)
+          - 🐺🐺 (+barrels, -magazines, -masterworks)
+          - 🐺 (-barrels, -magazines, -masterworks)
+      -
+        name: Were-storm
+        overview: >
           Same set of rolls as above, but swappig out `Eye of the Storm` for
-          `Tap the Trigger`. You definiely want `Tap the Trigger` but EotS is
-          also legit.
-        barrels: [Arrowhead Brake]
-        magazines: [Ricochet Rounds]
-        perks1: [Dynamic Sway Reduction]
-        perks2: [Eye of the Storm]
-        masterworks: [Stability MW]
-      - 
-        <<: *bwstorm
-        name: (PvP) "Were-storm" ⛈⛈⛈ CE (+ Magazines)
-        desc: ...
-        magazines: [Ricochet Rounds, Flared Magwell]
-      - 
-        <<: *bwstorm
-        name: (PvP) "Were-storm" ⛈⛈⛈ CE (+ Barrels)
-        desc: ...
-        barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore]
-      - 
-        <<: *bwstorm
-        name: (PvP) "Were-storm" ⛈⛈⛈ CE (- Masterworks)
-        desc: ...
-        masterworks: []
-      - 
-        <<: *bwstorm
-        name: (PvP) "Were-storm" ⛈⛈⛈ CE (+ Barrels + Magazines)
-        desc: ...
-        barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore]
-        magazines: [Ricochet Rounds, Flared Magwell]
-      - 
-        <<: *bwstorm
-        name: (PvP) "Were-storm" ⛈⛈⛈ CE (+ Barrels + Magazines - Masterworks)
-        desc: ...
-        barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore]
-        magazines: [Ricochet Rounds, Flared Magwell]
-        masterworks: []
-      - 
-        <<: *bwstorm
-        name: (PvP) "Were-storm" ⛈⛈ (+ Barrels - Magazines - Masterworks)
-        desc: ...
-        barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore]
-        magazines: []
-        masterworks: []
-      - 
-        <<: *bwstorm
-        name: (PvP) "Were-storm" ⛈ Baseline
-        desc: ...
-        barrels: []
-        magazines: []
-        masterworks: []
-      - &bwtapped
-        name: (PvP) "Tappy Wolf" 👉👉👉🌟 Collector's Edition
-        desc: >
+          `Tap the Trigger`.
+        perks: 
+          base: 
+            barrels: [Arrowhead Brake]
+            magazines: [Ricochet Rounds]
+            perks1: [Dynamic Sway Reduction]
+            perks2: [Eye of the Storm]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore]
+            magazines: [Ricochet Rounds, Flared Magwell]
+        variants:
+          - ⛈⛈⛈🌟 Collector's Edition
+          - ⛈⛈⛈ CE (+magazines)
+          - ⛈⛈⛈ CE (+barrels)
+          - ⛈⛈⛈ CE (-masterworks)
+          - ⛈⛈⛈ (+barrels, +magazines)
+          - ⛈⛈⛈ (+barrels, +magazines, -masterworks)
+          - ⛈⛈ (+barrels, -magazines, -masterworks)
+          - ⛈ (-barrels, -magazines, -masterworks)
+      -
+        name: Tappy Wolf
+        overview: >
           Same set of rolls as above, but taking anything in the third column.
-        barrels: [Arrowhead Brake]
-        magazines: [Ricochet Rounds]
-        perks1: []
-        perks2: [Tap the Trigger]
-        masterworks: [Stability MW]
-      - 
-        <<: *bwtapped
-        name: (PvP) "Tappy Wolf" 👉👉👉 CE (+ Magazines)
-        desc: ...
-        magazines: [Ricochet Rounds, Flared Magwell]
-      - 
-        <<: *bwtapped
-        name: (PvP) "Tappy Wolf" 👉👉👉 CE (+ Barrels)
-        desc: ...
-        barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore]
-      - 
-        <<: *bwtapped
-        name: (PvP) "Tappy Wolf" 👉👉 (- Masterworks)
-        desc: ...
-        masterworks: []
-      - 
-        <<: *bwtapped
-        name: (PvP) "Tappy Wolf" 👉👉 (+ Barrels + Magazines)
-        desc: ...
-        barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore]
-        magazines: [Ricochet Rounds, Flared Magwell]
-      - 
-        <<: *bwtapped
-        name: (PvP) "Tappy Wolf" 👉👉 (+ Barrels + Magazines - Masterworks)
-        desc: ...
-        barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore]
-        magazines: [Ricochet Rounds, Flared Magwell]
-        masterworks: []
-      - &bwtargeted
-        name: (PvP) "Stay On Target Wolf" 🎯🎯🎯🌟 Collector's Edition
-        desc: >
+        perks: 
+          base: 
+            barrels: [Arrowhead Brake]
+            magazines: [Ricochet Rounds]
+            perks1: []
+            perks2: [Tap the Trigger]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore]
+            magazines: [Ricochet Rounds, Flared Magwell]
+        variants:
+          - 👉👉👉🌟 Collector's Edition
+          - 👉👉👉 CE (+magazines)
+          - 👉👉👉 CE (+barrels)
+          - 👉👉👉 CE (-masterworks)
+          - 👉👉👉 (+barrels, +magazines)
+          - 👉👉👉 (+barrels, +magazines, -masterworks)
+          - 👉👉 (+barrels, -magazines, -masterworks)
+          - 👉 (-barrels, -magazines, -masterworks)
+      -
+        name: Stay On Target Wolf
+        overview: >
           Same set of rolls as above, but taking anything in the final column.
-        barrels: [Arrowhead Brake]
-        magazines: [Ricochet Rounds]
-        perks1: [Dynamic Sway Reduction]
-        perks2: []
-        masterworks: [Stability MW]
-      - 
-        <<: *bwtargeted
-        name: (PvP) "Stay-wolf" 🎯🎯🎯 CE (+ Magazines)
-        desc: ...
-        magazines: [Ricochet Rounds, Flared Magwell]
-      - 
-        <<: *bwtargeted
-        name: (PvP) "Stay-wolf" 🎯🎯🎯 CE (+ Barrels)
-        desc: ...
-        barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore]
-      - 
-        <<: *bwtargeted
-        name: (PvP) "Stay-wolf" 🎯🎯 (- Masterworks)
-        desc: ...
-        masterworks: []
-      - 
-        <<: *bwtargeted
-        name: (PvP) "Stay-wolf" 🎯🎯 (+ Barrels + Magazines)
-        desc: ...
-        barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore]
-        magazines: [Ricochet Rounds, Flared Magwell]
-      - 
-        <<: *bwtargeted
-        name: (PvP) "Stay-wolf" 🎯🎯 (+ Barrels + Magazines - Masterworks)
-        desc: ...
-        barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore]
-        magazines: [Ricochet Rounds, Flared Magwell]
-        masterworks: []
+        perks: 
+          base: 
+            barrels: [Arrowhead Brake]
+            magazines: [Ricochet Rounds]
+            perks1: [Dynamic Sway Reduction]
+            perks2: []
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore]
+            magazines: [Ricochet Rounds, Flared Magwell]
+        variants:
+          - 🎯🎯🎯🌟 Collector's Edition
+          - 🎯🎯🎯 CE (+magazines)
+          - 🎯🎯🎯 CE (+barrels)
+          - 🎯🎯🎯 CE (-masterworks)
+          - 🎯🎯🎯 (+barrels, +magazines)
+          - 🎯🎯🎯 (+barrels, +magazines, -masterworks)
+          - 🎯🎯 (+barrels, -magazines, -masterworks)
+          - 🎯 (-barrels, -magazines, -masterworks)
   - 
     name: PvE
-    summary: >
-      The curated roll will do you just fine, and you can pull it from
-      collections!
-    rolls:
+    overview: >
+      .
+    roll_sets:
       -
-        name: (PvE) Curated; from Collections 🌟
-        desc: >
+        name: Curated; from Collections
+        overview: >
           Really, you have 100% chance of getting this 😜
-        barrels: [Hammer-Forged Rifling]
-        magazines: [Armor-Piercing Rounds]
-        perks1: [Zen Moment]
-        perks2: [Multikill Clip]
-        masterworks: [Range MW]
-      - &bwclaw
-        name: (PvE) "Claw Marks" 🩸🩸🩸🌟 Collector's Edition
-        desc: >
+        perks: 
+          base: 
+            barrels: [Hammer-Forged Rifling]
+            magazines: [Armor-Piercing Rounds]
+            perks1: [Zen Moment]
+            perks2: [Multikill Clip]
+            masterworks: [Range MW]
+        variants:
+          - Curated 🌟 Collector's Edition
+      -
+        name: Claw Marks
+        overview: >
           All Range and damage-boosting featuring `Swashbuckler`. Add on
           `Mulligan` and `FttC` to help extend the mag.
-        barrels: [Hammer-Forged Rifling]
-        magazines: [Armor-Piercing Rounds, High-Caliber Rounds]
-        perks1: [Mulligan, Fourth Time's the Charm]
-        perks2: [Swashbuckler]
-        masterworks: [Range MW]
-      -
-        <<: *bwclaw
-        name: (PvE) "Claw Marks" 🩸🩸🩸 CE (+ Barrels)
-        desc: ...
-        barrels: [Hammer-Forged Rifling, Full Bore, Extended Barrel, Smallbore, Corkscrew Rifling]
-      -
-        <<: *bwclaw
-        name: (PvE) "Claw Marks" 🩸🩸🩸 CE (+ Magazines)
-        desc: ...
-        magazines: [Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds, Light Mag]
-      -
-        <<: *bwclaw
-        name: (PvE) "Claw Marks" 🩸🩸🩸 CE (+ Barrels + Magazines)
-        desc: ...
-        barrels: [Hammer-Forged Rifling, Full Bore, Extended Barrel, Smallbore, Corkscrew Rifling]
-        magazines: [Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds, Light Mag]
-      -
-        <<: *bwclaw
-        name: (PvE) "Claw Marks" 🩸🩸 (- Masterworks)
-        desc: ...
-        masterworks: []
-      -
-        <<: *bwclaw
-        name: (PvE) "Claw Marks" 🩸🩸 (+ Barrels - Masterworks)
-        desc: ...
-        barrels: [Hammer-Forged Rifling, Full Bore, Extended Barrel, Smallbore, Corkscrew Rifling]
-        masterworks: []
-      -
-        <<: *bwclaw
-        name: (PvE) "Claw Marks" 🩸🩸 (+ Magazines - Masterworks)
-        desc: ...
-        magazines: [Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds, Light Mag]
-        masterworks: []
-      -
-        <<: *bwclaw
-        name: (PvE) "Claw Marks" 🩸🩸 (+ Barrels + Magazines - Masterworks)
-        desc: ...
-        barrels: [Hammer-Forged Rifling, Full Bore, Extended Barrel, Smallbore, Corkscrew Rifling]
-        magazines: [Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds, Light Mag]
-        masterworks: []
-      -
-        <<: *bwclaw
-        name: (PvE) "Claw Marks" 🩸 Baseline
-        desc: ...
-        barrels: []
-        magazines: []
-        masterworks: []
-
-
+        perks: 
+          base: 
+            barrels: [Hammer-Forged Rifling]
+            magazines: [Armor-Piercing Rounds, High-Caliber Rounds]
+            perks1: [Mulligan, Fourth Time's the Charm]
+            perks2: [Swashbuckler]
+            masterworks: [Range MW]
+          extensions:
+            barrels: [Hammer-Forged Rifling, Full Bore, Extended Barrel, Smallbore, Corkscrew Rifling]
+            magazines: [Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds, Light Mag]
+        variants:
+          - 🩸🩸🩸🌟 Collector's Edition
+          - 🩸🩸🩸 CE (+magazines)
+          - 🩸🩸🩸 CE (+barrels)
+          - 🩸🩸🩸 CE (-masterworks)
+          - 🩸🩸🩸 (+barrels, -masterworks)
+          - 🩸🩸🩸 (+magazines, -masterworks)
+          - 🩸🩸🩸 (+barrels, +magazines)
+          - 🩸🩸🩸 (+barrels, +magazines, -masterworks)
+          - 🩸 (-barrels, -magazines, -masterworks)
