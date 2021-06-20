@@ -6,9 +6,9 @@ ordering:
   - s13
   - s11
   - s10
-  - s9
+  # - s9
 naming:
-  s9: Season 9 - Season of the Dawn (Concluded)
+  # s9: Season 9 - Season of the Dawn (Concluded)
   s10: Season 10 - Season of the Worthy (Concluded)
   s11: Season 11 - Season of Arrivals (Concluded) 
   s13: Season 13 - Season of the Chosen (Concluded)
