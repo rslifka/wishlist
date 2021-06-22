@@ -58,7 +58,7 @@ activities:
           extensions:
         variants:
           - 💥💥💥🌟
-          - 💥💥💥 (-masterworks)
+          - 💥💥💥 (*masterworks)
       -
         name: Threat Level Super Shredder
         overview: >
@@ -71,7 +71,7 @@ activities:
           extensions:
         variants:
           - 🧵🧵🧵🌟
-          - 🧵🧵🧵 (-masterworks)
+          - 🧵🧵🧵 (*masterworks)
       - name: Basic Super Shredder
         overview: >
           No first column perk! If you really want Vorpal on your Energy sidearm,
@@ -83,7 +83,7 @@ activities:
           extensions:
         variants:
           - ⚙⚙⚙🌟
-          - ⚙⚙⚙ (-masterworks)
+          - ⚙⚙⚙ (*masterworks)
   - 
     name: PvE
     overview: >

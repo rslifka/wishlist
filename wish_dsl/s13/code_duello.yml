@@ -60,13 +60,13 @@ activities:
             masterworks: [Handling MW]
         variants:
           - ☂️☂️☂️🌟 Collector's Edition
-          - ☂️☂️☂️ (-barrels)
-          - ☂️☂️☂️ (-magazines)
-          - ☂️☂️☂️ (-masterworks)
-          - ☂️☂️ (-barrels, -magazines)
-          - ☂️☂️ (-barrels, -masterworks)
-          - ☂️☂️ (-magazines, -masterworks)
-          - ☂️ (-barrels, -magazines, -masterworks)
+          - ☂️☂️☂️ (*barrels)
+          - ☂️☂️☂️ (*magazines)
+          - ☂️☂️☂️ (*masterworks)
+          - ☂️☂️ (*barrels, *magazines)
+          - ☂️☂️ (*barrels, *masterworks)
+          - ☂️☂️ (*magazines, *masterworks)
+          - ☂️ (*barrels, *magazines, *masterworks)
   - 
     name: PvE
     overview: >
@@ -92,13 +92,13 @@ activities:
             masterworks: [Reload MW, Handling MW]
         variants:
           - 📺📺📺🌟 Collector's Edition
-          - 📺📺📺 CE (-barrels)
-          - 📺📺📺 CE (-masterworks)
-          - 📺📺📺 CE (-barrels, -masterworks)
-          - 📺📺 CE (-magazines)
-          - 📺📺 CE (-magazines, -barrels)
-          - 📺📺 CE (-magazines, -masterworks)
-          - 📺 CE (-barrels, -magazines, -masterworks)
+          - 📺📺📺 CE (*barrels)
+          - 📺📺📺 CE (*masterworks)
+          - 📺📺📺 CE (*barrels, *masterworks)
+          - 📺📺 CE (*magazines)
+          - 📺📺 CE (*magazines, *barrels)
+          - 📺📺 CE (*magazines, *masterworks)
+          - 📺 CE (*barrels, *magazines, *masterworks)
       -
         name: Eternal Sunshine
         overview: >
@@ -115,13 +115,13 @@ activities:
             masterworks: [Handling MW]
         variants:
           - ☀️☀️☀️🌟 Collector's Edition
-          - ☀️☀️☀️ CE (-barrels)
-          - ☀️☀️☀ CE (-magazines)
-          - ☀️☀️☀️ CE (-masterworks)
-          - ☀️☀️ (-barrels, -magazines)
-          - ☀️☀️ (-barrels, -masterworks)
-          - ☀️☀️ (-magazines, -masterworks)
-          - ☀️ (-barrels, -magazines, -masterworks)
+          - ☀️☀️☀️ CE (*barrels)
+          - ☀️☀️☀ CE (*magazines)
+          - ☀️☀️☀️ CE (*masterworks)
+          - ☀️☀️ (*barrels, *magazines)
+          - ☀️☀️ (*barrels, *masterworks)
+          - ☀️☀️ (*magazines, *masterworks)
+          - ☀️ (*barrels, *magazines, *masterworks)
       -
         name: Last Stand
         overview: >
@@ -139,14 +139,14 @@ activities:
             masterworks: [Handling MW]
         variants:
           - 🚩🚩🚩🌟 Collector's Edition
-          - 🚩🚩🚩 CE (-barrels)
-          - 🚩🚩🚩 CE (-magazines)
-          - 🚩🚩🚩 CE (-masterworks)
-          - 🚩🚩🚩 CE (-barrels, -masterworks)
-          - 🚩🚩 CE (-magazines)
-          - 🚩🚩 CE (-magazines, -barrels)
-          - 🚩🚩 CE (-magazines, -masterworks)
-          - 🚩🚩 CE (-perks1)
-          - 🚩🚩 CE (-perks1, -barrels)
-          - 🚩🚩 CE (-perks1, -masterworks)
+          - 🚩🚩🚩 CE (*barrels)
+          - 🚩🚩🚩 CE (*magazines)
+          - 🚩🚩🚩 CE (*masterworks)
+          - 🚩🚩🚩 CE (*barrels, *masterworks)
+          - 🚩🚩 CE (*magazines)
+          - 🚩🚩 CE (*magazines, *barrels)
+          - 🚩🚩 CE (*magazines, *masterworks)
+          - 🚩🚩 CE (*perks1)
+          - 🚩🚩 CE (*perks1, *barrels)
+          - 🚩🚩 CE (*perks1, *masterworks)
       

@@ -52,12 +52,12 @@ activities:
         variants:
           - 🏔🏔🏔🌟 Collector's Edition
           - 🏔🏔🏔 CE (+barrels)
-          - 🏔🏔🏔 CE (-perks2)
-          - 🏔🏔🏔 CE (+barrels, -perks2)
+          - 🏔🏔🏔 CE (*perks2)
+          - 🏔🏔🏔 CE (+barrels, *perks2)
           - 🏔🏔🏔 CE (+masterworks)
-          - 🏔🏔🏔 CE (+masterworks, -perks2)
+          - 🏔🏔🏔 CE (+masterworks, *perks2)
           - 🏔🏔 (+barrels, +masterworks)
-          - 🏔🏔 (+barrels, +masterworks, -perks2)
+          - 🏔🏔 (+barrels, +masterworks, *perks2)
   -
     name: PvE
     overview: >
@@ -87,14 +87,14 @@ activities:
             barrels: [Volatile Launch, Confined Launch, Linear Compensator]
         variants:
           - 🦁🦁🦁🌟 Collector's Edition
-          - 🦁🦁🦁 CE (-masterworks)
+          - 🦁🦁🦁 CE (*masterworks)
           - 🦁🦁🦁 CE (+barrels)
-          - 🦁🦁🦁 CE (+barrels, -masterworks)
-          - 🦁🦁🦁 (-barrels)
-          - 🦁🦁🦁 (-barrels, -masterworks)
-          - 🦁🦁 (-perks1)
-          - 🦁🦁 (-perks1, -masterworks)
-          - 🦁🦁 (-perks1, +barrels, -masterworks)
+          - 🦁🦁🦁 CE (+barrels, *masterworks)
+          - 🦁🦁🦁 (*barrels)
+          - 🦁🦁🦁 (*barrels, *masterworks)
+          - 🦁🦁 (*perks1)
+          - 🦁🦁 (*perks1, *masterworks)
+          - 🦁🦁 (*perks1, +barrels, *masterworks)
       -
         name: Single-Target Damage - Ehroar's Pick
         overview:
@@ -115,11 +115,11 @@ activities:
             masterworks: [Velocity MW, Handling MW, Stability MW, Reload MW]
         variants:
           - 😈😈😈🌟 Collector's Edition
-          - 😈😈😈 CE (-masterworks)
+          - 😈😈😈 CE (*masterworks)
           - 😈😈😈 CE (+barrels)
-          - 😈😈😈 CE (+barrels, -masterworks)
-          - 😈😈😈 (-barrels)
-          - 😈😈😈 (-barrels, -masterworks)
-          - 😈😈 (-perks1)
-          - 😈😈 (-perks1, -masterworks)
-          - 😈😈 (-perks1, +barrels, -masterworks)
+          - 😈😈😈 CE (+barrels, *masterworks)
+          - 😈😈😈 (*barrels)
+          - 😈😈😈 (*barrels, *masterworks)
+          - 😈😈 (*perks1)
+          - 😈😈 (*perks1, *masterworks)
+          - 😈😈 (*perks1, +barrels, *masterworks)

@@ -42,10 +42,10 @@ activities:
           - 🏆🏆🏆🌟 Collector's Edition 
           - 🏆🏆🏆 CE (+barrels)         
           - 🏆🏆🏆 CE (+magazines)       
-          - 🏆🏆🏆 CE (-masterworks)     
-          - 🏆🏆 (-barrels) 
-          - 🏆🏆 (-magazines) 
-          - 🏆🏆 (+barrels, -masterworks) 
+          - 🏆🏆🏆 CE (*masterworks)     
+          - 🏆🏆 (*barrels) 
+          - 🏆🏆 (*magazines) 
+          - 🏆🏆 (+barrels, *masterworks) 
   - 
     name: PvP
     overview: >
@@ -75,13 +75,13 @@ activities:
           - 🌄🌄🌄🌟 Collector's Edition
           - 🌄🌄🌄 CE (+barrels)
           - 🌄🌄🌄 CE (+magazines)
-          - 🌄🌄🌄 CE (-barrels)
-          - 🌄🌄🌄 CE (-masterworks)
-          - 🌄🌄🌄 CE (-magazines)
+          - 🌄🌄🌄 CE (*barrels)
+          - 🌄🌄🌄 CE (*masterworks)
+          - 🌄🌄🌄 CE (*magazines)
           - 🌄🌄🌄 CE (+barrels, +magazines)
-          - 🌄🌄 (+barrels, -masterworks)
-          - 🌄 (+barrels, -magazines) 
-          - 🌄 (+magazines, -masterworks)
+          - 🌄🌄 (+barrels, *masterworks)
+          - 🌄 (+barrels, *magazines) 
+          - 🌄 (+magazines, *masterworks)
       -
         name: A (Mostly) Perfect Rendition
         overview: >
@@ -101,13 +101,13 @@ activities:
           - 🌃🌃🌃🌟 Collector's Edition
           - 🌃🌃🌃 CE (+barrels)
           - 🌃🌃🌃 CE (+magazines)
-          - 🌃🌃🌃 CE (-barrels)
-          - 🌃🌃🌃 CE (-masterworks)
-          - 🌃🌃🌃 CE (-magazines)
+          - 🌃🌃🌃 CE (*barrels)
+          - 🌃🌃🌃 CE (*masterworks)
+          - 🌃🌃🌃 CE (*magazines)
           - 🌃🌃🌃 CE (+barrels, +magazines)
-          - 🌃🌃 (+barrels, -masterworks)
-          - 🌃 (+barrels, -magazines) 
-          - 🌃 (+magazines, -masterworks)          
+          - 🌃🌃 (+barrels, *masterworks)
+          - 🌃 (+barrels, *magazines) 
+          - 🌃 (+magazines, *masterworks)          
   - 
     name: PvE
     overview: >
@@ -140,10 +140,10 @@ activities:
           - 🖼🖼🖼 CE (+barrels)
           - 🖼🖼🖼 CE (+magazines)
           - 🖼🖼🖼 CE (+barrels, +magazines)
-          - 🖼🖼🖼 (-barrels)
-          - 🖼🖼🖼 (-magazines)
-          - 🖼🖼🖼 (-masterworks)
-          - 🖼🖼 (-barrels, -magazines, -masterworks)
+          - 🖼🖼🖼 (*barrels)
+          - 🖼🖼🖼 (*magazines)
+          - 🖼🖼🖼 (*masterworks)
+          - 🖼🖼 (*barrels, *magazines, *masterworks)
       -
         name: A (Mostly) Beautiful Rendition
         overview: >
@@ -164,8 +164,8 @@ activities:
           - 🆗🆗🆗 CE (+barrels)
           - 🆗🆗🆗 CE (+magazines)
           - 🆗🆗🆗 CE (+barrels, +magazines)
-          - 🆗🆗🆗 (-barrels)
-          - 🆗🆗🆗 (-magazines)
-          - 🆗🆗🆗 (-masterworks)
-          - 🆗🆗 (-barrels, -magazines, -masterworks)
+          - 🆗🆗🆗 (*barrels)
+          - 🆗🆗🆗 (*magazines)
+          - 🆗🆗🆗 (*masterworks)
+          - 🆗🆗 (*barrels, *magazines, *masterworks)
 

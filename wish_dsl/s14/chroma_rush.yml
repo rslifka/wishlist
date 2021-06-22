@@ -73,12 +73,12 @@ activities:
           - 🔥🔥🔥🌟 Collector's Edition
           - 🔥🔥🔥 CE (+barrels)
           - 🔥🔥🔥 CE (+magazines)
-          - 🔥🔥🔥 CE (-masterworks)
+          - 🔥🔥🔥 CE (*masterworks)
           - 🔥🔥 (+barrels, +magazines)
-          - 🔥🔥 (+barrels, -masterworks)
-          - 🔥🔥 (+magazines, -masterworks)
-          - 🔥🔥 (+barrels, +magazines, -masterworks)
-          - 🔥 (-barrels, -magazines, -masterworks)
+          - 🔥🔥 (+barrels, *masterworks)
+          - 🔥🔥 (+magazines, *masterworks)
+          - 🔥🔥 (+barrels, +magazines, *masterworks)
+          - 🔥 (*barrels, *magazines, *masterworks)
       -
         name: Color Wheel
         overview: >
@@ -99,12 +99,12 @@ activities:
           - 🎨🎨🎨🌟 Collector's Edition
           - 🎨🎨🎨 CE (+barrels)
           - 🎨🎨🎨 CE (+magazines)
-          - 🎨🎨🎨 CE (-masterworks)
+          - 🎨🎨🎨 CE (*masterworks)
           - 🎨🎨 (+barrels, +magazines)
-          - 🎨🎨 (+barrels, -masterworks)
-          - 🎨🎨 (+magazines, -masterworks)
-          - 🎨🎨 (+barrels, +magazines, -masterworks)
-          - 🎨 (-barrels, -magazines, -masterworks)
+          - 🎨🎨 (+barrels, *masterworks)
+          - 🎨🎨 (+magazines, *masterworks)
+          - 🎨🎨 (+barrels, +magazines, *masterworks)
+          - 🎨 (*barrels, *magazines, *masterworks)
   -
     name: PvE
     overview: >
@@ -140,12 +140,12 @@ activities:
           - 🍊🍊🍊🌟 Collector's Edition
           - 🍊🍊🍊 CE (+barrels)
           - 🍊🍊🍊 CE (+magazines)
-          - 🍊🍊🍊 CE (-masterworks)
+          - 🍊🍊🍊 CE (*masterworks)
           - 🍊🍊 (+barrels, +magazines)
-          - 🍊🍊 (+barrels, -masterworks)
-          - 🍊🍊 (+magazines, -masterworks)
-          - 🍊🍊 (+barrels, +magazines, -masterworks)
-          - 🍊 (-barrels, -magazines, -masterworks)          
+          - 🍊🍊 (+barrels, *masterworks)
+          - 🍊🍊 (+magazines, *masterworks)
+          - 🍊🍊 (+barrels, +magazines, *masterworks)
+          - 🍊 (*barrels, *magazines, *masterworks)          
       -
         name: Captured Moment
         overview:
@@ -165,9 +165,9 @@ activities:
           - 🖼🖼🖼🌟 Collector's Edition
           - 🖼🖼🖼 CE (+barrels)
           - 🖼🖼🖼 CE (+magazines)
-          - 🖼🖼🖼 CE (-masterworks)
+          - 🖼🖼🖼 CE (*masterworks)
           - 🖼🖼 (+barrels, +magazines)
-          - 🖼🖼 (+barrels, -masterworks)
-          - 🖼🖼 (+magazines, -masterworks)
-          - 🖼🖼 (+barrels, +magazines, -masterworks)
-          - 🖼 (-barrels, -magazines, -masterworks)          
+          - 🖼🖼 (+barrels, *masterworks)
+          - 🖼🖼 (+magazines, *masterworks)
+          - 🖼🖼 (+barrels, +magazines, *masterworks)
+          - 🖼 (*barrels, *magazines, *masterworks)          

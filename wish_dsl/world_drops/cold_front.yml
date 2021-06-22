@@ -79,10 +79,10 @@ activities:
           - 🥶🥶🥶🌟 Collector's Edition 
           - 🥶🥶🥶 CE (+barrels)         
           - 🥶🥶🥶 CE (+magazines)       
-          - 🥶🥶🥶 CE (-masterworks)     
-          - 🥶🥶 (-barrels) 
-          - 🥶🥶 (-magazines) 
-          - 🥶🥶 (+barrels, -masterworks) 
+          - 🥶🥶🥶 CE (*masterworks)     
+          - 🥶🥶 (*barrels) 
+          - 🥶🥶 (*magazines) 
+          - 🥶🥶 (+barrels, *masterworks) 
       - 
         name: "Everything Freezes!"
         overview: >
@@ -101,10 +101,10 @@ activities:
           - 🥶🥶🥶🌟 Collector's Edition 
           - 🥶🥶🥶 CE (+barrels)         
           - 🥶🥶🥶 CE (+magazines)       
-          - 🥶🥶🥶 CE (-masterworks)     
-          - 🥶🥶 (-barrels) 
-          - 🥶🥶 (-magazines) 
-          - 🥶🥶 (+barrels, -masterworks) 
+          - 🥶🥶🥶 CE (*masterworks)     
+          - 🥶🥶 (*barrels) 
+          - 🥶🥶 (*magazines) 
+          - 🥶🥶 (+barrels, *masterworks) 
       - 
         name: "Let's Kick Some Ice!"
         overview: >
@@ -123,10 +123,10 @@ activities:
           - 🧊🧊🧊🌟 Collector's Edition 
           - 🧊🧊🧊 CE (+barrels)         
           - 🧊🧊🧊 CE (+magazines)       
-          - 🧊🧊🧊 CE (-masterworks)     
-          - 🧊🧊 (-barrels) 
-          - 🧊🧊 (-magazines) 
-          - 🧊🧊 (+barrels, -masterworks) 
+          - 🧊🧊🧊 CE (*masterworks)     
+          - 🧊🧊 (*barrels) 
+          - 🧊🧊 (*magazines) 
+          - 🧊🧊 (+barrels, *masterworks) 
   - 
     name: PvP
     overview: >
@@ -158,13 +158,13 @@ activities:
           - 🥶🥶🥶📦🌟 Collector's Edition
           - 🥶🥶🥶📦 CE (+barrels)
           - 🥶🥶🥶📦 CE (+magazines)
-          - 🥶🥶🥶📦 CE (-barrels)
-          - 🥶🥶🥶📦 CE (-masterworks)
-          - 🥶🥶🥶📦 CE (-magazines)
+          - 🥶🥶🥶📦 CE (*barrels)
+          - 🥶🥶🥶📦 CE (*masterworks)
+          - 🥶🥶🥶📦 CE (*magazines)
           - 🥶🥶🥶📦 CE (+barrels, +magazines)
-          - 🥶🥶📦 (+barrels, -masterworks)
-          - 🥶📦 (+barrels, -magazines) 
-          - 🥶📦 (+magazines, -masterworks)
+          - 🥶🥶📦 (+barrels, *masterworks)
+          - 🥶📦 (+barrels, *magazines) 
+          - 🥶📦 (+magazines, *masterworks)
       -
         name: Ice to See You/Dynamic Sway
         overview: >
@@ -184,13 +184,13 @@ activities:
           - 🥶🥶🥶🕺🌟 Collector's Edition
           - 🥶🥶🥶🕺 CE (+barrels)
           - 🥶🥶🥶🕺 CE (+magazines)
-          - 🥶🥶🥶🕺 CE (-barrels)
-          - 🥶🥶🥶🕺 CE (-masterworks)
-          - 🥶🥶🥶🕺 CE (-magazines)
+          - 🥶🥶🥶🕺 CE (*barrels)
+          - 🥶🥶🥶🕺 CE (*masterworks)
+          - 🥶🥶🥶🕺 CE (*magazines)
           - 🥶🥶🥶🕺 CE (+barrels, +magazines)
-          - 🥶🥶🕺 (+barrels, -masterworks)
-          - 🥶🕺 (+barrels, -magazines)
-          - 🥶🕺 (+magazines, -masterworks)
+          - 🥶🥶🕺 (+barrels, *masterworks)
+          - 🥶🕺 (+barrels, *magazines)
+          - 🥶🕺 (+magazines, *masterworks)
   - 
     name: PvE
     overview: >
@@ -226,10 +226,10 @@ activities:
           - 🌨🌨🌨📦 CE (+barrels)
           - 🌨🌨🌨📦 CE (+magazines)
           - 🌨🌨🌨📦 CE (+barrels, +magazines)
-          - 🌨🌨🌨📦 (-barrels)
-          - 🌨🌨🌨📦 (-magazines)
-          - 🌨🌨🌨📦 (-masterworks)
-          - 🌨🌨📦 (-barrels, -magazines, -masterworks)
+          - 🌨🌨🌨📦 (*barrels)
+          - 🌨🌨🌨📦 (*magazines)
+          - 🌨🌨🌨📦 (*masterworks)
+          - 🌨🌨📦 (*barrels, *magazines, *masterworks)
       -
         name: Snowstorm
         overview: >
@@ -249,10 +249,10 @@ activities:
           - ❄️❄️❄️📦 CE (+barrels)
           - ❄️❄️❄️📦 CE (+magazines)
           - ❄️❄️❄️📦 CE (+barrels, +magazines)
-          - ❄️❄️❄️📦 (-barrels)
-          - ❄️❄️❄️📦 (-magazines)
-          - ❄️❄️❄️📦 (-masterworks)
-          - ❄️❄️📦 (-barrels, -magazines, -masterworks)
+          - ❄️❄️❄️📦 (*barrels)
+          - ❄️❄️❄️📦 (*magazines)
+          - ❄️❄️❄️📦 (*masterworks)
+          - ❄️❄️📦 (*barrels, *magazines, *masterworks)
       -
         name: Light Dusting
         overview: >
@@ -274,8 +274,8 @@ activities:
           - ☃️☃️☃️📦 CE (+barrels)
           - ☃️☃️☃️📦 CE (+magazines)
           - ☃️☃️☃️📦 CE (+barrels, +magazines)
-          - ☃️☃️☃️📦 (-barrels)
-          - ☃️☃️☃️📦 (-magazines)
-          - ☃️☃️☃️📦 (-masterworks)
-          - ☃️☃️📦 (-barrels, -magazines, -masterworks)
+          - ☃️☃️☃️📦 (*barrels)
+          - ☃️☃️☃️📦 (*magazines)
+          - ☃️☃️☃️📦 (*masterworks)
+          - ☃️☃️📦 (*barrels, *magazines, *masterworks)
 

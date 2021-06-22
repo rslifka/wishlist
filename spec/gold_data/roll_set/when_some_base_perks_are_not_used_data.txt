@@ -1,4 +1,4 @@
-//notes:(PvP) Vertical/Dark Side 🏔🌒🌒 (-magazines, -masterworks) / 0.6% chance
+//notes:(PvP) Vertical/Dark Side 🏔🌒🌒 (*magazines, *masterworks) / 0.6% chance
 dimwishlist:item=2050789284&perks=839105230,2450788523,460017080
 dimwishlist:item=2050789284&perks=839105230,2450788523,588594999
 dimwishlist:item=2050789284&perks=839105230,2450788523,1015611457

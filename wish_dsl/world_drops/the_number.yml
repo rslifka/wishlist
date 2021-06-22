@@ -54,10 +54,10 @@ activities:
           - 👮👮👮🌟 Collector's Edition
           - 👮👮👮 CE (+barrels)
           - 👮👮👮 CE (+magazines)
-          - 👮👮👮 CE (-masterworks)
-          - 👮👮 (+barrels, -masterworks)
-          - 👮👮 (+magazines, -masterworks)
-          - 👮👮 (+barrels, +magazines, -masterworks)
+          - 👮👮👮 CE (*masterworks)
+          - 👮👮 (+barrels, *masterworks)
+          - 👮👮 (+magazines, *masterworks)
+          - 👮👮 (+barrels, +magazines, *masterworks)
       -
         name: Feedback Loop
         overview: >
@@ -79,11 +79,11 @@ activities:
           - ♻️♻️♻️🌟 Collector's Edition
           - ♻️♻️♻️ CE (+barrels)
           - ♻️♻️♻️ CE (+magazines)
-          - ♻️♻️♻️ CE (-masterworks)
+          - ♻️♻️♻️ CE (*masterworks)
           - ♻️♻️ (+barrels, +magazines)
-          - ♻️♻️ (+barrels, -masterworks)
-          - ♻️♻️ (+magazines, -masterworks)
-          - ♻️♻️ (+barrels, +magazines, -masterworks)
+          - ♻️♻️ (+barrels, *masterworks)
+          - ♻️♻️ (+magazines, *masterworks)
+          - ♻️♻️ (+barrels, +magazines, *masterworks)
   -
     name: PvE
     overview: >
@@ -116,9 +116,9 @@ activities:
           - 🙋🙋🙋🌟 Collector's Edition
           - 🙋🙋🙋 CE (+barrels)
           - 🙋🙋🙋 CE (+magazines)
-          - 🙋🙋🙋 CE (-masterworks)
+          - 🙋🙋🙋 CE (*masterworks)
           - 🙋🙋 (+barrels, +magazines)          
-          - 🙋🙋 (+barrels, -masterworks)
-          - 🙋🙋 (+magazines, -masterworks)
-          - 🙋🙋 (+barrels, +magazines, -masterworks)
-          - 🙋 (-barrels, -magazines, -masterworks)  
+          - 🙋🙋 (+barrels, *masterworks)
+          - 🙋🙋 (+magazines, *masterworks)
+          - 🙋🙋 (+barrels, +magazines, *masterworks)
+          - 🙋 (*barrels, *magazines, *masterworks)  

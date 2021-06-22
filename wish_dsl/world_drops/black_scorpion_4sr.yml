@@ -72,11 +72,11 @@ activities:
           - 💪💪💪🌟 Collector's Edition
           - 💪💪💪 CE (+barrels)
           - 💪💪💪 CE (+magazines)
-          - 💪💪💪 CE (-masterworks)
-          - 💪💪 (+barrels, -masterworks)
-          - 💪💪 (+magazines, -masterworks)
-          - 💪💪 (+barrels, +magazines, -masterworks)
-          - 💪 (-barrels, -magazines, -masterworks)              
+          - 💪💪💪 CE (*masterworks)
+          - 💪💪 (+barrels, *masterworks)
+          - 💪💪 (+magazines, *masterworks)
+          - 💪💪 (+barrels, +magazines, *masterworks)
+          - 💪 (*barrels, *magazines, *masterworks)              
       -
         name: Mercules Collector's Edition (Minus Rampage)
         overview: >
@@ -95,8 +95,8 @@ activities:
           - 💪💪💪🌟 Collector's Edition
           - 💪💪💪 CE (+barrels)
           - 💪💪💪 CE (+magazines)
-          - 💪💪💪 CE (-masterworks)
-          - 💪💪 (+barrels, -masterworks)
-          - 💪💪 (+magazines, -masterworks)
-          - 💪💪 (+barrels, +magazines, -masterworks)
-          - 💪 (-barrels, -magazines, -masterworks)              
+          - 💪💪💪 CE (*masterworks)
+          - 💪💪 (+barrels, *masterworks)
+          - 💪💪 (+magazines, *masterworks)
+          - 💪💪 (+barrels, +magazines, *masterworks)
+          - 💪 (*barrels, *magazines, *masterworks)              

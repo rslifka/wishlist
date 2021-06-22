@@ -63,11 +63,11 @@ activities:
           - 🐺🐺🐺🌟 Collector's Edition
           - 🐺🐺🐺 CE (+magazines)
           - 🐺🐺🐺 CE (+barrels)
-          - 🐺🐺🐺 CE (-masterworks)
+          - 🐺🐺🐺 CE (*masterworks)
           - 🐺🐺🐺 (+barrels, +magazines)
-          - 🐺🐺🐺 (+barrels, +magazines, -masterworks)
-          - 🐺🐺 (+barrels, -magazines, -masterworks)
-          - 🐺 (-barrels, -magazines, -masterworks)
+          - 🐺🐺🐺 (+barrels, +magazines, *masterworks)
+          - 🐺🐺 (+barrels, *magazines, *masterworks)
+          - 🐺 (*barrels, *magazines, *masterworks)
       -
         name: Were-storm
         overview: >
@@ -87,11 +87,11 @@ activities:
           - ⛈⛈⛈🌟 Collector's Edition
           - ⛈⛈⛈ CE (+magazines)
           - ⛈⛈⛈ CE (+barrels)
-          - ⛈⛈⛈ CE (-masterworks)
+          - ⛈⛈⛈ CE (*masterworks)
           - ⛈⛈⛈ (+barrels, +magazines)
-          - ⛈⛈⛈ (+barrels, +magazines, -masterworks)
-          - ⛈⛈ (+barrels, -magazines, -masterworks)
-          - ⛈ (-barrels, -magazines, -masterworks)
+          - ⛈⛈⛈ (+barrels, +magazines, *masterworks)
+          - ⛈⛈ (+barrels, *magazines, *masterworks)
+          - ⛈ (*barrels, *magazines, *masterworks)
       -
         name: Tappy Wolf
         overview: >
@@ -110,11 +110,11 @@ activities:
           - 👉👉👉🌟 Collector's Edition
           - 👉👉👉 CE (+magazines)
           - 👉👉👉 CE (+barrels)
-          - 👉👉👉 CE (-masterworks)
+          - 👉👉👉 CE (*masterworks)
           - 👉👉👉 (+barrels, +magazines)
-          - 👉👉👉 (+barrels, +magazines, -masterworks)
-          - 👉👉 (+barrels, -magazines, -masterworks)
-          - 👉 (-barrels, -magazines, -masterworks)
+          - 👉👉👉 (+barrels, +magazines, *masterworks)
+          - 👉👉 (+barrels, *magazines, *masterworks)
+          - 👉 (*barrels, *magazines, *masterworks)
       -
         name: Stay On Target Wolf
         overview: >
@@ -133,11 +133,11 @@ activities:
           - 🎯🎯🎯🌟 Collector's Edition
           - 🎯🎯🎯 CE (+magazines)
           - 🎯🎯🎯 CE (+barrels)
-          - 🎯🎯🎯 CE (-masterworks)
+          - 🎯🎯🎯 CE (*masterworks)
           - 🎯🎯🎯 (+barrels, +magazines)
-          - 🎯🎯🎯 (+barrels, +magazines, -masterworks)
-          - 🎯🎯 (+barrels, -magazines, -masterworks)
-          - 🎯 (-barrels, -magazines, -masterworks)
+          - 🎯🎯🎯 (+barrels, +magazines, *masterworks)
+          - 🎯🎯 (+barrels, *magazines, *masterworks)
+          - 🎯 (*barrels, *magazines, *masterworks)
   - 
     name: PvE
     overview: >
@@ -175,9 +175,9 @@ activities:
           - 🩸🩸🩸🌟 Collector's Edition
           - 🩸🩸🩸 CE (+magazines)
           - 🩸🩸🩸 CE (+barrels)
-          - 🩸🩸🩸 CE (-masterworks)
-          - 🩸🩸🩸 (+barrels, -masterworks)
-          - 🩸🩸🩸 (+magazines, -masterworks)
+          - 🩸🩸🩸 CE (*masterworks)
+          - 🩸🩸🩸 (+barrels, *masterworks)
+          - 🩸🩸🩸 (+magazines, *masterworks)
           - 🩸🩸🩸 (+barrels, +magazines)
-          - 🩸🩸🩸 (+barrels, +magazines, -masterworks)
-          - 🩸 (-barrels, -magazines, -masterworks)
+          - 🩸🩸🩸 (+barrels, +magazines, *masterworks)
+          - 🩸 (*barrels, *magazines, *masterworks)

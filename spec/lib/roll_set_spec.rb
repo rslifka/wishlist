@@ -54,7 +54,7 @@ describe RollSet do
     
     context 'when some base perks are not used' do
       let(:variants) {
-        ["🏔🌒🌒 (-magazines, -masterworks)"]
+        ["🏔🌒🌒 (*magazines, *masterworks)"]
       }
       it 'generates a wishlist' do
         gold_output = IO.read('./spec/gold_data/roll_set/when_some_base_perks_are_not_used_data.txt')

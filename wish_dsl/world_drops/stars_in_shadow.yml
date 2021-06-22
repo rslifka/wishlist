@@ -64,9 +64,9 @@ activities:
         variants:
           - 🏔🌒🌒🌒🌟 Collector's Edition
           - 🏔🌒🌒🌒 CE (+magazines)
-          - 🏔🌒🌒🌒 CE (-magazines)
-          - 🏔🌒🌒🌒 CE (-masterworks)
-          - 🏔🌒🌒 (-magazines, -masterworks)
+          - 🏔🌒🌒🌒 CE (*magazines)
+          - 🏔🌒🌒🌒 CE (*masterworks)
+          - 🏔🌒🌒 (*magazines, *masterworks)
       -
         name: Dark Side
         overview: >
@@ -84,13 +84,13 @@ activities:
         variants:
           - 🌑🌑🌑🌟 Collector's Edition
           - 🌑🌑🌑 CE (+magazines)
-          - 🌑🌑🌑 CE (-magazines)
-          - 🌑🌑🌑 CE (-masterworks)
-          - 🌑🌑🌑 CE (-barrels)
-          - 🌑🌑 (-barrels, -magazines)
-          - 🌑🌑 (-barrels, -masterworks)
-          - 🌑🌑 (-magazines, -masterworks)
-          - 🌑 (-barrels, -magazines, -masterworks)
+          - 🌑🌑🌑 CE (*magazines)
+          - 🌑🌑🌑 CE (*masterworks)
+          - 🌑🌑🌑 CE (*barrels)
+          - 🌑🌑 (*barrels, *magazines)
+          - 🌑🌑 (*barrels, *masterworks)
+          - 🌑🌑 (*magazines, *masterworks)
+          - 🌑 (*barrels, *magazines, *masterworks)
       - 
         name: Vertical/Gardener
         overview: >
@@ -107,9 +107,9 @@ activities:
           extensions:
         variants:
           - 🏔🌿🌿🌿🌟 Collector's Edition
-          - 🏔🌿🌿🌿 CE (-masterworks)
-          - 🏔🌿🌿🌿 CE (-magazines)
-          - 🏔🌿🌿 (-magazines, -masterworks)
+          - 🏔🌿🌿🌿 CE (*masterworks)
+          - 🏔🌿🌿🌿 CE (*magazines)
+          - 🏔🌿🌿 (*magazines, *masterworks)
       -
         name: The Gardener
         overview: >
@@ -125,13 +125,13 @@ activities:
           extensions:
         variants:
           - 🌿🌿🌿🌟 Collector's Edition
-          - 🌿🌿🌿 CE (-magazines)
-          - 🌿🌿🌿 CE (-masterworks)
-          - 🌿🌿🌿 CE (-barrels)
-          - 🌿🌿 (-barrels, -magazines)
-          - 🌿🌿 (-barrels, -masterworks)
-          - 🌿🌿 (-magazines, -masterworks)
-          - 🌿 (-barrels, -magazines, -masterworks)
+          - 🌿🌿🌿 CE (*magazines)
+          - 🌿🌿🌿 CE (*masterworks)
+          - 🌿🌿🌿 CE (*barrels)
+          - 🌿🌿 (*barrels, *magazines)
+          - 🌿🌿 (*barrels, *masterworks)
+          - 🌿🌿 (*magazines, *masterworks)
+          - 🌿 (*barrels, *magazines, *masterworks)
       -
         name: The Vertical/Hoarder
         overview: >
@@ -153,9 +153,9 @@ activities:
           extensions:
         variants:
           - 🏔📦📦📦🌟 Collector's Edition
-          - 🏔📦📦📦 CE (-masterworks)
-          - 🏔📦📦📦 (-magazines)
-          - 🏔📦📦 (-magazines -masterworks)
+          - 🏔📦📦📦 CE (*masterworks)
+          - 🏔📦📦📦 (*magazines)
+          - 🏔📦📦 (*magazines *masterworks)
       -
         name: The Hoarder
         overview: >
@@ -171,13 +171,13 @@ activities:
           extensions:
         variants:
           - 📦📦📦🌟 Collector's Edition
-          - 📦📦📦 CE (-magazines)
-          - 📦📦📦 CE (-masterworks)
-          - 📦📦📦 CE (-barrels)
-          - 📦📦 (-barrels, -magazines)
-          - 📦📦 (-barrels, -masterworks)
-          - 📦📦 (-magazines, -masterworks)
-          - 📦 (-barrels, -magazines, -masterworks)
+          - 📦📦📦 CE (*magazines)
+          - 📦📦📦 CE (*masterworks)
+          - 📦📦📦 CE (*barrels)
+          - 📦📦 (*barrels, *magazines)
+          - 📦📦 (*barrels, *masterworks)
+          - 📦📦 (*magazines, *masterworks)
+          - 📦 (*barrels, *magazines, *masterworks)
   - 
     name: PvE
     overview: >
@@ -202,13 +202,13 @@ activities:
         variants:
           - ♻️♻️♻️🌟 Collector's Edition
           - ♻️♻️♻️ CE (+magazines)
-          - ♻️♻️♻️ CE (-barrels)
-          - ♻️♻️♻️ CE (-magazines)
-          - ♻️♻️♻️ CE (-masterworks)
-          - ♻️♻️ (-barrels, -magazines)
-          - ♻️♻️ (-barrels, -masterworks)
-          - ♻️♻️ (-magazines, -masterworks)
-          - ♻️ (-barrels, -magazines, -masterworks)
+          - ♻️♻️♻️ CE (*barrels)
+          - ♻️♻️♻️ CE (*magazines)
+          - ♻️♻️♻️ CE (*masterworks)
+          - ♻️♻️ (*barrels, *magazines)
+          - ♻️♻️ (*barrels, *masterworks)
+          - ♻️♻️ (*magazines, *masterworks)
+          - ♻️ (*barrels, *magazines, *masterworks)
       -
         name: Barrier Slayer
         overview: >
@@ -228,10 +228,10 @@ activities:
         variants:
           - 🏆🏆🏆🌟 Collector's Edition
           - 🏆🏆🏆 CE (+magazines)
-          - 🏆🏆🏆 CE (-barrels)
-          - 🏆🏆🏆 CE (-magazines)
-          - 🏆🏆🏆 CE (-masterworks)
-          - 🏆🏆 (-barrels, -magazines)
-          - 🏆🏆 (-barrels, -masterworks)
-          - 🏆🏆 (-magazines, -masterworks)
-          - 🏆 (-barrels, -magazines, -masterworks)
+          - 🏆🏆🏆 CE (*barrels)
+          - 🏆🏆🏆 CE (*magazines)
+          - 🏆🏆🏆 CE (*masterworks)
+          - 🏆🏆 (*barrels, *magazines)
+          - 🏆🏆 (*barrels, *masterworks)
+          - 🏆🏆 (*magazines, *masterworks)
+          - 🏆 (*barrels, *magazines, *masterworks)

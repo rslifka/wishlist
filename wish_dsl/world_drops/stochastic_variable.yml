@@ -47,11 +47,11 @@ activities:
           - 🕷🕷🕷🌟 Collector's Edition
           - 🕷🕷🕷 CE (+barrels)
           - 🕷🕷🕷 CE (+magazines)
-          - 🕷🕷🕷 CE (-masterworks)
+          - 🕷🕷🕷 CE (*masterworks)
           - 🕷🕷🕷 (+barrels, +magazines)
-          - 🕷🕷🕷 (+barrels, -masterworks)
-          - 🕷🕷🕷 (+magazines, -masterworks)
-          - 🕷🕷🕷 (+barrels, +magazines, -masterworks)
+          - 🕷🕷🕷 (+barrels, *masterworks)
+          - 🕷🕷🕷 (+magazines, *masterworks)
+          - 🕷🕷🕷 (+barrels, +magazines, *masterworks)
       -
         name: Recluse 1.5 - Ehroar's Pick, Slightly Less Great
         overview: >
@@ -73,8 +73,8 @@ activities:
           - 🕷🕷🕷🌟 Collector's Edition
           - 🕷🕷🕷 CE (+barrels)
           - 🕷🕷🕷 CE (+magazines)
-          - 🕷🕷🕷 CE (-masterworks)
+          - 🕷🕷🕷 CE (*masterworks)
           - 🕷🕷🕷 (+barrels, +magazines)
-          - 🕷🕷🕷 (+barrels, -masterworks)
-          - 🕷🕷🕷 (+magazines, -masterworks)
-          - 🕷🕷🕷 (+barrels, +magazines, -masterworks)
+          - 🕷🕷🕷 (+barrels, *masterworks)
+          - 🕷🕷🕷 (+magazines, *masterworks)
+          - 🕷🕷🕷 (+barrels, +magazines, *masterworks)

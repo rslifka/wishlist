@@ -65,13 +65,13 @@ activities:
           - 🏃‍♂️🏃‍♂️🏃‍♂️🌟 Collector's Edition
           - 🏃‍♂️🏃‍♂️🏃‍♂️ CE (+barrels)
           - 🏃‍♂️🏃‍♂️🏃‍♂️ CE (+magazines)
-          - 🏃‍♂️🏃‍♂️🏃‍♂️ CE (-masterworks)
+          - 🏃‍♂️🏃‍♂️🏃‍♂️ CE (*masterworks)
           - 🏃‍♂️🏃‍♂️🏃‍♂️ CE (+barrels, +magazines)
-          - 🏃‍♂️🏃‍♂️🏃‍♂️ CE (-magazines)
-          - 🏃‍♂️🏃‍♂️ (+barrels, -masterworks)
-          - 🏃‍♂️🏃‍♂️ (+magazines, -masterworks)
-          - 🏃‍♂️🏃‍♂️ (-magazines, -masterworks)
-          - 🏃‍♂️ (+barrels, +magazines, -masterworks)
+          - 🏃‍♂️🏃‍♂️🏃‍♂️ CE (*magazines)
+          - 🏃‍♂️🏃‍♂️ (+barrels, *masterworks)
+          - 🏃‍♂️🏃‍♂️ (+magazines, *masterworks)
+          - 🏃‍♂️🏃‍♂️ (*magazines, *masterworks)
+          - 🏃‍♂️ (+barrels, +magazines, *masterworks)
       -
         name: Knock 'em Down 
         overview: >
@@ -97,13 +97,13 @@ activities:
           - 🎳🎳🎳🌟 Collector's Edition
           - 🎳🎳🎳 CE (+barrels)
           - 🎳🎳🎳 CE (+magazines)
-          - 🎳🎳🎳 CE (-masterworks)
+          - 🎳🎳🎳 CE (*masterworks)
           - 🎳🎳🎳 CE (+barrels, +magazines)
-          - 🎳🎳🎳 CE (-magazines)
-          - 🎳🎳 (+barrels, -masterworks)
-          - 🎳🎳 (+magazines, -masterworks)
-          - 🎳🎳 (-magazines, -masterworks)
-          - 🎳 (+barrels, +magazines, -masterworks)
+          - 🎳🎳🎳 CE (*magazines)
+          - 🎳🎳 (+barrels, *masterworks)
+          - 🎳🎳 (+magazines, *masterworks)
+          - 🎳🎳 (*magazines, *masterworks)
+          - 🎳 (+barrels, +magazines, *masterworks)
       - 
         name: CoolGuy's Hybrid AR/SMG
         overview: >
@@ -125,12 +125,12 @@ activities:
           - 😎😎😎🌟 Collector's Edition
           - 😎😎😎 CE (+barrels)
           - 😎😎😎 CE (+magazines)
-          - 😎😎😎 CE (-masterworks)
+          - 😎😎😎 CE (*masterworks)
           - 😎😎😎 CE (+barrels, +magazines)
-          - 😎😎😎 CE (-magazines)
-          - 😎😎 (+barrels, -masterworks)
-          - 😎😎 (+magazines, -masterworks)
-          - 😎 (+barrels, +magazines, -masterworks)
+          - 😎😎😎 CE (*magazines)
+          - 😎😎 (+barrels, *masterworks)
+          - 😎😎 (+magazines, *masterworks)
+          - 😎 (+barrels, +magazines, *masterworks)
   - 
     name: PvE
     overview: >
@@ -160,11 +160,11 @@ activities:
           - 🦹‍♂️🦹‍♂️🦹‍♂️ CE (+barrels)
           - 🦹‍♂️🦹‍♂️🦹‍♂️ CE (+magazines)
           - 🦹‍♂️🦹‍♂️🦹‍♂️ CE (+barrels, +magazines)
-          - 🦹‍♂️🦹‍♂️🦹‍♂️ CE (-masterworks)
-          - 🦹‍♂️🦹‍♂️ (+barrels, -masterworks)
-          - 🦹‍♂️🦹‍♂️ (+magazines, -masterworks)
-          - 🦹‍♂️🦹‍♂️ (+barrels, +magazines, -masterworks)
-          - 🦹‍♂️ (-barrels, -magazines, -masterworks)
+          - 🦹‍♂️🦹‍♂️🦹‍♂️ CE (*masterworks)
+          - 🦹‍♂️🦹‍♂️ (+barrels, *masterworks)
+          - 🦹‍♂️🦹‍♂️ (+magazines, *masterworks)
+          - 🦹‍♂️🦹‍♂️ (+barrels, +magazines, *masterworks)
+          - 🦹‍♂️ (*barrels, *magazines, *masterworks)
       -
         name: Ragin', Clippin' and Bucklin'
         overview: >
@@ -186,8 +186,8 @@ activities:
           - 😡😡😡 CE (+barrels)
           - 😡😡😡 CE (+magazines)
           - 😡😡😡 CE (+barrels, +magazines)
-          - 😡😡😡 CE (-masterworks)
-          - 😡😡 (+barrels, -masterworks)
-          - 😡😡 (+magazines, -masterworks)
-          - 😡😡 (+barrels, +magazines, -masterworks)
-          - 😡 (-barrels, -magazines, -masterworks)
+          - 😡😡😡 CE (*masterworks)
+          - 😡😡 (+barrels, *masterworks)
+          - 😡😡 (+magazines, *masterworks)
+          - 😡😡 (+barrels, +magazines, *masterworks)
+          - 😡 (*barrels, *magazines, *masterworks)

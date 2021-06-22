@@ -35,8 +35,8 @@ describe Roll do
     end
 
     context 'when some perks have no preferences' do
-      let(:fq_name) {'(PvP) Vertical/Dark Side 🏔🌒🌒 (-magazines, -masterworks)'}
-      let(:roll_name) {'🏔🌒🌒 (-magazines, -masterworks)'}
+      let(:fq_name) {'(PvP) Vertical/Dark Side 🏔🌒🌒 (*magazines, *masterworks)'}
+      let(:roll_name) {'🏔🌒🌒 (*magazines, *masterworks)'}
       before do
         perks['magazines'].clear
         perks['masterworks'].clear

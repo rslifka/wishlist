@@ -74,16 +74,16 @@ activities:
             magazines: [Steady Rounds, Flared Magwell, Tactical Mag]
         variants:
           - 🧟‍♂️🧟‍♂️🧟‍♂️🌟 Collector's Edition
-          - 🧟‍♂️🧟‍♂️🧟‍♂️ CE (-masterworks)
-          - 🧟‍♂️🧟‍♂️🧟‍♂️ CE (-perks2)
+          - 🧟‍♂️🧟‍♂️🧟‍♂️ CE (*masterworks)
+          - 🧟‍♂️🧟‍♂️🧟‍♂️ CE (*perks2)
           - 🧟‍♂️🧟‍♂️🧟‍♂️ CE (+magazines)
-          - 🧟‍♂️🧟‍♂️ (+magazines, -masterworks)
-          - 🧟‍♂️🧟‍♂️ (+magazines, -perks2)
-          - 🧟‍♂️🧟‍♂️ (-magazines)
-          - 🧟‍♂️🧟‍♂️ (-magazines, -masterworks)
-          - 🧟‍♂️🧟‍♂️ (-magazines, -perks2)
-          - 🧟‍♂️🧟‍♂️ (+magazines, -perks2, -masterworks)
-          - 🧟‍♂️ (-magazines, -perks2, -masterworks)
+          - 🧟‍♂️🧟‍♂️ (+magazines, *masterworks)
+          - 🧟‍♂️🧟‍♂️ (+magazines, *perks2)
+          - 🧟‍♂️🧟‍♂️ (*magazines)
+          - 🧟‍♂️🧟‍♂️ (*magazines, *masterworks)
+          - 🧟‍♂️🧟‍♂️ (*magazines, *perks2)
+          - 🧟‍♂️🧟‍♂️ (+magazines, *perks2, *masterworks)
+          - 🧟‍♂️ (*magazines, *perks2, *masterworks)
       -
         name: Ramshackle Weapon
         overview: >
@@ -100,12 +100,12 @@ activities:
             magazines: [Steady Rounds, Flared Magwell, Tactical Mag]
         variants:
           - 🛠🛠🛠🌟 Collector's Edition
-          - 🛠🛠🛠 CE (-masterworks)
-          - 🛠🛠🛠 CE (-perks2)
+          - 🛠🛠🛠 CE (*masterworks)
+          - 🛠🛠🛠 CE (*perks2)
           - 🛠🛠🛠 CE (+magazines)
-          - 🛠🛠 (+magazines, -masterworks)
-          - 🛠🛠 (+magazines, -perks2)
-          - 🛠🛠 (-magazines)
+          - 🛠🛠 (+magazines, *masterworks)
+          - 🛠🛠 (+magazines, *perks2)
+          - 🛠🛠 (*magazines)
   - 
     name: PvE
     summary: >
@@ -132,12 +132,12 @@ activities:
         variants:
           - 💦💦💦🌟 Collector's Edition
           - 💦💦💦 CE (+barrels)
-          - 💦💦💦 CE (-magazines)
-          - 💦💦💦 CE (-masterworks)
-          - 💦💦 (+barrels, -magazines)
-          - 💦💦 (+barrels, -masterworks)
-          - 💦💦 (-magazines, -masterworks)
-          - 💦 (-barrels, -magazines, -masterworks)
+          - 💦💦💦 CE (*magazines)
+          - 💦💦💦 CE (*masterworks)
+          - 💦💦 (+barrels, *magazines)
+          - 💦💦 (+barrels, *masterworks)
+          - 💦💦 (*magazines, *masterworks)
+          - 💦 (*barrels, *magazines, *masterworks)
       -
         name: Ranged Assassin
         overview: >
@@ -156,9 +156,9 @@ activities:
         variants:
           - 👻👻👻🌟 Collector's Edition
           - 👻👻👻 CE (+barrels)
-          - 👻👻👻 CE (-magazines)
-          - 👻👻👻 CE (-masterworks)
-          - 👻👻 (+barrels, -magazines)
-          - 👻👻 (+barrels, -masterworks)
-          - 👻👻 (-magazines, -masterworks)
-          - 👻 (-barrels, -magazines, -masterworks)
+          - 👻👻👻 CE (*magazines)
+          - 👻👻👻 CE (*masterworks)
+          - 👻👻 (+barrels, *magazines)
+          - 👻👻 (+barrels, *masterworks)
+          - 👻👻 (*magazines, *masterworks)
+          - 👻 (*barrels, *magazines, *masterworks)

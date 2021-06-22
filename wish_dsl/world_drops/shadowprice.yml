@@ -55,13 +55,13 @@ activities:
           - 🌌🌌🌌🌟 Collector's Edition
           - 🌌🌌🌌 CE (+barrels)
           - 🌌🌌🌌 CE (+magazines)
-          - 🌌🌌🌌 (-masterworks)
-          - 🌌🌌 (-barrels)
-          - 🌌🌌 (-magazines)
+          - 🌌🌌🌌 (*masterworks)
+          - 🌌🌌 (*barrels)
+          - 🌌🌌 (*magazines)
           - 🌌🌌 (+barrels, +magazines)
-          - 🌌🌌 (+barrels, -masterworks)
-          - 🌌🌌 (+magazines, -masterworks)
-          - 🌌 (+barrels, +magazines, -masterworks)
+          - 🌌🌌 (+barrels, *masterworks)
+          - 🌌🌌 (+magazines, *masterworks)
+          - 🌌 (+barrels, +magazines, *masterworks)
       -
         name: Momentous Night
         overview: >
@@ -81,13 +81,13 @@ activities:
           - 🎇🎇🎇🌟 Collector's Edition
           - 🎇🎇🎇 CE (+barrels)
           - 🎇🎇🎇 CE (+magazines)
-          - 🎇🎇🎇 (-masterworks)
-          - 🎇🎇 (-barrels)
-          - 🎇🎇 (-magazines)
+          - 🎇🎇🎇 (*masterworks)
+          - 🎇🎇 (*barrels)
+          - 🎇🎇 (*magazines)
           - 🎇🎇 (+barrels, +magazines)
-          - 🎇🎇 (+barrels, -masterworks)
-          - 🎇🎇 (+magazines, -masterworks)
-          - 🎇 (+barrels, +magazines, -masterworks)
+          - 🎇🎇 (+barrels, *masterworks)
+          - 🎇🎇 (+magazines, *masterworks)
+          - 🎇 (+barrels, +magazines, *masterworks)
   -
     name: PvE
     overview: >
@@ -122,12 +122,12 @@ activities:
         variants:
           - ⬛️⬛️⬛️🌟 Collector's Edition
           - ⬛️⬛️⬛️ CE (+barrels)
-          - ⬛️⬛️⬛️ CE (-masterworks)
-          - ⬛️⬛️⬛️ (-magazines)
-          - ⬛️⬛️ (+barrels, -magazines)
-          - ⬛️⬛️ (+barrels, -masterworks)
-          - ⬛️⬛️ (-magazines, -masterworks)
-          - ⬛️ (-barrels, -magazines, -masterworks)
+          - ⬛️⬛️⬛️ CE (*masterworks)
+          - ⬛️⬛️⬛️ (*magazines)
+          - ⬛️⬛️ (+barrels, *magazines)
+          - ⬛️⬛️ (+barrels, *masterworks)
+          - ⬛️⬛️ (*magazines, *masterworks)
+          - ⬛️ (*barrels, *magazines, *masterworks)
       -
         name: Feeding Darkness (Ehroar's Pick)
         overview: >
@@ -150,12 +150,12 @@ activities:
         variants:
           - 🌌🌌🌌🌟 Collector's Edition
           - 🌌🌌🌌 CE (+barrels)
-          - 🌌🌌🌌 CE (-masterworks)
-          - 🌌🌌🌌 (-magazines)
-          - 🌌🌌 (+barrels, -magazines)
-          - 🌌🌌 (+barrels, -masterworks)
-          - 🌌🌌 (-magazines, -masterworks)
-          - 🌌 (-barrels, -magazines, -masterworks)
+          - 🌌🌌🌌 CE (*masterworks)
+          - 🌌🌌🌌 (*magazines)
+          - 🌌🌌 (+barrels, *magazines)
+          - 🌌🌌 (+barrels, *masterworks)
+          - 🌌🌌 (*magazines, *masterworks)
+          - 🌌 (*barrels, *magazines, *masterworks)
       -
         name: Steady Sparks in the Night
         overview: >
@@ -175,12 +175,12 @@ activities:
         variants:
           - ✨✨✨🌟 Collector's Edition
           - ✨✨✨ CE (+barrels)
-          - ✨✨✨ CE (-masterworks)
-          - ✨✨✨ (-magazines)
-          - ✨✨ (+barrels, -magazines)
-          - ✨✨ (+barrels, -masterworks)
-          - ✨✨ (-magazines, -masterworks)
-          - ✨ (-barrels, -magazines, -masterworks)
+          - ✨✨✨ CE (*masterworks)
+          - ✨✨✨ (*magazines)
+          - ✨✨ (+barrels, *magazines)
+          - ✨✨ (+barrels, *masterworks)
+          - ✨✨ (*magazines, *masterworks)
+          - ✨ (*barrels, *magazines, *masterworks)
       -
         name: Sparks in the Night
         overview: >
@@ -197,8 +197,8 @@ activities:
         variants:
           - 🌃🌃🌃🌟 Collector's Edition
           - 🌃🌃🌃 CE (+barrels)
-          - 🌃🌃🌃 CE (-masterworks)
-          - 🌃🌃🌃 (-magazines)
-          - 🌃🌃 (+barrels, -magazines)
-          - 🌃🌃 (+barrels, -masterworks)
-          - 🌃🌃 (-magazines, -masterworks)
+          - 🌃🌃🌃 CE (*masterworks)
+          - 🌃🌃🌃 (*magazines)
+          - 🌃🌃 (+barrels, *magazines)
+          - 🌃🌃 (+barrels, *masterworks)
+          - 🌃🌃 (*magazines, *masterworks)

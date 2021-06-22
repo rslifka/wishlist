@@ -54,7 +54,7 @@ activities:
           - 😡😡😡 CE (+magazines)
           - 😡😡😡 CE (+masterworks)
           - 😡😡 (+barrels, +magazines, +masterworks)
-          - 😡 (-barrels, -magazines, +masterworks)
+          - 😡 (*barrels, *magazines, +masterworks)
       -
         name: GuiltySpark's Reserved Needle
         overview: >
@@ -76,10 +76,10 @@ activities:
           - 🧐🧐🧐 CE (+magazines)
           - 🧐🧐🧐 CE (+masterworks)
           - 🧐🧐 (+barrels, +magazines, +masterworks)
-          - 🧐🧐🧐 CE (-barrels)
-          - 🧐🧐🧐 CE (-magazines)
-          - 🧐🧐🧐 CE (-masterworks)
-          - 🧐🧐 (-barrels, -magazines)
-          - 🧐🧐 (-barrels, -masterworks)
-          - 🧐🧐 (-magazines, -masterworks)
-          - 🧐 (-barrels, -magazines, -masterworks)
+          - 🧐🧐🧐 CE (*barrels)
+          - 🧐🧐🧐 CE (*magazines)
+          - 🧐🧐🧐 CE (*masterworks)
+          - 🧐🧐 (*barrels, *magazines)
+          - 🧐🧐 (*barrels, *masterworks)
+          - 🧐🧐 (*magazines, *masterworks)
+          - 🧐 (*barrels, *magazines, *masterworks)

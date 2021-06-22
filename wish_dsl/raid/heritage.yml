@@ -47,13 +47,13 @@ activities:
             masterworks: [Handling MW, Range MW]
         variants:
           - 📈📈📈📈🌟 Collector's Edition
-          - 📈📈📈 CE (-barrels)
-          - 📈📈📈️ CE (-magazines)
-          - 📈📈📈 CE (-masterworks)
-          - 📈📈 (-barrels, -magazines)
-          - 📈📈️ (-barrels, -masterworks)
-          - 📈📈️ (-magazines, -masterworks)
-          - 📈️ (-barrels, -magazines, -masterworks)
+          - 📈📈📈 CE (*barrels)
+          - 📈📈📈️ CE (*magazines)
+          - 📈📈📈 CE (*masterworks)
+          - 📈📈 (*barrels, *magazines)
+          - 📈📈️ (*barrels, *masterworks)
+          - 📈📈️ (*magazines, *masterworks)
+          - 📈️ (*barrels, *magazines, *masterworks)
   -
     name: PvP
     overview: >
@@ -78,10 +78,10 @@ activities:
             magazines: [Accurized Rounds, Appended Mag, Extended Mag]
         variants:
           - 🎢🎢🎢🎢️🌟 Collector's Edition
-          - 🎢🎢🎢 CE (-barrels)
-          - 🎢🎢🎢️ CE (-magazines)
-          - 🎢🎢🎢 CE (-masterworks)
-          - 🎢🎢 (-barrels, -magazines)
-          - 🎢🎢️ (-barrels, -masterworks)
-          - 🎢🎢️ (-magazines, -masterworks)
-          - 🎢️ (-barrels, -magazines, -masterworks)
+          - 🎢🎢🎢 CE (*barrels)
+          - 🎢🎢🎢️ CE (*magazines)
+          - 🎢🎢🎢 CE (*masterworks)
+          - 🎢🎢 (*barrels, *magazines)
+          - 🎢🎢️ (*barrels, *masterworks)
+          - 🎢🎢️ (*magazines, *masterworks)
+          - 🎢️ (*barrels, *magazines, *masterworks)
