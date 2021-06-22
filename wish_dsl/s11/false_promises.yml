@@ -1,28 +1,22 @@
+syntax_version: 2
 name: False Promises
 item_id: 3143732432
-lightgg: https://www.light.gg/db/items/3143732432/false-promises/
-slots:
+traits:
   barrels:     {t: 9, c: 2}
   magazines:   {t: 8, c: 2}
   perks1:      {t: 7, c: 1}
   perks2:      {t: 7, c: 2}
   masterworks: {t: 4, c: 1}
-groups: 
+overview: >
+  False Promises is a 360 RPM Kinetic Auto Rifle introduced in Season 11.
+  The High-Impacts are notable by their extremely long `Range` and extremely
+  poor `Stability` and False Promises is no exception. On console, False
+  Promises is pretty tough to control. Even with vertical `Recoil`, there's
+  still a lot of bounce in the reticle because the `Stability` is so low.
+activities:
   - 
     name: PvP
-    summary: >
-      False Promises is a 360 RPM Kinetic Auto Rifle introduced in Season 11.
-      Apart from the Age-Old Bond (from the Last Wish raid), it's the only
-      other High-Impact Frame Auto Rifle in the game that will be able to go
-      past Season 11's `1060` power cap.
-      
-      
-      The High-Impacts are notable by their extremely long `Range` and extremely
-      poor `Stability` and False Promises is no exception. On console, False
-      Promises is pretty tough to control. Even with vertical `Recoil`, there's
-      still a lot of bounce in the reticle because the `Stability` is so low.
-
-
+    overview: >
       I'm recommending, nay requiring `Dynamic Sway Reduction` for any False
       Promises roll I'd consider using in PvP, because of its marked affect on
       `Stability` and `Accuracy`. Here's what
@@ -58,171 +52,95 @@ groups:
       reward in Trials and grab on there. As far as False Promises is concerned,
       I'll be holding on to a good PvP roll in the hopes that the sandbox is
       updated in S12 or beyond.
-    rolls:
-      - &fpstable
-        name: (PvP) Stormfront 🌦🌦🌦🌟Collector's Edition
-        desc: >
+    roll_sets:
+      - 
+        name: Stormfront 
+        overview: >
           These 360s are primarily hampered by their ultra-low Stability, so
           we're going to do everything we can to correct it. `EotS` is part of
           that as it hones in progressively more as your health gets low. Be
           sure to swap in Counterbalance mod push the `Recoil` to `100`.
-        barrels: [Polygonal Rifling]
-        magazines: [Ricochet Rounds]
-        perks1: [Dynamic Sway Reduction]
-        perks2: [Eye of the Storm]
-        masterworks: [Stability MW]
-      -
-        <<: *fpstable
-        name: (PvP) Stormfront 🌦🌦🌦 (+ Magazines)
-        desc: ...
-        magazines: [Ricochet Rounds, Flared Magwell]
-      -
-        <<: *fpstable
-        name: (PvP) Stormfront 🌦🌦🌦 (+ Barrels)
-        desc: ...
-        barrels: [Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
-      - &fprelaxed
-        <<: *fpstable
-        name: (PvP) Stormfront 🌦🌦🌦 (+ Barrels + Magazines)
-        desc: ...
-        barrels: [Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
-        magazines: [Ricochet Rounds, Flared Magwell]
-      -
-        <<: *fprelaxed
-        name: (PvP) Stormfront 🌦🌦 (+ Barrels - Magazines)
-        desc: ...
-        magazines: []
-      -
-        <<: *fprelaxed
-        name: (PvP) Stormfront 🌦🌦 (+ Barrels - Masterwork)
-        desc: ...
-        masterworks: []
-      -
-        <<: *fprelaxed
-        name: (PvP) Stormfront 🌦 (Baseline)
-        desc: ...
-        magazines: []
-        masterworks: []
-      - &fpafter
-        name: (PvP) Aftershocks ⚡️⚡️⚡️🌟Collector's Edition
-        desc: >
+        perks:
+          base:
+            barrels: [Polygonal Rifling]
+            magazines: [Ricochet Rounds]
+            perks1: [Dynamic Sway Reduction]
+            perks2: [Eye of the Storm]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
+            magazines: [Ricochet Rounds, Flared Magwell]
+        variants:
+          - 🌦🌦🌦🌟 Collector's Edition
+          - 🌦🌦🌦 CE (+magazines)
+          - 🌦🌦🌦 CE (+barrels)
+          - 🌦🌦🌦 (+barrels, +magazines)
+          - 🌦🌦 (+barrels, *magazines)
+          - 🌦🌦 (+barrels, *masterworks)
+          - 🌦 (*magazines, *masterworks)
+      - 
+        name: Aftershocks 
+        overview: >
           Same as the above roll, but helps you chain kills.
-        barrels: [Polygonal Rifling]
-        magazines: [Ricochet Rounds]
-        perks1: [Dynamic Sway Reduction]
-        perks2: [Rampage, Swashbuckler]
-        masterworks: [Stability MW]
-      -
-        <<: *fpafter
-        name: (PvP) Aftershocks ⚡️⚡️⚡️ (+ Magazines)
-        desc: ...
-        magazines: [Ricochet Rounds, Flared Magwell]
-      -
-        <<: *fpafter
-        name: (PvP) Aftershocks ⚡️⚡️⚡️ (+ Barrels)
-        desc: ...
-        barrels: [Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
-      - &fpafterrelaxed
-        <<: *fpafter
-        name: (PvP) Aftershocks ⚡️⚡️⚡️ (+ Barrels + Magazines)
-        desc: ...
-        barrels: [Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
-        magazines: [Ricochet Rounds, Flared Magwell]
-      -
-        <<: *fpafterrelaxed
-        name: (PvP) Aftershocks ⚡️⚡️ (+ Barrels - Magazines)
-        desc: ...
-        magazines: []
-      -
-        <<: *fpafterrelaxed
-        name: (PvP) Aftershocks ⚡️⚡️ (+ Barrels - Masterwork)
-        desc: ...
-        masterworks: []
-      -
-        <<: *fpafterrelaxed
-        name: (PvP) Aftershocks ⚡️ (Baseline)
-        desc: ...
-        magazines: []
-        masterworks: []        
+        perks:
+          base:
+            barrels: [Polygonal Rifling]
+            magazines: [Ricochet Rounds]
+            perks1: [Dynamic Sway Reduction]
+            perks2: [Rampage, Swashbuckler]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
+            magazines: [Ricochet Rounds, Flared Magwell]
+        variants:
+          - ⚡️⚡️⚡️🌟 Collector's Edition
+          - ⚡️⚡️⚡️ CE (+magazines)
+          - ⚡️⚡️⚡️ CE (+barrels)
+          - ⚡️⚡️⚡️ (+barrels, +magazines)
+          - ⚡️⚡️ (+barrels, *magazines)
+          - ⚡️⚡️ (+barrels, *masterworks)
+          - ⚡️ (*magazines, *masterworks)          
   - 
     name: PvE
-    summary: >
-      There's not much to puzzle out here. In PvE you're going for as much
+    overview: >
+      In PvE you're going for as much
       `Range` as you can get with sustained damage upkeep. I think `Unrelenting`
       is a super interesting perk, I would just prefer to have the large damage
       bonuses active from damage-boosting perks.
-    rolls:
-      - &fprage
-        name: (PvE) Overflowing Rage 🚰🚰🚰🌟 Collector's Edition
-        desc: >
+    roll_sets:
+      -
+        name: Overflowing Rage
+        overview: >
           All Range and all damage, focused on Overflow and Subsistence.
-        barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
-        magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag]
-        perks1: [Overflow, Subsistence]
-        perks2: [Rampage, Swashbuckler]
-        masterworks: [Range MW]
-      - 
-        <<: *fprage
-        name: (PvE) Overflowing Rage 🚰🚰🚰 (- Barrels)
-        desc: ...
-        barrels: []
-      - 
-        <<: *fprage
-        name: (PvE) Overflowing Rage 🚰🚰🚰 (- Masterwork)
-        desc: ...
-        masterworks: []
-      - 
-        <<: *fprage
-        name: (PvE) Overflowing Rage 🚰🚰🚰 (- Magazines)
-        desc: ...
-        magazines: []
-      - 
-        <<: *fprage
-        name: (PvE) Overflowing Rage 🚰🚰 (- Barrels - Magazines)
-        desc: ...
-        barrels: []
-        magazines: []
-      - 
-        <<: *fprage
-        name: (PvE) Overflowing Rage 🚰 (Baseline)
-        desc: ...
-        barrels: []
-        magazines: []
-        masterworks: []
-      - &fpfrenzy
-        name: (PvE) Frenzied Rage 😡😡😡🌟 Collector's Edition
-        desc: >
+        perks:
+          base:
+            barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+            magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag]
+            perks1: [Overflow, Subsistence]
+            perks2: [Rampage, Swashbuckler]
+            masterworks: [Range MW]
+        variants:
+          - 🚰🚰🚰🌟 Collector's Edition
+          - 🚰🚰🚰 CE (*barrels)
+          - 🚰🚰🚰 CE (*masterworks)
+          - 🚰🚰🚰 CE (*magazines)
+          - 🚰🚰 (*barrels, *magazines)
+          - 🚰 (*barrels, *magazines, *masterworks)
+      -
+        name: Frenzied Rage
+        overview: >
           All Range and all damage, focused on Feeding Frenzy.
-        barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
-        magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag]
-        perks1: [Feeding Frenzy]
-        perks2: [Rampage, Swashbuckler]
-        masterworks: [Range MW]
-      - 
-        <<: *fpfrenzy
-        name: (PvE) Frenzied Rage 😡😡😡 (- Barrels)
-        desc: ...
-        barrels: []
-      - 
-        <<: *fpfrenzy
-        name: (PvE) Frenzied Rage 😡😡😡 (- Masterwork)
-        desc: ...
-        masterworks: []
-      - 
-        <<: *fpfrenzy
-        name: (PvE) Frenzied Rage 😡😡😡 (- Magazines)
-        desc: ...
-        magazines: []
-      - 
-        <<: *fpfrenzy
-        name: (PvE) Frenzied Rage 😡😡 (- Barrels - Magazines)
-        desc: ...
-        barrels: []
-        magazines: []
-      - 
-        <<: *fpfrenzy
-        name: (PvE) Frenzied Rage 😡 (Baseline)
-        desc: ...
-        barrels: []
-        magazines: []
-        masterworks: []
+        perks:
+          base:
+            barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+            magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag]
+            perks1: [Feeding Frenzy]
+            perks2: [Rampage, Swashbuckler]
+            masterworks: [Range MW]
+        variants:
+          - 😡😡😡🌟 Collector's Edition
+          - 😡😡😡 CE (*barrels)
+          - 😡😡😡 CE (*masterworks)
+          - 😡😡😡 CE (*magazines)
+          - 😡😡 (*barrels, *magazines)
+          - 😡 (*barrels, *magazines, *masterworks)
