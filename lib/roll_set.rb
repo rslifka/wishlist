@@ -89,15 +89,13 @@ class RollSet
     
       additions = roll_name.scan(/\+\w+/).map{|p| p.sub('+','')}
       additions.each do |a|
-        # TODO: Backfill test
         raise "No extended perks are defined for '#{a}'; activity=#{@activity_name}, weapon=#{@name}, roll=#{roll_name}'" unless @extended_perks.has_key?(a)
         perks[a] = Marshal.load(Marshal.dump(@extended_perks[a]))
       end
 
-      removals = roll_name.scan(/\*\w+/).map{|p| p.sub('*','')}
-      removals.each do |r|
-        # TODO: Backfill test
-        raise "Cannot find perk to remove '#{r}'; activity=#{@activity_name}, weapon=#{@name}, roll=#{roll_name}'" unless perks.has_key?(r)
+      ignores = roll_name.scan(/\*\w+/).map{|p| p.sub('*','')}
+      ignores.each do |r|
+        raise "Cannot find column to generalize '#{r}'; activity=#{@activity_name}, weapon=#{@name}, roll=#{roll_name}'" unless perks.has_key?(r)
         perks[r].clear
       end
 
