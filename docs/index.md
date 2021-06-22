@@ -102,12 +102,12 @@ With `Heating Up` and `Kill Clip` going, Chroma Rush feels like a longer-range [
 | 🔥🔥🔥🌟 Collector's Edition | 0.04% | 2268 |
 | 🔥🔥🔥 CE (+barrels) | 0.18% | 549 |
 | 🔥🔥🔥 CE (+magazines) | 0.13% | 756 |
-| 🔥🔥🔥 CE (-masterworks) | 0.18% | 567 |
+| 🔥🔥🔥 CE (*masterworks) | 0.18% | 567 |
 | 🔥🔥 (+barrels, +magazines) | 0.55% | 183 |
-| 🔥🔥 (+barrels, -masterworks) | 0.73% | 137 |
-| 🔥🔥 (+magazines, -masterworks) | 0.53% | 189 |
-| 🔥🔥 (+barrels, +magazines, -masterworks) | 2.18% | 45 |
-| 🔥 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| 🔥🔥 (+barrels, *masterworks) | 0.73% | 137 |
+| 🔥🔥 (+magazines, *masterworks) | 0.53% | 189 |
+| 🔥🔥 (+barrels, +magazines, *masterworks) | 2.18% | 45 |
+| 🔥 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
 
 ### Chroma Rush / PvP / Roll / **"Color Wheel"**
 This is similar to the above roll, swapping out `Heating Up` in exchange for `Tunnel Vision`, which perhaps more synergistically procs on reload along with `Kill Clip`.
@@ -124,12 +124,12 @@ This is similar to the above roll, swapping out `Heating Up` in exchange for `Tu
 | 🎨🎨🎨🌟 Collector's Edition | 0.04% | 2268 |
 | 🎨🎨🎨 CE (+barrels) | 0.18% | 549 |
 | 🎨🎨🎨 CE (+magazines) | 0.13% | 756 |
-| 🎨🎨🎨 CE (-masterworks) | 0.18% | 567 |
+| 🎨🎨🎨 CE (*masterworks) | 0.18% | 567 |
 | 🎨🎨 (+barrels, +magazines) | 0.55% | 183 |
-| 🎨🎨 (+barrels, -masterworks) | 0.73% | 137 |
-| 🎨🎨 (+magazines, -masterworks) | 0.53% | 189 |
-| 🎨🎨 (+barrels, +magazines, -masterworks) | 2.18% | 45 |
-| 🎨 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| 🎨🎨 (+barrels, *masterworks) | 0.73% | 137 |
+| 🎨🎨 (+magazines, *masterworks) | 0.53% | 189 |
+| 🎨🎨 (+barrels, +magazines, *masterworks) | 2.18% | 45 |
+| 🎨 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
 
 ### Chroma Rush / PvE / Overview
 I absolutely love 720 RPM Autos in PvE; perhaps my favourite weapon type across all of Destiny. I was sad to see my beloved [Steelfeather Repeater](https://www.light.gg/db/items/1251729046/steelfeather-repeater/) be sunset but c'est la vie. Of the new perks on Chroma Rush (`Heating Up`, `Tunnel Vision` and `Adrenaline Junkie`), only `Adrenaline Junkie` is compelling in PvE. It does work, but only in niche situations where you can keep your grenades up. Sure there are builds that can do that, but you don't need this wishlist to tell you that you're looking for a single perk.
@@ -150,12 +150,12 @@ Both `Subsistence` and `Rampage` form the core of this roll.
 | 🍊🍊🍊🌟 Collector's Edition | 0.04% | 2268 |
 | 🍊🍊🍊 CE (+barrels) | 0.17% | 604 |
 | 🍊🍊🍊 CE (+magazines) | 0.13% | 756 |
-| 🍊🍊🍊 CE (-masterworks) | 0.18% | 567 |
+| 🍊🍊🍊 CE (*masterworks) | 0.18% | 567 |
 | 🍊🍊 (+barrels, +magazines) | 0.50% | 201 |
-| 🍊🍊 (+barrels, -masterworks) | 0.66% | 151 |
-| 🍊🍊 (+magazines, -masterworks) | 0.53% | 189 |
-| 🍊🍊 (+barrels, +magazines, -masterworks) | 1.98% | 50 |
-| 🍊 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| 🍊🍊 (+barrels, *masterworks) | 0.66% | 151 |
+| 🍊🍊 (+magazines, *masterworks) | 0.53% | 189 |
+| 🍊🍊 (+barrels, +magazines, *masterworks) | 1.98% | 50 |
+| 🍊 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
 
 ### Chroma Rush / PvE / Roll / **"Captured Moment"**
 Same as the roll above, centered around `Feeding Frenzy` and `Kill Clip`.
@@ -172,12 +172,12 @@ Same as the roll above, centered around `Feeding Frenzy` and `Kill Clip`.
 | 🖼🖼🖼🌟 Collector's Edition | 0.04% | 2268 |
 | 🖼🖼🖼 CE (+barrels) | 0.17% | 604 |
 | 🖼🖼🖼 CE (+magazines) | 0.13% | 756 |
-| 🖼🖼🖼 CE (-masterworks) | 0.18% | 567 |
+| 🖼🖼🖼 CE (*masterworks) | 0.18% | 567 |
 | 🖼🖼 (+barrels, +magazines) | 0.50% | 201 |
-| 🖼🖼 (+barrels, -masterworks) | 0.66% | 151 |
-| 🖼🖼 (+magazines, -masterworks) | 0.53% | 189 |
-| 🖼🖼 (+barrels, +magazines, -masterworks) | 1.98% | 50 |
-| 🖼 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| 🖼🖼 (+barrels, *masterworks) | 0.66% | 151 |
+| 🖼🖼 (+magazines, *masterworks) | 0.53% | 189 |
+| 🖼🖼 (+barrels, +magazines, *masterworks) | 1.98% | 50 |
+| 🖼 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
 
 # Gridskipper
 *For all possible perks, check out **Gridskipper** over on [d2gunsmith.com](https://d2gunsmith.com/w/1621558458)*
@@ -209,11 +209,11 @@ The two new third-column perks `Heating Up` and `Tunnel Vision` are brilliant on
 | 🥵🥵🥵🌟 Collector's Edition | 0.08% | 1296 |
 | 🥵🥵🥵 CE (+barrels) | 0.32% | 314 |
 | 🥵🥵🥵 CE (+magazines) | 0.24% | 412 |
-| 🥵🥵🥵 CE (-masterworks) | 0.31% | 324 |
+| 🥵🥵🥵 CE (*masterworks) | 0.31% | 324 |
 | 🥵🥵🥵 (+barrels, +magazines) | 1.00% | 99 |
-| 🥵🥵🥵 (+barrels, -masterworks) | 1.27% | 78 |
-| 🥵🥵🥵 (+magazines, -masterworks) | 0.97% | 103 |
-| 🥵🥵🥵 (+barrels, +magazines, -masterworks) | 4.00% | 24 |
+| 🥵🥵🥵 (+barrels, *masterworks) | 1.27% | 78 |
+| 🥵🥵🥵 (+magazines, *masterworks) | 0.97% | 103 |
+| 🥵🥵🥵 (+barrels, +magazines, *masterworks) | 4.00% | 24 |
 
 ### Gridskipper / PvP / Roll / **"The All-Around'er"**
 Capturing all of the best perks in the final two columns. Any combination here will be a terrific PvP weapon.
@@ -230,11 +230,11 @@ Capturing all of the best perks in the final two columns. Any combination here w
 | 🌎🌎🌎🌟 Collector's Edition | 0.46% | 216 |
 | 🌎🌎🌎 CE (+barrels) | 1.91% | 52 |
 | 🌎🌎🌎 CE (+magazines) | 1.46% | 68 |
-| 🌎🌎🌎 CE (-masterworks) | 1.85% | 54 |
+| 🌎🌎🌎 CE (*masterworks) | 1.85% | 54 |
 | 🌎🌎🌎 (+barrels, +magazines) | 6.00% | 16 |
-| 🌎🌎🌎 (+barrels, -masterworks) | 7.64% | 13 |
-| 🌎🌎🌎 (+magazines, -masterworks) | 5.82% | 17 |
-| 🌎🌎🌎 (+barrels, +magazines, -masterworks) | 24.01% | 4 |
+| 🌎🌎🌎 (+barrels, *masterworks) | 7.64% | 13 |
+| 🌎🌎🌎 (+magazines, *masterworks) | 5.82% | 17 |
+| 🌎🌎🌎 (+barrels, +magazines, *masterworks) | 24.01% | 4 |
 
 ### Gridskipper / PvP / Roll / **"Gardening"**
 On Pulse Rifles, `Firmly Planted` is an acquired taste. I loved it on my Jian 7 paired with `Rangefinder`; amazing laser beam on long(er) sight lines.
@@ -251,11 +251,11 @@ On Pulse Rifles, `Firmly Planted` is an acquired taste. I loved it on my Jian 7 
 | 🪴🪴🪴🌟 Collector's Edition | 0.04% | 2592 |
 | 🪴🪴🪴 CE (+barrels) | 0.16% | 628 |
 | 🪴🪴🪴 CE (+magazines) | 0.12% | 824 |
-| 🪴🪴🪴 CE (-masterworks) | 0.15% | 648 |
+| 🪴🪴🪴 CE (*masterworks) | 0.15% | 648 |
 | 🪴🪴🪴 (+barrels, +magazines) | 0.50% | 199 |
-| 🪴🪴🪴 (+barrels, -masterworks) | 0.64% | 157 |
-| 🪴🪴🪴 (+magazines, -masterworks) | 0.49% | 206 |
-| 🪴🪴🪴 (+barrels, +magazines, -masterworks) | 2.00% | 49 |
+| 🪴🪴🪴 (+barrels, *masterworks) | 0.64% | 157 |
+| 🪴🪴🪴 (+magazines, *masterworks) | 0.49% | 206 |
+| 🪴🪴🪴 (+barrels, +magazines, *masterworks) | 2.00% | 49 |
 
 # Ignition Code
 *For all possible perks, check out **Ignition Code** over on [d2gunsmith.com](https://d2gunsmith.com/w/304659313)*
@@ -281,12 +281,12 @@ You'll notice that we're looking to lower `Blast Radius` to ensure that we conce
 |:-|-:|-:|
 | 🏔🏔🏔🌟 Collector's Edition | 0.05% | 1889 |
 | 🏔🏔🏔 CE (+barrels) | 0.16% | 630 |
-| 🏔🏔🏔 CE (-perks2) | 0.32% | 315 |
-| 🏔🏔🏔 CE (+barrels, -perks2) | 0.95% | 105 |
+| 🏔🏔🏔 CE (*perks2) | 0.32% | 315 |
+| 🏔🏔🏔 CE (+barrels, *perks2) | 0.95% | 105 |
 | 🏔🏔🏔 CE (+masterworks) | 0.21% | 472 |
-| 🏔🏔🏔 CE (+masterworks, -perks2) | 1.27% | 78 |
+| 🏔🏔🏔 CE (+masterworks, *perks2) | 1.27% | 78 |
 | 🏔🏔 (+barrels, +masterworks) | 0.63% | 157 |
-| 🏔🏔 (+barrels, +masterworks, -perks2) | 3.81% | 26 |
+| 🏔🏔 (+barrels, +masterworks, *perks2) | 3.81% | 26 |
 
 ### Ignition Code / PvE / Overview
 Ignition Code is the only obtaininable Kinetic GL in the game that can roll with `Blinding Grenades` which, if you're planning on doing anything remotely resembling challenging PvE content, is a must-have. Ehroar put together a [solid review](https://www.youtube.com/watch?v=pk53lvImHRU) of Ignotion Code in PvE.
@@ -303,14 +303,14 @@ Combining the new `Danger Zone` perk with `Blinding Grenades` means you're pract
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🦁🦁🦁🌟 Collector's Edition | 0.05% | 1889 |
-| 🦁🦁🦁 CE (-masterworks) | 0.26% | 378 |
+| 🦁🦁🦁 CE (*masterworks) | 0.26% | 378 |
 | 🦁🦁🦁 CE (+barrels) | 0.13% | 756 |
-| 🦁🦁🦁 CE (+barrels, -masterworks) | 0.66% | 151 |
-| 🦁🦁🦁 (-barrels) | 0.19% | 540 |
-| 🦁🦁🦁 (-barrels, -masterworks) | 0.93% | 108 |
-| 🦁🦁 (-perks1) | 0.32% | 315 |
-| 🦁🦁 (-perks1, -masterworks) | 1.59% | 63 |
-| 🦁🦁 (-perks1, +barrels, -masterworks) | 3.97% | 25 |
+| 🦁🦁🦁 CE (+barrels, *masterworks) | 0.66% | 151 |
+| 🦁🦁🦁 (*barrels) | 0.19% | 540 |
+| 🦁🦁🦁 (*barrels, *masterworks) | 0.93% | 108 |
+| 🦁🦁 (*perks1) | 0.32% | 315 |
+| 🦁🦁 (*perks1, *masterworks) | 1.59% | 63 |
+| 🦁🦁 (*perks1, +barrels, *masterworks) | 3.97% | 25 |
 
 ### Ignition Code / PvE / Roll / **"Single-Target Damage - Ehroar's Pick"**
 This roll is centered around the damage bosts from `Spike Grenades` and `Vorpal Weapon`. Again we're looking to minimize Blast Radius and keep the damage focused on the point of contact. Without `Slideshot` you're stil looking at a phenomenal Grenade Launcher, so a handful of variants are offered without it.
@@ -325,14 +325,14 @@ This roll is centered around the damage bosts from `Spike Grenades` and `Vorpal 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 😈😈😈🌟 Collector's Edition | 0.05% | 1889 |
-| 😈😈😈 CE (-masterworks) | 0.26% | 378 |
+| 😈😈😈 CE (*masterworks) | 0.26% | 378 |
 | 😈😈😈 CE (+barrels) | 0.16% | 630 |
-| 😈😈😈 CE (+barrels, -masterworks) | 0.79% | 126 |
-| 😈😈😈 (-barrels) | 0.19% | 540 |
-| 😈😈😈 (-barrels, -masterworks) | 0.93% | 108 |
-| 😈😈 (-perks1) | 0.32% | 315 |
-| 😈😈 (-perks1, -masterworks) | 1.59% | 63 |
-| 😈😈 (-perks1, +barrels, -masterworks) | 4.76% | 21 |
+| 😈😈😈 CE (+barrels, *masterworks) | 0.79% | 126 |
+| 😈😈😈 (*barrels) | 0.19% | 540 |
+| 😈😈😈 (*barrels, *masterworks) | 0.93% | 108 |
+| 😈😈 (*perks1) | 0.32% | 315 |
+| 😈😈 (*perks1, *masterworks) | 1.59% | 63 |
+| 😈😈 (*perks1, +barrels, *masterworks) | 4.76% | 21 |
 
 # Black Scorpion-4sr
 *For all possible perks, check out **Black Scorpion-4sr** over on [d2gunsmith.com](https://d2gunsmith.com/w/525750263)*
@@ -362,11 +362,11 @@ Let's call this the "Mercules" roll, since listening to the podcast linked above
 | 💪💪💪🌟 Collector's Edition | 0.06% | 1764 |
 | 💪💪💪 CE (+barrels) | 0.21% | 470 |
 | 💪💪💪 CE (+magazines) | 0.15% | 686 |
-| 💪💪💪 CE (-masterworks) | 0.23% | 441 |
-| 💪💪 (+barrels, -masterworks) | 0.85% | 117 |
-| 💪💪 (+magazines, -masterworks) | 0.58% | 171 |
-| 💪💪 (+barrels, +magazines, -masterworks) | 2.19% | 45 |
-| 💪 (-barrels, -magazines, -masterworks) | 4.08% | 24 |
+| 💪💪💪 CE (*masterworks) | 0.23% | 441 |
+| 💪💪 (+barrels, *masterworks) | 0.85% | 117 |
+| 💪💪 (+magazines, *masterworks) | 0.58% | 171 |
+| 💪💪 (+barrels, +magazines, *masterworks) | 2.19% | 45 |
+| 💪 (*barrels, *magazines, *masterworks) | 4.08% | 24 |
 
 ### Black Scorpion-4sr / PvP / Roll / **"Mercules Collector's Edition (Minus Rampage)"**
 Same as the above, swappin in some non-Rampage options.
@@ -383,11 +383,11 @@ Same as the above, swappin in some non-Rampage options.
 | 💪💪💪🌟 Collector's Edition | 0.11% | 882 |
 | 💪💪💪 CE (+barrels) | 0.43% | 235 |
 | 💪💪💪 CE (+magazines) | 0.29% | 343 |
-| 💪💪💪 CE (-masterworks) | 0.45% | 220 |
-| 💪💪 (+barrels, -masterworks) | 1.70% | 58 |
-| 💪💪 (+magazines, -masterworks) | 1.17% | 85 |
-| 💪💪 (+barrels, +magazines, -masterworks) | 4.37% | 22 |
-| 💪 (-barrels, -magazines, -masterworks) | 8.16% | 12 |
+| 💪💪💪 CE (*masterworks) | 0.45% | 220 |
+| 💪💪 (+barrels, *masterworks) | 1.70% | 58 |
+| 💪💪 (+magazines, *masterworks) | 1.17% | 85 |
+| 💪💪 (+barrels, +magazines, *masterworks) | 4.37% | 22 |
+| 💪 (*barrels, *magazines, *masterworks) | 8.16% | 12 |
 
 # BrayTech Werewolf
 *For all possible perks, check out **BrayTech Werewolf** over on [d2gunsmith.com](https://d2gunsmith.com/w/528834068)*
@@ -416,11 +416,11 @@ With completely vertical recoil and loads of Stability, this will be an absolute
 | 🐺🐺🐺🌟 Collector's Edition | 0.04% | 2592 |
 | 🐺🐺🐺 CE (+magazines) | 0.07% | 1395 |
 | 🐺🐺🐺 CE (+barrels) | 0.17% | 592 |
-| 🐺🐺🐺 CE (-masterworks) | 0.15% | 648 |
+| 🐺🐺🐺 CE (*masterworks) | 0.15% | 648 |
 | 🐺🐺🐺 (+barrels, +magazines) | 0.31% | 319 |
-| 🐺🐺🐺 (+barrels, +magazines, -masterworks) | 1.25% | 79 |
-| 🐺🐺 (+barrels, -magazines, -masterworks) | 2.70% | 37 |
-| 🐺 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| 🐺🐺🐺 (+barrels, +magazines, *masterworks) | 1.25% | 79 |
+| 🐺🐺 (+barrels, *magazines, *masterworks) | 2.70% | 37 |
+| 🐺 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
 
 ### BrayTech Werewolf / PvP / Roll / **"Were-storm"**
 Same set of rolls as above, but swappig out `Eye of the Storm` for `Tap the Trigger`.
@@ -437,11 +437,11 @@ Same set of rolls as above, but swappig out `Eye of the Storm` for `Tap the Trig
 | ⛈⛈⛈🌟 Collector's Edition | 0.04% | 2592 |
 | ⛈⛈⛈ CE (+magazines) | 0.07% | 1395 |
 | ⛈⛈⛈ CE (+barrels) | 0.17% | 592 |
-| ⛈⛈⛈ CE (-masterworks) | 0.15% | 648 |
+| ⛈⛈⛈ CE (*masterworks) | 0.15% | 648 |
 | ⛈⛈⛈ (+barrels, +magazines) | 0.31% | 319 |
-| ⛈⛈⛈ (+barrels, +magazines, -masterworks) | 1.25% | 79 |
-| ⛈⛈ (+barrels, -magazines, -masterworks) | 2.70% | 37 |
-| ⛈ (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| ⛈⛈⛈ (+barrels, +magazines, *masterworks) | 1.25% | 79 |
+| ⛈⛈ (+barrels, *magazines, *masterworks) | 2.70% | 37 |
+| ⛈ (*barrels, *magazines, *masterworks) | 2.78% | 36 |
 
 ### BrayTech Werewolf / PvP / Roll / **"Tappy Wolf"**
 Same set of rolls as above, but taking anything in the third column.
@@ -458,11 +458,11 @@ Same set of rolls as above, but taking anything in the third column.
 | 👉👉👉🌟 Collector's Edition | 0.23% | 432 |
 | 👉👉👉 CE (+magazines) | 0.43% | 232 |
 | 👉👉👉 CE (+barrels) | 1.01% | 98 |
-| 👉👉👉 CE (-masterworks) | 0.93% | 108 |
+| 👉👉👉 CE (*masterworks) | 0.93% | 108 |
 | 👉👉👉 (+barrels, +magazines) | 1.88% | 53 |
-| 👉👉👉 (+barrels, +magazines, -masterworks) | 7.52% | 13 |
-| 👉👉 (+barrels, -magazines, -masterworks) | 16.20% | 6 |
-| 👉 (-barrels, -magazines, -masterworks) | 16.67% | 6 |
+| 👉👉👉 (+barrels, +magazines, *masterworks) | 7.52% | 13 |
+| 👉👉 (+barrels, *magazines, *masterworks) | 16.20% | 6 |
+| 👉 (*barrels, *magazines, *masterworks) | 16.67% | 6 |
 
 ### BrayTech Werewolf / PvP / Roll / **"Stay On Target Wolf"**
 Same set of rolls as above, but taking anything in the final column.
@@ -479,11 +479,11 @@ Same set of rolls as above, but taking anything in the final column.
 | 🎯🎯🎯🌟 Collector's Edition | 0.23% | 432 |
 | 🎯🎯🎯 CE (+magazines) | 0.43% | 232 |
 | 🎯🎯🎯 CE (+barrels) | 1.01% | 98 |
-| 🎯🎯🎯 CE (-masterworks) | 0.93% | 108 |
+| 🎯🎯🎯 CE (*masterworks) | 0.93% | 108 |
 | 🎯🎯🎯 (+barrels, +magazines) | 1.88% | 53 |
-| 🎯🎯🎯 (+barrels, +magazines, -masterworks) | 7.52% | 13 |
-| 🎯🎯 (+barrels, -magazines, -masterworks) | 16.20% | 6 |
-| 🎯 (-barrels, -magazines, -masterworks) | 16.67% | 6 |
+| 🎯🎯🎯 (+barrels, +magazines, *masterworks) | 7.52% | 13 |
+| 🎯🎯 (+barrels, *magazines, *masterworks) | 16.20% | 6 |
+| 🎯 (*barrels, *magazines, *masterworks) | 16.67% | 6 |
 
 ### BrayTech Werewolf / PvE / Overview
 .
@@ -516,12 +516,12 @@ All Range and damage-boosting featuring `Swashbuckler`. Add on `Mulligan` and `F
 | 🩸🩸🩸🌟 Collector's Edition | 0.14% | 697 |
 | 🩸🩸🩸 CE (+magazines) | 0.24% | 412 |
 | 🩸🩸🩸 CE (+barrels) | 0.54% | 186 |
-| 🩸🩸🩸 CE (-masterworks) | 0.57% | 174 |
-| 🩸🩸🩸 (+barrels, -masterworks) | 2.15% | 46 |
-| 🩸🩸🩸 (+magazines, -masterworks) | 0.97% | 103 |
+| 🩸🩸🩸 CE (*masterworks) | 0.57% | 174 |
+| 🩸🩸🩸 (+barrels, *masterworks) | 2.15% | 46 |
+| 🩸🩸🩸 (+magazines, *masterworks) | 0.97% | 103 |
 | 🩸🩸🩸 (+barrels, +magazines) | 0.91% | 109 |
-| 🩸🩸🩸 (+barrels, +magazines, -masterworks) | 3.64% | 27 |
-| 🩸 (-barrels, -magazines, -masterworks) | 5.56% | 18 |
+| 🩸🩸🩸 (+barrels, +magazines, *masterworks) | 3.64% | 27 |
+| 🩸 (*barrels, *magazines, *masterworks) | 5.56% | 18 |
 
 # Cold Front
 *For all possible perks, check out **Cold Front** over on [d2gunsmith.com](https://d2gunsmith.com/w/1506719573)*
@@ -560,10 +560,10 @@ These rolls are floored at `36` Stability (before `Surplus`) since that's the ba
 | 🥶🥶🥶🌟 Collector's Edition | 0.05% | 2160 |
 | 🥶🥶🥶 CE (+barrels) | 0.17% | 575 |
 | 🥶🥶🥶 CE (+magazines) | 0.12% | 840 |
-| 🥶🥶🥶 CE (-masterworks) | 0.19% | 540 |
-| 🥶🥶 (-barrels) | 0.21% | 480 |
-| 🥶🥶 (-magazines) | 0.19% | 540 |
-| 🥶🥶 (+barrels, -masterworks) | 0.69% | 143 |
+| 🥶🥶🥶 CE (*masterworks) | 0.19% | 540 |
+| 🥶🥶 (*barrels) | 0.21% | 480 |
+| 🥶🥶 (*magazines) | 0.19% | 540 |
+| 🥶🥶 (+barrels, *masterworks) | 0.69% | 143 |
 
 ### Cold Front / PvP/PvE Double Duty / Roll / **"Everything Freezes!"**
 Same as the above, replacing `Surplus` with `Dynamic Sway Reduction`.
@@ -580,10 +580,10 @@ Same as the above, replacing `Surplus` with `Dynamic Sway Reduction`.
 | 🥶🥶🥶🌟 Collector's Edition | 0.05% | 2160 |
 | 🥶🥶🥶 CE (+barrels) | 0.17% | 575 |
 | 🥶🥶🥶 CE (+magazines) | 0.12% | 840 |
-| 🥶🥶🥶 CE (-masterworks) | 0.19% | 540 |
-| 🥶🥶 (-barrels) | 0.21% | 480 |
-| 🥶🥶 (-magazines) | 0.19% | 540 |
-| 🥶🥶 (+barrels, -masterworks) | 0.69% | 143 |
+| 🥶🥶🥶 CE (*masterworks) | 0.19% | 540 |
+| 🥶🥶 (*barrels) | 0.21% | 480 |
+| 🥶🥶 (*magazines) | 0.19% | 540 |
+| 🥶🥶 (+barrels, *masterworks) | 0.69% | 143 |
 
 ### Cold Front / PvP/PvE Double Duty / Roll / **"Let's Kick Some Ice!"**
 Same as the above, but we'll take any damage perk.
@@ -600,10 +600,10 @@ Same as the above, but we'll take any damage perk.
 | 🧊🧊🧊🌟 Collector's Edition | 0.28% | 359 |
 | 🧊🧊🧊 CE (+barrels) | 1.04% | 96 |
 | 🧊🧊🧊 CE (+magazines) | 0.71% | 140 |
-| 🧊🧊🧊 CE (-masterworks) | 1.11% | 89 |
-| 🧊🧊 (-barrels) | 1.25% | 80 |
-| 🧊🧊 (-magazines) | 1.11% | 89 |
-| 🧊🧊 (+barrels, -masterworks) | 4.17% | 24 |
+| 🧊🧊🧊 CE (*masterworks) | 1.11% | 89 |
+| 🧊🧊 (*barrels) | 1.25% | 80 |
+| 🧊🧊 (*magazines) | 1.11% | 89 |
+| 🧊🧊 (+barrels, *masterworks) | 4.17% | 24 |
 
 ### Cold Front / PvP / Overview
 You'll notice I didn't include any final column perks. Rampage doesn't meaningfully realistically alter the TTK and Thresh adds so little to your super that it's not worth calling out as the Collector's Edition. Whatever you get in that final column is fine.
@@ -622,13 +622,13 @@ Cold Front needs a lot of help in the Stability department, which is the entire 
 | 🥶🥶🥶📦🌟 Collector's Edition | 0.28% | 359 |
 | 🥶🥶🥶📦 CE (+barrels) | 1.04% | 96 |
 | 🥶🥶🥶📦 CE (+magazines) | 0.71% | 140 |
-| 🥶🥶🥶📦 CE (-barrels) | 1.25% | 80 |
-| 🥶🥶🥶📦 CE (-masterworks) | 1.11% | 89 |
-| 🥶🥶🥶📦 CE (-magazines) | 1.11% | 89 |
+| 🥶🥶🥶📦 CE (*barrels) | 1.25% | 80 |
+| 🥶🥶🥶📦 CE (*masterworks) | 1.11% | 89 |
+| 🥶🥶🥶📦 CE (*magazines) | 1.11% | 89 |
 | 🥶🥶🥶📦 CE (+barrels, +magazines) | 2.68% | 37 |
-| 🥶🥶📦 (+barrels, -masterworks) | 4.17% | 24 |
-| 🥶📦 (+barrels, -magazines) | 4.17% | 24 |
-| 🥶📦 (+magazines, -masterworks) | 2.86% | 35 |
+| 🥶🥶📦 (+barrels, *masterworks) | 4.17% | 24 |
+| 🥶📦 (+barrels, *magazines) | 4.17% | 24 |
+| 🥶📦 (+magazines, *masterworks) | 2.86% | 35 |
 
 ### Cold Front / PvP / Roll / **"Ice to See You/Dynamic Sway"**
 Same as the above, swapping DSR in for Surplus. These rolls are otherwise identical but Surplus is so much better than DSR I wanted to call it out 😀
@@ -645,13 +645,13 @@ Same as the above, swapping DSR in for Surplus. These rolls are otherwise identi
 | 🥶🥶🥶🕺🌟 Collector's Edition | 0.28% | 359 |
 | 🥶🥶🥶🕺 CE (+barrels) | 1.04% | 96 |
 | 🥶🥶🥶🕺 CE (+magazines) | 0.71% | 140 |
-| 🥶🥶🥶🕺 CE (-barrels) | 1.25% | 80 |
-| 🥶🥶🥶🕺 CE (-masterworks) | 1.11% | 89 |
-| 🥶🥶🥶🕺 CE (-magazines) | 1.11% | 89 |
+| 🥶🥶🥶🕺 CE (*barrels) | 1.25% | 80 |
+| 🥶🥶🥶🕺 CE (*masterworks) | 1.11% | 89 |
+| 🥶🥶🥶🕺 CE (*magazines) | 1.11% | 89 |
 | 🥶🥶🥶🕺 CE (+barrels, +magazines) | 2.68% | 37 |
-| 🥶🥶🕺 (+barrels, -masterworks) | 4.17% | 24 |
-| 🥶🕺 (+barrels, -magazines) | 4.17% | 24 |
-| 🥶🕺 (+magazines, -masterworks) | 2.86% | 35 |
+| 🥶🥶🕺 (+barrels, *masterworks) | 4.17% | 24 |
+| 🥶🕺 (+barrels, *magazines) | 4.17% | 24 |
+| 🥶🕺 (+magazines, *masterworks) | 2.86% | 35 |
 
 ### Cold Front / PvE / Overview
 With the addition of `Surplus` and `One for All` to the Cold Front perk pool, we're looking at a strong contender for one of the best kinetic weapons of all time. `Surplus` improves Stability and Reload (two big Cold Front drawbacks) and `One for All` provides a tremendous damage boost and leaves your mod slot free for Minor, Major or Boss Spec.
@@ -673,10 +673,10 @@ While `Surplus` will be boosting Stability, the Stability is so low and difficul
 | 🌨🌨🌨📦 CE (+barrels) | 0.17% | 575 |
 | 🌨🌨🌨📦 CE (+magazines) | 0.09% | 1163 |
 | 🌨🌨🌨📦 CE (+barrels, +magazines) | 0.32% | 310 |
-| 🌨🌨🌨📦 (-barrels) | 0.21% | 480 |
-| 🌨🌨🌨📦 (-magazines) | 0.19% | 540 |
-| 🌨🌨🌨📦 (-masterworks) | 0.19% | 540 |
-| 🌨🌨📦 (-barrels, -magazines, -masterworks) | 3.33% | 30 |
+| 🌨🌨🌨📦 (*barrels) | 0.21% | 480 |
+| 🌨🌨🌨📦 (*magazines) | 0.19% | 540 |
+| 🌨🌨🌨📦 (*masterworks) | 0.19% | 540 |
+| 🌨🌨📦 (*barrels, *magazines, *masterworks) | 3.33% | 30 |
 
 ### Cold Front / PvE / Roll / **"Snowstorm"**
 Same as the above, swapping `Dynamic Sway Reduction` in for `Surplus`.
@@ -694,10 +694,10 @@ Same as the above, swapping `Dynamic Sway Reduction` in for `Surplus`.
 | ❄️❄️❄️📦 CE (+barrels) | 0.17% | 575 |
 | ❄️❄️❄️📦 CE (+magazines) | 0.09% | 1163 |
 | ❄️❄️❄️📦 CE (+barrels, +magazines) | 0.32% | 310 |
-| ❄️❄️❄️📦 (-barrels) | 0.21% | 480 |
-| ❄️❄️❄️📦 (-magazines) | 0.19% | 540 |
-| ❄️❄️❄️📦 (-masterworks) | 0.19% | 540 |
-| ❄️❄️📦 (-barrels, -magazines, -masterworks) | 3.33% | 30 |
+| ❄️❄️❄️📦 (*barrels) | 0.21% | 480 |
+| ❄️❄️❄️📦 (*magazines) | 0.19% | 540 |
+| ❄️❄️❄️📦 (*masterworks) | 0.19% | 540 |
+| ❄️❄️📦 (*barrels, *magazines, *masterworks) | 3.33% | 30 |
 
 ### Cold Front / PvE / Roll / **"Light Dusting"**
 We'll take any combination of a handful of perks in the final columns for a super solid roll (recall that Dragonfly is being replaced by Swashbuckler shortly).
@@ -715,10 +715,10 @@ We'll take any combination of a handful of perks in the final columns for a supe
 | ☃️☃️☃️📦 CE (+barrels) | 1.04% | 96 |
 | ☃️☃️☃️📦 CE (+magazines) | 0.52% | 193 |
 | ☃️☃️☃️📦 CE (+barrels, +magazines) | 1.93% | 51 |
-| ☃️☃️☃️📦 (-barrels) | 1.25% | 80 |
-| ☃️☃️☃️📦 (-magazines) | 1.11% | 89 |
-| ☃️☃️☃️📦 (-masterworks) | 1.11% | 89 |
-| ☃️☃️📦 (-barrels, -magazines, -masterworks) | 20.00% | 5 |
+| ☃️☃️☃️📦 (*barrels) | 1.25% | 80 |
+| ☃️☃️☃️📦 (*magazines) | 1.11% | 89 |
+| ☃️☃️☃️📦 (*masterworks) | 1.11% | 89 |
+| ☃️☃️📦 (*barrels, *magazines, *masterworks) | 20.00% | 5 |
 
 # Dire Promise
 *For all possible perks, check out **Dire Promise** over on [d2gunsmith.com](https://d2gunsmith.com/w/2742838701)*
@@ -742,12 +742,12 @@ With the collapse of 150s > 140s and 110s > 120s, the 140 RPM subtype needs a bi
 | 🙏🙏🙏 CE (+barrels) | 0.17% | 599 |
 | 🙏🙏🙏 CE (+magazines) | 0.08% | 1199 |
 | 🙏🙏🙏 CE (+barrels, +magazines) | 0.33% | 299 |
-| 🙏🙏🙏 CE (-masterworks) | 0.17% | 599 |
-| 🙏🙏🙏 CE (-magazines) | 0.33% | 299 |
-| 🙏🙏 (+barrels, -magazines) | 1.33% | 74 |
-| 🙏🙏 (+barrels, -masterworks) | 0.67% | 149 |
-| 🙏🙏 (+magazines, -masterworks) | 0.33% | 299 |
-| 🙏 (-barrels, -magazines, -masterworks) | 8.00% | 12 |
+| 🙏🙏🙏 CE (*masterworks) | 0.17% | 599 |
+| 🙏🙏🙏 CE (*magazines) | 0.33% | 299 |
+| 🙏🙏 (+barrels, *magazines) | 1.33% | 74 |
+| 🙏🙏 (+barrels, *masterworks) | 0.67% | 149 |
+| 🙏🙏 (+magazines, *masterworks) | 0.33% | 299 |
+| 🙏 (*barrels, *magazines, *masterworks) | 8.00% | 12 |
 
 ### Dire Promise / PvE / Overview
 Dire Promise is hampered in PvE by having only the old perk pool available. It's likely not your choice for high(er) tier PvE content because of that.
@@ -767,12 +767,12 @@ Relying on old reliable perk pairings, this will do work for you in low to mid t
 | 🤝🤝🤝 CE (+barrels) | 0.17% | 599 |
 | 🤝🤝🤝 CE (+magazines) | 0.17% | 599 |
 | 🤝🤝🤝 CE (+barrels, +magazines) | 0.67% | 149 |
-| 🤝🤝🤝 CE (-masterworks) | 0.17% | 599 |
-| 🤝🤝🤝 CE (-magazines) | 0.33% | 299 |
-| 🤝🤝 (+barrels, -magazines) | 1.33% | 74 |
-| 🤝🤝 (+barrels, -masterworks) | 0.67% | 149 |
-| 🤝🤝 (+magazines, -masterworks) | 0.67% | 149 |
-| 🤝 (-barrels, -magazines, -masterworks) | 8.00% | 12 |
+| 🤝🤝🤝 CE (*masterworks) | 0.17% | 599 |
+| 🤝🤝🤝 CE (*magazines) | 0.33% | 299 |
+| 🤝🤝 (+barrels, *magazines) | 1.33% | 74 |
+| 🤝🤝 (+barrels, *masterworks) | 0.67% | 149 |
+| 🤝🤝 (+magazines, *masterworks) | 0.67% | 149 |
+| 🤝 (*barrels, *magazines, *masterworks) | 8.00% | 12 |
 
 # Glacioclasm
 *For all possible perks, check out **Glacioclasm** over on [d2gunsmith.com](https://d2gunsmith.com/w/1030895163)*
@@ -857,9 +857,9 @@ There is a unique situation among rolls here that's super interesting. If you ha
 | ☕️☕️ (+barrels, +magazines) | 0.41% | 245 |
 | ☕️☕️ (+barrels, +perks1) | 0.68% | 147 |
 | ☕️☕️ (+magazines, +perks1) | 0.74% | 135 |
-| ☕️☕️ (-perks1) | 0.46% | 216 |
-| ☕️☕️ (+barrels, -perks1) | 1.02% | 98 |
-| ☕️☕️ (+magazines, -perks1) | 1.11% | 89 |
+| ☕️☕️ (*perks1) | 0.46% | 216 |
+| ☕️☕️ (+barrels, *perks1) | 1.02% | 98 |
+| ☕️☕️ (+magazines, *perks1) | 1.11% | 89 |
 
 ### Glacioclasm / PvP / Roll / **"Slow and Steady Four-Bolter"**
 This roll is based around `Liquid Coils`, which allows you to four-bolt Guardians at `9` Resilience. The introduction of `Liquid Coils` opens this roll up quite a bit. You won't find a `Charge Time` Masterwork here because it would drop the roll down to `6` Resilience.
@@ -880,7 +880,7 @@ This roll is based around `Liquid Coils`, which allows you to four-bolt Guardian
 | 🐢🐢 (+barrels, +perks1) | 1.36% | 73 |
 | 🐢🐢 (+barrels, +masterworks) | 1.36% | 73 |
 | 🐢🐢 (+perks1, +masterworks) | 2.47% | 40 |
-| 🐢🐢 (-perks2) | 0.46% | 216 |
+| 🐢🐢 (*perks2) | 0.46% | 216 |
 | 🐢 (+barrels, +perks1, +masterworks) | 5.43% | 18 |
 
 ### Glacioclasm / PvP / Roll / **"Workhorse"**
@@ -899,21 +899,21 @@ The base stats on Glacioclasm are rock solid are terrific. This roll captures th
 | 🐴🐴🐴 CE (+barrels) | 0.36% | 277 |
 | 🐴🐴🐴 CE (+magazines) | 0.28% | 359 |
 | 🐴🐴🐴 CE (+perks1) | 0.62% | 162 |
-| 🐴🐴🐴 CE (-perks2) | 0.46% | 216 |
-| 🐴🐴🐴 CE (-masterworks) | 0.77% | 129 |
+| 🐴🐴🐴 CE (*perks2) | 0.46% | 216 |
+| 🐴🐴🐴 CE (*masterworks) | 0.77% | 129 |
 | 🐴🐴 (+barrels, +magazines) | 0.65% | 154 |
 | 🐴🐴 (+barrels, +perks1) | 1.44% | 69 |
-| 🐴🐴 (+barrels, -perks2) | 1.08% | 92 |
-| 🐴🐴 (+barrels, -masterworks) | 1.80% | 55 |
+| 🐴🐴 (+barrels, *perks2) | 1.08% | 92 |
+| 🐴🐴 (+barrels, *masterworks) | 1.80% | 55 |
 | 🐴🐴 (+magazines, +perks1) | 1.11% | 89 |
-| 🐴🐴 (+magazines, -perks2) | 0.83% | 120 |
-| 🐴🐴 (+magazines, -masterworks) | 1.39% | 72 |
-| 🐴🐴 (+perks1, -perks2) | 1.85% | 54 |
-| 🐴🐴 (+perks1, -masterworks) | 3.09% | 32 |
-| 🐴🐴 (-perks2, -masterworks) | 2.31% | 43 |
-| 🐴🐴 (-perks1, -masterworks) | 4.63% | 21 |
-| 🐴 (+barrels, +perks1, -perks2) | 4.32% | 23 |
-| 🐴 (+magazines, +perks1, -perks2) | 3.33% | 30 |
+| 🐴🐴 (+magazines, *perks2) | 0.83% | 120 |
+| 🐴🐴 (+magazines, *masterworks) | 1.39% | 72 |
+| 🐴🐴 (+perks1, *perks2) | 1.85% | 54 |
+| 🐴🐴 (+perks1, *masterworks) | 3.09% | 32 |
+| 🐴🐴 (*perks2, *masterworks) | 2.31% | 43 |
+| 🐴🐴 (*perks1, *masterworks) | 4.63% | 21 |
+| 🐴 (+barrels, +perks1, *perks2) | 4.32% | 23 |
+| 🐴 (+magazines, +perks1, *perks2) | 3.33% | 30 |
 
 # Gnawing Hunger
 *For all possible perks, check out **Gnawing Hunger** over on [d2gunsmith.com](https://d2gunsmith.com/w/821154603)*
@@ -947,16 +947,16 @@ Going for as much `Recoil` and `Stability` improvement as we can get. `Kill Clip
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🧟‍♂️🧟‍♂️🧟‍♂️🌟 Collector's Edition | 0.11% | 900 |
-| 🧟‍♂️🧟‍♂️🧟‍♂️ CE (-masterworks) | 0.44% | 225 |
-| 🧟‍♂️🧟‍♂️🧟‍♂️ CE (-perks2) | 0.56% | 179 |
+| 🧟‍♂️🧟‍♂️🧟‍♂️ CE (*masterworks) | 0.44% | 225 |
+| 🧟‍♂️🧟‍♂️🧟‍♂️ CE (*perks2) | 0.56% | 179 |
 | 🧟‍♂️🧟‍♂️🧟‍♂️ CE (+magazines) | 0.29% | 350 |
-| 🧟‍♂️🧟‍♂️ (+magazines, -masterworks) | 1.14% | 87 |
-| 🧟‍♂️🧟‍♂️ (+magazines, -perks2) | 1.43% | 70 |
-| 🧟‍♂️🧟‍♂️ (-magazines) | 0.44% | 225 |
-| 🧟‍♂️🧟‍♂️ (-magazines, -masterworks) | 1.78% | 56 |
-| 🧟‍♂️🧟‍♂️ (-magazines, -perks2) | 2.22% | 44 |
-| 🧟‍♂️🧟‍♂️ (+magazines, -perks2, -masterworks) | 5.71% | 17 |
-| 🧟‍♂️ (-magazines, -perks2, -masterworks) | 8.89% | 11 |
+| 🧟‍♂️🧟‍♂️ (+magazines, *masterworks) | 1.14% | 87 |
+| 🧟‍♂️🧟‍♂️ (+magazines, *perks2) | 1.43% | 70 |
+| 🧟‍♂️🧟‍♂️ (*magazines) | 0.44% | 225 |
+| 🧟‍♂️🧟‍♂️ (*magazines, *masterworks) | 1.78% | 56 |
+| 🧟‍♂️🧟‍♂️ (*magazines, *perks2) | 2.22% | 44 |
+| 🧟‍♂️🧟‍♂️ (+magazines, *perks2, *masterworks) | 5.71% | 17 |
+| 🧟‍♂️ (*magazines, *perks2, *masterworks) | 8.89% | 11 |
 
 ### Gnawing Hunger / PvP / Roll / **"Ramshackle Weapon"**
 Similar to the above roll, relying on `Zen Moment` for `Recoil` improvement.
@@ -971,12 +971,12 @@ Similar to the above roll, relying on `Zen Moment` for `Recoil` improvement.
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🛠🛠🛠🌟 Collector's Edition | 0.28% | 359 |
-| 🛠🛠🛠 CE (-masterworks) | 1.11% | 89 |
-| 🛠🛠🛠 CE (-perks2) | 1.39% | 72 |
+| 🛠🛠🛠 CE (*masterworks) | 1.11% | 89 |
+| 🛠🛠🛠 CE (*perks2) | 1.39% | 72 |
 | 🛠🛠🛠 CE (+magazines) | 0.71% | 140 |
-| 🛠🛠 (+magazines, -masterworks) | 2.86% | 35 |
-| 🛠🛠 (+magazines, -perks2) | 3.57% | 28 |
-| 🛠🛠 (-magazines) | 1.11% | 89 |
+| 🛠🛠 (+magazines, *masterworks) | 2.86% | 35 |
+| 🛠🛠 (+magazines, *perks2) | 3.57% | 28 |
+| 🛠🛠 (*magazines) | 1.11% | 89 |
 
 ### Gnawing Hunger / PvE / Overview
 
@@ -994,12 +994,12 @@ As much Range as we can get from everywhere we can get it. We're combining Subsi
 |:-|-:|-:|
 | 💦💦💦🌟 Collector's Edition | 0.11% | 900 |
 | 💦💦💦 CE (+barrels) | 0.36% | 276 |
-| 💦💦💦 CE (-magazines) | 0.44% | 225 |
-| 💦💦💦 CE (-masterworks) | 0.44% | 225 |
-| 💦💦 (+barrels, -magazines) | 1.44% | 69 |
-| 💦💦 (+barrels, -masterworks) | 1.44% | 69 |
-| 💦💦 (-magazines, -masterworks) | 1.78% | 56 |
-| 💦 (-barrels, -magazines, -masterworks) | 8.00% | 12 |
+| 💦💦💦 CE (*magazines) | 0.44% | 225 |
+| 💦💦💦 CE (*masterworks) | 0.44% | 225 |
+| 💦💦 (+barrels, *magazines) | 1.44% | 69 |
+| 💦💦 (+barrels, *masterworks) | 1.44% | 69 |
+| 💦💦 (*magazines, *masterworks) | 1.78% | 56 |
+| 💦 (*barrels, *magazines, *masterworks) | 8.00% | 12 |
 
 ### Gnawing Hunger / PvE / Roll / **"Ranged Assassin"**
 As much Range as we can get from everywhere we can get it. We're relying on fast-reload magazines to synergize with either of the Kill Clip options.
@@ -1015,12 +1015,12 @@ As much Range as we can get from everywhere we can get it. We're relying on fast
 |:-|-:|-:|
 | 👻👻👻🌟 Collector's Edition | 1.03% | 96 |
 | 👻👻👻 CE (+barrels) | 3.35% | 29 |
-| 👻👻👻 CE (-magazines) | 2.22% | 44 |
-| 👻👻👻 CE (-masterworks) | 4.13% | 24 |
-| 👻👻 (+barrels, -magazines) | 7.22% | 13 |
-| 👻👻 (+barrels, -masterworks) | 13.41% | 7 |
-| 👻👻 (-magazines, -masterworks) | 8.89% | 11 |
-| 👻 (-barrels, -magazines, -masterworks) | 40.00% | 2 |
+| 👻👻👻 CE (*magazines) | 2.22% | 44 |
+| 👻👻👻 CE (*masterworks) | 4.13% | 24 |
+| 👻👻 (+barrels, *magazines) | 7.22% | 13 |
+| 👻👻 (+barrels, *masterworks) | 13.41% | 7 |
+| 👻👻 (*magazines, *masterworks) | 8.89% | 11 |
+| 👻 (*barrels, *magazines, *masterworks) | 40.00% | 2 |
 
 # Hawkmoon
 *For all possible perks, check out **Hawkmoon** over on [d2gunsmith.com](https://d2gunsmith.com/w/3856705927)*
@@ -1793,13 +1793,13 @@ With either Arrowhead Brake or Chambered Compensator + Counterbalance, you can h
 | 🌌🌌🌌🌟 Collector's Edition | 0.43% | 230 |
 | 🌌🌌🌌 CE (+barrels) | 0.95% | 104 |
 | 🌌🌌🌌 CE (+magazines) | 1.36% | 73 |
-| 🌌🌌🌌 (-masterworks) | 1.74% | 57 |
-| 🌌🌌 (-barrels) | 1.04% | 96 |
-| 🌌🌌 (-magazines) | 1.74% | 57 |
+| 🌌🌌🌌 (*masterworks) | 1.74% | 57 |
+| 🌌🌌 (*barrels) | 1.04% | 96 |
+| 🌌🌌 (*magazines) | 1.74% | 57 |
 | 🌌🌌 (+barrels, +magazines) | 3.00% | 33 |
-| 🌌🌌 (+barrels, -masterworks) | 3.82% | 26 |
-| 🌌🌌 (+magazines, -masterworks) | 5.46% | 18 |
-| 🌌 (+barrels, +magazines, -masterworks) | 12.00% | 8 |
+| 🌌🌌 (+barrels, *masterworks) | 3.82% | 26 |
+| 🌌🌌 (+magazines, *masterworks) | 5.46% | 18 |
+| 🌌 (+barrels, +magazines, *masterworks) | 12.00% | 8 |
 
 ### Shadow Price / PvP / Roll / **"Momentous Night"**
 Similar to the above roll; swapping in Killing Wind instead of Surplus.
@@ -1816,13 +1816,13 @@ Similar to the above roll; swapping in Killing Wind instead of Surplus.
 | 🎇🎇🎇🌟 Collector's Edition | 0.43% | 230 |
 | 🎇🎇🎇 CE (+barrels) | 0.95% | 104 |
 | 🎇🎇🎇 CE (+magazines) | 1.36% | 73 |
-| 🎇🎇🎇 (-masterworks) | 1.74% | 57 |
-| 🎇🎇 (-barrels) | 1.04% | 96 |
-| 🎇🎇 (-magazines) | 1.74% | 57 |
+| 🎇🎇🎇 (*masterworks) | 1.74% | 57 |
+| 🎇🎇 (*barrels) | 1.04% | 96 |
+| 🎇🎇 (*magazines) | 1.74% | 57 |
 | 🎇🎇 (+barrels, +magazines) | 3.00% | 33 |
-| 🎇🎇 (+barrels, -masterworks) | 3.82% | 26 |
-| 🎇🎇 (+magazines, -masterworks) | 5.46% | 18 |
-| 🎇 (+barrels, +magazines, -masterworks) | 12.00% | 8 |
+| 🎇🎇 (+barrels, *masterworks) | 3.82% | 26 |
+| 🎇🎇 (+magazines, *masterworks) | 5.46% | 18 |
+| 🎇 (+barrels, +magazines, *masterworks) | 12.00% | 8 |
 
 ### Shadow Price / PvE / Overview
 450s (and ARs in general) are in a tough spot for PvE. [Ehroar demonstrates](https://www.youtube.com/watch?v=Yeyr60J8K6A) this comprehensively: they have a confusing damage profile compared to other alternatives in that slot. If Shadow Price were a kinetic, perhaps less so, but the Energy slot is so loaded with great weapons that it's hard to imagine this being your top choice in its current state. That being said, frame buffs are always a thing and 450s seem long overdue for one!
@@ -1840,12 +1840,12 @@ One for All is a 33% damage boost after tagging three targets. Pair it with Over
 |:-|-:|-:|
 | ⬛️⬛️⬛️🌟 Collector's Edition | 0.24% | 412 |
 | ⬛️⬛️⬛️ CE (+barrels) | 1.00% | 99 |
-| ⬛️⬛️⬛️ CE (-masterworks) | 0.49% | 206 |
-| ⬛️⬛️⬛️ (-magazines) | 0.31% | 324 |
-| ⬛️⬛️ (+barrels, -magazines) | 1.27% | 78 |
-| ⬛️⬛️ (+barrels, -masterworks) | 2.00% | 49 |
-| ⬛️⬛️ (-magazines, -masterworks) | 0.62% | 162 |
-| ⬛️ (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| ⬛️⬛️⬛️ CE (*masterworks) | 0.49% | 206 |
+| ⬛️⬛️⬛️ (*magazines) | 0.31% | 324 |
+| ⬛️⬛️ (+barrels, *magazines) | 1.27% | 78 |
+| ⬛️⬛️ (+barrels, *masterworks) | 2.00% | 49 |
+| ⬛️⬛️ (*magazines, *masterworks) | 0.62% | 162 |
+| ⬛️ (*barrels, *magazines, *masterworks) | 2.78% | 36 |
 
 ### Shadow Price / PvE / Roll / **"Feeding Darkness (Ehroar's Pick)"**
 One for All is a 33% damage boost after tagging three targets. Eventually you'll need to reload and once you hit FFx2, you're golden. If you want this to feel like a laser, Arrowhead Brake is your pick in the first column, taking the Recoil from 79 to 100. It also boosts Handling by nearly 20%, which you'll notice on ready, stow and aiming. See [Ehroar's Review](https://www.youtube.com/watch?v=Yeyr60J8K6A).
@@ -1861,12 +1861,12 @@ One for All is a 33% damage boost after tagging three targets. Eventually you'll
 |:-|-:|-:|
 | 🌌🌌🌌🌟 Collector's Edition | 0.28% | 362 |
 | 🌌🌌🌌 CE (+barrels) | 1.14% | 87 |
-| 🌌🌌🌌 CE (-masterworks) | 0.55% | 181 |
-| 🌌🌌🌌 (-magazines) | 0.31% | 324 |
-| 🌌🌌 (+barrels, -magazines) | 1.27% | 78 |
-| 🌌🌌 (+barrels, -masterworks) | 2.27% | 43 |
-| 🌌🌌 (-magazines, -masterworks) | 0.62% | 162 |
-| 🌌 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| 🌌🌌🌌 CE (*masterworks) | 0.55% | 181 |
+| 🌌🌌🌌 (*magazines) | 0.31% | 324 |
+| 🌌🌌 (+barrels, *magazines) | 1.27% | 78 |
+| 🌌🌌 (+barrels, *masterworks) | 2.27% | 43 |
+| 🌌🌌 (*magazines, *masterworks) | 0.62% | 162 |
+| 🌌 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
 
 ### Shadow Price / PvE / Roll / **"Steady Sparks in the Night"**
 On full-auto weapons, Dragonfly can be tough to proc. 450s are right in that sweet spot where at medium-to-longer ranges, getting Dragonfly to proc regularly is a real possibility. To help with that, we're going to go for better Recoil and Stability with the rest of the roll.
@@ -1882,12 +1882,12 @@ On full-auto weapons, Dragonfly can be tough to proc. 450s are right in that swe
 |:-|-:|-:|
 | ✨✨✨🌟 Collector's Edition | 0.12% | 824 |
 | ✨✨✨ CE (+barrels) | 0.50% | 199 |
-| ✨✨✨ CE (-masterworks) | 0.49% | 206 |
-| ✨✨✨ (-magazines) | 0.15% | 648 |
-| ✨✨ (+barrels, -magazines) | 0.64% | 157 |
-| ✨✨ (+barrels, -masterworks) | 2.00% | 49 |
-| ✨✨ (-magazines, -masterworks) | 0.62% | 162 |
-| ✨ (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| ✨✨✨ CE (*masterworks) | 0.49% | 206 |
+| ✨✨✨ (*magazines) | 0.15% | 648 |
+| ✨✨ (+barrels, *magazines) | 0.64% | 157 |
+| ✨✨ (+barrels, *masterworks) | 2.00% | 49 |
+| ✨✨ (*magazines, *masterworks) | 0.62% | 162 |
+| ✨ (*barrels, *magazines, *masterworks) | 2.78% | 36 |
 
 ### Shadow Price / PvE / Roll / **"Sparks in the Night"**
 Same as the above, except we'll take any perks in the third column.
@@ -1903,11 +1903,11 @@ Same as the above, except we'll take any perks in the third column.
 |:-|-:|-:|
 | 🌃🌃🌃🌟 Collector's Edition | 0.73% | 137 |
 | 🌃🌃🌃 CE (+barrels) | 3.00% | 33 |
-| 🌃🌃🌃 CE (-masterworks) | 2.91% | 34 |
-| 🌃🌃🌃 (-magazines) | 0.93% | 108 |
-| 🌃🌃 (+barrels, -magazines) | 3.82% | 26 |
-| 🌃🌃 (+barrels, -masterworks) | 12.00% | 8 |
-| 🌃🌃 (-magazines, -masterworks) | 3.70% | 27 |
+| 🌃🌃🌃 CE (*masterworks) | 2.91% | 34 |
+| 🌃🌃🌃 (*magazines) | 0.93% | 108 |
+| 🌃🌃 (+barrels, *magazines) | 3.82% | 26 |
+| 🌃🌃 (+barrels, *masterworks) | 12.00% | 8 |
+| 🌃🌃 (*magazines, *masterworks) | 3.70% | 27 |
 
 # Stars in Shadow
 *For all possible perks, check out **Stars in Shadow** over on [d2gunsmith.com](https://d2gunsmith.com/w/2050789284)*
@@ -1937,9 +1937,9 @@ This set of rolls is all about maxing out Recoil, and keeps `Arrowhead Brake` co
 |:-|-:|-:|
 | 🏔🌒🌒🌒🌟 Collector's Edition | 0.04% | 2268 |
 | 🏔🌒🌒🌒 CE (+magazines) | 0.11% | 907 |
-| 🏔🌒🌒🌒 CE (-magazines) | 0.15% | 648 |
-| 🏔🌒🌒🌒 CE (-masterworks) | 0.18% | 567 |
-| 🏔🌒🌒 (-magazines, -masterworks) | 0.62% | 162 |
+| 🏔🌒🌒🌒 CE (*magazines) | 0.15% | 648 |
+| 🏔🌒🌒🌒 CE (*masterworks) | 0.18% | 567 |
+| 🏔🌒🌒 (*magazines, *masterworks) | 0.62% | 162 |
 
 ### Stars in Shadow / PvP / Roll / **"Dark Side"**
 Same as above, using any Stability-boosting barrel, which we'll later relax down to no barrel preference.
@@ -1955,13 +1955,13 @@ Same as above, using any Stability-boosting barrel, which we'll later relax down
 |:-|-:|-:|
 | 🌑🌑🌑🌟 Collector's Edition | 0.17% | 604 |
 | 🌑🌑🌑 CE (+magazines) | 0.41% | 241 |
-| 🌑🌑🌑 CE (-magazines) | 0.58% | 172 |
-| 🌑🌑🌑 CE (-masterworks) | 0.66% | 151 |
-| 🌑🌑🌑 CE (-barrels) | 0.20% | 504 |
-| 🌑🌑 (-barrels, -magazines) | 0.69% | 144 |
-| 🌑🌑 (-barrels, -masterworks) | 0.79% | 126 |
-| 🌑🌑 (-magazines, -masterworks) | 2.31% | 43 |
-| 🌑 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| 🌑🌑🌑 CE (*magazines) | 0.58% | 172 |
+| 🌑🌑🌑 CE (*masterworks) | 0.66% | 151 |
+| 🌑🌑🌑 CE (*barrels) | 0.20% | 504 |
+| 🌑🌑 (*barrels, *magazines) | 0.69% | 144 |
+| 🌑🌑 (*barrels, *masterworks) | 0.79% | 126 |
+| 🌑🌑 (*magazines, *masterworks) | 2.31% | 43 |
+| 🌑 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
 
 ### Stars in Shadow / PvP / Roll / **"Vertical/Gardener"**
 This set of rolls pivots around `Firmly Planted`. It means that, even on console we can opt for `Range`-boosting perks because `Firmly Planted` gives us all the `Stability` we need.
@@ -1976,9 +1976,9 @@ This set of rolls pivots around `Firmly Planted`. It means that, even on console
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🏔🌿🌿🌿🌟 Collector's Edition | 0.04% | 2268 |
-| 🏔🌿🌿🌿 CE (-masterworks) | 0.18% | 567 |
-| 🏔🌿🌿🌿 CE (-magazines) | 0.15% | 648 |
-| 🏔🌿🌿 (-magazines, -masterworks) | 0.62% | 162 |
+| 🏔🌿🌿🌿 CE (*masterworks) | 0.18% | 567 |
+| 🏔🌿🌿🌿 CE (*magazines) | 0.15% | 648 |
+| 🏔🌿🌿 (*magazines, *masterworks) | 0.62% | 162 |
 
 ### Stars in Shadow / PvP / Roll / **"The Gardener"**
 Same as above, using any `Range`-boosting barrel. We'll winnow down to drop the barrel requirement as well.
@@ -1993,13 +1993,13 @@ Same as above, using any `Range`-boosting barrel. We'll winnow down to drop the 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🌿🌿🌿🌟 Collector's Edition | 0.14% | 697 |
-| 🌿🌿🌿 CE (-magazines) | 0.50% | 199 |
-| 🌿🌿🌿 CE (-masterworks) | 0.57% | 174 |
-| 🌿🌿🌿 CE (-barrels) | 0.20% | 504 |
-| 🌿🌿 (-barrels, -magazines) | 0.69% | 144 |
-| 🌿🌿 (-barrels, -masterworks) | 0.79% | 126 |
-| 🌿🌿 (-magazines, -masterworks) | 2.01% | 49 |
-| 🌿 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| 🌿🌿🌿 CE (*magazines) | 0.50% | 199 |
+| 🌿🌿🌿 CE (*masterworks) | 0.57% | 174 |
+| 🌿🌿🌿 CE (*barrels) | 0.20% | 504 |
+| 🌿🌿 (*barrels, *magazines) | 0.69% | 144 |
+| 🌿🌿 (*barrels, *masterworks) | 0.79% | 126 |
+| 🌿🌿 (*magazines, *masterworks) | 2.01% | 49 |
+| 🌿 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
 
 ### Stars in Shadow / PvP / Roll / **"The Vertical/Hoarder"**
 This set of rolls pivots around `Surplus`. It provides a roughly 25%, 13% and 8% boost depending on how many abilities are charged. You really want to be shooting for all three abilities charged at once which means either foregoing their use entirely or perhaps investing in high tiers of the respective stat (Strength, Discipline, or <class stat>) so that you can quickly recharge a single one. The tradeoff is going around with a supercharged weapon the whole match.
@@ -2014,9 +2014,9 @@ This set of rolls pivots around `Surplus`. It provides a roughly 25%, 13% and 8%
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🏔📦📦📦🌟 Collector's Edition | 0.04% | 2268 |
-| 🏔📦📦📦 CE (-masterworks) | 0.18% | 567 |
-| 🏔📦📦📦 (-magazines) | 0.15% | 648 |
-| 🏔📦📦 (-magazines -masterworks) | 0.62% | 162 |
+| 🏔📦📦📦 CE (*masterworks) | 0.18% | 567 |
+| 🏔📦📦📦 (*magazines) | 0.15% | 648 |
+| 🏔📦📦 (*magazines *masterworks) | 0.62% | 162 |
 
 ### Stars in Shadow / PvP / Roll / **"The Hoarder"**
 Same as above, using any `Range`-boosting barrel. We'll winnow down to drop the barrel requirement as well.
@@ -2031,13 +2031,13 @@ Same as above, using any `Range`-boosting barrel. We'll winnow down to drop the 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 📦📦📦🌟 Collector's Edition | 0.14% | 697 |
-| 📦📦📦 CE (-magazines) | 0.50% | 199 |
-| 📦📦📦 CE (-masterworks) | 0.57% | 174 |
-| 📦📦📦 CE (-barrels) | 0.20% | 504 |
-| 📦📦 (-barrels, -magazines) | 0.69% | 144 |
-| 📦📦 (-barrels, -masterworks) | 0.79% | 126 |
-| 📦📦 (-magazines, -masterworks) | 2.01% | 49 |
-| 📦 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| 📦📦📦 CE (*magazines) | 0.50% | 199 |
+| 📦📦📦 CE (*masterworks) | 0.57% | 174 |
+| 📦📦📦 CE (*barrels) | 0.20% | 504 |
+| 📦📦 (*barrels, *magazines) | 0.69% | 144 |
+| 📦📦 (*barrels, *masterworks) | 0.79% | 126 |
+| 📦📦 (*magazines, *masterworks) | 2.01% | 49 |
+| 📦 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
 
 ### Stars in Shadow / PvE / Overview
 In PvE you're going for as much `Range` as you can get with sustained damage upkeep. There are some solid perks here not in our rolls, becase you don't need this wishlist to tell you that Demolitionist is a good perk 🙃
@@ -2055,13 +2055,13 @@ All Range and all damage.
 |:-|-:|-:|
 | ♻️♻️♻️🌟 Collector's Edition | 0.06% | 1728 |
 | ♻️♻️♻️ CE (+magazines) | 0.14% | 691 |
-| ♻️♻️♻️ CE (-barrels) | 0.10% | 1008 |
-| ♻️♻️♻️ CE (-magazines) | 0.20% | 493 |
-| ♻️♻️♻️ CE (-masterworks) | 0.23% | 432 |
-| ♻️♻️ (-barrels, -magazines) | 0.35% | 288 |
-| ♻️♻️ (-barrels, -masterworks) | 0.40% | 252 |
-| ♻️♻️ (-magazines, -masterworks) | 0.81% | 123 |
-| ♻️ (-barrels, -magazines, -masterworks) | 1.39% | 72 |
+| ♻️♻️♻️ CE (*barrels) | 0.10% | 1008 |
+| ♻️♻️♻️ CE (*magazines) | 0.20% | 493 |
+| ♻️♻️♻️ CE (*masterworks) | 0.23% | 432 |
+| ♻️♻️ (*barrels, *magazines) | 0.35% | 288 |
+| ♻️♻️ (*barrels, *masterworks) | 0.40% | 252 |
+| ♻️♻️ (*magazines, *masterworks) | 0.81% | 123 |
+| ♻️ (*barrels, *magazines, *masterworks) | 1.39% | 72 |
 
 ### Stars in Shadow / PvE / Roll / **"Barrier Slayer"**
 In seasons where Pulse Rifles end up with Barrier mods, Genesis will proc when the shield breaks while you'll wrecking the champions with Vorpal. Other shields will also proc Genesis, for example "Enlightened" enemies in the Garden of Salvation raid.
@@ -2077,13 +2077,13 @@ In seasons where Pulse Rifles end up with Barrier mods, Genesis will proc when t
 |:-|-:|-:|
 | 🏆🏆🏆🌟 Collector's Edition | 0.06% | 1728 |
 | 🏆🏆🏆 CE (+magazines) | 0.14% | 691 |
-| 🏆🏆🏆 CE (-barrels) | 0.10% | 1008 |
-| 🏆🏆🏆 CE (-magazines) | 0.20% | 493 |
-| 🏆🏆🏆 CE (-masterworks) | 0.23% | 432 |
-| 🏆🏆 (-barrels, -magazines) | 0.35% | 288 |
-| 🏆🏆 (-barrels, -masterworks) | 0.40% | 252 |
-| 🏆🏆 (-magazines, -masterworks) | 0.81% | 123 |
-| 🏆 (-barrels, -magazines, -masterworks) | 1.39% | 72 |
+| 🏆🏆🏆 CE (*barrels) | 0.10% | 1008 |
+| 🏆🏆🏆 CE (*magazines) | 0.20% | 493 |
+| 🏆🏆🏆 CE (*masterworks) | 0.23% | 432 |
+| 🏆🏆 (*barrels, *magazines) | 0.35% | 288 |
+| 🏆🏆 (*barrels, *masterworks) | 0.40% | 252 |
+| 🏆🏆 (*magazines, *masterworks) | 0.81% | 123 |
+| 🏆 (*barrels, *magazines, *masterworks) | 1.39% | 72 |
 
 ## Steel Sybil Z-14 - PvE
 *For all possible perks, check out **Steel Sybil Z-14** over on [light.gg](https://www.light.gg/db/items/4230993599/steel-sybil-z-14/)*
@@ -2147,11 +2147,11 @@ With `Feeding Frenzy` and `Multikill Clip` you're turning an already terrific we
 | 🕷🕷🕷🌟 Collector's Edition | 0.05% | 1944 |
 | 🕷🕷🕷 CE (+barrels) | 0.23% | 432 |
 | 🕷🕷🕷 CE (+magazines) | 0.15% | 648 |
-| 🕷🕷🕷 CE (-masterworks) | 0.21% | 486 |
+| 🕷🕷🕷 CE (*masterworks) | 0.21% | 486 |
 | 🕷🕷🕷 (+barrels, +magazines) | 0.69% | 144 |
-| 🕷🕷🕷 (+barrels, -masterworks) | 0.93% | 108 |
-| 🕷🕷🕷 (+magazines, -masterworks) | 0.62% | 162 |
-| 🕷🕷🕷 (+barrels, +magazines, -masterworks) | 2.78% | 36 |
+| 🕷🕷🕷 (+barrels, *masterworks) | 0.93% | 108 |
+| 🕷🕷🕷 (+magazines, *masterworks) | 0.62% | 162 |
+| 🕷🕷🕷 (+barrels, +magazines, *masterworks) | 2.78% | 36 |
 
 ### Stochastic Variable / PvE / Roll / **"Recluse 1.5 - Ehroar's Pick, Slightly Less Great"**
 But still great! While `Feeding Frenzy` is the winner in Column 3, `Ambitious Assassin` and `Surplus` will also put in work. This is the same roll as the above with those just two swapped in, in lieu of `Feeding Frenzy`.
@@ -2168,11 +2168,11 @@ But still great! While `Feeding Frenzy` is the winner in Column 3, `Ambitious As
 | 🕷🕷🕷🌟 Collector's Edition | 0.10% | 972 |
 | 🕷🕷🕷 CE (+barrels) | 0.46% | 216 |
 | 🕷🕷🕷 CE (+magazines) | 0.31% | 324 |
-| 🕷🕷🕷 CE (-masterworks) | 0.41% | 243 |
+| 🕷🕷🕷 CE (*masterworks) | 0.41% | 243 |
 | 🕷🕷🕷 (+barrels, +magazines) | 1.39% | 72 |
-| 🕷🕷🕷 (+barrels, -masterworks) | 1.85% | 54 |
-| 🕷🕷🕷 (+magazines, -masterworks) | 1.23% | 81 |
-| 🕷🕷🕷 (+barrels, +magazines, -masterworks) | 5.56% | 18 |
+| 🕷🕷🕷 (+barrels, *masterworks) | 1.85% | 54 |
+| 🕷🕷🕷 (+magazines, *masterworks) | 1.23% | 81 |
+| 🕷🕷🕷 (+barrels, +magazines, *masterworks) | 5.56% | 18 |
 
 # The Number
 *For all possible perks, check out **The Number** over on [d2gunsmith.com](https://d2gunsmith.com/w/2492081469)*
@@ -2197,10 +2197,10 @@ Mr. Fun Police himself nabbed an [absolutely phenomenal roll](https://www.youtub
 | 👮👮👮🌟 Collector's Edition | 0.04% | 2592 |
 | 👮👮👮 CE (+barrels) | 0.17% | 592 |
 | 👮👮👮 CE (+magazines) | 0.14% | 725 |
-| 👮👮👮 CE (-masterworks) | 0.15% | 648 |
-| 👮👮 (+barrels, -masterworks) | 0.68% | 148 |
-| 👮👮 (+magazines, -masterworks) | 0.55% | 181 |
-| 👮👮 (+barrels, +magazines, -masterworks) | 2.41% | 41 |
+| 👮👮👮 CE (*masterworks) | 0.15% | 648 |
+| 👮👮 (+barrels, *masterworks) | 0.68% | 148 |
+| 👮👮 (+magazines, *masterworks) | 0.55% | 181 |
+| 👮👮 (+barrels, +magazines, *masterworks) | 2.41% | 41 |
 
 ### The Number / PvP / Roll / **"Feedback Loop"**
 Classic combo here. `Surplus` and `Wellspring` were introduced in the same season and compliment each other nicely. `Wellspring` takes some of the edge off the reluctance to use abilities when running with a `Surplus`-based primary.
@@ -2217,11 +2217,11 @@ Classic combo here. `Surplus` and `Wellspring` were introduced in the same seaso
 | ♻️♻️♻️🌟 Collector's Edition | 0.04% | 2592 |
 | ♻️♻️♻️ CE (+barrels) | 0.17% | 592 |
 | ♻️♻️♻️ CE (+magazines) | 0.14% | 725 |
-| ♻️♻️♻️ CE (-masterworks) | 0.15% | 648 |
+| ♻️♻️♻️ CE (*masterworks) | 0.15% | 648 |
 | ♻️♻️ (+barrels, +magazines) | 0.60% | 165 |
-| ♻️♻️ (+barrels, -masterworks) | 0.68% | 148 |
-| ♻️♻️ (+magazines, -masterworks) | 0.55% | 181 |
-| ♻️♻️ (+barrels, +magazines, -masterworks) | 2.41% | 41 |
+| ♻️♻️ (+barrels, *masterworks) | 0.68% | 148 |
+| ♻️♻️ (+magazines, *masterworks) | 0.55% | 181 |
+| ♻️♻️ (+barrels, +magazines, *masterworks) | 2.41% | 41 |
 
 ### The Number / PvE / Overview
 450s (and ARs in general) are in a tough spot for PvE. [Ehroar demonstrates](https://www.youtube.com/watch?v=Yeyr60J8K6A) this comprehensively: they have a confusing damage profile compared to other alternatives in that slot. If The Number were a kinetic, perhaps less so, but the Energy slot is so loaded with great weapons that it's hard to imagine this being your top choice in its current state. That being said, frame buffs are always a thing and 450s seem long overdue for one!
@@ -2240,12 +2240,12 @@ PvE tends to be quite ability-heavy so `Surplus` might not be up that often but 
 | 🙋🙋🙋🌟 Collector's Edition | 0.08% | 1296 |
 | 🙋🙋🙋 CE (+barrels) | 0.35% | 288 |
 | 🙋🙋🙋 CE (+magazines) | 0.28% | 362 |
-| 🙋🙋🙋 CE (-masterworks) | 0.31% | 324 |
+| 🙋🙋🙋 CE (*masterworks) | 0.31% | 324 |
 | 🙋🙋 (+barrels, +magazines) | 1.24% | 80 |
-| 🙋🙋 (+barrels, -masterworks) | 1.39% | 72 |
-| 🙋🙋 (+magazines, -masterworks) | 1.10% | 90 |
-| 🙋🙋 (+barrels, +magazines, -masterworks) | 4.96% | 20 |
-| 🙋 (-barrels, -magazines, -masterworks) | 5.56% | 18 |
+| 🙋🙋 (+barrels, *masterworks) | 1.39% | 72 |
+| 🙋🙋 (+magazines, *masterworks) | 1.10% | 90 |
+| 🙋🙋 (+barrels, +magazines, *masterworks) | 4.96% | 20 |
+| 🙋 (*barrels, *magazines, *masterworks) | 5.56% | 18 |
 
 ## Timelines' Vertex - PvP
 *For all possible perks, check out **Timelines' Vertex** over on [light.gg](https://www.light.gg/db/items/3055192515/timelines-vertex/)*
@@ -3360,17 +3360,17 @@ Moving Target and Iron Gaze are going to bump Target Acquisition immensely. You 
 | 🔒🔒🔒🌟 Collector's Edition | 0.10% | 960 |
 | 🔒🔒🔒 CE (+barrels) | 0.14% | 720 |
 | 🔒🔒🔒 CE (+magazines) | 0.19% | 516 |
-| 🔒🔒🔒 CE (-barrels) | 0.17% | 576 |
-| 🔒🔒🔒 CE (-magazines) | 0.42% | 240 |
-| 🔒🔒🔒 CE (-masterworks) | 0.42% | 240 |
-| 🔒🔒 (-barrels, +magazines) | 0.32% | 310 |
-| 🔒🔒 (+barrels, -magazines) | 0.56% | 180 |
-| 🔒🔒 (-barrels, -magazines) | 0.69% | 144 |
-| 🔒🔒 (-barrels, +magazines, -masterworks) | 1.29% | 77 |
-| 🔒🔒 (+barrels, -magazines, -masterworks) | 2.22% | 45 |
-| 🔒🔒 (-barrels, -masterworks) | 0.69% | 144 |
-| 🔒🔒 (-magazines, -masterworks) | 1.67% | 60 |
-| 🔒 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| 🔒🔒🔒 CE (*barrels) | 0.17% | 576 |
+| 🔒🔒🔒 CE (*magazines) | 0.42% | 240 |
+| 🔒🔒🔒 CE (*masterworks) | 0.42% | 240 |
+| 🔒🔒 (*barrels, +magazines) | 0.32% | 310 |
+| 🔒🔒 (+barrels, *magazines) | 0.56% | 180 |
+| 🔒🔒 (*barrels, *magazines) | 0.69% | 144 |
+| 🔒🔒 (*barrels, +magazines, *masterworks) | 1.29% | 77 |
+| 🔒🔒 (+barrels, *magazines, *masterworks) | 2.22% | 45 |
+| 🔒🔒 (*barrels, *masterworks) | 0.69% | 144 |
+| 🔒🔒 (*magazines, *masterworks) | 1.67% | 60 |
+| 🔒 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
 
 ### The Steady Hand / PvP / Roll / **"Demon of Sixes Street"**
 This is primarily a roll for sixes where TSH can shine as a cleanup weapon with a higher chance of chaining kills. Keep in mind that a `Resilience` of `5` cancels out the Swashbuckler two-tap from full health but in sixes that's not always what you're dealing with. If you can pair this with a ranged melee (Swashbuckler x 5) you'llI wouldn't suggest this roll for Comp or Trials.
@@ -3387,17 +3387,17 @@ This is primarily a roll for sixes where TSH can shine as a cleanup weapon with 
 | 👹👹👹🌟 Collector's Edition | 0.10% | 960 |
 | 👹👹👹 CE (+barrels) | 0.14% | 720 |
 | 👹👹👹 CE (+magazines) | 0.19% | 516 |
-| 👹👹👹 CE (-barrels) | 0.17% | 576 |
-| 👹👹👹 CE (-magazines) | 0.42% | 240 |
-| 👹👹👹 CE (-masterworks) | 0.42% | 240 |
-| 👹👹 (-barrels, +magazines) | 0.32% | 310 |
-| 👹👹 (+barrels, -magazines) | 0.56% | 180 |
-| 👹👹 (-barrels, -magazines) | 0.69% | 144 |
-| 👹👹 (-barrels, +magazines, -masterworks) | 1.29% | 77 |
-| 👹👹 (+barrels, -magazines, -masterworks) | 2.22% | 45 |
-| 👹👹 (-barrels, -masterworks) | 0.69% | 144 |
-| 👹👹 (-magazines, -masterworks) | 1.67% | 60 |
-| 👹 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| 👹👹👹 CE (*barrels) | 0.17% | 576 |
+| 👹👹👹 CE (*magazines) | 0.42% | 240 |
+| 👹👹👹 CE (*masterworks) | 0.42% | 240 |
+| 👹👹 (*barrels, +magazines) | 0.32% | 310 |
+| 👹👹 (+barrels, *magazines) | 0.56% | 180 |
+| 👹👹 (*barrels, *magazines) | 0.69% | 144 |
+| 👹👹 (*barrels, +magazines, *masterworks) | 1.29% | 77 |
+| 👹👹 (+barrels, *magazines, *masterworks) | 2.22% | 45 |
+| 👹👹 (*barrels, *masterworks) | 0.69% | 144 |
+| 👹👹 (*magazines, *masterworks) | 1.67% | 60 |
+| 👹 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
 
 ### The Steady Hand / PvP / Roll / **"Float Like a Butterfly"**
 If you pair a Quickdraw TSH with a breach-load GL with a Quick Access Sling mod, you have a super powerful combination. Pairing it with Le Monarque has a similar effect: massive damage with an opening shot from your Energy weapon and a single shot from TSH to clean up. With Quickdraw and Snapshot, this Aggressive Frame can feel like a Lightweight.
@@ -3414,17 +3414,17 @@ If you pair a Quickdraw TSH with a breach-load GL with a Quick Access Sling mod,
 | 🦋🦋🦋🌟 Collector's Edition | 0.10% | 960 |
 | 🦋🦋🦋 CE (+barrels) | 0.14% | 720 |
 | 🦋🦋🦋 CE (+magazines) | 0.19% | 516 |
-| 🦋🦋🦋 CE (-barrels) | 0.17% | 576 |
-| 🦋🦋🦋 CE (-magazines) | 0.42% | 240 |
-| 🦋🦋🦋 CE (-masterworks) | 0.42% | 240 |
-| 🦋🦋 (-barrels, +magazines) | 0.32% | 310 |
-| 🦋🦋 (+barrels, -magazines) | 0.56% | 180 |
-| 🦋🦋 (-barrels, -magazines) | 0.69% | 144 |
-| 🦋🦋 (-barrels, +magazines, -masterworks) | 1.29% | 77 |
-| 🦋🦋 (+barrels, -magazines, -masterworks) | 2.22% | 45 |
-| 🦋🦋 (-barrels, -masterworks) | 0.69% | 144 |
-| 🦋🦋 (-magazines, -masterworks) | 1.67% | 60 |
-| 🦋 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| 🦋🦋🦋 CE (*barrels) | 0.17% | 576 |
+| 🦋🦋🦋 CE (*magazines) | 0.42% | 240 |
+| 🦋🦋🦋 CE (*masterworks) | 0.42% | 240 |
+| 🦋🦋 (*barrels, +magazines) | 0.32% | 310 |
+| 🦋🦋 (+barrels, *magazines) | 0.56% | 180 |
+| 🦋🦋 (*barrels, *magazines) | 0.69% | 144 |
+| 🦋🦋 (*barrels, +magazines, *masterworks) | 1.29% | 77 |
+| 🦋🦋 (+barrels, *magazines, *masterworks) | 2.22% | 45 |
+| 🦋🦋 (*barrels, *masterworks) | 0.69% | 144 |
+| 🦋🦋 (*magazines, *masterworks) | 1.67% | 60 |
+| 🦋 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
 
 ### The Steady Hand / PvP / Roll / **"Workhorse"**
 Many phenomenal perks in column three and column four. As Fallout mentions in his review, you'd be kinda happy to get any of them.
@@ -3441,17 +3441,17 @@ Many phenomenal perks in column three and column four. As Fallout mentions in hi
 | 🐴🐴🐴🌟 Collector's Edition | 0.94% | 106 |
 | 🐴🐴🐴 CE (+barrels) | 1.25% | 80 |
 | 🐴🐴🐴 CE (+magazines) | 1.74% | 57 |
-| 🐴🐴🐴 CE (-barrels) | 1.56% | 64 |
-| 🐴🐴🐴 CE (-magazines) | 3.75% | 26 |
-| 🐴🐴🐴 CE (-masterworks) | 3.75% | 26 |
-| 🐴🐴 (-barrels, +magazines) | 2.90% | 34 |
-| 🐴🐴 (+barrels, -magazines) | 5.00% | 20 |
-| 🐴🐴 (-barrels, -magazines) | 6.25% | 16 |
-| 🐴🐴 (-barrels, +magazines, -masterworks) | 11.61% | 8 |
-| 🐴🐴 (+barrels, -magazines, -masterworks) | 20.00% | 5 |
-| 🐴🐴 (-barrels, -masterworks) | 6.25% | 16 |
-| 🐴🐴 (-magazines, -masterworks) | 15.00% | 6 |
-| 🐴 (-barrels, -magazines, -masterworks) | 25.00% | 4 |
+| 🐴🐴🐴 CE (*barrels) | 1.56% | 64 |
+| 🐴🐴🐴 CE (*magazines) | 3.75% | 26 |
+| 🐴🐴🐴 CE (*masterworks) | 3.75% | 26 |
+| 🐴🐴 (*barrels, +magazines) | 2.90% | 34 |
+| 🐴🐴 (+barrels, *magazines) | 5.00% | 20 |
+| 🐴🐴 (*barrels, *magazines) | 6.25% | 16 |
+| 🐴🐴 (*barrels, +magazines, *masterworks) | 11.61% | 8 |
+| 🐴🐴 (+barrels, *magazines, *masterworks) | 20.00% | 5 |
+| 🐴🐴 (*barrels, *masterworks) | 6.25% | 16 |
+| 🐴🐴 (*magazines, *masterworks) | 15.00% | 6 |
+| 🐴 (*barrels, *magazines, *masterworks) | 25.00% | 4 |
 
 ### The Steady Hand / PvE / Overview
 Generally in PvE you're going for as much `Range` as you can get with sustained damage upkeep. If you liked [The Duke Mk. 44](https://www.light.gg/db/items/2112909414/duke-mk-44/) then TSH could be for you.
@@ -3469,15 +3469,15 @@ Without Outlaw, you're going to have to rely on Transversives, Marksman's Dodge,
 |:-|-:|-:|
 | ♻️♻️♻️🌟 Collector's Edition | 0.19% | 516 |
 | ♻️♻️♻️ CE (+magazines) | 0.33% | 305 |
-| ♻️♻️♻️ CE (-barrels) | 0.32% | 310 |
-| ♻️♻️♻️ CE (+magazines, -barrels) | 0.55% | 183 |
-| ♻️♻️♻️ CE (-magazines) | 0.42% | 240 |
-| ♻️♻️♻️ CE (+magazines, -masterworks) | 1.31% | 76 |
-| ♻️♻️♻️ CE (-masterworks) | 0.77% | 129 |
-| ♻️♻️ (-barrels, -magazines) | 0.69% | 144 |
-| ♻️♻️ (-barrels, -masterworks) | 1.29% | 77 |
-| ♻️♻️ (-magazines, -masterworks) | 1.67% | 60 |
-| ♻️ (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| ♻️♻️♻️ CE (*barrels) | 0.32% | 310 |
+| ♻️♻️♻️ CE (+magazines, *barrels) | 0.55% | 183 |
+| ♻️♻️♻️ CE (*magazines) | 0.42% | 240 |
+| ♻️♻️♻️ CE (+magazines, *masterworks) | 1.31% | 76 |
+| ♻️♻️♻️ CE (*masterworks) | 0.77% | 129 |
+| ♻️♻️ (*barrels, *magazines) | 0.69% | 144 |
+| ♻️♻️ (*barrels, *masterworks) | 1.29% | 77 |
+| ♻️♻️ (*magazines, *masterworks) | 1.67% | 60 |
+| ♻️ (*barrels, *magazines, *masterworks) | 2.78% | 36 |
 
 ## Swarm of the Raven - PvE
 *For all possible perks, check out **Swarm of the Raven** over on [light.gg](https://www.light.gg/db/items/1972985595/swarm-of-the-raven/)*
@@ -3792,13 +3792,13 @@ TFP rolls with sights, not barrels, meaning that the appearance and effective ra
 | 🏃‍♂️🏃‍♂️🏃‍♂️🌟 Collector's Edition | 0.24% | 420 |
 | 🏃‍♂️🏃‍♂️🏃‍♂️ CE (+barrels) | 0.37% | 270 |
 | 🏃‍♂️🏃‍♂️🏃‍♂️ CE (+magazines) | 0.60% | 168 |
-| 🏃‍♂️🏃‍♂️🏃‍♂️ CE (-masterworks) | 0.95% | 105 |
+| 🏃‍♂️🏃‍♂️🏃‍♂️ CE (*masterworks) | 0.95% | 105 |
 | 🏃‍♂️🏃‍♂️🏃‍♂️ CE (+barrels, +magazines) | 0.93% | 108 |
-| 🏃‍♂️🏃‍♂️🏃‍♂️ CE (-magazines) | 0.83% | 120 |
-| 🏃‍♂️🏃‍♂️ (+barrels, -masterworks) | 1.48% | 67 |
-| 🏃‍♂️🏃‍♂️ (+magazines, -masterworks) | 2.38% | 42 |
-| 🏃‍♂️🏃‍♂️ (-magazines, -masterworks) | 3.33% | 30 |
-| 🏃‍♂️ (+barrels, +magazines, -masterworks) | 3.70% | 27 |
+| 🏃‍♂️🏃‍♂️🏃‍♂️ CE (*magazines) | 0.83% | 120 |
+| 🏃‍♂️🏃‍♂️ (+barrels, *masterworks) | 1.48% | 67 |
+| 🏃‍♂️🏃‍♂️ (+magazines, *masterworks) | 2.38% | 42 |
+| 🏃‍♂️🏃‍♂️ (*magazines, *masterworks) | 3.33% | 30 |
+| 🏃‍♂️ (+barrels, +magazines, *masterworks) | 3.70% | 27 |
 
 ### The Forward Path / PvP / Roll / **"Knock 'em Down"**
 Don't underestimate the effect of MKC. Here's how it plays out:
@@ -3819,13 +3819,13 @@ That's a pretty solid little boost; definitely spicy in sixes.
 | 🎳🎳🎳🌟 Collector's Edition | 0.12% | 840 |
 | 🎳🎳🎳 CE (+barrels) | 0.19% | 540 |
 | 🎳🎳🎳 CE (+magazines) | 0.30% | 336 |
-| 🎳🎳🎳 CE (-masterworks) | 0.48% | 210 |
+| 🎳🎳🎳 CE (*masterworks) | 0.48% | 210 |
 | 🎳🎳🎳 CE (+barrels, +magazines) | 0.46% | 216 |
-| 🎳🎳🎳 CE (-magazines) | 0.42% | 240 |
-| 🎳🎳 (+barrels, -masterworks) | 0.74% | 135 |
-| 🎳🎳 (+magazines, -masterworks) | 1.19% | 84 |
-| 🎳🎳 (-magazines, -masterworks) | 1.67% | 60 |
-| 🎳 (+barrels, +magazines, -masterworks) | 1.85% | 54 |
+| 🎳🎳🎳 CE (*magazines) | 0.42% | 240 |
+| 🎳🎳 (+barrels, *masterworks) | 0.74% | 135 |
+| 🎳🎳 (+magazines, *masterworks) | 1.19% | 84 |
+| 🎳🎳 (*magazines, *masterworks) | 1.67% | 60 |
+| 🎳 (+barrels, +magazines, *masterworks) | 1.85% | 54 |
 
 ### The Forward Path / PvP / Roll / **"CoolGuy's Hybrid AR/SMG"**
 Since damage falloff happens at 20m, you want these super zoomed out scopes and all the `Stability` and `Handling` we can get. We're only going to accept low-zoom scopes because you can only use this as close range and long-zoom scope won't have any use (and works against you).
@@ -3842,12 +3842,12 @@ Since damage falloff happens at 20m, you want these super zoomed out scopes and 
 | 😎😎😎🌟 Collector's Edition | 0.12% | 840 |
 | 😎😎😎 CE (+barrels) | 0.19% | 540 |
 | 😎😎😎 CE (+magazines) | 0.30% | 336 |
-| 😎😎😎 CE (-masterworks) | 0.48% | 210 |
+| 😎😎😎 CE (*masterworks) | 0.48% | 210 |
 | 😎😎😎 CE (+barrels, +magazines) | 0.46% | 216 |
-| 😎😎😎 CE (-magazines) | 0.42% | 240 |
-| 😎😎 (+barrels, -masterworks) | 0.74% | 135 |
-| 😎😎 (+magazines, -masterworks) | 1.19% | 84 |
-| 😎 (+barrels, +magazines, -masterworks) | 1.85% | 54 |
+| 😎😎😎 CE (*magazines) | 0.42% | 240 |
+| 😎😎 (+barrels, *masterworks) | 0.74% | 135 |
+| 😎😎 (+magazines, *masterworks) | 1.19% | 84 |
+| 😎 (+barrels, +magazines, *masterworks) | 1.85% | 54 |
 
 ### The Forward Path / PvE / Overview
 If you're looking at The Forward Path from the perspective of a PvE player, you'll find a standard set of perks from seasons past. As Year 4 rolls on and more Kinetic weapons appear with sweet new perks like Surplus, Wellspring and One for All, TFP will find trouble shining. These are some workhorse rolls that will hold up until that point.
@@ -3867,11 +3867,11 @@ Classic combo here. Grave Robber creates ammo to reload the mag and that melee k
 | 🦹‍♂️🦹‍♂️🦹‍♂️ CE (+barrels) | 0.19% | 540 |
 | 🦹‍♂️🦹‍♂️🦹‍♂️ CE (+magazines) | 0.36% | 280 |
 | 🦹‍♂️🦹‍♂️🦹‍♂️ CE (+barrels, +magazines) | 0.56% | 180 |
-| 🦹‍♂️🦹‍♂️🦹‍♂️ CE (-masterworks) | 0.48% | 210 |
-| 🦹‍♂️🦹‍♂️ (+barrels, -masterworks) | 0.74% | 135 |
-| 🦹‍♂️🦹‍♂️ (+magazines, -masterworks) | 1.43% | 70 |
-| 🦹‍♂️🦹‍♂️ (+barrels, +magazines, -masterworks) | 2.22% | 45 |
-| 🦹‍♂️ (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| 🦹‍♂️🦹‍♂️🦹‍♂️ CE (*masterworks) | 0.48% | 210 |
+| 🦹‍♂️🦹‍♂️ (+barrels, *masterworks) | 0.74% | 135 |
+| 🦹‍♂️🦹‍♂️ (+magazines, *masterworks) | 1.43% | 70 |
+| 🦹‍♂️🦹‍♂️ (+barrels, +magazines, *masterworks) | 2.22% | 45 |
+| 🦹‍♂️ (*barrels, *magazines, *masterworks) | 2.78% | 36 |
 
 ### The Forward Path / PvE / Roll / **"Ragin', Clippin' and Bucklin'"**
 While Feeding Frenzy was slightly nerfed, it's still a terrific perk, activating (and stackin) on any kill. With two kills, you're at Outlaw level and with three kills you're beyond Outlaw.
@@ -3889,11 +3889,11 @@ While Feeding Frenzy was slightly nerfed, it's still a terrific perk, activating
 | 😡😡😡 CE (+barrels) | 0.37% | 270 |
 | 😡😡😡 CE (+magazines) | 0.71% | 140 |
 | 😡😡😡 CE (+barrels, +magazines) | 1.11% | 90 |
-| 😡😡😡 CE (-masterworks) | 0.95% | 105 |
-| 😡😡 (+barrels, -masterworks) | 1.48% | 67 |
-| 😡😡 (+magazines, -masterworks) | 2.86% | 35 |
-| 😡😡 (+barrels, +magazines, -masterworks) | 4.44% | 22 |
-| 😡 (-barrels, -magazines, -masterworks) | 5.56% | 18 |
+| 😡😡😡 CE (*masterworks) | 0.95% | 105 |
+| 😡😡 (+barrels, *masterworks) | 1.48% | 67 |
+| 😡😡 (+magazines, *masterworks) | 2.86% | 35 |
+| 😡😡 (+barrels, +magazines, *masterworks) | 4.44% | 22 |
+| 😡 (*barrels, *magazines, *masterworks) | 5.56% | 18 |
 
 # Heritage
 *For all possible perks, check out **Heritage** over on [d2gunsmith.com](https://d2gunsmith.com/w/4248569242)*
@@ -3916,13 +3916,13 @@ None of the traditional damage perks (Rampage, Kill Clip, Vorpal) are available 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 📈📈📈📈🌟 Collector's Edition | 0.58% | 172 |
-| 📈📈📈 CE (-barrels) | 0.99% | 100 |
-| 📈📈📈️ CE (-magazines) | 0.81% | 123 |
-| 📈📈📈 CE (-masterworks) | 1.16% | 86 |
-| 📈📈 (-barrels, -magazines) | 1.39% | 72 |
-| 📈📈️ (-barrels, -masterworks) | 1.98% | 50 |
-| 📈📈️ (-magazines, -masterworks) | 1.62% | 61 |
-| 📈️ (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| 📈📈📈 CE (*barrels) | 0.99% | 100 |
+| 📈📈📈️ CE (*magazines) | 0.81% | 123 |
+| 📈📈📈 CE (*masterworks) | 1.16% | 86 |
+| 📈📈 (*barrels, *magazines) | 1.39% | 72 |
+| 📈📈️ (*barrels, *masterworks) | 1.98% | 50 |
+| 📈📈️ (*magazines, *masterworks) | 1.62% | 61 |
+| 📈️ (*barrels, *magazines, *masterworks) | 2.78% | 36 |
 
 ### Heritage / PvP / Overview
 Heritage has the highest aim assist of any slug shotgun.  [Drewsky](https://www.youtube.com/watch?v=XUGZIasUu9o) says "this weapon is really comparable to The Chaperone."
@@ -3940,13 +3940,13 @@ All Range and all damage.
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🎢🎢🎢🎢️🌟 Collector's Edition | 0.12% | 864 |
-| 🎢🎢🎢 CE (-barrels) | 0.20% | 504 |
-| 🎢🎢🎢️ CE (-magazines) | 0.41% | 246 |
-| 🎢🎢🎢 CE (-masterworks) | 0.46% | 216 |
-| 🎢🎢 (-barrels, -magazines) | 0.69% | 144 |
-| 🎢🎢️ (-barrels, -masterworks) | 0.79% | 126 |
-| 🎢🎢️ (-magazines, -masterworks) | 1.62% | 61 |
-| 🎢️ (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| 🎢🎢🎢 CE (*barrels) | 0.20% | 504 |
+| 🎢🎢🎢️ CE (*magazines) | 0.41% | 246 |
+| 🎢🎢🎢 CE (*masterworks) | 0.46% | 216 |
+| 🎢🎢 (*barrels, *magazines) | 0.69% | 144 |
+| 🎢🎢️ (*barrels, *masterworks) | 0.79% | 126 |
+| 🎢🎢️ (*magazines, *masterworks) | 1.62% | 61 |
+| 🎢️ (*barrels, *magazines, *masterworks) | 2.78% | 36 |
 
 # Code Duello
 *For all possible perks, check out **Code Duello** over on [d2gunsmith.com](https://d2gunsmith.com/w/2496242052)*
@@ -3974,13 +3974,13 @@ First we start with a super high default `Blast Radius` of `95`. Then we sprinkl
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | ☂️☂️☂️🌟 Collector's Edition | 0.16% | 625 |
-| ☂️☂️☂️ (-barrels) | 0.27% | 374 |
-| ☂️☂️☂️ (-magazines) | 0.40% | 250 |
-| ☂️☂️☂️ (-masterworks) | 0.80% | 125 |
-| ☂️☂️ (-barrels, -magazines) | 0.67% | 149 |
-| ☂️☂️ (-barrels, -masterworks) | 1.33% | 74 |
-| ☂️☂️ (-magazines, -masterworks) | 2.00% | 50 |
-| ☂️ (-barrels, -magazines, -masterworks) | 3.33% | 30 |
+| ☂️☂️☂️ (*barrels) | 0.27% | 374 |
+| ☂️☂️☂️ (*magazines) | 0.40% | 250 |
+| ☂️☂️☂️ (*masterworks) | 0.80% | 125 |
+| ☂️☂️ (*barrels, *magazines) | 0.67% | 149 |
+| ☂️☂️ (*barrels, *masterworks) | 1.33% | 74 |
+| ☂️☂️ (*magazines, *masterworks) | 2.00% | 50 |
+| ☂️ (*barrels, *magazines, *masterworks) | 3.33% | 30 |
 
 ### Code Duello / PvE / Overview
 Code Duello has some terrific new perks for dishing out major damage in a flexible way, one of which is incredibly interesting for folks soloing tough content. 
@@ -3997,13 +3997,13 @@ With `Lasting Impression` it's possible to stick a rocket, switch to another wea
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 📺📺📺🌟 Collector's Edition | 0.43% | 234 |
-| 📺📺📺 CE (-barrels) | 0.53% | 187 |
-| 📺📺📺 CE (-masterworks) | 1.07% | 93 |
-| 📺📺📺 CE (-barrels, -masterworks) | 1.33% | 74 |
-| 📺📺 CE (-magazines) | 1.07% | 93 |
-| 📺📺 CE (-magazines, -barrels) | 1.33% | 74 |
-| 📺📺 CE (-magazines, -masterworks) | 2.67% | 37 |
-| 📺 CE (-barrels, -magazines, -masterworks) | 3.33% | 30 |
+| 📺📺📺 CE (*barrels) | 0.53% | 187 |
+| 📺📺📺 CE (*masterworks) | 1.07% | 93 |
+| 📺📺📺 CE (*barrels, *masterworks) | 1.33% | 74 |
+| 📺📺 CE (*magazines) | 1.07% | 93 |
+| 📺📺 CE (*magazines, *barrels) | 1.33% | 74 |
+| 📺📺 CE (*magazines, *masterworks) | 2.67% | 37 |
+| 📺 CE (*barrels, *magazines, *masterworks) | 3.33% | 30 |
 
 ### Code Duello / PvE / Roll / **"Eternal Sunshine"**
 This goes great with Warmind-cell builds for constantly clearing adds. Via Rustopholis above, note that Field Prep only checks to see if you're crouched at the *start* of the reload animation, not throughout.
@@ -4018,13 +4018,13 @@ This goes great with Warmind-cell builds for constantly clearing adds. Via Rusto
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | ☀️☀️☀️🌟 Collector's Edition | 0.43% | 234 |
-| ☀️☀️☀️ CE (-barrels) | 0.53% | 187 |
-| ☀️☀️☀ CE (-magazines) | 1.07% | 93 |
-| ☀️☀️☀️ CE (-masterworks) | 2.13% | 46 |
-| ☀️☀️ (-barrels, -magazines) | 1.33% | 74 |
-| ☀️☀️ (-barrels, -masterworks) | 2.67% | 37 |
-| ☀️☀️ (-magazines, -masterworks) | 5.33% | 18 |
-| ☀️ (-barrels, -magazines, -masterworks) | 6.67% | 15 |
+| ☀️☀️☀️ CE (*barrels) | 0.53% | 187 |
+| ☀️☀️☀ CE (*magazines) | 1.07% | 93 |
+| ☀️☀️☀️ CE (*masterworks) | 2.13% | 46 |
+| ☀️☀️ (*barrels, *magazines) | 1.33% | 74 |
+| ☀️☀️ (*barrels, *masterworks) | 2.67% | 37 |
+| ☀️☀️ (*magazines, *masterworks) | 5.33% | 18 |
+| ☀️ (*barrels, *magazines, *masterworks) | 6.67% | 15 |
 
 ### Code Duello / PvE / Roll / **"Last Stand"**
 This is your standard "stand behind cover / in a well and chuck rockets at the boss" roll. Whether or not you value `Frenzy` over `Lasting Impression` will depend on the encounter. The barrels and masterworks are mostly focused on adding Handling and are gravy (but solid if you get them!).
@@ -4039,16 +4039,16 @@ This is your standard "stand behind cover / in a well and chuck rockets at the b
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🚩🚩🚩🌟 Collector's Edition | 0.43% | 234 |
-| 🚩🚩🚩 CE (-barrels) | 0.53% | 187 |
-| 🚩🚩🚩 CE (-magazines) | 1.07% | 93 |
-| 🚩🚩🚩 CE (-masterworks) | 2.13% | 46 |
-| 🚩🚩🚩 CE (-barrels, -masterworks) | 2.67% | 37 |
-| 🚩🚩 CE (-magazines) | 1.07% | 93 |
-| 🚩🚩 CE (-magazines, -barrels) | 1.33% | 74 |
-| 🚩🚩 CE (-magazines, -masterworks) | 5.33% | 18 |
-| 🚩🚩 CE (-perks1) | 2.13% | 46 |
-| 🚩🚩 CE (-perks1, -barrels) | 2.67% | 37 |
-| 🚩🚩 CE (-perks1, -masterworks) | 10.67% | 9 |
+| 🚩🚩🚩 CE (*barrels) | 0.53% | 187 |
+| 🚩🚩🚩 CE (*magazines) | 1.07% | 93 |
+| 🚩🚩🚩 CE (*masterworks) | 2.13% | 46 |
+| 🚩🚩🚩 CE (*barrels, *masterworks) | 2.67% | 37 |
+| 🚩🚩 CE (*magazines) | 1.07% | 93 |
+| 🚩🚩 CE (*magazines, *barrels) | 1.33% | 74 |
+| 🚩🚩 CE (*magazines, *masterworks) | 5.33% | 18 |
+| 🚩🚩 CE (*perks1) | 2.13% | 46 |
+| 🚩🚩 CE (*perks1, *barrels) | 2.67% | 37 |
+| 🚩🚩 CE (*perks1, *masterworks) | 10.67% | 9 |
 
 # Extraordinary Rendition
 *For all possible perks, check out **Extraordinary Rendition** over on [d2gunsmith.com](https://d2gunsmith.com/w/1097616550)*
@@ -4071,10 +4071,10 @@ The best of everything.
 | 🏆🏆🏆🌟 Collector's Edition | 0.09% | 1134 |
 | 🏆🏆🏆 CE (+barrels) | 0.33% | 302 |
 | 🏆🏆🏆 CE (+magazines) | 0.22% | 453 |
-| 🏆🏆🏆 CE (-masterworks) | 0.35% | 283 |
-| 🏆🏆 (-barrels) | 0.40% | 252 |
-| 🏆🏆 (-magazines) | 0.31% | 324 |
-| 🏆🏆 (+barrels, -masterworks) | 1.32% | 75 |
+| 🏆🏆🏆 CE (*masterworks) | 0.35% | 283 |
+| 🏆🏆 (*barrels) | 0.40% | 252 |
+| 🏆🏆 (*magazines) | 0.31% | 324 |
+| 🏆🏆 (+barrels, *masterworks) | 1.32% | 75 |
 
 ### Extraordinary Rendition / PvP / Overview
 EA needs a lot of help in the Stability department, which is the entire focus of these two rolls. At best, you'll be able to get Stability up from `17` to `52` plus the benefits coming from Surplus and Tap the Trigger. This puts you way above the base Stability on the vaunted Antiope-D and other Precision Frame SMGs. The Recoil is `97` so YMMV on whether or not a Counterbalance mod is required (I suggest an Icarus Mod otherwise).
@@ -4093,13 +4093,13 @@ EA needs a lot of help in the Stability department, which is the entire focus of
 | 🌄🌄🌄🌟 Collector's Edition | 0.04% | 2268 |
 | 🌄🌄🌄 CE (+barrels) | 0.17% | 604 |
 | 🌄🌄🌄 CE (+magazines) | 0.11% | 907 |
-| 🌄🌄🌄 CE (-barrels) | 0.20% | 504 |
-| 🌄🌄🌄 CE (-masterworks) | 0.18% | 567 |
-| 🌄🌄🌄 CE (-magazines) | 0.15% | 648 |
+| 🌄🌄🌄 CE (*barrels) | 0.20% | 504 |
+| 🌄🌄🌄 CE (*masterworks) | 0.18% | 567 |
+| 🌄🌄🌄 CE (*magazines) | 0.15% | 648 |
 | 🌄🌄🌄 CE (+barrels, +magazines) | 0.41% | 241 |
-| 🌄🌄 (+barrels, -masterworks) | 0.66% | 151 |
-| 🌄 (+barrels, -magazines) | 0.58% | 172 |
-| 🌄 (+magazines, -masterworks) | 0.44% | 226 |
+| 🌄🌄 (+barrels, *masterworks) | 0.66% | 151 |
+| 🌄 (+barrels, *magazines) | 0.58% | 172 |
+| 🌄 (+magazines, *masterworks) | 0.44% | 226 |
 
 ### Extraordinary Rendition / PvP / Roll / **"A (Mostly) Perfect Rendition"**
 Same as the above, minus `Tap the Trigger`. Stability is so solid without it that we still have a very good PvP roll.
@@ -4116,13 +4116,13 @@ Same as the above, minus `Tap the Trigger`. Stability is so solid without it tha
 | 🌃🌃🌃🌟 Collector's Edition | 0.26% | 378 |
 | 🌃🌃🌃 CE (+barrels) | 0.99% | 100 |
 | 🌃🌃🌃 CE (+magazines) | 0.66% | 151 |
-| 🌃🌃🌃 CE (-barrels) | 1.19% | 84 |
-| 🌃🌃🌃 CE (-masterworks) | 1.06% | 94 |
-| 🌃🌃🌃 CE (-magazines) | 0.93% | 108 |
+| 🌃🌃🌃 CE (*barrels) | 1.19% | 84 |
+| 🌃🌃🌃 CE (*masterworks) | 1.06% | 94 |
+| 🌃🌃🌃 CE (*magazines) | 0.93% | 108 |
 | 🌃🌃🌃 CE (+barrels, +magazines) | 2.48% | 40 |
-| 🌃🌃 (+barrels, -masterworks) | 3.97% | 25 |
-| 🌃 (+barrels, -magazines) | 3.47% | 28 |
-| 🌃 (+magazines, -masterworks) | 2.65% | 37 |
+| 🌃🌃 (+barrels, *masterworks) | 3.97% | 25 |
+| 🌃 (+barrels, *magazines) | 3.47% | 28 |
+| 🌃 (+magazines, *masterworks) | 2.65% | 37 |
 
 ### Extraordinary Rendition / PvE / Overview
 With `Surplus`, `One for All` and `Frenzy` in the EA perk pool, we're looking at a strong contender for one of the best kinetic weapons of all time (second only to the Ikelos SMG). `Surplus` improves Stability and Reload and `One for All` and `Frenzy` provide a tremendous damage boost and leaves your mod slot free for Minor, Major or Boss Spec.
@@ -4142,10 +4142,10 @@ This is going to be immensely helpful in **high tier content** where you aren't 
 | 🖼🖼🖼 CE (+barrels) | 0.33% | 302 |
 | 🖼🖼🖼 CE (+magazines) | 0.16% | 618 |
 | 🖼🖼🖼 CE (+barrels, +magazines) | 0.61% | 164 |
-| 🖼🖼🖼 (-barrels) | 0.40% | 252 |
-| 🖼🖼🖼 (-magazines) | 0.31% | 324 |
-| 🖼🖼🖼 (-masterworks) | 0.35% | 283 |
-| 🖼🖼 (-barrels, -magazines, -masterworks) | 5.56% | 18 |
+| 🖼🖼🖼 (*barrels) | 0.40% | 252 |
+| 🖼🖼🖼 (*magazines) | 0.31% | 324 |
+| 🖼🖼🖼 (*masterworks) | 0.35% | 283 |
+| 🖼🖼 (*barrels, *magazines, *masterworks) | 5.56% | 18 |
 
 ### Extraordinary Rendition / PvE / Roll / **"A (Mostly) Beautiful Rendition"**
 Similar to the above but we'll take some extended perks that make this a fun go-to for low- to mid-tier content.
@@ -4163,10 +4163,10 @@ Similar to the above but we'll take some extended perks that make this a fun go-
 | 🆗🆗🆗 CE (+barrels) | 0.99% | 100 |
 | 🆗🆗🆗 CE (+magazines) | 0.49% | 206 |
 | 🆗🆗🆗 CE (+barrels, +magazines) | 1.82% | 54 |
-| 🆗🆗🆗 (-barrels) | 1.19% | 84 |
-| 🆗🆗🆗 (-magazines) | 0.93% | 108 |
-| 🆗🆗🆗 (-masterworks) | 1.06% | 94 |
-| 🆗🆗 (-barrels, -magazines, -masterworks) | 16.67% | 6 |
+| 🆗🆗🆗 (*barrels) | 1.19% | 84 |
+| 🆗🆗🆗 (*magazines) | 0.93% | 108 |
+| 🆗🆗🆗 (*masterworks) | 1.06% | 94 |
+| 🆗🆗 (*barrels, *magazines, *masterworks) | 16.67% | 6 |
 
 # Imperial Needle
 *For all possible perks, check out **Imperial Needle** over on [d2gunsmith.com](https://d2gunsmith.com/w/3460122497)*
@@ -4198,7 +4198,7 @@ The new perks don't change the suggested PvP rolls from Whispering Slab, so thes
 | 😡😡😡 CE (+magazines) | 0.10% | 1050 |
 | 😡😡😡 CE (+masterworks) | 0.11% | 944 |
 | 😡😡 (+barrels, +magazines, +masterworks) | 0.35% | 286 |
-| 😡 (-barrels, -magazines, +masterworks) | 1.11% | 89 |
+| 😡 (*barrels, *magazines, +masterworks) | 1.11% | 89 |
 
 ### Imperial Needle / PvP / Roll / **"GuiltySpark's Reserved Needle"**
 (copied from [Whispering Slab](https://rslifka.github.io/wishlist/#whispering-slab))   
@@ -4217,13 +4217,13 @@ The new perks don't change the suggested PvP rolls from Whispering Slab, so thes
 | 🧐🧐🧐 CE (+magazines) | 0.10% | 1050 |
 | 🧐🧐🧐 CE (+masterworks) | 0.11% | 944 |
 | 🧐🧐 (+barrels, +magazines, +masterworks) | 0.35% | 286 |
-| 🧐🧐🧐 CE (-barrels) | 0.19% | 540 |
-| 🧐🧐🧐 CE (-magazines) | 0.16% | 630 |
-| 🧐🧐🧐 CE (-masterworks) | 0.26% | 378 |
-| 🧐🧐 (-barrels, -magazines) | 0.56% | 179 |
-| 🧐🧐 (-barrels, -masterworks) | 0.93% | 108 |
-| 🧐🧐 (-magazines, -masterworks) | 0.79% | 126 |
-| 🧐 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| 🧐🧐🧐 CE (*barrels) | 0.19% | 540 |
+| 🧐🧐🧐 CE (*magazines) | 0.16% | 630 |
+| 🧐🧐🧐 CE (*masterworks) | 0.26% | 378 |
+| 🧐🧐 (*barrels, *magazines) | 0.56% | 179 |
+| 🧐🧐 (*barrels, *masterworks) | 0.93% | 108 |
+| 🧐🧐 (*magazines, *masterworks) | 0.79% | 126 |
+| 🧐 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
 
 ## Berenger's Memory - PvE
 *For all possible perks, check out **Berenger's Memory** over on [light.gg](https://www.light.gg/db/items/407621213/berengers-memory/)*
@@ -5959,7 +5959,7 @@ Here's a breakdown of what we're going for:
 | 😡😡😡 CE (+magazines) | 0.19% | 525 |
 | 😡😡😡 CE (+masterworks) | 0.21% | 472 |
 | 😡😡 (+barrels, +magazines, +masterworks) | 0.70% | 143 |
-| 😡 (-barrels, -magazines, +masterworks) | 2.22% | 44 |
+| 😡 (*barrels, *magazines, +masterworks) | 2.22% | 44 |
 
 ### Whispering Slab / PvP / Roll / **"GuiltySpark's Reserved Slab"**
 The objective of this loadout is to max it's Accuracy as high as it can go, so that the player can use it at longer distances and not feel forced to engage at closer ranges.
@@ -5989,13 +5989,13 @@ The objective of this loadout is to max it's Accuracy as high as it can go, so t
 | 🧐🧐🧐 CE (+magazines) | 0.19% | 525 |
 | 🧐🧐🧐 CE (+masterworks) | 0.21% | 472 |
 | 🧐🧐 (+barrels, +magazines, +masterworks) | 0.70% | 143 |
-| 🧐🧐🧐 CE (-barrels) | 0.37% | 270 |
-| 🧐🧐🧐 CE (-magazines) | 0.32% | 315 |
-| 🧐🧐🧐 CE (-masterworks) | 0.53% | 189 |
-| 🧐🧐 (-barrels, -magazines) | 1.11% | 89 |
-| 🧐🧐 (-barrels, -masterworks) | 1.85% | 54 |
-| 🧐🧐 (-magazines, -masterworks) | 1.59% | 63 |
-| 🧐 (-barrels, -magazines, -masterworks) | 5.56% | 18 |
+| 🧐🧐🧐 CE (*barrels) | 0.37% | 270 |
+| 🧐🧐🧐 CE (*magazines) | 0.32% | 315 |
+| 🧐🧐🧐 CE (*masterworks) | 0.53% | 189 |
+| 🧐🧐 (*barrels, *magazines) | 1.11% | 89 |
+| 🧐🧐 (*barrels, *masterworks) | 1.85% | 54 |
+| 🧐🧐 (*magazines, *masterworks) | 1.59% | 63 |
+| 🧐 (*barrels, *magazines, *masterworks) | 5.56% | 18 |
 
 ## Seventh Seraph Carbine - PvP
 *For all possible perks, check out **Seventh Seraph Carbine** over on [light.gg](https://www.light.gg/db/items/1561006927/seventh-seraph-carbine/)*
@@ -6729,7 +6729,7 @@ These rolls aren't super tight on the Barrel and Magazine front because they are
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 💥💥💥🌟 | 0.91% | 109 |
-| 💥💥💥 (-masterworks) | 1.82% | 54 |
+| 💥💥💥 (*masterworks) | 1.82% | 54 |
 
 ### Seventh Seraph SI-2 / PvP / Roll / **"Threat Level Super Shredder"**
 Same setup as the above, but we're swapping out Full Auto and bringing in Threat Detector.
@@ -6744,7 +6744,7 @@ Same setup as the above, but we're swapping out Full Auto and bringing in Threat
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🧵🧵🧵🌟 | 0.91% | 109 |
-| 🧵🧵🧵 (-masterworks) | 1.82% | 54 |
+| 🧵🧵🧵 (*masterworks) | 1.82% | 54 |
 
 ### Seventh Seraph SI-2 / PvP / Roll / **"Basic Super Shredder"**
 No first column perk! If you really want Vorpal on your Energy sidearm, here ya go.
@@ -6759,7 +6759,7 @@ No first column perk! If you really want Vorpal on your Energy sidearm, here ya 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | ⚙⚙⚙🌟 | 5.46% | 18 |
-| ⚙⚙⚙ (-masterworks) | 10.91% | 9 |
+| ⚙⚙⚙ (*masterworks) | 10.91% | 9 |
 
 ### Seventh Seraph SI-2 / PvE / Overview
 Like all other Seraph weapons, the SI-2 contributes to the generation of Warmind cells in PvE. If that's not your thing, you can pretty much pass on this weapon full stop. Since it can roll with Dragonfly, it could have made beautiful music with the `Wrath of Rasputin` Warmind mod: `Solar splash damage final blows have a chance to create Warmind Cells`. Unfortunately the SI-2 is a Void weapon 👿
