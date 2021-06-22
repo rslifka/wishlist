@@ -58,7 +58,7 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 * Berenger's Memory ([PvE](#berengers-memory---pve))
 * Cold Denial ([PvP](#cold-denial---pvp), [PvE](#cold-denial---pve))
 * Falling Guillotine ([PvE](#falling-guillotine---pve))
-* False Promises ([PvP](#false-promises---pvp), [PvE](#false-promises---pve))
+* [False Promises](#false-promises) ([PvP](#false-promises--pvp--Overview), [PvE](#false-promises--pve--Overview))
 * First In, Last Out ([PvP](#first-in-last-out---pvp), [PvE](#first-in-last-out---pve))
 * Hollow Words ([PvP](#hollow-words---pvp))
 * IKELOS_SMG_V1.0.2 ([PvP](#ikelos_smg_v102---pvp), [PvE](#ikelos_smg_v102---pve))
@@ -4573,14 +4573,11 @@ We're going for the classics here: Whirlwind and Surrounded. Maybe you'll get in
   Perks 2 [ 50%]: Surrounded
   MWorks  [100%]: *
   ```
-## False Promises - PvP
-*For all possible perks, check out **False Promises** over on [light.gg](https://www.light.gg/db/items/3143732432/false-promises/)*
+# False Promises
+*For all possible perks, check out **False Promises** over on [d2gunsmith.com](https://d2gunsmith.com/w/3143732432)*
 
-
-False Promises is a 360 RPM Kinetic Auto Rifle introduced in Season 11. Apart from the Age-Old Bond (from the Last Wish raid), it's the only other High-Impact Frame Auto Rifle in the game that will be able to go past Season 11's `1060` power cap.
-
-The High-Impacts are notable by their extremely long `Range` and extremely poor `Stability` and False Promises is no exception. On console, False Promises is pretty tough to control. Even with vertical `Recoil`, there's still a lot of bounce in the reticle because the `Stability` is so low.
-
+False Promises is a 360 RPM Kinetic Auto Rifle introduced in Season 11. The High-Impacts are notable by their extremely long `Range` and extremely poor `Stability` and False Promises is no exception. On console, False Promises is pretty tough to control. Even with vertical `Recoil`, there's still a lot of bounce in the reticle because the `Stability` is so low.
+### False Promises / PvP / Overview
 I'm recommending, nay requiring `Dynamic Sway Reduction` for any False Promises roll I'd consider using in PvP, because of its marked affect on `Stability` and `Accuracy`. Here's what [Bungie had to say](https://www.bungie.net/en/News/Article/49126) about DSR prior to S11:
 
 > **Dynamic Sway Reduction**: Adds 10 Stability over time in addition to accuracy (this is way more powerful than it sounds). Reduced reticle movement from Stability should now tell players this is working.
@@ -4592,245 +4589,86 @@ Here's a couple of videos examining Stability, including the effects of DSR. The
 All of the following rolls feature Eye of the Storm, Rampage and Swashbuckler. Think about this from a "forgiveness" perspective. If you want more forgiveness during your first exchange, choose Eye of the Storm. If you want more foregiveness during follow-on encounters, choose Rampage or Swashbuckler.
 
 **Closing Remarks**: S11 continues the S10 600 RPM Auto Rifle meta. If you're planning on using an AR, I'd suggest any of the 600s kicking around, notably the Gnawing Hunger since it's so easily farmable via the Recaster. Alternatively, wait until The Summoner is up as the three-win reward in Trials and grab on there. As far as False Promises is concerned, I'll be holding on to a good PvP roll in the hopes that the sandbox is updated in S12 or beyond.
-* **(PvP) Stormfront 🌦🌦🌦🌟Collector's Edition - 0.1% chance**: These 360s are primarily hampered by their ultra-low Stability, so we're going to do everything we can to correct it. `EotS` is part of that as it hones in progressively more as your health gets low. Be sure to swap in Counterbalance mod push the `Recoil` to `100`.
-
-  ```
+### False Promises / PvP / Roll / **"Stormfront"**
+These 360s are primarily hampered by their ultra-low Stability, so we're going to do everything we can to correct it. `EotS` is part of that as it hones in progressively more as your health gets low. Be sure to swap in Counterbalance mod push the `Recoil` to `100`.
+```
   Barrels [ 22%]: Polygonal Rifling
   Mags    [ 25%]: Ricochet Rounds
   Perks 1 [ 14%]: Dynamic Sway Reduction
   Perks 2 [ 28%]: Eye of the Storm
   MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) Stormfront 🌦🌦🌦 (+ Magazines) - 0.1% chance**
+```
 
-  ```
-  Barrels [ 22%]: Polygonal Rifling
-  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
-  Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 28%]: Eye of the Storm
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) Stormfront 🌦🌦🌦 (+ Barrels) - 0.2% chance**
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🌦🌦🌦🌟 Collector's Edition | 0.06% | 1764 |
+| 🌦🌦🌦 CE (+magazines) | 0.11% | 949 |
+| 🌦🌦🌦 CE (+barrels) | 0.18% | 542 |
+| 🌦🌦🌦 (+barrels, +magazines) | 0.34% | 292 |
+| 🌦🌦 (+barrels, *magazines) | 0.74% | 135 |
+| 🌦🌦 (+barrels, *masterworks) | 0.74% | 135 |
+| 🌦 (*magazines, *masterworks) | 0.91% | 110 |
 
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [ 25%]: Ricochet Rounds
-  Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 28%]: Eye of the Storm
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) Stormfront 🌦🌦🌦 (+ Barrels + Magazines) - 0.3% chance**
-
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
-  Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 28%]: Eye of the Storm
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) Stormfront 🌦🌦 (+ Barrels - Magazines) - 0.7% chance**
-
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 28%]: Eye of the Storm
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) Stormfront 🌦🌦 (+ Barrels - Masterwork) - 1.4% chance**
-
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
-  Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 28%]: Eye of the Storm
-  MWorks  [100%]: *
-  ```
-* **(PvP) Stormfront 🌦 (Baseline) - 2.9% chance**
-
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 28%]: Eye of the Storm
-  MWorks  [100%]: *
-  ```
-* **(PvP) Aftershocks ⚡️⚡️⚡️🌟Collector's Edition - 0.1% chance**: Same as the above roll, but helps you chain kills.
-
-  ```
+### False Promises / PvP / Roll / **"Aftershocks"**
+Same as the above roll, but helps you chain kills.
+```
   Barrels [ 22%]: Polygonal Rifling
   Mags    [ 25%]: Ricochet Rounds
   Perks 1 [ 14%]: Dynamic Sway Reduction
   Perks 2 [ 52%]: Rampage, Swashbuckler
   MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) Aftershocks ⚡️⚡️⚡️ (+ Magazines) - 0.2% chance**
+```
 
-  ```
-  Barrels [ 22%]: Polygonal Rifling
-  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
-  Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 52%]: Rampage, Swashbuckler
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) Aftershocks ⚡️⚡️⚡️ (+ Barrels) - 0.3% chance**
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| ⚡️⚡️⚡️🌟 Collector's Edition | 0.10% | 962 |
+| ⚡️⚡️⚡️ CE (+magazines) | 0.19% | 518 |
+| ⚡️⚡️⚡️ CE (+barrels) | 0.34% | 296 |
+| ⚡️⚡️⚡️ (+barrels, +magazines) | 0.63% | 159 |
+| ⚡️⚡️ (+barrels, *magazines) | 1.35% | 74 |
+| ⚡️⚡️ (+barrels, *masterworks) | 1.35% | 74 |
+| ⚡️ (*magazines, *masterworks) | 1.66% | 60 |
 
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [ 25%]: Ricochet Rounds
-  Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 52%]: Rampage, Swashbuckler
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) Aftershocks ⚡️⚡️⚡️ (+ Barrels + Magazines) - 0.6% chance**
-
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
-  Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 52%]: Rampage, Swashbuckler
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) Aftershocks ⚡️⚡️ (+ Barrels - Magazines) - 1.4% chance**
-
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 52%]: Rampage, Swashbuckler
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) Aftershocks ⚡️⚡️ (+ Barrels - Masterwork) - 2.5% chance**
-
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
-  Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 52%]: Rampage, Swashbuckler
-  MWorks  [100%]: *
-  ```
-* **(PvP) Aftershocks ⚡️ (Baseline) - 5.4% chance**
-
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 52%]: Rampage, Swashbuckler
-  MWorks  [100%]: *
-  ```
-## False Promises - PvE
-*For all possible perks, check out **False Promises** over on [light.gg](https://www.light.gg/db/items/3143732432/false-promises/)*
-
-
-There's not much to puzzle out here. In PvE you're going for as much `Range` as you can get with sustained damage upkeep. I think `Unrelenting` is a super interesting perk, I would just prefer to have the large damage bonuses active from damage-boosting perks.
-* **(PvE) Overflowing Rage 🚰🚰🚰🌟 Collector's Edition - 1.7% chance**: All Range and all damage, focused on Overflow and Subsistence.
-
-  ```
+### False Promises / PvE / Overview
+In PvE you're going for as much `Range` as you can get with sustained damage upkeep. I think `Unrelenting` is a super interesting perk, I would just prefer to have the large damage bonuses active from damage-boosting perks.
+### False Promises / PvE / Roll / **"Overflowing Rage"**
+All Range and all damage, focused on Overflow and Subsistence.
+```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    [ 78%]: High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
   Perks 1 [ 28%]: Overflow, Subsistence
   Perks 2 [ 52%]: Rampage, Swashbuckler
   MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) Overflowing Rage 🚰🚰🚰 (- Barrels) - 2.9% chance**
+```
 
-  ```
-  Barrels [100%]: *
-  Mags    [ 78%]: High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
-  Perks 1 [ 28%]: Overflow, Subsistence
-  Perks 2 [ 52%]: Rampage, Swashbuckler
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) Overflowing Rage 🚰🚰🚰 (- Masterwork) - 6.9% chance**
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🚰🚰🚰🌟 Collector's Edition | 1.71% | 58 |
+| 🚰🚰🚰 CE (*barrels) | 2.94% | 34 |
+| 🚰🚰🚰 CE (*masterworks) | 6.86% | 14 |
+| 🚰🚰🚰 CE (*magazines) | 2.18% | 45 |
+| 🚰🚰 (*barrels, *magazines) | 3.74% | 26 |
+| 🚰 (*barrels, *magazines, *masterworks) | 14.97% | 6 |
 
-  ```
-  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [ 78%]: High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
-  Perks 1 [ 28%]: Overflow, Subsistence
-  Perks 2 [ 52%]: Rampage, Swashbuckler
-  MWorks  [100%]: *
-  ```
-* **(PvE) Overflowing Rage 🚰🚰🚰 (- Magazines) - 2.2% chance**
-
-  ```
-  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 28%]: Overflow, Subsistence
-  Perks 2 [ 52%]: Rampage, Swashbuckler
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) Overflowing Rage 🚰🚰 (- Barrels - Magazines) - 3.7% chance**
-
-  ```
-  Barrels [100%]: *
-  Mags    [100%]: *
-  Perks 1 [ 28%]: Overflow, Subsistence
-  Perks 2 [ 52%]: Rampage, Swashbuckler
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) Overflowing Rage 🚰 (Baseline) - 15.0% chance**
-
-  ```
-  Barrels [100%]: *
-  Mags    [100%]: *
-  Perks 1 [ 28%]: Overflow, Subsistence
-  Perks 2 [ 52%]: Rampage, Swashbuckler
-  MWorks  [100%]: *
-  ```
-* **(PvE) Frenzied Rage 😡😡😡🌟 Collector's Edition - 0.9% chance**: All Range and all damage, focused on Feeding Frenzy.
-
-  ```
+### False Promises / PvE / Roll / **"Frenzied Rage"**
+All Range and all damage, focused on Feeding Frenzy.
+```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    [ 78%]: High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
   Perks 1 [ 14%]: Feeding Frenzy
   Perks 2 [ 52%]: Rampage, Swashbuckler
   MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) Frenzied Rage 😡😡😡 (- Barrels) - 1.5% chance**
+```
 
-  ```
-  Barrels [100%]: *
-  Mags    [ 78%]: High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
-  Perks 1 [ 14%]: Feeding Frenzy
-  Perks 2 [ 52%]: Rampage, Swashbuckler
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) Frenzied Rage 😡😡😡 (- Masterwork) - 3.4% chance**
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 😡😡😡🌟 Collector's Edition | 0.86% | 116 |
+| 😡😡😡 CE (*barrels) | 1.47% | 68 |
+| 😡😡😡 CE (*masterworks) | 3.43% | 29 |
+| 😡😡😡 CE (*magazines) | 1.09% | 91 |
+| 😡😡 (*barrels, *magazines) | 1.87% | 53 |
+| 😡 (*barrels, *magazines, *masterworks) | 7.48% | 13 |
 
-  ```
-  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [ 78%]: High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
-  Perks 1 [ 14%]: Feeding Frenzy
-  Perks 2 [ 52%]: Rampage, Swashbuckler
-  MWorks  [100%]: *
-  ```
-* **(PvE) Frenzied Rage 😡😡😡 (- Magazines) - 1.1% chance**
-
-  ```
-  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 14%]: Feeding Frenzy
-  Perks 2 [ 52%]: Rampage, Swashbuckler
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) Frenzied Rage 😡😡 (- Barrels - Magazines) - 1.9% chance**
-
-  ```
-  Barrels [100%]: *
-  Mags    [100%]: *
-  Perks 1 [ 14%]: Feeding Frenzy
-  Perks 2 [ 52%]: Rampage, Swashbuckler
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) Frenzied Rage 😡 (Baseline) - 7.5% chance**
-
-  ```
-  Barrels [100%]: *
-  Mags    [100%]: *
-  Perks 1 [ 14%]: Feeding Frenzy
-  Perks 2 [ 52%]: Rampage, Swashbuckler
-  MWorks  [100%]: *
-  ```
 ## First In, Last Out - PvP
 *For all possible perks, check out **First In, Last Out** over on [light.gg](https://www.light.gg/db/items/3616586446/first-in-last-out/)*
 
