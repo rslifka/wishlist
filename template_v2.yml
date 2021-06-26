@@ -1,0 +1,54 @@
+syntax_version: 2
+name: TODO
+item_id: 123
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 7, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  TODO
+activities:
+  - 
+    name: PvP
+    overview: >
+      TODO
+    roll_sets:
+      -
+        name: TODO
+        overview: >
+          TODO
+        perks: 
+          base: 
+            barrels: [Chambered Compensator]
+            magazines: [Steady Rounds]
+            perks1: [Dynamic Sway Reduction]
+            perks2: [Tap the Trigger]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Chambered Compensator, Arrowhead Brake]
+            magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+        variants:
+          - 🤖🤖🤖🌟 Collector's Edition
+  -
+    name: PvE
+    overview: >
+      TODO
+    roll_sets:
+      -
+        name: TODO
+        overview:
+          TODO
+        perks:
+          base:
+            barrels: [Hammer-Forged Rifling]
+            magazines: [Seraph Rounds]
+            perks1: [Threat Detector]
+            perks2: [Surrounded]
+            masterworks: [Range MW]
+          extensions:
+            barrels: [Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling]
+            magazines: [Seraph Rounds, Accurized Rounds]
+        variants:
+          - 😇😇😇🌟 Collector's Edition
