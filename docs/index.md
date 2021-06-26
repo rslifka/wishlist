@@ -61,7 +61,7 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 * [False Promises](#false-promises) ([PvP](#false-promises--pvp--Overview), [PvE](#false-promises--pve--Overview))
 * First In, Last Out ([PvP](#first-in-last-out---pvp), [PvE](#first-in-last-out---pve))
 * Hollow Words ([PvP](#hollow-words---pvp))
-* IKELOS_SMG_V1.0.2 ([PvP](#ikelos_smg_v102---pvp), [PvE](#ikelos_smg_v102---pve))
+* [IKELOS_SMG_V1.0.2](#ikelos_smg_v102) ([PvP](#ikelos_smg_v102--pvp--Overview), [PvE](#ikelos_smg_v102--pve--Overview))
 * IKELOS_SR_V1.0.2 ([PvP](#ikelos_sr_v102---pvp), [PvE](#ikelos_sr_v102---pve))
 * Temptation's Hook ([PvE](#temptations-hook---pve))
 * [Whispering Slab](#whispering-slab) ([PvP](#whispering-slab--pvp--Overview))
@@ -5004,11 +5004,12 @@ Without both of these perks, you may as well run a High-Impact Frame. I think it
   Perks 2 [ 33%]: Disruption Break
   MWorks  [100%]: *
   ```
-## IKELOS_SMG_V1.0.2 - PvP
-*For all possible perks, check out **IKELOS_SMG_V1.0.2** over on [light.gg](https://www.light.gg/db/items/2222560548/ikelos-smg-v102/)*
+# IKELOS_SMG_V1.0.2
+*For all possible perks, check out **IKELOS_SMG_V1.0.2** over on [d2gunsmith.com](https://d2gunsmith.com/w/2222560548)*
 
-
-The IKELOS SMG 1.0.2 is an Aggressive Frame, Energy-slot 750 RPM SMG. Back during the Warmind times (Season 3) its statically-rolled predecessor was a seriously legit part of the PvP meta. Apart from the original IKELOS SMG, in the history of Destiny 2, this archetype has had an unfortunate time of things. The only [other Aggressive Frames](https://www.light.gg/db/items/compare/?h=CEeZUk;BZzrdV;GStUF;) have punishingly, unusably poor `Stability` so they never saw any play, not even on the fringes of the meta.
+The IKELOS SMG 1.0.2 is an Aggressive Frame, Energy-slot 750 RPM SMG. With the advent of Warmind Cell mods, it has become a PvE staple.
+### IKELOS_SMG_V1.0.2 / PvP / Overview
+Back during the Warmind times (Season 3) its statically-rolled predecessor was a seriously legit part of the PvP meta. Apart from the original IKELOS SMG, in the history of Destiny 2, this archetype has had an unfortunate time of things. The only [other Aggressive Frames](https://www.light.gg/db/items/compare/?h=CEeZUk;BZzrdV;GStUF;) have punishingly, unusably poor `Stability` so they never saw any play, not even on the fringes of the meta.
 
 A few weeks into Season 11 an Bungie drops the new version of the IKELOS SMG, now called the IKELOS_SMG_V1.0.2 (compared to S3's V1.0.1). It now features random rolls with the new Y3 perks like Vorpal Weapon and Demolitionist. It also has a tremendous amount of Stability compared to its brethren, about triple.
 
@@ -5016,384 +5017,114 @@ A few weeks into Season 11 an Bungie drops the new version of the IKELOS SMG, no
 * **`Threat Detector`**: The only evidence I've been able to find of how this perk works is present in this video: ["Threat Detector In Depth"](https://www.youtube.com/watch?v=EB7Fgvgchq8) which deduces a massive +20 to Stability at TDx1. The range for TDx1 is 14.8M (and below of course) which means a laser-like boost to Stability to where you could practically hip-fire the darn thing (no it does not drop with Hip-Fire Grip in its perk pool :)
 
 Which set of rolls you go for depends on whether or not you want to keep your mod slot open for `Icarus Grip` or `Freehand Grip`. If you don't care for either of those, that's going to free up your choice of Barrels and you'll be able to throw a `Counterbalance Stock` mod in to fix the recoil.
-
-Umbrals drop so regularly and since the season has been extended to November, I'm crossing my fingers you get the roll you want!
-* **(PvP) "Rasputin's Choice; Mod Slot Free" 🤖🤖🤖🟢🌟 Collector's Edition - 0.1% chance**: Any time you see Dynamic Sway and Tap the Trigger available in both columns, that's a tough one to pass up. TtT keeps you steady on the initial burst and DSR keeps you steady afterwards. After that it's all `Stability`. This roll would push Stability from 39 to 74 (?!) and that's not including the additional Stability from DSR and TtT! With a Recoil-fixing Barrel, the mod slot is free for you.
-
-  ```
+### IKELOS_SMG_V1.0.2 / PvP / Roll / **"Rasputin's Choice; Mod Slot Free"**
+Any time you see Dynamic Sway and Tap the Trigger available in both columns, that's a tough one to pass up. TtT keeps you steady on the initial burst and DSR keeps you steady afterwards. After that it's all `Stability`. This roll would push Stability from 39 to 74 (?!) and that's not including the additional Stability from DSR and TtT! With a Recoil-fixing Barrel, the mod slot is free for you.
+```
   Barrels [ 22%]: Chambered Compensator
   Mags    [ 25%]: Steady Rounds
   Perks 1 [ 20%]: Dynamic Sway Reduction
-  Perks 2 [ 40%]: Tap the Trigger
+  Perks 2 [ 20%]: Tap the Trigger
   MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Rasputin's; Freed" (+ Barrels) 🤖🤖🤖🟢 CE - 0.2% chance**
+```
 
-  ```
-  Barrels [ 41%]: Chambered Compensator, Arrowhead Brake
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 20%]: Dynamic Sway Reduction
-  Perks 2 [ 40%]: Tap the Trigger
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Rasputin's; Freed" (+ Magazines) 🤖🤖🤖🟢 CE - 0.3% chance**
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🤖🤖🤖🌟 Collector's Edition | 0.06% | 1800 |
+| 🤖🤖🤖 CE (+barrels) | 0.10% | 959 |
+| 🤖🤖🤖 CE (+magazines) | 0.14% | 700 |
+| 🤖🤖 (*magazines) | 0.22% | 450 |
+| 🤖🤖 (+barrels, *magazines) | 0.42% | 239 |
+| 🤖🤖 (+barrels, +magazines) | 0.27% | 373 |
+| 🤖🤖 (+barrels, +magazines, *masterworks) | 1.07% | 93 |
+| 🤖 (+barrels, *magazines, *masterworks) | 1.67% | 59 |
 
-  ```
-  Barrels [ 22%]: Chambered Compensator
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 20%]: Dynamic Sway Reduction
-  Perks 2 [ 40%]: Tap the Trigger
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Rasputin's; Freed" (- Magazines) 🤖🤖🤖🟢 CE - 0.4% chance**
-
-  ```
-  Barrels [ 22%]: Chambered Compensator
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Dynamic Sway Reduction
-  Perks 2 [ 40%]: Tap the Trigger
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Rasputin's; Freed" (+ Barrels - Magazines) 🤖🤖🤖🟢 CE - 0.8% chance**
-
-  ```
-  Barrels [ 41%]: Chambered Compensator, Arrowhead Brake
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Dynamic Sway Reduction
-  Perks 2 [ 40%]: Tap the Trigger
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Rasputin's; Freed" (+ Barrels + Magazines) 🤖🤖🤖🟢 CE - 0.5% chance**
-
-  ```
-  Barrels [ 41%]: Chambered Compensator, Arrowhead Brake
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 20%]: Dynamic Sway Reduction
-  Perks 2 [ 40%]: Tap the Trigger
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Rasputin's; Freed" (+ Barrels + Magazines - Masterworks) 🤖🤖🤖🟢 CE - 2.1% chance**
-
-  ```
-  Barrels [ 41%]: Chambered Compensator, Arrowhead Brake
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 20%]: Dynamic Sway Reduction
-  Perks 2 [ 40%]: Tap the Trigger
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Rasputin's; Freed" (Baseline) 🤖🟢 - 3.3% chance**
-
-  ```
-  Barrels [ 41%]: Chambered Compensator, Arrowhead Brake
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Dynamic Sway Reduction
-  Perks 2 [ 40%]: Tap the Trigger
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Rasputin's Choice (Mod Slot Used)" 🤖🤖🤖🔴🌟 Collector's Edition - 0.1% chance**: Similar to the above roll set, except we'll need to use our mod slot for `Counterbalance Stock` to fix the `Recoil` (from 90 > 100).
-
-  ```
+### IKELOS_SMG_V1.0.2 / PvP / Roll / **"Rasputin's Choice; Mod Slot Used"**
+Similar to the above roll set, except we'll need to use our mod slot for `Counterbalance Stock` to fix the `Recoil` (from 90 > 100).
+```
   Barrels [ 22%]: Polygonal Rifling
   Mags    [ 25%]: Steady Rounds
   Perks 1 [ 20%]: Dynamic Sway Reduction
-  Perks 2 [ 40%]: Tap the Trigger
+  Perks 2 [ 20%]: Tap the Trigger
   MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Rasputin's; Used" (+ Barrels) 🤖🤖🤖🔴 CE - 0.4% chance**
+```
 
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 20%]: Dynamic Sway Reduction
-  Perks 2 [ 40%]: Tap the Trigger
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Rasputin's; Used" (+ Magazines) 🤖🤖🤖🔴 CE - 0.3% chance**
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🤖🤖🤖🌟 Collector's Edition | 0.06% | 1800 |
+| 🤖🤖🤖 CE (+barrels) | 0.18% | 553 |
+| 🤖🤖🤖 CE (+magazines) | 0.14% | 700 |
+| 🤖🤖 (*magazines) | 0.22% | 450 |
+| 🤖🤖 (+barrels, *magazines) | 0.72% | 138 |
+| 🤖🤖 (+barrels, +magazines) | 0.46% | 215 |
+| 🤖🤖 (+barrels, +magazines, *masterworks) | 1.86% | 53 |
+| 🤖 (+barrels, *magazines, *masterworks) | 2.89% | 34 |
 
-  ```
-  Barrels [ 22%]: Polygonal Rifling
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 20%]: Dynamic Sway Reduction
-  Perks 2 [ 40%]: Tap the Trigger
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Rasputin's; Used" (- Magazines) 🤖🤖🤖🔴 CE - 0.4% chance**
-
-  ```
-  Barrels [ 22%]: Polygonal Rifling
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Dynamic Sway Reduction
-  Perks 2 [ 40%]: Tap the Trigger
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Rasputin's; Used" (+ Barrels - Magazines) 🤖🤖🤖🔴 CE - 1.4% chance**
-
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Dynamic Sway Reduction
-  Perks 2 [ 40%]: Tap the Trigger
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Rasputin's; Used" (+ Barrels + Magazines) 🤖🤖🤖🔴 CE - 0.9% chance**
-
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 20%]: Dynamic Sway Reduction
-  Perks 2 [ 40%]: Tap the Trigger
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Rasputin's; Used" (+ Barrels + Magazines - Masterworks) 🤖🤖🤖🔴 CE - 3.7% chance**
-
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 20%]: Dynamic Sway Reduction
-  Perks 2 [ 40%]: Tap the Trigger
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Rasputin's; Used" (Baseline) 🤖🔴 - 5.8% chance**
-
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Dynamic Sway Reduction
-  Perks 2 [ 40%]: Tap the Trigger
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Ana's Choice (Mod Slot Free)" ❄️❄️❄️🟢🌟 Collector's Edition - 0.1% chance**: Similar to the above, but valuing Threat Detector for countering shotgun rushers and being able to hip-fire reliably in CQC.
-
-  ```
+### IKELOS_SMG_V1.0.2 / PvP / Roll / **"Anna's Choice; Mod Slot Free"**
+Similar to the above, but valuing Threat Detector for countering shotgun rushers and being able to hip-fire reliably in CQC.
+```
   Barrels [ 22%]: Chambered Compensator
   Mags    [ 25%]: Steady Rounds
   Perks 1 [ 20%]: Threat Detector
-  Perks 2 [ 40%]: Tap the Trigger
+  Perks 2 [ 20%]: Tap the Trigger
   MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Ana's; Freed" (+ Barrels) ❄️❄️❄️🟢 CE - 0.2% chance**
+```
 
-  ```
-  Barrels [ 41%]: Chambered Compensator, Arrowhead Brake
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 20%]: Threat Detector
-  Perks 2 [ 40%]: Tap the Trigger
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Ana's; Freed" (+ Magazines) ❄️❄️❄️🟢 CE - 0.3% chance**
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| ❄️❄️❄️🌟 Collector's Edition | 0.06% | 1800 |
+| ❄️❄️❄️ CE (+barrels) | 0.10% | 959 |
+| ❄️❄️❄️ CE (+magazines) | 0.14% | 700 |
+| ❄️❄️ (*magazines) | 0.22% | 450 |
+| ❄️❄️ (+barrels, *magazines) | 0.42% | 239 |
+| ❄️❄️ (+barrels, +magazines) | 0.27% | 373 |
+| ❄️❄️ (+barrels, +magazines, *masterworks) | 1.07% | 93 |
+| ❄️ (+barrels, *magazines, *masterworks) | 1.67% | 59 |
 
-  ```
-  Barrels [ 22%]: Chambered Compensator
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 20%]: Threat Detector
-  Perks 2 [ 40%]: Tap the Trigger
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Ana's; Freed" (- Magazines) ❄️❄️❄️🟢 CE - 0.4% chance**
-
-  ```
-  Barrels [ 22%]: Chambered Compensator
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Threat Detector
-  Perks 2 [ 40%]: Tap the Trigger
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Ana's; Freed" (+ Barrels - Magazines) ❄️❄️❄️🟢 CE - 0.8% chance**
-
-  ```
-  Barrels [ 41%]: Chambered Compensator, Arrowhead Brake
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Threat Detector
-  Perks 2 [ 40%]: Tap the Trigger
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Ana's; Freed" (+ Barrels + Magazines) ❄️❄️❄️🟢 CE - 0.5% chance**
-
-  ```
-  Barrels [ 41%]: Chambered Compensator, Arrowhead Brake
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 20%]: Threat Detector
-  Perks 2 [ 40%]: Tap the Trigger
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Ana's; Freed" (+ Barrels + Magazines - Masterworks) ❄️❄️❄️🟢 CE - 2.1% chance**
-
-  ```
-  Barrels [ 41%]: Chambered Compensator, Arrowhead Brake
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 20%]: Threat Detector
-  Perks 2 [ 40%]: Tap the Trigger
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Ana's; Freed" (Baseline) ❄️🟢 - 3.3% chance**
-
-  ```
-  Barrels [ 41%]: Chambered Compensator, Arrowhead Brake
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Threat Detector
-  Perks 2 [ 40%]: Tap the Trigger
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Ana's Choice (Mod Slot Used)" ❄️❄️❄️🔴🌟 Collector's Edition - 0.1% chance**: Similar to the above, but valuing Threat Detector for countering shotgun rushers and being able to hip-fire reliably in CQC.
-
-  ```
+### IKELOS_SMG_V1.0.2 / PvP / Roll / **"Anna's Choice; Mod Slot Used"**
+Similar to the above, but we'll be using the mod slot for Counterbalance.
+```
   Barrels [ 22%]: Polygonal Rifling
   Mags    [ 25%]: Steady Rounds
   Perks 1 [ 20%]: Threat Detector
-  Perks 2 [ 40%]: Tap the Trigger
+  Perks 2 [ 20%]: Tap the Trigger
   MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Ana's; Used" (+ Barrels) ❄️❄️❄️🔴 CE - 0.4% chance**
+```
 
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 20%]: Threat Detector
-  Perks 2 [ 40%]: Tap the Trigger
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Ana's; Used" (+ Magazines) ❄️❄️❄️🔴 CE - 0.3% chance**
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| ❄️❄️❄️🌟 Collector's Edition | 0.06% | 1800 |
+| ❄️❄️❄️ CE (+barrels) | 0.18% | 553 |
+| ❄️❄️❄️ CE (+magazines) | 0.14% | 700 |
+| ❄️❄️ (*magazines) | 0.22% | 450 |
+| ❄️❄️ (+barrels, *magazines) | 0.72% | 138 |
+| ❄️❄️ (+barrels, +magazines) | 0.46% | 215 |
+| ❄️❄️ (+barrels, +magazines, *masterworks) | 1.86% | 53 |
+| ❄️ (+barrels, *magazines, *masterworks) | 2.89% | 34 |
 
-  ```
-  Barrels [ 22%]: Polygonal Rifling
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 20%]: Threat Detector
-  Perks 2 [ 40%]: Tap the Trigger
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Ana's; Used" (- Magazines) ❄️❄️❄️🔴 CE - 0.4% chance**
-
-  ```
-  Barrels [ 22%]: Polygonal Rifling
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Threat Detector
-  Perks 2 [ 40%]: Tap the Trigger
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Ana's; Used" (+ Barrels - Magazines) ❄️❄️❄️🔴 CE - 1.4% chance**
-
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Threat Detector
-  Perks 2 [ 40%]: Tap the Trigger
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Ana's; Used" (+ Barrels + Magazines) ❄️❄️❄️🔴 CE - 0.9% chance**
-
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 20%]: Threat Detector
-  Perks 2 [ 40%]: Tap the Trigger
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Ana's; Used" (+ Barrels + Magazines - Masterworks) ❄️❄️❄️🔴 CE - 3.7% chance**
-
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 20%]: Threat Detector
-  Perks 2 [ 40%]: Tap the Trigger
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Ana's; Used" (Baseline) ❄️🔴 - 5.8% chance**
-
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Threat Detector
-  Perks 2 [ 40%]: Tap the Trigger
-  MWorks  [100%]: *
-  ```
-## IKELOS_SMG_V1.0.2 - PvE
-*For all possible perks, check out **IKELOS_SMG_V1.0.2** over on [light.gg](https://www.light.gg/db/items/2222560548/ikelos-smg-v102/)*
-
-
+### IKELOS_SMG_V1.0.2 / PvE / Overview
 Ehroar thinks the IKELOS_SMG_V1.0.2 might be the [best PvE primary in Destiny 2](https://www.youtube.com/watch?v=1sgVvsCK2BM) mostly because it can generate Warmind Cells and it has a great perk pool. He makes a strong case and with Reach, the nukes are nukey.
 
 Note that the IKELOS_SMG also has `Disruption Break` will will proc when breaking a Barrier Champion's shield. However no other perks play off of it, so I won't feature a set of rolls here for it. Same goes for `Demolitionist` which is a great perk but doesn't overtly synergize with any of the other perks. As Ehroar points out, `Subsistence` wrecks the reserves on the IKELOS, by a whopping 44% (!) so I'm not recommending it as a perk.
-* **(PvE) "Seraph's Choice" 😇😇😇🌟 Collector's Edition - 0.1% chance**: Pair this roll with a `Surrounded Spec` mod and you are positively shredding through adds. Throw on a single Warmind Cell mod on to your armor and you become a nuclear bomb generating Guardian.
-
-  ```
+### IKELOS_SMG_V1.0.2 / PvE / Roll / **"Seraph's Choice"**
+Pair this roll with a `Surrounded Spec` mod and you are positively shredding through adds. Throw on a single Warmind Cell mod on to your armor and you become a nuclear bomb generating Guardian.
+```
   Barrels [ 22%]: Hammer-Forged Rifling
   Mags    [ 25%]: Seraph Rounds
   Perks 1 [ 20%]: Threat Detector
-  Perks 2 [ 40%]: Surrounded
+  Perks 2 [ 20%]: Surrounded
   MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) "Seraph's Choice" (- Masterworks) 😇😇😇 CE - 0.4% chance**
+```
 
-  ```
-  Barrels [ 22%]: Hammer-Forged Rifling
-  Mags    [ 25%]: Seraph Rounds
-  Perks 1 [ 20%]: Threat Detector
-  Perks 2 [ 40%]: Surrounded
-  MWorks  [100%]: *
-  ```
-* **(PvE) "Seraph's Choice" (+ Barrels) 😇😇😇 CE - 0.4% chance**
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 😇😇😇🌟 Collector's Edition | 0.06% | 1800 |
+| 😇😇😇 CE (*masterworks) | 0.22% | 450 |
+| 😇😇😇 CE (+barrels) | 0.18% | 553 |
+| 😇😇 (+barrels, *masterworks) | 0.72% | 138 |
+| 😇😇 (+barrels, +magazines) | 0.34% | 298 |
+| 😇😇 (+barrels, +magazines, *masterworks) | 1.34% | 74 |
+| 😇 (*barrels, *magazines, *masterworks) | 4.00% | 24 |
 
-  ```
-  Barrels [ 72%]: Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
-  Mags    [ 25%]: Seraph Rounds
-  Perks 1 [ 20%]: Threat Detector
-  Perks 2 [ 40%]: Surrounded
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) "Seraph's Choice" (+ Barrels - Masterworks) 😇😇😇 CE - 1.4% chance**
-
-  ```
-  Barrels [ 72%]: Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
-  Mags    [ 25%]: Seraph Rounds
-  Perks 1 [ 20%]: Threat Detector
-  Perks 2 [ 40%]: Surrounded
-  MWorks  [100%]: *
-  ```
-* **(PvE) "Seraph's Choice" (+ Barrels + Magazines) 😇😇😇 CE - 0.7% chance**
-
-  ```
-  Barrels [ 72%]: Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
-  Mags    [ 46%]: Seraph Rounds, Accurized Rounds
-  Perks 1 [ 20%]: Threat Detector
-  Perks 2 [ 40%]: Surrounded
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) "Seraph's Choice" (+ Barrels + Magazines - Masterworks) 😇😇😇 CE - 2.7% chance**
-
-  ```
-  Barrels [ 72%]: Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
-  Mags    [ 46%]: Seraph Rounds, Accurized Rounds
-  Perks 1 [ 20%]: Threat Detector
-  Perks 2 [ 40%]: Surrounded
-  MWorks  [100%]: *
-  ```
-* **(PvE) "Seraph's Choice" (+ Barrels + Any Decent Magazine) 😇😇😇 CE - 1.4% chance**
-
-  ```
-  Barrels [ 72%]: Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
-  Mags    [ 96%]: Seraph Rounds, Accurized Rounds, Appended Mag, Tactical Mag, Flared Magwell, Alloy Magazine
-  Perks 1 [ 20%]: Threat Detector
-  Perks 2 [ 40%]: Surrounded
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) "Seraph's Choice" (+ Barrels + Any Decent Magazine - Masterworks) 😇😇😇 CE - 5.6% chance**
-
-  ```
-  Barrels [ 72%]: Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
-  Mags    [ 96%]: Seraph Rounds, Accurized Rounds, Appended Mag, Tactical Mag, Flared Magwell, Alloy Magazine
-  Perks 1 [ 20%]: Threat Detector
-  Perks 2 [ 40%]: Surrounded
-  MWorks  [100%]: *
-  ```
-* **(PvE) "Seraph's Choice" (Baseline) 😇 - 8.0% chance**
-
-  ```
-  Barrels [100%]: *
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Threat Detector
-  Perks 2 [ 40%]: Surrounded
-  MWorks  [100%]: *
-  ```
 ## IKELOS_SR_V1.0.2 - PvP
 *For all possible perks, check out **IKELOS_SR_V1.0.2** over on [light.gg](https://www.light.gg/db/items/1253087083/ikelos-sr-v102/)*
 
