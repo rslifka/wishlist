@@ -1,0 +1,121 @@
+syntax_version: 2
+name: Sojourner's Tale
+item_id: 599895591
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 7, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  Sojourner's Tale is a Legendary Slug Shotgun in the Energy slot, introduced
+  in S14.
+activities:
+  - 
+    name: PvP
+    overview: >
+      From a PvP perspective, slug shotguns come in two flavours:
+
+
+      * High Handling + Low Aim Assist: `Sojourner's Tale`, `First In, Last Out`
+
+      * Low Handling + High Aim Assist: `Blasphemer`, `Heritage`, `Bonechiller`
+
+      
+      If you love sniping Guardians with slug shotguns and wish you had a
+      Legendary you could use in place of your
+      [Duality](https://d2gunsmith.com/w/3460576091)
+      then you're in luck! Sojourner's offers a solid baseline set of perks
+      that any slug enthusiast will recognize, as well as some interesting
+      new combinations.
+    roll_sets:
+      -
+        name: The Tale of Coolguy
+        overview: >
+          Coolguy has a terrific
+          [video breakdown](https://www.youtube.com/watch?v=_iDuWqA5MQM)
+          of Soujourner's Tale. It's the only weapon in the game that can roll
+          with this combo of `Tunnel Vision` and `Killing Wind`, which both
+          proc on reload. What was new to me was that the benefits proc **as
+          soon as a single shell has been reloaded**. You don't have to wait
+          for the full mag to finish!
+        perks: 
+          base: 
+            barrels: [Fluted Barrel]
+            magazines: [Assault Mag]
+            perks1: [Tunnel Vision]
+            perks2: [Killing Wind]
+            masterworks: [Handling MW]
+          extensions:
+            barrels: [Fluted Barrel, Corkscrew Rifling, Hammer-Forged Rifling, Arrowhead Brake, Smallbore]
+            magazines: [Assault Mag, Accurized Rounds, Light Mag]
+        variants:
+          - 📖📖📖🌟 Collector's Edition
+          - 📖📖📖 CE (+barrels)
+          - 📖📖📖 CE (+magazines)
+          - 📖📖📖 CE (*masterworks)
+          - 📖📖 (+barrels, +magazines)
+          - 📖📖 (+barrels, *masterworks)
+          - 📖📖 (+magazines, *masterworks)
+          - 📖📖 (+barrels, +magazines, *masterworks)
+          - 📖 (*barrels, *magazines, *masterworks)
+      -
+        name: Slugger's Choice
+        overview: >
+          Your standard set of "secure that first kill" perks.
+        perks: 
+          base: 
+            barrels: [Fluted Barrel]
+            magazines: [Assault Mag]
+            perks1: [Moving Target, Quickdraw, Threat Detector]
+            perks2: [Opening Shot]
+            masterworks: [Handling MW]
+          extensions:
+            barrels: [Fluted Barrel, Corkscrew Rifling, Hammer-Forged Rifling, Arrowhead Brake, Smallbore]
+            magazines: [Assault Mag, Accurized Rounds, Light Mag]
+        variants:
+          - 🐌🐌🐌🌟 Collector's Edition
+          - 🐌🐌🐌 CE (+barrels)
+          - 🐌🐌🐌 CE (+magazines)
+          - 🐌🐌🐌 CE (*masterworks)
+          - 🐌🐌 (+barrels, +magazines)
+          - 🐌🐌 (+barrels, *masterworks)
+          - 🐌🐌 (+magazines, *masterworks)
+          - 🐌🐌 (+barrels, +magazines, *masterworks)
+          - 🐌 (*barrels, *magazines, *masterworks)          
+  -
+    name: PvE
+    overview: >
+      Slug shotguns got a damage boost in PvE and become DPS machines a few
+      seasons back. If you missed out on a solid
+      [First In, Last Out](https://d2gunsmith.com/w/3616586446)
+      roll, now's your change to secure a workhorse for PvE.
+    roll_sets:
+      -
+        name: Ehroar's Pick
+        overview:
+          Ehroar has a great
+          [video review](https://www.youtube.com/watch?v=hBgKZmknK2Y)
+          of the Sojourner's Tale. It can't roll with Vorpal but it can roll
+          with Surrounded and Frenzy, both of which provide significant damage
+          bonuses.
+        perks:
+          base:
+            barrels: [Full Bore]
+            magazines: [Assault Mag]
+            perks1: [Auto-Loading Holster]
+            perks2: [Frenzy, Surrounded]
+            masterworks: [Range MW]
+          extensions:
+            barrels: [Full Bore, Hammer-Forged Rifling, Smallbore, Extended Barrel]
+            magazines: [Assault Mag, Accurized Rounds, Light Mag]
+        variants:
+          - 🦁🦁🦁🌟 Collector's Edition
+          - 🦁🦁🦁 CE (+barrels)
+          - 🦁🦁🦁 CE (+magazines)
+          - 🦁🦁🦁 CE (*masterworks)
+          - 🦁🦁 (+barrels, +magazines)
+          - 🦁🦁 (+barrels, *masterworks)
+          - 🦁🦁 (+magazines, *masterworks)
+          - 🦁🦁 (+barrels, +magazines, *masterworks)
+          - 🦁 (*barrels, *magazines, *masterworks)    
