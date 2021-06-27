@@ -13,6 +13,7 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 * [Chroma Rush](#chroma-rush) ([PvP](#chroma-rush--pvp--Overview), [PvE](#chroma-rush--pve--Overview))
 * [Gridskipper](#gridskipper) ([PvP](#gridskipper--pvp--Overview))
 * [Ignition Code](#ignition-code) ([PvP](#ignition-code--pvp--Overview), [PvE](#ignition-code--pve--Overview))
+* [Sojourner's Tale](#sojourners-tale) ([PvP](#sojourners-tale--pvp--Overview), [PvE](#sojourners-tale--pve--Overview))
 
 **World Drops**
 * [Black Scorpion-4sr](#black-scorpion-4sr) ([PvP](#black-scorpion-4sr--pvp--Overview))
@@ -36,6 +37,9 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 * Timelines' Vertex ([PvP](#timelines-vertex---pvp))
 * Truthteller ([PvP](#truthteller---pvp), [PvE](#truthteller---pve))
 
+**Raid - Deep Stone Crypt**
+* [Heritage](#heritage) ([PvE](#heritage--pve--Overview), [PvP](#heritage--pvp--Overview))
+
 **Iron Banner**
 * Bite of the Fox ([PvP](#bite-of-the-fox---pvp))
 * Crimil's Dagger ([PvP](#crimils-dagger---pvp), [PvE](#crimils-dagger---pve))
@@ -45,9 +49,6 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 * Swarm of the Raven ([PvE](#swarm-of-the-raven---pve))
 * Talons of the Eagle ([PvP](#talons-of-the-eagle---pvp), [PvE](#talons-of-the-eagle---pve))
 * [The Forward Path](#the-forward-path) ([PvP](#the-forward-path--pvp--Overview), [PvE](#the-forward-path--pve--Overview))
-
-**Raids**
-* [Heritage](#heritage) ([PvE](#heritage--pve--Overview), [PvP](#heritage--pvp--Overview))
 
 **Season 13 - Season of the Chosen (Concluded)**
 * [Code Duello](#code-duello) ([PvP](#code-duello--pvp--Overview), [PvE](#code-duello--pve--Overview))
@@ -210,10 +211,11 @@ The two new third-column perks `Heating Up` and `Tunnel Vision` are brilliant on
 | 🥵🥵🥵 CE (+barrels) | 0.32% | 314 |
 | 🥵🥵🥵 CE (+magazines) | 0.24% | 412 |
 | 🥵🥵🥵 CE (*masterworks) | 0.31% | 324 |
-| 🥵🥵🥵 (+barrels, +magazines) | 1.00% | 99 |
-| 🥵🥵🥵 (+barrels, *masterworks) | 1.27% | 78 |
-| 🥵🥵🥵 (+magazines, *masterworks) | 0.97% | 103 |
-| 🥵🥵🥵 (+barrels, +magazines, *masterworks) | 4.00% | 24 |
+| 🥵🥵 (+barrels, +magazines) | 1.00% | 99 |
+| 🥵🥵 (+barrels, *masterworks) | 1.27% | 78 |
+| 🥵🥵 (+magazines, *masterworks) | 0.97% | 103 |
+| 🥵🥵 (+barrels, +magazines, *masterworks) | 4.00% | 24 |
+| 🥵 (*barrels, *magazines, *masterworks) | 5.56% | 18 |
 
 ### Gridskipper / PvP / Roll / **"The All-Around'er"**
 Capturing all of the best perks in the final two columns. Any combination here will be a terrific PvP weapon.
@@ -231,10 +233,11 @@ Capturing all of the best perks in the final two columns. Any combination here w
 | 🌎🌎🌎 CE (+barrels) | 1.91% | 52 |
 | 🌎🌎🌎 CE (+magazines) | 1.46% | 68 |
 | 🌎🌎🌎 CE (*masterworks) | 1.85% | 54 |
-| 🌎🌎🌎 (+barrels, +magazines) | 6.00% | 16 |
-| 🌎🌎🌎 (+barrels, *masterworks) | 7.64% | 13 |
-| 🌎🌎🌎 (+magazines, *masterworks) | 5.82% | 17 |
-| 🌎🌎🌎 (+barrels, +magazines, *masterworks) | 24.01% | 4 |
+| 🌎🌎 (+barrels, +magazines) | 6.00% | 16 |
+| 🌎🌎 (+barrels, *masterworks) | 7.64% | 13 |
+| 🌎🌎 (+magazines, *masterworks) | 5.82% | 17 |
+| 🌎🌎 (+barrels, +magazines, *masterworks) | 24.01% | 4 |
+| 🌎 (*barrels, *magazines, *masterworks) | 33.33% | 3 |
 
 ### Gridskipper / PvP / Roll / **"Gardening"**
 On Pulse Rifles, `Firmly Planted` is an acquired taste. I loved it on my Jian 7 paired with `Rangefinder`; amazing laser beam on long(er) sight lines.
@@ -252,10 +255,11 @@ On Pulse Rifles, `Firmly Planted` is an acquired taste. I loved it on my Jian 7 
 | 🪴🪴🪴 CE (+barrels) | 0.16% | 628 |
 | 🪴🪴🪴 CE (+magazines) | 0.12% | 824 |
 | 🪴🪴🪴 CE (*masterworks) | 0.15% | 648 |
-| 🪴🪴🪴 (+barrels, +magazines) | 0.50% | 199 |
-| 🪴🪴🪴 (+barrels, *masterworks) | 0.64% | 157 |
-| 🪴🪴🪴 (+magazines, *masterworks) | 0.49% | 206 |
-| 🪴🪴🪴 (+barrels, +magazines, *masterworks) | 2.00% | 49 |
+| 🪴🪴 (+barrels, +magazines) | 0.50% | 199 |
+| 🪴🪴 (+barrels, *masterworks) | 0.64% | 157 |
+| 🪴🪴 (+magazines, *masterworks) | 0.49% | 206 |
+| 🪴🪴 (+barrels, +magazines, *masterworks) | 2.00% | 49 |
+| 🪴 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
 
 # Ignition Code
 *For all possible perks, check out **Ignition Code** over on [d2gunsmith.com](https://d2gunsmith.com/w/304659313)*
@@ -333,6 +337,85 @@ This roll is centered around the damage bosts from `Spike Grenades` and `Vorpal 
 | 😈😈 (*perks1) | 0.32% | 315 |
 | 😈😈 (*perks1, *masterworks) | 1.59% | 63 |
 | 😈😈 (*perks1, +barrels, *masterworks) | 4.76% | 21 |
+
+# Sojourner's Tale
+*For all possible perks, check out **Sojourner's Tale** over on [d2gunsmith.com](https://d2gunsmith.com/w/599895591)*
+
+Sojourner's Tale is a Legendary Slug Shotgun in the Energy slot, introduced in S14.
+### Sojourner's Tale / PvP / Overview
+From a PvP perspective, slug shotguns come in two flavours:
+
+* High Handling + Low Aim Assist: `Sojourner's Tale`, `First In, Last Out`
+* Low Handling + High Aim Assist: `Blasphemer`, `Heritage`, `Bonechiller`
+
+If you love sniping Guardians with slug shotguns and wish you had a Legendary you could use in place of your [Duality](https://d2gunsmith.com/w/3460576091) then you're in luck! Sojourner's offers a solid baseline set of perks that any slug enthusiast will recognize, as well as some interesting new combinations.
+### Sojourner's Tale / PvP / Roll / **"The Tale of Coolguy"**
+Coolguy has a terrific [video breakdown](https://www.youtube.com/watch?v=_iDuWqA5MQM) of Soujourner's Tale. It's the only weapon in the game that can roll with this combo of `Tunnel Vision` and `Killing Wind`, which both proc on reload. What was new to me was that the benefits proc **as soon as a single shell has been reloaded**. You don't have to wait for the full mag to finish!
+```
+  Barrels [ 22%]: Fluted Barrel
+  Mags    [ 28%]: Assault Mag
+  Perks 1 [ 16%]: Tunnel Vision
+  Perks 2 [ 16%]: Killing Wind
+  MWorks  [ 25%]: Handling MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 📖📖📖🌟 Collector's Edition | 0.04% | 2268 |
+| 📖📖📖 CE (+barrels) | 0.17% | 604 |
+| 📖📖📖 CE (+magazines) | 0.11% | 907 |
+| 📖📖📖 CE (*masterworks) | 0.18% | 567 |
+| 📖📖 (+barrels, +magazines) | 0.41% | 241 |
+| 📖📖 (+barrels, *masterworks) | 0.66% | 151 |
+| 📖📖 (+magazines, *masterworks) | 0.44% | 226 |
+| 📖📖 (+barrels, +magazines, *masterworks) | 1.65% | 60 |
+| 📖 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
+
+### Sojourner's Tale / PvP / Roll / **"Slugger's Choice"**
+Your standard set of "secure that first kill" perks.
+```
+  Barrels [ 22%]: Fluted Barrel
+  Mags    [ 28%]: Assault Mag
+  Perks 1 [ 50%]: Moving Target, Quickdraw, Threat Detector
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [ 25%]: Handling MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🐌🐌🐌🌟 Collector's Edition | 0.13% | 756 |
+| 🐌🐌🐌 CE (+barrels) | 0.50% | 201 |
+| 🐌🐌🐌 CE (+magazines) | 0.33% | 302 |
+| 🐌🐌🐌 CE (*masterworks) | 0.53% | 189 |
+| 🐌🐌 (+barrels, +magazines) | 1.24% | 80 |
+| 🐌🐌 (+barrels, *masterworks) | 1.98% | 50 |
+| 🐌🐌 (+magazines, *masterworks) | 1.32% | 75 |
+| 🐌🐌 (+barrels, +magazines, *masterworks) | 4.96% | 20 |
+| 🐌 (*barrels, *magazines, *masterworks) | 8.33% | 12 |
+
+### Sojourner's Tale / PvE / Overview
+Slug shotguns got a damage boost in PvE and become DPS machines a few seasons back. If you missed out on a solid [First In, Last Out](https://d2gunsmith.com/w/3616586446) roll, now's your change to secure a workhorse for PvE.
+### Sojourner's Tale / PvE / Roll / **"Ehroar's Pick"**
+Ehroar has a great [video review](https://www.youtube.com/watch?v=hBgKZmknK2Y) of the Sojourner's Tale. It can't roll with Vorpal but it can roll with Surrounded and Frenzy, both of which provide significant damage bonuses.
+```
+  Barrels [ 22%]: Full Bore
+  Mags    [ 28%]: Assault Mag
+  Perks 1 [ 16%]: Auto-Loading Holster
+  Perks 2 [ 33%]: Frenzy, Surrounded
+  MWorks  [ 25%]: Range MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🦁🦁🦁🌟 Collector's Edition | 0.09% | 1134 |
+| 🦁🦁🦁 CE (+barrels) | 0.29% | 348 |
+| 🦁🦁🦁 CE (+magazines) | 0.22% | 453 |
+| 🦁🦁🦁 CE (*masterworks) | 0.35% | 283 |
+| 🦁🦁 (+barrels, +magazines) | 0.72% | 139 |
+| 🦁🦁 (+barrels, *masterworks) | 1.15% | 87 |
+| 🦁🦁 (+magazines, *masterworks) | 0.88% | 113 |
+| 🦁🦁 (+barrels, +magazines, *masterworks) | 2.87% | 34 |
+| 🦁 (*barrels, *magazines, *masterworks) | 5.56% | 18 |
 
 # Black Scorpion-4sr
 *For all possible perks, check out **Black Scorpion-4sr** over on [d2gunsmith.com](https://d2gunsmith.com/w/525750263)*
@@ -2504,6 +2587,59 @@ This weapon is void and works really well for Voidlocks running Nezarac's Sin.  
   Perks 2 [100%]: *
   MWorks  [100%]: *
   ```
+# Heritage
+*For all possible perks, check out **Heritage** over on [d2gunsmith.com](https://d2gunsmith.com/w/4248569242)*
+
+Heritage is a kinetic "precision frame" (slug) shotgun that can drop from the 2nd and 3rd encounters of the Deep Stone Crypt raid.  After the initial drop, you have a chance of getting additional rolls from the raid's secret chests.
+As of Season 12, it is the only legendary kinetic slug shotgun that is viable in leveled content.
+### Heritage / PvE / Overview
+Slug shotguns currently enable some of the highest DPS in the game, and are the meta-loadout for boss DPS in a number of encounters, including the final boss of the raid.
+### Heritage / PvE / Roll / **"Re-Re-Re-Re-Combo Breaker!"**
+Reconstruction is a new perk that currently only drops on rolls from the DSC Raid.  Every 4 seconds it loads 10% of the base magazine from reserves into the gun, and it maxes out at 2x the normal magazine size.  It starts at a base of 6 (12) but with Extended Mag and the Backup Mag mod you can get up to 8 (16) shots without reloading!
+None of the traditional damage perks (Rampage, Kill Clip, Vorpal) are available on this gun, so our best bet for the 4th column is another new perk, Recombination.  Final blows from all "elemental" sources (so, everything that isn't this shotgun) stack up to 10x.  Each stack will add 10% for the next Heritage shot (so up to 2x damage).
+```
+  Barrels [ 58%]: Full Bore, Corkscrew Rifling, Smallbore
+  Mags    [ 71%]: Tactical Mag, Extended Mag, Assault Mag
+  Perks 1 [ 16%]: Reconstruction
+  Perks 2 [ 16%]: Recombination
+  MWorks  [ 50%]: Handling MW, Range MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 📈📈📈📈🌟 Collector's Edition | 0.58% | 172 |
+| 📈📈📈 CE (*barrels) | 0.99% | 100 |
+| 📈📈📈️ CE (*magazines) | 0.81% | 123 |
+| 📈📈📈 CE (*masterworks) | 1.16% | 86 |
+| 📈📈 (*barrels, *magazines) | 1.39% | 72 |
+| 📈📈️ (*barrels, *masterworks) | 1.98% | 50 |
+| 📈📈️ (*magazines, *masterworks) | 1.62% | 61 |
+| 📈️ (*barrels, *magazines, *masterworks) | 2.78% | 36 |
+
+### Heritage / PvP / Overview
+Heritage has the highest aim assist of any slug shotgun.  [Drewsky](https://www.youtube.com/watch?v=XUGZIasUu9o) says "this weapon is really comparable to The Chaperone."
+The base one hit kill range is 10.5 meters, you can increase that up to 11.9m with Killing Wind and Slideshot active.
+### Heritage / PvP / Roll / **"Killing Slide"**
+All Range and all damage.
+```
+  Barrels [ 58%]: Fluted Barrel, Arrowhead Brake, Corkscrew Rifling
+  Mags    [ 28%]: Accurized Rounds
+  Perks 1 [ 16%]: Slideshot
+  Perks 2 [ 16%]: Killing Wind
+  MWorks  [ 25%]: Handling MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🎢🎢🎢🎢️🌟 Collector's Edition | 0.12% | 864 |
+| 🎢🎢🎢 CE (*barrels) | 0.20% | 504 |
+| 🎢🎢🎢️ CE (*magazines) | 0.41% | 246 |
+| 🎢🎢🎢 CE (*masterworks) | 0.46% | 216 |
+| 🎢🎢 (*barrels, *magazines) | 0.69% | 144 |
+| 🎢🎢️ (*barrels, *masterworks) | 0.79% | 126 |
+| 🎢🎢️ (*magazines, *masterworks) | 1.62% | 61 |
+| 🎢️ (*barrels, *magazines, *masterworks) | 2.78% | 36 |
+
 ## Bite of the Fox - PvP
 *For all possible perks, check out **Bite of the Fox** over on [light.gg](https://www.light.gg/db/items/3169616514/bite-of-the-fox/)*
 
@@ -3894,59 +4030,6 @@ While Feeding Frenzy was slightly nerfed, it's still a terrific perk, activating
 | 😡😡 (+magazines, *masterworks) | 2.86% | 35 |
 | 😡😡 (+barrels, +magazines, *masterworks) | 4.44% | 22 |
 | 😡 (*barrels, *magazines, *masterworks) | 5.56% | 18 |
-
-# Heritage
-*For all possible perks, check out **Heritage** over on [d2gunsmith.com](https://d2gunsmith.com/w/4248569242)*
-
-Heritage is a kinetic "precision frame" (slug) shotgun that can drop from the 2nd and 3rd encounters of the Deep Stone Crypt raid.  After the initial drop, you have a chance of getting additional rolls from the raid's secret chests.
-As of Season 12, it is the only legendary kinetic slug shotgun that is viable in leveled content.
-### Heritage / PvE / Overview
-Slug shotguns currently enable some of the highest DPS in the game, and are the meta-loadout for boss DPS in a number of encounters, including the final boss of the raid.
-### Heritage / PvE / Roll / **"Re-Re-Re-Re-Combo Breaker!"**
-Reconstruction is a new perk that currently only drops on rolls from the DSC Raid.  Every 4 seconds it loads 10% of the base magazine from reserves into the gun, and it maxes out at 2x the normal magazine size.  It starts at a base of 6 (12) but with Extended Mag and the Backup Mag mod you can get up to 8 (16) shots without reloading!
-None of the traditional damage perks (Rampage, Kill Clip, Vorpal) are available on this gun, so our best bet for the 4th column is another new perk, Recombination.  Final blows from all "elemental" sources (so, everything that isn't this shotgun) stack up to 10x.  Each stack will add 10% for the next Heritage shot (so up to 2x damage).
-```
-  Barrels [ 58%]: Full Bore, Corkscrew Rifling, Smallbore
-  Mags    [ 71%]: Tactical Mag, Extended Mag, Assault Mag
-  Perks 1 [ 16%]: Reconstruction
-  Perks 2 [ 16%]: Recombination
-  MWorks  [ 50%]: Handling MW, Range MW
-```
-
-| Variant | Chance | 1 in ? |
-|:-|-:|-:|
-| 📈📈📈📈🌟 Collector's Edition | 0.58% | 172 |
-| 📈📈📈 CE (*barrels) | 0.99% | 100 |
-| 📈📈📈️ CE (*magazines) | 0.81% | 123 |
-| 📈📈📈 CE (*masterworks) | 1.16% | 86 |
-| 📈📈 (*barrels, *magazines) | 1.39% | 72 |
-| 📈📈️ (*barrels, *masterworks) | 1.98% | 50 |
-| 📈📈️ (*magazines, *masterworks) | 1.62% | 61 |
-| 📈️ (*barrels, *magazines, *masterworks) | 2.78% | 36 |
-
-### Heritage / PvP / Overview
-Heritage has the highest aim assist of any slug shotgun.  [Drewsky](https://www.youtube.com/watch?v=XUGZIasUu9o) says "this weapon is really comparable to The Chaperone."
-The base one hit kill range is 10.5 meters, you can increase that up to 11.9m with Killing Wind and Slideshot active.
-### Heritage / PvP / Roll / **"Killing Slide"**
-All Range and all damage.
-```
-  Barrels [ 58%]: Fluted Barrel, Arrowhead Brake, Corkscrew Rifling
-  Mags    [ 28%]: Accurized Rounds
-  Perks 1 [ 16%]: Slideshot
-  Perks 2 [ 16%]: Killing Wind
-  MWorks  [ 25%]: Handling MW
-```
-
-| Variant | Chance | 1 in ? |
-|:-|-:|-:|
-| 🎢🎢🎢🎢️🌟 Collector's Edition | 0.12% | 864 |
-| 🎢🎢🎢 CE (*barrels) | 0.20% | 504 |
-| 🎢🎢🎢️ CE (*magazines) | 0.41% | 246 |
-| 🎢🎢🎢 CE (*masterworks) | 0.46% | 216 |
-| 🎢🎢 (*barrels, *magazines) | 0.69% | 144 |
-| 🎢🎢️ (*barrels, *masterworks) | 0.79% | 126 |
-| 🎢🎢️ (*magazines, *masterworks) | 1.62% | 61 |
-| 🎢️ (*barrels, *magazines, *masterworks) | 2.78% | 36 |
 
 # Code Duello
 *For all possible perks, check out **Code Duello** over on [d2gunsmith.com](https://d2gunsmith.com/w/2496242052)*
