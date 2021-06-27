@@ -66,10 +66,12 @@ activities:
           - 🥵🥵🥵 CE (+barrels)
           - 🥵🥵🥵 CE (+magazines)
           - 🥵🥵🥵 CE (*masterworks)
-          - 🥵🥵🥵 (+barrels, +magazines)
-          - 🥵🥵🥵 (+barrels, *masterworks)
-          - 🥵🥵🥵 (+magazines, *masterworks)
-          - 🥵🥵🥵 (+barrels, +magazines, *masterworks)
+          - 🥵🥵 (+barrels, +magazines)
+          - 🥵🥵 (+barrels, *masterworks)
+          - 🥵🥵 (+magazines, *masterworks)
+          - 🥵🥵 (+barrels, +magazines, *masterworks)
+          - 🥵 (*barrels, *magazines, *masterworks)
+
       -
         name: The All-Around'er
         overview: >
@@ -90,10 +92,11 @@ activities:
           - 🌎🌎🌎 CE (+barrels)
           - 🌎🌎🌎 CE (+magazines)
           - 🌎🌎🌎 CE (*masterworks)
-          - 🌎🌎🌎 (+barrels, +magazines)
-          - 🌎🌎🌎 (+barrels, *masterworks)
-          - 🌎🌎🌎 (+magazines, *masterworks)
-          - 🌎🌎🌎 (+barrels, +magazines, *masterworks)
+          - 🌎🌎 (+barrels, +magazines)
+          - 🌎🌎 (+barrels, *masterworks)
+          - 🌎🌎 (+magazines, *masterworks)
+          - 🌎🌎 (+barrels, +magazines, *masterworks)
+          - 🌎 (*barrels, *magazines, *masterworks)
       -
         name: Gardening
         overview: >
@@ -115,8 +118,8 @@ activities:
           - 🪴🪴🪴 CE (+barrels)
           - 🪴🪴🪴 CE (+magazines)
           - 🪴🪴🪴 CE (*masterworks)
-          - 🪴🪴🪴 (+barrels, +magazines)
-          - 🪴🪴🪴 (+barrels, *masterworks)
-          - 🪴🪴🪴 (+magazines, *masterworks)
-          - 🪴🪴🪴 (+barrels, +magazines, *masterworks)
-  
+          - 🪴🪴 (+barrels, +magazines)
+          - 🪴🪴 (+barrels, *masterworks)
+          - 🪴🪴 (+magazines, *masterworks)
+          - 🪴🪴 (+barrels, +magazines, *masterworks)
+          - 🪴 (*barrels, *magazines, *masterworks)
