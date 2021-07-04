@@ -118,4 +118,28 @@ activities:
           - 🦁🦁 (+barrels, *masterworks)
           - 🦁🦁 (+magazines, *masterworks)
           - 🦁🦁 (+barrels, +magazines, *masterworks)
-          - 🦁 (*barrels, *magazines, *masterworks)    
+          - 🦁 (*barrels, *magazines, *masterworks)
+      -
+        name: Just Passing Through
+        overview:
+          Classic pairing here.
+        perks:
+          base:
+            barrels: [Full Bore]
+            magazines: [Assault Mag]
+            perks1: [Threat Detector]
+            perks2: [Surrounded]
+            masterworks: [Range MW]
+          extensions:
+            barrels: [Full Bore, Hammer-Forged Rifling, Smallbore, Extended Barrel]
+            magazines: [Assault Mag, Accurized Rounds, Light Mag]
+        variants:
+          - 🏃🏃🏃🌟 Collector's Edition
+          - 🏃🏃🏃 CE (+barrels)
+          - 🏃🏃🏃 CE (+magazines)
+          - 🏃🏃🏃 CE (*masterworks)
+          - 🏃🏃 (+barrels, +magazines)
+          - 🏃🏃 (+barrels, *masterworks)
+          - 🏃🏃 (+magazines, *masterworks)
+          - 🏃🏃 (+barrels, +magazines, *masterworks)
+          - 🏃 (*barrels, *magazines, *masterworks)              
