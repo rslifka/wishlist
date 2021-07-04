@@ -417,6 +417,28 @@ Ehroar has a great [video review](https://www.youtube.com/watch?v=hBgKZmknK2Y) o
 | 🦁🦁 (+barrels, +magazines, *masterworks) | 2.87% | 34 |
 | 🦁 (*barrels, *magazines, *masterworks) | 5.56% | 18 |
 
+### Sojourner's Tale / PvE / Roll / **"Just Passing Through"**
+Classic pairing here.
+```
+  Barrels [ 22%]: Full Bore
+  Mags    [ 28%]: Assault Mag
+  Perks 1 [ 16%]: Threat Detector
+  Perks 2 [ 16%]: Surrounded
+  MWorks  [ 25%]: Range MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🏃🏃🏃🌟 Collector's Edition | 0.04% | 2268 |
+| 🏃🏃🏃 CE (+barrels) | 0.14% | 697 |
+| 🏃🏃🏃 CE (+magazines) | 0.11% | 907 |
+| 🏃🏃🏃 CE (*masterworks) | 0.18% | 567 |
+| 🏃🏃 (+barrels, +magazines) | 0.36% | 279 |
+| 🏃🏃 (+barrels, *masterworks) | 0.57% | 174 |
+| 🏃🏃 (+magazines, *masterworks) | 0.44% | 226 |
+| 🏃🏃 (+barrels, +magazines, *masterworks) | 1.43% | 69 |
+| 🏃 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
+
 # Black Scorpion-4sr
 *For all possible perks, check out **Black Scorpion-4sr** over on [d2gunsmith.com](https://d2gunsmith.com/w/525750263)*
 
