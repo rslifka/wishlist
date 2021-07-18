@@ -13,6 +13,7 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 * [Chroma Rush](#chroma-rush) ([PvP](#chroma-rush--pvp--Overview), [PvE](#chroma-rush--pve--Overview))
 * [Gridskipper](#gridskipper) ([PvP](#gridskipper--pvp--Overview))
 * [Ignition Code](#ignition-code) ([PvP](#ignition-code--pvp--Overview), [PvE](#ignition-code--pve--Overview))
+* [Shattered Cipher](#shattered-cipher) ([PvE](#shattered-cipher--pve--Overview))
 * [Sojourner's Tale](#sojourners-tale) ([PvP](#sojourners-tale--pvp--Overview), [PvE](#sojourners-tale--pve--Overview))
 
 **World Drops**
@@ -341,6 +342,39 @@ This roll is centered around the damage bosts from `Spike Grenades` and `Vorpal 
 | 😈😈 (*perks1) | 0.32% | 315 |
 | 😈😈 (*perks1, *masterworks) | 1.59% | 63 |
 | 😈😈 (*perks1, +barrels, *masterworks) | 4.76% | 21 |
+
+# Shattered Cipher
+*For all possible perks, check out **Shattered Cipher** over on [d2gunsmith.com](https://d2gunsmith.com/w/2434225986)*
+
+The Cipher is a 900 RPM Machine Gun that arrived in Season 14. There are many excellent [MGs in the pool](https://www.light.gg/db/items/compare/?h=CRF1dC;B1Qqrw;D8L2rl;cGs1P;CZ8bgQ;BpRF1Y) right now, so this one has some tough competition. The Cipher has arguably has the least interesting set of perks to choose among.
+
+In the [April 29, 2021 TWAB](https://www.bungie.net/en/Explore/Detail/News/50287) Bungie refers to MGs (reformatted):
+> Machine Guns are used for ammo-efficient add clear and secondary single target sustained damage. We expect to adjust Machine Guns in a future Season, they're not currently hitting this target.
+
+With that in mind and with the fact you're probably drowning in Shattered Ciphers, let's identify a few rolls worth holding on to. You use MGs so infrequently in PvP and they have so little ammo that I'm not going to bother with PvP rolls.
+### Shattered Cipher / PvE / Overview
+The Cipher has a not-super interesting subset of the latest perks and so we're only featuring one roll here.
+### Shattered Cipher / PvE / Roll / **"Piecemeal Translator"**
+Rampage is the only damage-boosting perk in the final column, so we'll go with some reload-boosting perks to help out.
+```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 28%]: Extended Mag
+  Perks 1 [ 33%]: Auto-Loading Holster, Field Prep
+  Perks 2 [ 16%]: Rampage
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🕵️🕵️🕵️🌟 Collector's Edition | 0.09% | 1134 |
+| 🕵️🕵️🕵️ CE (+barrels) | 0.33% | 302 |
+| 🕵️🕵️🕵️ CE (+magazines) | 0.26% | 378 |
+| 🕵️🕵️🕵️ CE (*masterworks) | 0.35% | 283 |
+| 🕵️🕵️ (+barrels, +magazines) | 0.99% | 100 |
+| 🕵️🕵️ (+barrels, *masterworks) | 1.32% | 75 |
+| 🕵️🕵️ (+magazines, *masterworks) | 1.06% | 94 |
+| 🕵️🕵️ (+barrels, +magazines, *masterworks) | 3.97% | 25 |
+| 🕵️ (*barrels, *magazines, *masterworks) | 5.56% | 18 |
 
 # Sojourner's Tale
 *For all possible perks, check out **Sojourner's Tale** over on [d2gunsmith.com](https://d2gunsmith.com/w/599895591)*
