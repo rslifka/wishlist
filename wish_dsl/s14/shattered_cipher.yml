@@ -1,0 +1,62 @@
+syntax_version: 2
+name: Shattered Cipher
+item_id: 2434225986
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 7, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  The Cipher is a 900 RPM Machine Gun that arrived in Season 14. There are many
+  excellent
+  [MGs in the pool](https://www.light.gg/db/items/compare/?h=CRF1dC;B1Qqrw;D8L2rl;cGs1P;CZ8bgQ;BpRF1Y)
+  right now, so this one has some tough competition. The Cipher has arguably has
+  the least interesting set of perks to choose among.
+
+
+  In the
+  [April 29, 2021 TWAB](https://www.bungie.net/en/Explore/Detail/News/50287)
+  Bungie refers to MGs (reformatted):
+
+  > Machine Guns are used for ammo-efficient add clear and secondary single
+  target sustained damage. We expect to adjust Machine Guns in a future Season,
+  they're not currently hitting this target.
+
+
+  With that in mind and with the fact you're probably drowning in Shattered
+  Ciphers, let's identify a few rolls worth holding on to. You use MGs so
+  infrequently in PvP and they have so little ammo that I'm not going to bother
+  with PvP rolls.
+activities:
+  - 
+    name: PvE
+    overview: >
+      The Cipher has a not-super interesting subset of the latest perks and
+      so we're only featuring one roll here.
+    roll_sets:
+      -
+        name: Piecemeal Translator
+        overview: >
+          Rampage is the only damage-boosting perk in the final column, so we'll
+          go with some reload-boosting perks to help out.
+        perks:
+          base:
+            barrels: [Chambered Compensator]
+            magazines: [Extended Mag]
+            perks1: [Auto-Loading Holster, Field Prep]
+            perks2: [Rampage]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Chambered Compensator, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
+            magazines: [Extended Mag, Appended Mag, Tactical Mag, Alloy Magazine]
+        variants:
+          - 🕵️🕵️🕵️🌟 Collector's Edition
+          - 🕵️🕵️🕵️ CE (+barrels)
+          - 🕵️🕵️🕵️ CE (+magazines)
+          - 🕵️🕵️🕵️ CE (*masterworks)
+          - 🕵️🕵️ (+barrels, +magazines)
+          - 🕵️🕵️ (+barrels, *masterworks)
+          - 🕵️🕵️ (+magazines, *masterworks)
+          - 🕵️🕵️ (+barrels, +magazines, *masterworks)
+          - 🕵️ (*barrels, *magazines, *masterworks)                  
