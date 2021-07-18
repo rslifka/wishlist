@@ -1,7 +1,7 @@
 ordering:
   - s14
   - world_drops
-  # - raid_vog
+  - raid_vog
   - raid_dsc
   - iron_banner
   - s13
@@ -16,5 +16,5 @@ naming:
   s14: Season 14 - Season of the Splicer (May 11 - Aug 24, 2021)
   iron_banner: Iron Banner
   raid_dsc: Raid - Deep Stone Crypt
-  # raid_vog: Raid - Vault of Glass
+  raid_vog: Raid - Vault of Glass
   world_drops: World Drops

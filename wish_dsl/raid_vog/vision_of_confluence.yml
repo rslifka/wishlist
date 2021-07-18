@@ -1,0 +1,164 @@
+syntax_version: 2
+name: Vision of Confluence
+item_id: 3186018373
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  Vision of Confluence is a 180 RPM Precision Frame Scout Rifle. It's
+  [one of three](https://www.light.gg/db/items/compare/?h=C95shF;D_MIu2;ClfhMg)
+  180 RPMs currently available. It drops in the Vault of Glass from the first
+  three encounters: Conflux, Oracles and the Templar. Once acquired, it will
+  also drop from either of the two secret chests and can be acquired from the
+  post-Atheon chest for x20 Spoils of Conquest.
+  
+  
+  The "Timelost" (or "Adept") version of this weapon drops only by completing
+  the Conflux encounter Challenge in Master mode. That weapon has a different
+  serial number in Destiny's database and is registered in this wishlist
+  separately.
+activities:
+  - 
+    name: PvP
+    overview: >
+      Occasionally (often?) in Destiny, the source of an item hints at its use.
+      Being a raid weapon, Vision of Confluence can be excused for not having a
+      wide array of PvP rolls to chase. Personally while I find a good Trustee
+      roll A-tier, Scout Rifles in general aren't super meta at the moment and
+      haven't been save for MIDA in D2Y1 (and whenever Momentum Control comes
+      along).
+    roll_sets:
+      -
+        name: Partners in Time
+        overview: >
+          Tunnel Vision and Kill Clip both proc on reload
+        perks:
+          base:
+            barrels: [Polygonal Rifling]
+            magazines: [High-Caliber Rounds]
+            perks1: [Tunnel Vision]
+            perks2: [Kill Clip]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake]
+            magazines: [High-Caliber Rounds, Ricochet Rounds, Flared Magwell, Light Mag]
+        variants:
+          - ⏱⏱⏱🌟 Collector's Edition
+          - ⏱⏱⏱ CE (+barrels)
+          - ⏱⏱⏱ CE (+magazines)
+          - ⏱⏱⏱ CE (*masterworks)
+          - ⏱⏱ (+barrels, +magazines)
+          - ⏱⏱ (+barrels, *masterworks)
+          - ⏱⏱ (+magazines, *masterworks)
+          - ⏱⏱ (+barrels, +magazines, *masterworks)
+          - ⏱ (*barrels, *magazines, *masterworks)
+      -
+        name: Phoenix
+        overview: >
+          Firefly grants a massive buff to Reload, which will help you proc
+          Tunnel Vision more quickly and gives you additional uptime on
+          Killing Wind if you need a reload after your first kill.
+        perks:
+          base:
+            barrels: [Polygonal Rifling]
+            magazines: [High-Caliber Rounds]
+            perks1: [Killing Wind, Tunnel Vision]
+            perks2: [Firefly]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake]
+            magazines: [High-Caliber Rounds, Ricochet Rounds, Flared Magwell, Light Mag]
+        variants:
+          - 🔥🔥🔥🌟 Collector's Edition
+          - 🔥🔥🔥 CE (+barrels)
+          - 🔥🔥🔥 CE (+magazines)
+          - 🔥🔥🔥 CE (*masterworks)
+          - 🔥🔥 (+barrels, +magazines)
+          - 🔥🔥 (+barrels, *masterworks)
+          - 🔥🔥 (+magazines, *masterworks)
+          - 🔥🔥 (+barrels, +magazines, *masterworks)
+          - 🔥 (*barrels, *magazines, *masterworks)          
+  - 
+    name: PvE
+    overview: >
+      In high(er) tier content (GMs, Raids, etc.) you often play less
+      aggressively and a well-rolled Scout Rifle can help you with that.
+    roll_sets:
+      -
+        name: Staying Power
+        overview: >
+          Once you're in combat long enough to proc Frenzy, Rewind Round helps
+          ensure you keep it procced by refunding ammo on hit.
+        perks:
+          base:
+            barrels: [Hammer-Forged Rifling]
+            magazines: [Alloy Magazine]
+            perks1: [Rewind Rounds]
+            perks2: [Frenzy]
+            masterworks: [Range MW]
+          extensions:
+            barrels: [Hammer-Forged Rifling, Smallbore, Extended Barrel, Corkscrew Rifling, Full Bore]
+            magazines: [Alloy Magazine, Flared Magwell, Light Mag, Appended Mag, Armor-Piercing Rounds, High-Caliber Rounds]
+        variants:
+          - 🌴🌴🌴🌟 Collector's Edition
+          - 🌴🌴🌴 CE (+barrels)
+          - 🌴🌴🌴 CE (+magazines)
+          - 🌴🌴🌴 CE (*masterworks)
+          - 🌴🌴 (+barrels, +magazines)
+          - 🌴🌴 (+barrels, *masterworks)
+          - 🌴🌴 (+magazines, *masterworks)
+          - 🌴🌴 (+barrels, +magazines, *masterworks)
+          - 🌴 (*barrels, *magazines, *masterworks)                  
+      -
+        name: Fully Charged
+        overview: >
+          Particularly helpful in add-heavy encounters (i.e. most raid
+          encounters) to ensure ability uptime and super recharge.
+        perks:
+          base:
+            barrels: [Hammer-Forged Rifling]
+            magazines: [High-Caliber Rounds]
+            perks1: [Wellspring]
+            perks2: [Thresh]
+            masterworks: [Range MW]
+          extensions:
+            barrels: [Hammer-Forged Rifling, Smallbore, Extended Barrel, Corkscrew Rifling, Full Bore]
+            magazines: [High-Caliber Rounds, Alloy Magazine, Flared Magwell, Light Mag, Appended Mag, Armor-Piercing Rounds]
+        variants:
+          - 🔋🔋🔋🌟 Collector's Edition
+          - 🔋🔋🔋 CE (+barrels)
+          - 🔋🔋🔋 CE (+magazines)
+          - 🔋🔋🔋 CE (*masterworks)
+          - 🔋🔋 (+barrels, +magazines)
+          - 🔋🔋 (+barrels, *masterworks)
+          - 🔋🔋 (+magazines, *masterworks)
+          - 🔋🔋 (+barrels, +magazines, *masterworks)
+          - 🔋 (*barrels, *magazines, *masterworks)                   
+      -
+        name: Boosted
+        overview: >
+          `Surplus` is the only reload-boosting perk in the third column to
+          help you start taking advantage of `Kill Clip` ASAP.
+        perks:
+          base:
+            barrels: [Hammer-Forged Rifling]
+            magazines: [Alloy Magazine]
+            perks1: [Surplus]
+            perks2: [Kill Clip]
+            masterworks: [Range MW]
+          extensions:
+            barrels: [Hammer-Forged Rifling, Smallbore, Extended Barrel, Corkscrew Rifling, Full Bore]
+            magazines: [Alloy Magazine, Flared Magwell, Light Mag, Appended Mag, Armor-Piercing Rounds, High-Caliber Rounds]
+        variants:
+          - 📈📈📈🌟 Collector's Edition
+          - 📈📈📈 CE (+barrels)
+          - 📈📈📈 CE (+magazines)
+          - 📈📈📈 CE (*masterworks)
+          - 📈📈 (+barrels, +magazines)
+          - 📈📈 (+barrels, *masterworks)
+          - 📈📈 (+magazines, *masterworks)
+          - 📈📈 (+barrels, +magazines, *masterworks)
+          - 📈 (*barrels, *magazines, *masterworks)
