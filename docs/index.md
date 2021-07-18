@@ -37,6 +37,10 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 * Timelines' Vertex ([PvP](#timelines-vertex---pvp))
 * Truthteller ([PvP](#truthteller---pvp), [PvE](#truthteller---pve))
 
+**Raid - Vault of Glass**
+* [Vision of Confluence](#vision-of-confluence) ([PvP](#vision-of-confluence--pvp--Overview), [PvE](#vision-of-confluence--pve--Overview))
+* [Vision of Confluence (Timelost)](#vision-of-confluence--timelost-) ([PvP](#vision-of-confluence--timelost---pvp--Overview), [PvE](#vision-of-confluence--timelost---pve--Overview))
+
 **Raid - Deep Stone Crypt**
 * [Heritage](#heritage) ([PvE](#heritage--pve--Overview), [PvP](#heritage--pvp--Overview))
 
@@ -2609,6 +2613,246 @@ This weapon is void and works really well for Voidlocks running Nezarac's Sin.  
   Perks 2 [100%]: *
   MWorks  [100%]: *
   ```
+# Vision of Confluence
+*For all possible perks, check out **Vision of Confluence** over on [d2gunsmith.com](https://d2gunsmith.com/w/3186018373)*
+
+Vision of Confluence is a 180 RPM Precision Frame Scout Rifle. It's [one of three](https://www.light.gg/db/items/compare/?h=C95shF;D_MIu2;ClfhMg) 180 RPMs currently available. It drops in the Vault of Glass from the first three encounters: Conflux, Oracles and the Templar. Once acquired, it will also drop from either of the two secret chests and can be acquired from the post-Atheon chest for x20 Spoils of Conquest.
+
+The "Timelost" (or "Adept") version of this weapon drops only by completing the Conflux encounter Challenge in Master mode. That weapon has a different serial number in Destiny's database and is registered in this wishlist separately.
+### Vision of Confluence / PvP / Overview
+Occasionally (often?) in Destiny, the source of an item hints at its use. Being a raid weapon, Vision of Confluence can be excused for not having a wide array of PvP rolls to chase. Personally while I find a good Trustee roll A-tier, Scout Rifles in general aren't super meta at the moment and haven't been save for MIDA in D2Y1 (and whenever Momentum Control comes along).
+### Vision of Confluence / PvP / Roll / **"Partners in Time"**
+Tunnel Vision and Kill Clip both proc on reload
+```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 25%]: High-Caliber Rounds
+  Perks 1 [ 16%]: Tunnel Vision
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| ⏱⏱⏱🌟 Collector's Edition | 0.04% | 2592 |
+| ⏱⏱⏱ CE (+barrels) | 0.16% | 628 |
+| ⏱⏱⏱ CE (+magazines) | 0.12% | 824 |
+| ⏱⏱⏱ CE (*masterworks) | 0.15% | 648 |
+| ⏱⏱ (+barrels, +magazines) | 0.50% | 199 |
+| ⏱⏱ (+barrels, *masterworks) | 0.64% | 157 |
+| ⏱⏱ (+magazines, *masterworks) | 0.49% | 206 |
+| ⏱⏱ (+barrels, +magazines, *masterworks) | 2.00% | 49 |
+| ⏱ (*barrels, *magazines, *masterworks) | 2.78% | 36 |
+
+### Vision of Confluence / PvP / Roll / **"Phoenix"**
+Firefly grants a massive buff to Reload, which will help you proc Tunnel Vision more quickly and gives you additional uptime on Killing Wind if you need a reload after your first kill.
+```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 25%]: High-Caliber Rounds
+  Perks 1 [ 33%]: Killing Wind, Tunnel Vision
+  Perks 2 [ 16%]: Firefly
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🔥🔥🔥🌟 Collector's Edition | 0.08% | 1296 |
+| 🔥🔥🔥 CE (+barrels) | 0.32% | 314 |
+| 🔥🔥🔥 CE (+magazines) | 0.24% | 412 |
+| 🔥🔥🔥 CE (*masterworks) | 0.31% | 324 |
+| 🔥🔥 (+barrels, +magazines) | 1.00% | 99 |
+| 🔥🔥 (+barrels, *masterworks) | 1.27% | 78 |
+| 🔥🔥 (+magazines, *masterworks) | 0.97% | 103 |
+| 🔥🔥 (+barrels, +magazines, *masterworks) | 4.00% | 24 |
+| 🔥 (*barrels, *magazines, *masterworks) | 5.56% | 18 |
+
+### Vision of Confluence / PvE / Overview
+In high(er) tier content (GMs, Raids, etc.) you often play less aggressively and a well-rolled Scout Rifle can help you with that.
+### Vision of Confluence / PvE / Roll / **"Staying Power"**
+Once you're in combat long enough to proc Frenzy, Rewind Round helps ensure you keep it procced by refunding ammo on hit.
+```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 25%]: Alloy Magazine
+  Perks 1 [ 16%]: Rewind Rounds
+  Perks 2 [ 16%]: Frenzy
+  MWorks  [ 25%]: Range MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🌴🌴🌴🌟 Collector's Edition | 0.04% | 2592 |
+| 🌴🌴🌴 CE (+barrels) | 0.14% | 691 |
+| 🌴🌴🌴 CE (+magazines) | 0.15% | 672 |
+| 🌴🌴🌴 CE (*masterworks) | 0.15% | 648 |
+| 🌴🌴 (+barrels, +magazines) | 0.56% | 179 |
+| 🌴🌴 (+barrels, *masterworks) | 0.58% | 172 |
+| 🌴🌴 (+magazines, *masterworks) | 0.60% | 168 |
+| 🌴🌴 (+barrels, +magazines, *masterworks) | 2.23% | 44 |
+| 🌴 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
+
+### Vision of Confluence / PvE / Roll / **"Fully Charged"**
+Particularly helpful in add-heavy encounters (i.e. most raid encounters) to ensure ability uptime and super recharge.
+```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 25%]: High-Caliber Rounds
+  Perks 1 [ 16%]: Wellspring
+  Perks 2 [ 16%]: Thresh
+  MWorks  [ 25%]: Range MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🔋🔋🔋🌟 Collector's Edition | 0.04% | 2592 |
+| 🔋🔋🔋 CE (+barrels) | 0.14% | 691 |
+| 🔋🔋🔋 CE (+magazines) | 0.15% | 672 |
+| 🔋🔋🔋 CE (*masterworks) | 0.15% | 648 |
+| 🔋🔋 (+barrels, +magazines) | 0.56% | 179 |
+| 🔋🔋 (+barrels, *masterworks) | 0.58% | 172 |
+| 🔋🔋 (+magazines, *masterworks) | 0.60% | 168 |
+| 🔋🔋 (+barrels, +magazines, *masterworks) | 2.23% | 44 |
+| 🔋 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
+
+### Vision of Confluence / PvE / Roll / **"Boosted"**
+`Surplus` is the only reload-boosting perk in the third column to help you start taking advantage of `Kill Clip` ASAP.
+```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 25%]: Alloy Magazine
+  Perks 1 [ 16%]: Surplus
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 📈📈📈🌟 Collector's Edition | 0.04% | 2592 |
+| 📈📈📈 CE (+barrels) | 0.14% | 691 |
+| 📈📈📈 CE (+magazines) | 0.15% | 672 |
+| 📈📈📈 CE (*masterworks) | 0.15% | 648 |
+| 📈📈 (+barrels, +magazines) | 0.56% | 179 |
+| 📈📈 (+barrels, *masterworks) | 0.58% | 172 |
+| 📈📈 (+magazines, *masterworks) | 0.60% | 168 |
+| 📈📈 (+barrels, +magazines, *masterworks) | 2.23% | 44 |
+| 📈 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
+
+# Vision of Confluence (Timelost)
+*For all possible perks, check out **Vision of Confluence (Timelost)** over on [d2gunsmith.com](https://d2gunsmith.com/w/690668916)*
+
+Vision of Confluence is a 180 RPM Precision Frame Scout Rifle. It's [one of three](https://www.light.gg/db/items/compare/?h=C95shF;D_MIu2;ClfhMg) 180 RPMs currently available. It drops in the Vault of Glass from the first three encounters: Conflux, Oracles and the Templar. Once acquired, it will also drop from either of the two secret chests and can be acquired from the post-Atheon chest for x20 Spoils of Conquest.
+
+*The "Timelost" (or "Adept") version of this weapon drops only by completing the Conflux encounter Challenge in Master mode.*
+### Vision of Confluence (Timelost) / PvP / Overview
+Occasionally (often?) in Destiny, the source of an item hints at its use. Being a raid weapon, Vision of Confluence can be excused for not having a wide array of PvP rolls to chase. Personally while I find a good Trustee roll A-tier, Scout Rifles in general aren't super meta at the moment and haven't been save for MIDA in D2Y1 (and whenever Momentum Control comes along).
+### Vision of Confluence (Timelost) / PvP / Roll / **"Partners in Time"**
+Tunnel Vision and Kill Clip both proc on reload
+```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 25%]: High-Caliber Rounds
+  Perks 1 [ 20%]: Tunnel Vision
+  Perks 2 [ 20%]: Kill Clip
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| ⏱⏱⏱🌟 Collector's Edition | 0.06% | 1800 |
+| ⏱⏱⏱ CE (+barrels) | 0.23% | 436 |
+| ⏱⏱⏱ CE (+magazines) | 0.17% | 572 |
+| ⏱⏱⏱ CE (*masterworks) | 0.22% | 450 |
+| ⏱⏱ (+barrels, +magazines) | 0.72% | 138 |
+| ⏱⏱ (+barrels, *masterworks) | 0.92% | 109 |
+| ⏱⏱ (+magazines, *masterworks) | 0.70% | 143 |
+| ⏱⏱ (+barrels, +magazines, *masterworks) | 2.88% | 34 |
+| ⏱ (*barrels, *magazines, *masterworks) | 4.00% | 24 |
+
+### Vision of Confluence (Timelost) / PvP / Roll / **"Phoenix"**
+Firefly grants a massive buff to Reload, which will help you proc Tunnel Vision more quickly and gives you additional uptime on Killing Wind if you need a reload after your first kill.
+```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 25%]: High-Caliber Rounds
+  Perks 1 [ 40%]: Killing Wind, Tunnel Vision
+  Perks 2 [ 20%]: Firefly
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🔥🔥🔥🌟 Collector's Edition | 0.11% | 900 |
+| 🔥🔥🔥 CE (+barrels) | 0.46% | 218 |
+| 🔥🔥🔥 CE (+magazines) | 0.35% | 286 |
+| 🔥🔥🔥 CE (*masterworks) | 0.44% | 225 |
+| 🔥🔥 (+barrels, +magazines) | 1.44% | 69 |
+| 🔥🔥 (+barrels, *masterworks) | 1.83% | 54 |
+| 🔥🔥 (+magazines, *masterworks) | 1.40% | 71 |
+| 🔥🔥 (+barrels, +magazines, *masterworks) | 5.76% | 17 |
+| 🔥 (*barrels, *magazines, *masterworks) | 8.00% | 12 |
+
+### Vision of Confluence (Timelost) / PvE / Overview
+In high(er) tier content (GMs, Raids, etc.) you often play less aggressively and a well-rolled Scout Rifle can help you with that.
+### Vision of Confluence (Timelost) / PvE / Roll / **"Staying Power"**
+Once you're in combat long enough to proc Frenzy, Rewind Round helps ensure you keep it procced by refunding ammo on hit.
+```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 25%]: Alloy Magazine
+  Perks 1 [ 20%]: Rewind Rounds
+  Perks 2 [ 20%]: Frenzy
+  MWorks  [ 25%]: Range MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🌴🌴🌴🌟 Collector's Edition | 0.06% | 1800 |
+| 🌴🌴🌴 CE (+barrels) | 0.21% | 479 |
+| 🌴🌴🌴 CE (+magazines) | 0.21% | 466 |
+| 🌴🌴🌴 CE (*masterworks) | 0.22% | 450 |
+| 🌴🌴 (+barrels, +magazines) | 0.80% | 124 |
+| 🌴🌴 (+barrels, *masterworks) | 0.83% | 119 |
+| 🌴🌴 (+magazines, *masterworks) | 0.86% | 116 |
+| 🌴🌴 (+barrels, +magazines, *masterworks) | 3.21% | 31 |
+| 🌴 (*barrels, *magazines, *masterworks) | 4.00% | 24 |
+
+### Vision of Confluence (Timelost) / PvE / Roll / **"Fully Charged"**
+Particularly helpful in add-heavy encounters (i.e. most raid encounters) to ensure ability uptime and super recharge.
+```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 25%]: High-Caliber Rounds
+  Perks 1 [ 20%]: Wellspring
+  Perks 2 [ 20%]: Thresh
+  MWorks  [ 25%]: Range MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🔋🔋🔋🌟 Collector's Edition | 0.06% | 1800 |
+| 🔋🔋🔋 CE (+barrels) | 0.21% | 479 |
+| 🔋🔋🔋 CE (+magazines) | 0.21% | 466 |
+| 🔋🔋🔋 CE (*masterworks) | 0.22% | 450 |
+| 🔋🔋 (+barrels, +magazines) | 0.80% | 124 |
+| 🔋🔋 (+barrels, *masterworks) | 0.83% | 119 |
+| 🔋🔋 (+magazines, *masterworks) | 0.86% | 116 |
+| 🔋🔋 (+barrels, +magazines, *masterworks) | 3.21% | 31 |
+| 🔋 (*barrels, *magazines, *masterworks) | 4.00% | 24 |
+
+### Vision of Confluence (Timelost) / PvE / Roll / **"Boosted"**
+`Surplus` is the only reload-boosting perk in the third column to help you start taking advantage of `Kill Clip` ASAP.
+```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 25%]: Alloy Magazine
+  Perks 1 [ 20%]: Surplus
+  Perks 2 [ 20%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 📈📈📈🌟 Collector's Edition | 0.06% | 1800 |
+| 📈📈📈 CE (+barrels) | 0.21% | 479 |
+| 📈📈📈 CE (+magazines) | 0.21% | 466 |
+| 📈📈📈 CE (*masterworks) | 0.22% | 450 |
+| 📈📈 (+barrels, +magazines) | 0.80% | 124 |
+| 📈📈 (+barrels, *masterworks) | 0.83% | 119 |
+| 📈📈 (+magazines, *masterworks) | 0.86% | 116 |
+| 📈📈 (+barrels, +magazines, *masterworks) | 3.21% | 31 |
+| 📈 (*barrels, *magazines, *masterworks) | 4.00% | 24 |
+
 # Heritage
 *For all possible perks, check out **Heritage** over on [d2gunsmith.com](https://d2gunsmith.com/w/4248569242)*
 
