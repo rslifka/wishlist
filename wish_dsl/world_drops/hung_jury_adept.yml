@@ -1,0 +1,105 @@
+syntax_version: 2
+name: Hung Jury (Adept)
+item_id: 681067419
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 7, c: 2}
+  perks1:      {t: 5, c: 1}
+  perks2:      {t: 5, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  The Adept Hung Jury is available from Grandmaster Nightfalls. It's the same
+  as the Hung Jury, with the exception that it can take Adept mods and gains
+  `+2` to all attributes when Masterworked.
+activities:
+  - 
+    name: PvP
+    overview: >
+      Scout Rifles in PvP still aren't shining but there are some really
+      interesting rolls here that you can bolster with insane Adept mods. For
+      example, if you slot an `Adept Counterbalance` mod, you'll bring the
+      `Recoil` to `100`. Unfortunately that hurts your effective Range taking
+      you from 83.36m to 80.05m 🙃
+    roll_sets:
+      -
+        name: TrueVanguard's Choice - The Three-Tapper
+        overview: >
+          With `Box Breathing` you can three-tap!
+        perks: 
+          base: 
+            barrels: [Polygonal Rifling]
+            magazines: [Steady Rounds]
+            perks1: [Moving Target, Rapid Hit, Heating Up]
+            perks2: [Box Breathing]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling]
+            magazines: [Steady Rounds, Flared Magwell, Tactical Mag]
+        variants:
+          - 🛡🛡🛡🌟 Collector's Edition
+          - 🛡🛡🛡 CE (+barrels)
+          - 🛡🛡🛡 CE (+magazines)
+          - 🛡🛡🛡 CE (*masterworks)
+          - 🛡🛡 (+barrels, *masterworks)
+          - 🛡🛡 (+magazines, *masterworks)
+          - 🛡🛡 (+barrels, +magazines, *masterworks)
+          - 🛡 (*barrels, *magazines, *masterworks)              
+  - 
+    name: PvE
+    overview: >
+      As Hung Jury drops from an end-game PvE activity, its primary utility is
+      in that arena. There are so many good perks in each column that you
+      don't really need a wishlist to tell you that `Firefly` is legit, so here
+      are a couple of interesting combos.
+    roll_sets:
+      -
+        name: The Judge
+        overview: >
+          One for All is a terrific perk for high-tier content like Grandmaster
+          Nightfalls and Master Vault of Glass. Add on Rapid Hit to increase
+          uptime and you have a Scout Rifle you can take with you anywhere in
+          Destiny.
+        perks: 
+          base: 
+            barrels: [Polygonal Rifling]
+            magazines: [Steady Rounds]
+            perks1: [Rapid Hit]
+            perks2: [One for All]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling]
+            magazines: [Steady Rounds, Flared Magwell, Tactical Mag]
+        variants:
+          - 🧑‍⚖️🧑‍⚖️🧑‍⚖️🌟 Collector's Edition
+          - 🧑‍⚖️🧑‍⚖️🧑‍⚖️ CE (+barrels)
+          - 🧑‍⚖️🧑‍⚖️🧑‍⚖️ CE (+magazines)
+          - 🧑‍⚖️🧑‍⚖️🧑‍⚖️ CE (*masterworks)
+          - 🧑‍⚖️🧑‍⚖️ (+barrels, *masterworks)
+          - 🧑‍⚖️🧑‍⚖️ (+magazines, *masterworks)
+          - 🧑‍⚖️🧑‍⚖️ (+barrels, +magazines, *masterworks)
+          - 🧑‍⚖️ (*barrels, *magazines, *masterworks)         
+      -
+        name: Indepedence Day
+        overview: >
+          Subsistence and Rapid Hit backup Firefly for constant explosions.
+          Add on `Wrath of Rasputin` for Warmind cell creation and you have
+          a room-clearing Kinetic weapon at your disposal.
+        perks: 
+          base: 
+            barrels: [Polygonal Rifling]
+            magazines: [Steady Rounds]
+            perks1: [Subsistence, Rapid Hit]
+            perks2: [Firefly]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling]
+            magazines: [Steady Rounds, Flared Magwell, Tactical Mag]
+        variants:
+          - 🎇🎇🎇🌟 Collector's Edition
+          - 🎇🎇🎇 CE (+barrels)
+          - 🎇🎇🎇 CE (+magazines)
+          - 🎇🎇🎇 CE (*masterworks)
+          - 🎇🎇 (+barrels, *masterworks)
+          - 🎇🎇 (+magazines, *masterworks)
+          - 🎇🎇 (+barrels, +magazines, *masterworks)
+          - 🎇 (*barrels, *magazines, *masterworks)         
