@@ -26,6 +26,7 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 * [Gnawing Hunger](#gnawing-hunger) ([PvP](#gnawing-hunger--pvp--Overview), [PvE](#gnawing-hunger--pve--Overview))
 * [Hawkmoon](#hawkmoon) ([PvP](#hawkmoon--pvp--Overview))
 * Honor's Edge ([PvE](#honors-edge---pve))
+* [Hung Jury (Adept)](#hung-jury--adept-) ([PvP](#hung-jury--adept---pvp--Overview), [PvE](#hung-jury--adept---pve--Overview))
 * Interference VI ([PvE](#interference-vi---pve))
 * Jian 7 Rifle ([PvP](#jian-7-rifle---pvp))
 * Last Perdition ([PvP](#last-perdition---pvp), [PvE](#last-perdition---pve))
@@ -1379,6 +1380,77 @@ Fortunately the perk set is very small and chances are you'll get the roll you'r
   Perks 2 [ 20%]: Flash Counter
   MWorks  [100%]: *
   ```
+# Hung Jury (Adept)
+*For all possible perks, check out **Hung Jury (Adept)** over on [d2gunsmith.com](https://d2gunsmith.com/w/681067419)*
+
+The Adept Hung Jury is available from Grandmaster Nightfalls. It's the same as the Hung Jury, with the exception that it can take Adept mods and gains `+2` to all attributes when Masterworked.
+### Hung Jury (Adept) / PvP / Overview
+Scout Rifles in PvP still aren't shining but there are some really interesting rolls here that you can bolster with insane Adept mods. For example, if you slot an `Adept Counterbalance` mod, you'll bring the `Recoil` to `100`. Unfortunately that hurts your effective Range taking you from 83.36m to 80.05m 🙃
+### Hung Jury (Adept) / PvP / Roll / **"TrueVanguard's Choice - The Three-Tapper"**
+With `Box Breathing` you can three-tap!
+```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 28%]: Steady Rounds
+  Perks 1 [ 60%]: Moving Target, Rapid Hit, Heating Up
+  Perks 2 [ 20%]: Box Breathing
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🛡🛡🛡🌟 Collector's Edition | 0.19% | 525 |
+| 🛡🛡🛡 CE (+barrels) | 0.62% | 161 |
+| 🛡🛡🛡 CE (+magazines) | 0.48% | 210 |
+| 🛡🛡🛡 CE (*masterworks) | 0.76% | 131 |
+| 🛡🛡 (+barrels, *masterworks) | 2.48% | 40 |
+| 🛡🛡 (+magazines, *masterworks) | 1.90% | 52 |
+| 🛡🛡 (+barrels, +magazines, *masterworks) | 6.19% | 16 |
+| 🛡 (*barrels, *magazines, *masterworks) | 12.00% | 8 |
+
+### Hung Jury (Adept) / PvE / Overview
+As Hung Jury drops from an end-game PvE activity, its primary utility is in that arena. There are so many good perks in each column that you don't really need a wishlist to tell you that `Firefly` is legit, so here are a couple of interesting combos.
+### Hung Jury (Adept) / PvE / Roll / **"The Judge"**
+One for All is a terrific perk for high-tier content like Grandmaster Nightfalls and Master Vault of Glass. Add on Rapid Hit to increase uptime and you have a Scout Rifle you can take with you anywhere in Destiny.
+```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 28%]: Steady Rounds
+  Perks 1 [ 20%]: Rapid Hit
+  Perks 2 [ 20%]: One for All
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🧑‍⚖️🧑‍⚖️🧑‍⚖️🌟 Collector's Edition | 0.06% | 1575 |
+| 🧑‍⚖️🧑‍⚖️🧑‍⚖️ CE (+barrels) | 0.21% | 484 |
+| 🧑‍⚖️🧑‍⚖️🧑‍⚖️ CE (+magazines) | 0.16% | 630 |
+| 🧑‍⚖️🧑‍⚖️🧑‍⚖️ CE (*masterworks) | 0.25% | 393 |
+| 🧑‍⚖️🧑‍⚖️ (+barrels, *masterworks) | 0.83% | 121 |
+| 🧑‍⚖️🧑‍⚖️ (+magazines, *masterworks) | 0.63% | 157 |
+| 🧑‍⚖️🧑‍⚖️ (+barrels, +magazines, *masterworks) | 2.06% | 48 |
+| 🧑‍⚖️ (*barrels, *magazines, *masterworks) | 4.00% | 24 |
+
+### Hung Jury (Adept) / PvE / Roll / **"Indepedence Day"**
+Subsistence and Rapid Hit backup Firefly for constant explosions. Add on `Wrath of Rasputin` for Warmind cell creation and you have a room-clearing Kinetic weapon at your disposal.
+```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 28%]: Steady Rounds
+  Perks 1 [ 40%]: Subsistence, Rapid Hit
+  Perks 2 [ 20%]: Firefly
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🎇🎇🎇🌟 Collector's Edition | 0.13% | 787 |
+| 🎇🎇🎇 CE (+barrels) | 0.41% | 242 |
+| 🎇🎇🎇 CE (+magazines) | 0.32% | 315 |
+| 🎇🎇🎇 CE (*masterworks) | 0.51% | 196 |
+| 🎇🎇 (+barrels, *masterworks) | 1.65% | 60 |
+| 🎇🎇 (+magazines, *masterworks) | 1.27% | 78 |
+| 🎇🎇 (+barrels, +magazines, *masterworks) | 4.13% | 24 |
+| 🎇 (*barrels, *magazines, *masterworks) | 8.00% | 12 |
+
 ## Interference VI - PvE
 *For all possible perks, check out **Interference VI** over on [light.gg](https://www.light.gg/db/items/2257180473/interference-vi/)*
 
