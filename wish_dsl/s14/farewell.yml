@@ -1,0 +1,76 @@
+syntax_version: 2
+name: Farewell
+item_id: 541188001
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 7, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  Farewell is a Lightweight frame, 360 RPM Sidearm introduced in S14. It's the
+  only Kinetic Lightweight available in the game, and the only *other* sidearm
+  [of that type](https://www.light.gg/db/items/compare/?h=gQd-h;DqtxKU)
+  entirely.
+activities:
+  - 
+    name: PvP
+    overview: >
+      With the recent nerf to 120RPM HCs and Aggressive frame shotguns (well,
+      all shotguns really), sidearms now have more of a chance to shine.
+      Farewell has some of the amazing new perks on it. Have a look at
+      TrueVanguard's latest:
+      [The Sidearm with No Competition - Farewell Legendary Review](https://www.youtube.com/watch?v=2VaZGMrEfjQ)
+    roll_sets:
+      -
+        name: exit(0)
+        overview: >
+          Pairing together perks that proc after kills/reloads to set us up for
+          streaks. We'll take any combo of top-tier `Stability`- or `Range`-
+          enhancing perks as follow-ups.
+        perks:
+          base:
+            barrels: [Chambered Compensator, Hammer-Forged Rifling]
+            magazines: [Steady Rounds, Accurized Rounds]
+            perks1: [Tunnel Vision, Heating Up]
+            perks2: [Multikill Clip]
+            masterworks: [Stability MW, Range MW]
+          extensions:
+            barrels: [Chambered Compensator, Polygonal Rifling, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+            magazines: [Steady Rounds, Accurized Rounds, Tactical Mag, Flared Magwell]
+        variants:
+          - 🛫🛫🛫🌟 Collector's Edition
+          - 🛫🛫🛫 CE (+barrels)
+          - 🛫🛫🛫 CE (+magazines)
+          - 🛫🛫🛫 CE (*masterworks)
+          - 🛫🛫 (+barrels, +magazines)
+          - 🛫🛫 (+barrels, *masterworks)
+          - 🛫🛫 (+magazines, *masterworks)
+          - 🛫🛫 (+barrels, +magazines, *masterworks)
+          - 🛫 (*barrels, *magazines, *masterworks)                  
+      -
+        name: At Arm's Length
+        overview: >
+          Back in the Breachlight days, shutting down supers with a Vorpal-based
+          roll was a fun gimmick. If we invest everything into `Range`, we can
+          get ADS effectiveness from to 14.67m to 17.32m.
+        perks:
+          base:
+            barrels: [Hammer-Forged Rifling]
+            magazines: [Accurized Rounds]
+            perks1: [Rangefinder]
+            perks2: [Vorpal Weapon]
+            masterworks: [Range MW]
+          extensions:
+            barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Full Bore]
+            magazines: [Accurized Rounds, Tactical Mag, Flared Magwell]
+        variants:
+          - 🙋🙋🙋🌟 Collector's Edition
+          - 🙋🙋🙋 CE (+barrels)
+          - 🙋🙋🙋 CE (+magazines)
+          - 🙋🙋🙋 CE (*masterworks)
+          - 🙋🙋 (+barrels, +magazines)
+          - 🙋🙋 (+barrels, *masterworks)
+          - 🙋🙋 (+magazines, *masterworks)
+          - 🙋🙋 (+barrels, +magazines, *masterworks)
+          - 🙋 (*barrels, *magazines, *masterworks)                  
