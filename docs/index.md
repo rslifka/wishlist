@@ -11,6 +11,7 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 
 **Season 14 - Season of the Splicer (May 11 - Aug 24, 2021)**
 * [Chroma Rush](#chroma-rush) ([PvP](#chroma-rush--pvp--Overview), [PvE](#chroma-rush--pve--Overview))
+* [Farewell](#farewell) ([PvP](#farewell--pvp--Overview))
 * [Gridskipper](#gridskipper) ([PvP](#gridskipper--pvp--Overview))
 * [Ignition Code](#ignition-code) ([PvP](#ignition-code--pvp--Overview), [PvE](#ignition-code--pve--Overview))
 * [Shattered Cipher](#shattered-cipher) ([PvE](#shattered-cipher--pve--Overview))
@@ -184,6 +185,56 @@ Same as the roll above, centered around `Feeding Frenzy` and `Kill Clip`.
 | 🖼🖼 (+magazines, *masterworks) | 0.53% | 189 |
 | 🖼🖼 (+barrels, +magazines, *masterworks) | 1.98% | 50 |
 | 🖼 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
+
+# Farewell
+*For all possible perks, check out **Farewell** over on [d2gunsmith.com](https://d2gunsmith.com/w/541188001)*
+
+Farewell is a Lightweight frame, 360 RPM Sidearm introduced in S14. It's the only Kinetic Lightweight available in the game, and the only *other* sidearm [of that type](https://www.light.gg/db/items/compare/?h=gQd-h;DqtxKU) entirely.
+### Farewell / PvP / Overview
+With the recent nerf to 120RPM HCs and Aggressive frame shotguns (well, all shotguns really), sidearms now have more of a chance to shine. Farewell has some of the amazing new perks on it. Have a look at TrueVanguard's latest: [The Sidearm with No Competition - Farewell Legendary Review](https://www.youtube.com/watch?v=2VaZGMrEfjQ)
+### Farewell / PvP / Roll / **"exit(0)"**
+Pairing together perks that proc after kills/reloads to set us up for streaks. We'll take any combo of top-tier `Stability`- or `Range`- enhancing perks as follow-ups.
+```
+  Barrels [ 41%]: Chambered Compensator, Hammer-Forged Rifling
+  Mags    [ 52%]: Steady Rounds, Accurized Rounds
+  Perks 1 [ 33%]: Tunnel Vision, Heating Up
+  Perks 2 [ 16%]: Multikill Clip
+  MWorks  [ 50%]: Stability MW, Range MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🛫🛫🛫🌟 Collector's Edition | 0.61% | 164 |
+| 🛫🛫🛫 CE (+barrels) | 1.21% | 82 |
+| 🛫🛫🛫 CE (+magazines) | 0.99% | 100 |
+| 🛫🛫🛫 CE (*masterworks) | 1.21% | 82 |
+| 🛫🛫 (+barrels, +magazines) | 1.98% | 50 |
+| 🛫🛫 (+barrels, *masterworks) | 2.43% | 41 |
+| 🛫🛫 (+magazines, *masterworks) | 1.98% | 50 |
+| 🛫🛫 (+barrels, +magazines, *masterworks) | 3.97% | 25 |
+| 🛫 (*barrels, *magazines, *masterworks) | 5.56% | 18 |
+
+### Farewell / PvP / Roll / **"At Arm's Length"**
+Back in the Breachlight days, shutting down supers with a Vorpal-based roll was a fun gimmick. If we invest everything into `Range`, we can get ADS effectiveness from to 14.67m to 17.32m.
+```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 28%]: Accurized Rounds
+  Perks 1 [ 16%]: Rangefinder
+  Perks 2 [ 16%]: Vorpal Weapon
+  MWorks  [ 25%]: Range MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🙋🙋🙋🌟 Collector's Edition | 0.04% | 2268 |
+| 🙋🙋🙋 CE (+barrels) | 0.14% | 697 |
+| 🙋🙋🙋 CE (+magazines) | 0.11% | 907 |
+| 🙋🙋🙋 CE (*masterworks) | 0.18% | 567 |
+| 🙋🙋 (+barrels, +magazines) | 0.36% | 279 |
+| 🙋🙋 (+barrels, *masterworks) | 0.57% | 174 |
+| 🙋🙋 (+magazines, *masterworks) | 0.44% | 226 |
+| 🙋🙋 (+barrels, +magazines, *masterworks) | 1.43% | 69 |
+| 🙋 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
 
 # Gridskipper
 *For all possible perks, check out **Gridskipper** over on [d2gunsmith.com](https://d2gunsmith.com/w/1621558458)*
